@@ -230,3 +230,15 @@ body[data-theme="dark"] .bg-purple-100 {
 body[data-theme="dark"] .text-purple-800 {
     color: #c7b6fa !important;
 }
+
+/* Thumbnails cards scroll animation (unique style) */
+.thumbnails-card-init {
+    opacity: 0;
+    transform: translateY(60px) scale(0.92) rotateZ(-8deg);
+    transition: opacity 0.9s cubic-bezier(0.4,0,0.2,1), transform 0.9s cubic-bezier(0.4,0,0.2,1);
+}
+
+.thumbnails-card-visible {
+    opacity: 1;
+    transform: translateY(0) scale(1) rotateZ(0deg);
+}
