@@ -131,3 +131,20 @@ expertiseCards.forEach((card) => {
   card.classList.add("expertise-card-init");
   expertiseObserver.observe(card);
 });
+
+// Intersection Observer for Our Services cards animation
+const servicesCards = document.querySelectorAll("#services .card-hover");
+function animateServices(entries) {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("services-card-visible");
+    } else {
+      entry.target.classList.remove("services-card-visible");
+    }
+  });
+}
+const servicesObserver = new IntersectionObserver(animateServices, observerOptions);
+servicesCards.forEach((card) => {
+  card.classList.add("services-card-init");
+  servicesObserver.observe(card);
+});
