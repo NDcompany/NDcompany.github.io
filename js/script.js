@@ -43,4 +43,19 @@ document
   });
 
 // Set current year in footer
-document.getElementById("year").textContent = new Date().getFullYear();
+if (document.getElementById("year")) {
+  document.getElementById("year").textContent = new Date().getFullYear();
+}
+
+// Back to Top Button logic
+const backToTopBtn = document.getElementById("back-to-top");
+window.addEventListener("scroll", function () {
+  if (window.scrollY > 300) {
+    backToTopBtn.classList.remove("hidden");
+  } else {
+    backToTopBtn.classList.add("hidden");
+  }
+});
+backToTopBtn.addEventListener("click", function () {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
