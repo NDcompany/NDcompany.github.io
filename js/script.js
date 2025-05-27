@@ -149,6 +149,23 @@ servicesCards.forEach((card) => {
   servicesObserver.observe(card);
 });
 
+// Intersection Observer for Thumbnails cards animation
+const thumbnailsCards = document.querySelectorAll('.thumbnails-card-init');
+function animateThumbnails(entries) {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('thumbnails-card-visible');
+    } else {
+      entry.target.classList.remove('thumbnails-card-visible');
+    }
+  });
+}
+const thumbnailsObserver = new IntersectionObserver(animateThumbnails, observerOptions);
+thumbnailsCards.forEach((card) => {
+  card.classList.add('thumbnails-card-init');
+  thumbnailsObserver.observe(card);
+});
+
 // Load More Posters logic
 const loadMoreBtn = document.getElementById("load-more-posters");
 const posterItems = document.querySelectorAll(".portfolio-item.posters");
