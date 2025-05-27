@@ -148,3 +148,37 @@ servicesCards.forEach((card) => {
   card.classList.add("services-card-init");
   servicesObserver.observe(card);
 });
+
+// Load More Posters logic
+const loadMoreBtn = document.getElementById("load-more-posters");
+const posterItems = document.querySelectorAll(".portfolio-item.posters");
+let postersToShow = 3; // Show 3 posters initially
+
+function updatePosterVisibility() {
+  let visibleCount = 0;
+  posterItems.forEach((item, idx) => {
+    if (idx < postersToShow) {
+      item.style.display = "block";
+      visibleCount++;
+    } else {
+      item.style.display = "none";
+    }
+  });
+  // Hide button if all posters are shown or there are less than or equal to 3 posters
+  if (postersToShow >= posterItems.length || visibleCount === posterItems.length) {
+    if (loadMoreBtn) loadMoreBtn.style.display = "none";
+  } else {
+    if (loadMoreBtn) loadMoreBtn.style.display = "inline-block";
+  }
+}
+
+if (loadMoreBtn && posterItems.length > 0) {
+  updatePosterVisibility();
+  loadMoreBtn.addEventListener("click", function () {
+    postersToShow += 3; // Show 3 more posters per click
+    updatePosterVisibility();
+  });
+} else if (loadMoreBtn) {
+  // If there are no posters, hide the button
+  loadMoreBtn.style.display = "none";
+}
