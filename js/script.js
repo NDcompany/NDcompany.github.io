@@ -59,3 +59,31 @@ window.addEventListener("scroll", function () {
 backToTopBtn.addEventListener("click", function () {
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
+
+// Theme toggle logic
+const themeToggleBtn = document.getElementById("theme-toggle");
+const themeIcon = themeToggleBtn.querySelector("i");
+const themeLabel = themeToggleBtn.querySelector("span");
+
+function setTheme(theme) {
+  document.body.setAttribute("data-theme", theme);
+  localStorage.setItem("theme", theme);
+  if (theme === "dark") {
+    themeIcon.classList.remove("fa-moon");
+    themeIcon.classList.add("fa-sun");
+    themeLabel.textContent = "Light Mode";
+  } else {
+    themeIcon.classList.remove("fa-sun");
+    themeIcon.classList.add("fa-moon");
+    themeLabel.textContent = "Dark Mode";
+  }
+}
+
+// On load, set theme from localStorage or default to light
+const savedTheme = localStorage.getItem("theme");
+setTheme(savedTheme === "dark" ? "dark" : "light");
+
+themeToggleBtn.addEventListener("click", function () {
+  const currentTheme = document.body.getAttribute("data-theme");
+  setTheme(currentTheme === "dark" ? "light" : "dark");
+});
