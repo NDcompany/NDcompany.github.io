@@ -199,3 +199,16 @@ if (loadMoreBtn && posterItems.length > 0) {
   // If there are no posters, hide the button
   loadMoreBtn.style.display = "none";
 }
+
+// Smooth scroll for navbar links
+const navLinks = document.querySelectorAll('a.nav-link[href^="#"]');
+navLinks.forEach(link => {
+  link.addEventListener('click', function(e) {
+    const targetId = this.getAttribute('href').slice(1);
+    const target = document.getElementById(targetId);
+    if (target) {
+      e.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth' });
+    }
+  });
+});
