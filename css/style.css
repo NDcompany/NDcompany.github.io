@@ -179,6 +179,7 @@ body[data-theme="dark"] .text-transparent {
     color: transparent !important;
 }
 
+/* About Us cards scroll animation */
 .about-card-init {
     opacity: 0;
     transform: translateY(40px) scale(0.97);
@@ -188,4 +189,24 @@ body[data-theme="dark"] .text-transparent {
 .about-card-visible {
     opacity: 1;
     transform: translateY(0) scale(1);
+}
+
+/* Our Expertise cards scroll animation (different style) */
+.expertise-card-init {
+    opacity: 0;
+    transform: translateX(-60px) rotateY(8deg) scale(0.96);
+    transition: opacity 0.8s cubic-bezier(0.4,0,0.2,1), transform 0.8s cubic-bezier(0.4,0,0.2,1);
+}
+
+.expertise-card-visible {
+    opacity: 1;
+    transform: translateX(0) rotateY(0deg) scale(1);
+}
+
+body[data-theme="dark"] .bg-purple-100 {
+    background-color: #3b2562 !important;
+}
+
+body[data-theme="dark"] .text-purple-800 {
+    color: #c7b6fa !important;
 }
