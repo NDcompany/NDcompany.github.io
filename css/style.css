@@ -139,7 +139,7 @@ body[data-theme="dark"] .bg-gradient-to-r {
     padding: 12PX 15PX !important;
     font-size: 1.25rem;
     cursor: pointer;
-    transition: background 0.2s, color 0.2s;
+    transition: background 0.2s, color 0.2s, box-shadow 0.3s, transform 0.2s, filter 0.3s;
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -158,6 +158,12 @@ body[data-theme="dark"] .bg-gradient-to-r {
 .theme-toggle:hover {
     background: #ede9fe;
     color: #5b21b6;
+    box-shadow: 0 8px 24px rgba(124,58,237,0.15);
+    transform: translateY(-4px) scale(1.05);
+    -webkit-transform: translateY(-4px) scale(1.05);
+    -moz-transform: translateY(-4px) scale(1.05);
+    -ms-transform: translateY(-4px) scale(1.05);
+    -o-transform: translateY(-4px) scale(1.05);
 }
 
 body[data-theme="dark"] .theme-toggle {
@@ -168,6 +174,8 @@ body[data-theme="dark"] .theme-toggle {
 body[data-theme="dark"] .theme-toggle:hover {
     background: #312e81;
     color: #a78bfa;
+    box-shadow: 0 8px 24px rgba(167,139,250,0.15);
+    transform: translateY(-4px) scale(1.05);
 }
 
 body[data-theme="dark"] .gradient-text,
