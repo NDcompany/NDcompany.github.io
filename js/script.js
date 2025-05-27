@@ -83,7 +83,34 @@ function setTheme(theme) {
 const savedTheme = localStorage.getItem("theme");
 setTheme(savedTheme === "dark" ? "dark" : "light");
 
+// Animate theme toggle button on load
+window.addEventListener("DOMContentLoaded", function () {
+  setTimeout(function () {
+    themeToggleBtn.classList.add("visible");
+  }, 200); // slight delay for smoothness
+});
+
 themeToggleBtn.addEventListener("click", function () {
   const currentTheme = document.body.getAttribute("data-theme");
   setTheme(currentTheme === "dark" ? "light" : "dark");
+});
+
+// Intersection Observer for About Us cards animation
+const aboutCards = document.querySelectorAll("#about .bg-gray-50");
+const observerOptions = {
+  threshold: 0.3,
+};
+function animateCard(entries) {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("about-card-visible");
+    } else {
+      entry.target.classList.remove("about-card-visible");
+    }
+  });
+}
+const aboutObserver = new IntersectionObserver(animateCard, observerOptions);
+aboutCards.forEach((card) => {
+  card.classList.add("about-card-init");
+  aboutObserver.observe(card);
 });
