@@ -21,17 +21,33 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
         <link rel="stylesheet" href="css/style.css">
+        <link rel="manifest" href="site.webmanifest">
+        <meta name="theme-color" content="#2a1e6b">
+        <link rel="apple-touch-icon" href="assets/favicon/apple-touch-icon-152x152.png">
+
+        <!-- Service Worker Registration -->
+        <script>
+          if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+              navigator.serviceWorker.register('service-worker.js').then(function(registration) {
+                // Registration successful
+              }, function(err) {
+                // Registration failed
+              });
+            });
+          }
+        </script>
 
         <!-- Social Preview Image -->
         <meta property="og:title" content="N&D Studio - Creative Design & Marketing Studio">
         <meta property="og:description" content="We transform ideas into visually stunning designs and digital marketing strategies that drive results.">
-        <meta property="og:image" content="assets/banner/banner.png">
+        <meta property="og:image" content="assets/banner/banner.webp">
         <meta property="og:url" content="https://ndportfolio.github.io/">
         <meta property="og:type" content="website">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="N&D Studio - Creative Design & Marketing Studio">
         <meta name="twitter:description" content="We transform ideas into visually stunning designs and digital marketing strategies that drive results.">
-        <meta name="twitter:image" content="assets/banner/banner.png">
+        <meta name="twitter:image" content="assets/banner/banner.webp">
 
         <!-- Favicon -->
         <link rel="apple-touch-icon-precomposed" sizes="57x57" href="assets/favicon/apple-touch-icon-57x57.png" />
@@ -131,7 +147,7 @@
                         </div>
                     </div>
                     <div class="hidden md:block md:w-1/2 animate__animated animate__fadeInRight">
-                        <img src="assets/banner/banner.png"
+                        <img src="assets/banner/banner.webp"
                             alt="Design Studio" class="rounded-lg shadow-2xl transform rotate-3">
                     </div>
                 </div>
