@@ -114,3 +114,20 @@ aboutCards.forEach((card) => {
   card.classList.add("about-card-init");
   aboutObserver.observe(card);
 });
+
+// Intersection Observer for Our Expertise cards animation
+const expertiseCards = document.querySelectorAll("#expertise .card-hover");
+function animateExpertise(entries) {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("expertise-card-visible");
+    } else {
+      entry.target.classList.remove("expertise-card-visible");
+    }
+  });
+}
+const expertiseObserver = new IntersectionObserver(animateExpertise, observerOptions);
+expertiseCards.forEach((card) => {
+  card.classList.add("expertise-card-init");
+  expertiseObserver.observe(card);
+});
