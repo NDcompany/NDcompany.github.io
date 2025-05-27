@@ -158,7 +158,7 @@ function updatePosterVisibility() {
   let visibleCount = 0;
   posterItems.forEach((item, idx) => {
     if (idx < postersToShow) {
-      item.style.display = "block";
+      item.style.display = "";
       visibleCount++;
     } else {
       item.style.display = "none";
