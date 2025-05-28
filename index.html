@@ -95,6 +95,8 @@
                                 class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium">Services</a>
                             <a href="#portfolio"
                                 class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium">Portfolio</a>
+                            <a href="#testimonials"
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium">Testimonials</a>
                             <a href="#contact"
                                 class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium">Contact</a>
                         </div>
@@ -1082,7 +1084,7 @@
         </section>
 
         <!-- Testimonials Section -->
-        <section class="py-20 bg-white">
+        <section id="testimonials" class="py-20 bg-white">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="text-center mb-16">
                     <h2 class="text-3xl md:text-4xl font-bold mb-4">What Our Clients Say</h2>
@@ -1173,17 +1175,18 @@
                     <p class="text-xl text-gray-600 mt-6">Ready to start your project or have a question? Fill out the
                         form below and we'll get back to you soon!</p>
                 </div>
-                <form class="bg-white p-8 rounded-xl shadow-lg space-y-6" id="contact-form">
+                <form class="bg-white p-8 rounded-xl shadow-lg space-y-6" id="contact-form" method="POST" action="https://api.web3forms.com/submit">
+                    <input type="hidden" name="access_key" value="f68bbd05-6b96-48f5-bf6f-c6c8bb3dba64">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <input type="text" name="name" placeholder="Your Name" required
-                            class="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500">
+                            class="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500" name="entry.2005620554">
                         <input type="email" name="email" placeholder="Your Email" required
-                            class="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500">
+                            class="border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500" name="entry.1045781291">
                     </div>
                     <input type="text" name="subject" placeholder="Subject" required
-                        class="border border-gray-300 rounded-lg px-4 py-3 w-full focus:outline-none focus:ring-2 focus:ring-purple-500">
+                        class="border border-gray-300 rounded-lg px-4 py-3 w-full focus:outline-none focus:ring-2 focus:ring-purple-500" name="entry.839337160">
                     <textarea name="message" rows="5" placeholder="Your Message" required
-                        class="border border-gray-300 rounded-lg px-4 py-3 w-full focus:outline-none focus:ring-2 focus:ring-purple-500"></textarea>
+                        class="border border-gray-300 rounded-lg px-4 py-3 w-full focus:outline-none focus:ring-2 focus:ring-purple-500" name="entry.792024684"></textarea>
                     <button type="submit"
                         class="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 rounded-full font-semibold transition duration-300">Send
                         Message</button>
