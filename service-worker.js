@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ndstudio-cache-v1';
+const CACHE_NAME = 'ndco-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
