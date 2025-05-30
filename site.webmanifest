@@ -1,7 +1,7 @@
 {
-  "name": "N&D Studio",
-  "short_name": "N&D Studio",
-  "description": "N&D Studio - Creative Design & Marketing Solutions",
+  "name": "N&D Co.",
+  "short_name": "N&D Co.",
+  "description": "N&D Co. - Your Vision Our Execution",
   "icons": [
     {
       "src": "assets/favicon/android-chrome-192x192.png",
@@ -27,7 +27,7 @@
     "form_factor": "narrow"
   }],
 
-  "start_url": "https://ndportfolio.github.io/",
+  "start_url": "https://ndcompany.github.io/",
   "theme_color": "#2a1e6b",
   "background_color": "#ffffff",
   "display": "fullscreen"
