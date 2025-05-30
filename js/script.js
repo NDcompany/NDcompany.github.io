@@ -65,6 +65,19 @@ const themeToggleBtn = document.getElementById("theme-toggle");
 const themeIcon = themeToggleBtn.querySelector("i");
 const themeLabel = themeToggleBtn.querySelector("span");
 
+// Navbar logo switching logic
+const logoDark = document.getElementById("navbar-logo-dark");
+const logoLight = document.getElementById("navbar-logo-light");
+function updateNavbarLogo(theme) {
+  if (theme === "dark") {
+    if (logoDark) logoDark.style.display = "inline-block";
+    if (logoLight) logoLight.style.display = "none";
+  } else {
+    if (logoDark) logoDark.style.display = "none";
+    if (logoLight) logoLight.style.display = "inline-block";
+  }
+}
+
 function setTheme(theme) {
   document.body.setAttribute("data-theme", theme);
   localStorage.setItem("theme", theme);
@@ -77,6 +90,7 @@ function setTheme(theme) {
     themeIcon.classList.add("fa-moon");
     themeLabel.textContent = "Dark Mode";
   }
+  updateNavbarLogo(theme);
 }
 
 // On load, set theme from localStorage or default to light
