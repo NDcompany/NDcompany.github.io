@@ -27,6 +27,12 @@
         <meta name="theme-color" content="#2a1e6b">
         <link rel="apple-touch-icon" href="assets/favicon/apple-touch-icon-152x152.png">
 
+        <script>
+          if (window.location.hostname === 'ndcompany.github.io') {
+            window.location.href = 'https://ndcompany.in' + window.location.pathname;
+          }
+        </script>
+        
         <!-- Service Worker Registration -->
         <script>
             if ('serviceWorker' in navigator) {
