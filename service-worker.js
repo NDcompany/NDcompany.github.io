@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ndco-cache-v1';
+const CACHE_NAME = 'ndco-cache-v2';
 const urlsToCache = [
   '/',
   '/index.html',
@@ -9,6 +9,10 @@ const urlsToCache = [
   '/assets/avatar/dipro.webp',
   '/assets/logo/SYMBOL-LIGHT.png',
   '/assets/logo/SYMBOL-DARK.png',
+  '/robots.txt',
+  '/sitemap.xml',
+  '/site.webmanifest',
+  '/humans.txt',
   // Add more assets as needed
 ];
 
