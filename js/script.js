@@ -68,13 +68,17 @@ const themeLabel = themeToggleBtn.querySelector("span");
 // Navbar logo switching logic
 const logoDark = document.getElementById("navbar-logo-dark");
 const logoLight = document.getElementById("navbar-logo-light");
+const footerLogo = document.getElementById("footer-logo");
+
 function updateNavbarLogo(theme) {
   if (theme === "dark") {
     if (logoDark) logoDark.style.display = "inline-block";
     if (logoLight) logoLight.style.display = "none";
+    if (footerLogo) footerLogo.src = "assets/logo/SYMBOL-DARK.png";
   } else {
     if (logoDark) logoDark.style.display = "none";
     if (logoLight) logoLight.style.display = "inline-block";
+    if (footerLogo) footerLogo.src = "assets/logo/SYMBOL-LIGHT.png";
   }
 }
 
