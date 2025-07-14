@@ -1,0 +1,9 @@
+Contact: mailto:ceo@ndcompany.in
+Contact: tel:+91-8902109455
+Expires: 2026-01-01T00:00:00.000Z
+Encryption: https://ndcompany.in/pgp-key.txt
+Acknowledgments: https://ndcompany.in/security-acknowledgments
+Preferred-Languages: en, hi
+Canonical: https://ndcompany.in/.well-known/security.txt
+Policy: https://ndcompany.in/security-policy
+Hiring: https://ndcompany.in/#contact
