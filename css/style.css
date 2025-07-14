@@ -159,14 +159,13 @@ body[data-theme="dark"] .bg-gradient-to-r {
     padding: 12PX 15PX !important;
     font-size: 1.25rem;
     cursor: pointer;
-    transition: background 0.2s, color 0.2s, box-shadow 0.3s, transform 0.2s, filter 0.3s;
+    transition: all 0.3s ease;
     display: flex;
     align-items: center;
     gap: 0.5rem;
     opacity: 0;
     transform: translateY(30px) scale(0.95);
     pointer-events: none;
-    transition: opacity 0.5s cubic-bezier(0.4,0,0.2,1), transform 0.5s cubic-bezier(0.4,0,0.2,1);
 }
 
 .theme-toggle.visible {
@@ -356,4 +355,21 @@ body[data-theme="dark"] .text-green-600 {
     transform: scale(1.05);
     border-color: #a855f7;
     box-shadow: 0 8px 25px rgba(168, 85, 247, 0.3);
+}
+
+/* Navbar logo switching for data-theme approach */
+#navbar-logo-dark {
+    display: none;
+}
+
+#navbar-logo-light {
+    display: inline-block;
+}
+
+body[data-theme="dark"] #navbar-logo-dark {
+    display: inline-block !important;
+}
+
+body[data-theme="dark"] #navbar-logo-light {
+    display: none !important;
 }
