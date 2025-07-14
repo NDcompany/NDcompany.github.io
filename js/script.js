@@ -17,28 +17,26 @@ const grids = {
 
 function showGrid(type) {
   Object.keys(grids).forEach((key) => {
-    const grid = grids[key];
-    if (grid) { // Add null check
+    if (grids[key]) {
       if (type === "all" || key === type) {
-        grid.style.display = "";
+        grids[key].style.display = "";
       } else {
-        grid.style.display = "none";
+        grids[key].style.display = "none";
       }
     }
   });
 }
 
-// Only add event listeners if filters exist
-if (filters.length > 0) {
-  filters.forEach((btn) => {
-    btn.addEventListener("click", function () {
-      filters.forEach((b) => b.classList.remove("bg-purple-600", "text-white"));
-      this.classList.add("bg-purple-600", "text-white");
-      showGrid(this.dataset.filter);
-    });
+filters.forEach((btn) => {
+  btn.addEventListener("click", function () {
+    filters.forEach((b) => b.classList.remove("bg-purple-600", "text-white"));
+    this.classList.add("bg-purple-600", "text-white");
+    showGrid(this.dataset.filter);
   });
+});
 
-  // Set default filter to 'all'
+// Set default filter to 'all' only if filters exist
+if (filters.length > 0) {
   showGrid("all");
   if (filters[0]) filters[0].classList.add("bg-purple-600", "text-white");
 }
@@ -124,16 +122,18 @@ window.addEventListener("DOMContentLoaded", function () {
   if (themeToggleBtn) {
     setTimeout(function () {
       themeToggleBtn.classList.add("visible");
-    }, 200); // slight delay for smoothness
+    }, 200);
   }
 });
 
 // Also ensure visibility after a longer delay as backup
 window.addEventListener("load", function () {
-  if (themeToggleBtn && !themeToggleBtn.classList.contains("visible")) {
+  if (themeToggleBtn) {
     setTimeout(function () {
-      themeToggleBtn.classList.add("visible");
-    }, 100);
+      if (!themeToggleBtn.classList.contains("visible")) {
+        themeToggleBtn.classList.add("visible");
+      }
+    }, 500);
   }
 });
 
