@@ -2,6 +2,7 @@ const CACHE_NAME = 'ndco-cache-v2';
 const urlsToCache = [
   '/',
   '/index.html',
+  '/404.html',
   '/css/style.css',
   '/js/script.js',
   '/assets/banner/banner.webp',
