@@ -110,20 +110,26 @@ themeToggleBtn.addEventListener("click", function () {
 });
 
 // Intersection Observer for About Us cards animation
-const aboutCards = document.querySelectorAll("#about .bg-gray-50");
+const aboutCards = document.querySelectorAll("#about .about-card");
 const observerOptions = {
-  threshold: 0.3,
+  threshold: 0.2,
+  rootMargin: '0px 0px -50px 0px'
 };
-function animateCard(entries) {
-  entries.forEach((entry) => {
+
+function animateAboutCards(entries) {
+  entries.forEach((entry, index) => {
     if (entry.isIntersecting) {
-      entry.target.classList.add("about-card-visible");
+      // Add staggered delay for multiple cards
+      setTimeout(() => {
+        entry.target.classList.add("about-card-visible");
+      }, index * 200); // 200ms delay between cards
     } else {
       entry.target.classList.remove("about-card-visible");
     }
   });
 }
-const aboutObserver = new IntersectionObserver(animateCard, observerOptions);
+
+const aboutObserver = new IntersectionObserver(animateAboutCards, observerOptions);
 aboutCards.forEach((card) => {
   card.classList.add("about-card-init");
   aboutObserver.observe(card);
@@ -131,16 +137,25 @@ aboutCards.forEach((card) => {
 
 // Intersection Observer for Our Expertise cards animation
 const expertiseCards = document.querySelectorAll("#expertise .card-hover");
+const expertiseObserverOptions = {
+  threshold: 0.2,
+  rootMargin: '0px 0px -30px 0px'
+};
+
 function animateExpertise(entries) {
-  entries.forEach((entry) => {
+  entries.forEach((entry, index) => {
     if (entry.isIntersecting) {
-      entry.target.classList.add("expertise-card-visible");
+      // Add staggered delay for multiple cards
+      setTimeout(() => {
+        entry.target.classList.add("expertise-card-visible");
+      }, index * 150); // 150ms delay between cards
     } else {
       entry.target.classList.remove("expertise-card-visible");
     }
   });
 }
-const expertiseObserver = new IntersectionObserver(animateExpertise, observerOptions);
+
+const expertiseObserver = new IntersectionObserver(animateExpertise, expertiseObserverOptions);
 expertiseCards.forEach((card) => {
   card.classList.add("expertise-card-init");
   expertiseObserver.observe(card);
