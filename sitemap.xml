@@ -16,13 +16,13 @@
   <priority>1.0</priority>
   <image:image>
     <image:loc>https://ndcompany.in/assets/banner/banner.webp</image:loc>
-    <image:title>N&D Co. - All in One Freelance Agency</image:title>
+    <image:title>N&amp;D Co. - All in One Freelance Agency</image:title>
     <image:caption>Leading freelance agency specializing in logo design, web development, digital marketing, SEO services, and professional photography</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/assets/logo/SYMBOL-LIGHT.png</image:loc>
-    <image:title>N&D Co. Logo</image:title>
-    <image:caption>Official logo of N&D Co. freelance agency</image:caption>
+    <image:title>N&amp;D Co. Logo</image:title>
+    <image:caption>Official logo of N&amp;D Co. freelance agency</image:caption>
   </image:image>
 </url>
 
@@ -34,13 +34,13 @@
   <priority>0.8</priority>
   <image:image>
     <image:loc>https://ndcompany.in/assets/avatar/nakshatra.webp</image:loc>
-    <image:title>Nakshatra Ranjan Saha - CEO & Founder</image:title>
-    <image:caption>CEO and Founder of N&D Co. freelance agency</image:caption>
+    <image:title>Nakshatra Ranjan Saha - CEO &amp; Founder</image:title>
+    <image:caption>CEO and Founder of N&amp;D Co. freelance agency</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/assets/avatar/dipro.webp</image:loc>
-    <image:title>Dipro Ghosh - Co-Founder & CMO</image:title>
-    <image:caption>Co-Founder and CMO of N&D Co. freelance agency</image:caption>
+    <image:title>Dipro Ghosh - Co-Founder &amp; CMO</image:title>
+    <image:caption>Co-Founder and CMO of N&amp;D Co. freelance agency</image:caption>
   </image:image>
 </url>
 
@@ -62,119 +62,119 @@
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/beer.png</image:loc>
     <image:title>Beer Poster Design</image:title>
-    <image:caption>Professional poster design for beer branding by N&D Co.</image:caption>
+    <image:caption>Professional poster design for beer branding by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/biryani-1.png</image:loc>
     <image:title>Biryani Poster Design 1</image:title>
-    <image:caption>Creative food poster design for biryani restaurant by N&D Co.</image:caption>
+    <image:caption>Creative food poster design for biryani restaurant by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/biryani-2.png</image:loc>
     <image:title>Biryani Poster Design 2</image:title>
-    <image:caption>Professional food poster design for biryani menu by N&D Co.</image:caption>
+    <image:caption>Professional food poster design for biryani menu by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/bread-butter.png</image:loc>
-    <image:title>Bread & Butter Poster Design</image:title>
-    <image:caption>Creative food poster design for bakery by N&D Co.</image:caption>
+    <image:title>Bread &amp; Butter Poster Design</image:title>
+    <image:caption>Creative food poster design for bakery by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/brunch.png</image:loc>
     <image:title>Brunch Poster Design</image:title>
-    <image:caption>Professional brunch menu poster design by N&D Co.</image:caption>
+    <image:caption>Professional brunch menu poster design by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/chicken-lollipop.png</image:loc>
     <image:title>Chicken Lollipop Poster Design</image:title>
-    <image:caption>Creative food poster design for chicken lollipop by N&D Co.</image:caption>
+    <image:caption>Creative food poster design for chicken lollipop by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/chicken-wrap.png</image:loc>
     <image:title>Chicken Wrap Poster Design</image:title>
-    <image:caption>Professional food poster design for chicken wrap by N&D Co.</image:caption>
+    <image:caption>Professional food poster design for chicken wrap by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/meduvada.png</image:loc>
     <image:title>Meduvada Poster Design</image:title>
-    <image:caption>Traditional food poster design for meduvada by N&D Co.</image:caption>
+    <image:caption>Traditional food poster design for meduvada by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/wings.png</image:loc>
     <image:title>Wings Poster Design</image:title>
-    <image:caption>Creative food poster design for chicken wings by N&D Co.</image:caption>
+    <image:caption>Creative food poster design for chicken wings by N&amp;D Co.</image:caption>
   </image:image>
   <!-- Logo Images -->
   <image:image>
     <image:loc>https://ndcompany.in/designs/logos/edli-delight.png</image:loc>
     <image:title>Edli Delight Logo Design</image:title>
-    <image:caption>Professional logo design for Edli Delight restaurant by N&D Co.</image:caption>
+    <image:caption>Professional logo design for Edli Delight restaurant by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/logos/koustav-kitchen.png</image:loc>
     <image:title>Koustav Kitchen Logo Design</image:title>
-    <image:caption>Creative logo design for Koustav Kitchen by N&D Co.</image:caption>
+    <image:caption>Creative logo design for Koustav Kitchen by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/logos/pub-and-bar.png</image:loc>
-    <image:title>Pub & Bar Logo Design</image:title>
-    <image:caption>Professional logo design for pub and bar by N&D Co.</image:caption>
+    <image:title>Pub &amp; Bar Logo Design</image:title>
+    <image:caption>Professional logo design for pub and bar by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/logos/saloon.png</image:loc>
     <image:title>Saloon Logo Design</image:title>
-    <image:caption>Creative logo design for saloon business by N&D Co.</image:caption>
+    <image:caption>Creative logo design for saloon business by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/logos/sunfresso.png</image:loc>
     <image:title>Sunfresso Logo Design</image:title>
-    <image:caption>Professional coffee shop logo design for Sunfresso by N&D Co.</image:caption>
+    <image:caption>Professional coffee shop logo design for Sunfresso by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/logos/taste-and-bite.png</image:loc>
-    <image:title>Taste & Bite Logo Design</image:title>
-    <image:caption>Creative restaurant logo design for Taste & Bite by N&D Co.</image:caption>
+    <image:title>Taste &amp; Bite Logo Design</image:title>
+    <image:caption>Creative restaurant logo design for Taste &amp; Bite by N&amp;D Co.</image:caption>
   </image:image>
   <!-- Thumbnail Images -->
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/bali.jpg</image:loc>
     <image:title>Bali Travel Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for Bali travel content by N&D Co.</image:caption>
+    <image:caption>Professional thumbnail design for Bali travel content by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/deserts.jpg</image:loc>
     <image:title>Deserts Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for desert content by N&D Co.</image:caption>
+    <image:caption>Creative thumbnail design for desert content by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/diys.jpg</image:loc>
     <image:title>DIY Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for DIY content by N&D Co.</image:caption>
+    <image:caption>Professional thumbnail design for DIY content by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/epic.jpg</image:loc>
     <image:title>Epic Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for epic content by N&D Co.</image:caption>
+    <image:caption>Creative thumbnail design for epic content by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/fitness.jpg</image:loc>
     <image:title>Fitness Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for fitness content by N&D Co.</image:caption>
+    <image:caption>Professional thumbnail design for fitness content by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/makeup.jpg</image:loc>
     <image:title>Makeup Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for makeup content by N&D Co.</image:caption>
+    <image:caption>Creative thumbnail design for makeup content by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/money.jpg</image:loc>
     <image:title>Money Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for finance content by N&D Co.</image:caption>
+    <image:caption>Professional thumbnail design for finance content by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/tech-hacks.jpg</image:loc>
     <image:title>Tech Hacks Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for tech content by N&D Co.</image:caption>
+    <image:caption>Creative thumbnail design for tech content by N&amp;D Co.</image:caption>
   </image:image>
 </url>
 
@@ -187,17 +187,17 @@
   <image:image>
     <image:loc>https://ndcompany.in/assets/avatar/client-1.png</image:loc>
     <image:title>Client Testimonial 1</image:title>
-    <image:caption>Happy client testimonial for N&D Co. services</image:caption>
+    <image:caption>Happy client testimonial for N&amp;D Co. services</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/assets/avatar/client-2.png</image:loc>
     <image:title>Client Testimonial 2</image:title>
-    <image:caption>Satisfied customer testimonial for N&D Co. services</image:caption>
+    <image:caption>Satisfied customer testimonial for N&amp;D Co. services</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/assets/avatar/client-3.png</image:loc>
     <image:title>Client Testimonial 3</image:title>
-    <image:caption>Positive client feedback for N&D Co. services</image:caption>
+    <image:caption>Positive client feedback for N&amp;D Co. services</image:caption>
   </image:image>
 </url>
 
