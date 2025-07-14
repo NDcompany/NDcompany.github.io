@@ -389,14 +389,78 @@
     
     <!-- 404 Page Specific JavaScript -->
     <script>
+        // Theme toggle logic for 404 page
+        const themeToggleBtn = document.getElementById("theme-toggle");
+        const themeIcon = themeToggleBtn.querySelector("i");
+        const themeLabel = themeToggleBtn.querySelector("span");
+
+        // Navbar logo switching logic
+        const logoDark = document.getElementById("navbar-logo-dark");
+        const logoLight = document.getElementById("navbar-logo-light");
+        const footerLogo = document.getElementById("footer-logo");
+
+        function updateNavbarLogo(theme) {
+            if (theme === "dark") {
+                if (logoDark) logoDark.style.display = "inline-block";
+                if (logoLight) logoLight.style.display = "none";
+                if (footerLogo) footerLogo.src = "assets/logo/SYMBOL-DARK.png";
+            } else {
+                if (logoDark) logoDark.style.display = "none";
+                if (logoLight) logoLight.style.display = "inline-block";
+                if (footerLogo) footerLogo.src = "assets/logo/SYMBOL-LIGHT.png";
+            }
+        }
+
+        function setTheme(theme) {
+            document.body.setAttribute("data-theme", theme);
+            localStorage.setItem("theme", theme);
+            if (theme === "dark") {
+                themeIcon.classList.remove("fa-moon");
+                themeIcon.classList.add("fa-sun");
+                if (themeLabel) themeLabel.textContent = "Light Mode";
+            } else {
+                themeIcon.classList.remove("fa-sun");
+                themeIcon.classList.add("fa-moon");
+                if (themeLabel) themeLabel.textContent = "Dark Mode";
+            }
+            updateNavbarLogo(theme);
+        }
+
+        // On load, set theme from localStorage or default to light
+        const savedTheme = localStorage.getItem("theme");
+        setTheme(savedTheme === "dark" ? "dark" : "light");
+
         // Ensure theme toggle button is visible on 404 page
         window.addEventListener("DOMContentLoaded", function () {
-            const themeToggleBtn = document.getElementById("theme-toggle");
             if (themeToggleBtn) {
                 setTimeout(function () {
                     themeToggleBtn.classList.add("visible");
                 }, 200);
             }
+        });
+
+        // Theme toggle click event
+        themeToggleBtn.addEventListener("click", function () {
+            const currentTheme = document.body.getAttribute("data-theme");
+            setTheme(currentTheme === "dark" ? "light" : "dark");
+        });
+
+        // Set current year in footer
+        if (document.getElementById("year")) {
+            document.getElementById("year").textContent = new Date().getFullYear();
+        }
+
+        // Back to Top Button logic
+        const backToTopBtn = document.getElementById("back-to-top");
+        window.addEventListener("scroll", function () {
+            if (window.scrollY > 300) {
+                backToTopBtn.classList.remove("hidden");
+            } else {
+                backToTopBtn.classList.add("hidden");
+            }
+        });
+        backToTopBtn.addEventListener("click", function () {
+            window.scrollTo({ top: 0, behavior: "smooth" });
         });
 
         // Search functionality
