@@ -109,11 +109,31 @@ body[data-theme="dark"] .text-gray-600 {
     color: #e5e7eb !important;
 }
 
+/* Dark mode styles for additional gray text colors */
+body[data-theme="dark"] .text-gray-500 {
+    color: #9ca3af !important;
+}
+
+/* Dark mode hover styles for footer links */
+body[data-theme="dark"] .hover\:text-purple-600:hover,
+body[data-theme="dark"] .hover\:text-purple-700:hover {
+    color: #a855f7 !important;
+}
+
+body[data-theme="dark"] .text-purple-600 {
+    color: #a855f7 !important;
+}
+
 body[data-theme="dark"] .bg-purple-600 {
     background-color: #7c3aed !important;
 }
 
 body[data-theme="dark"] .border-gray-300 {
+    border-color: #44446a !important;
+}
+
+/* Dark mode border styles for footer */
+body[data-theme="dark"] .border-gray-200 {
     border-color: #44446a !important;
 }
 
