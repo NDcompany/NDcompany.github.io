@@ -1,0 +1,43 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+CEO & Founder: Nakshatra Ranjan Saha
+Contact: ceo [at] ndcompany.in
+Twitter: @NDCoofficial
+From: India
+
+Co-Founder & CMO: Dipro Ghosh
+Contact: ceo [at] ndcompany.in
+Twitter: @NDCoofficial  
+From: India
+
+# THANKS
+
+All our amazing clients who trust us with their projects
+The open source community for amazing tools and resources
+Our followers on social media for their continuous support
+
+# TECHNOLOGY
+
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: Tailwind CSS, Font Awesome, Animate.css
+Software: VS Code, Adobe Creative Suite, Figma
+Hosting: GitHub Pages
+CDN: Cloudflare
+Analytics: Google Analytics
+Fonts: Google Fonts (Poppins)
+Icons: Font Awesome
+Images: WebP, PNG, JPEG optimized
+Performance: Service Worker, PWA ready
+SEO: Structured Data, Open Graph, Twitter Cards
+
+# SITE
+
+Last updated: 2025-07-14
+Languages: English, Hindi
+Doctype: HTML5
+IDE: Visual Studio Code
+Version Control: Git
+Repository: https://github.com/NDcompany/NDcompany.github.io
