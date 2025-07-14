@@ -1,7 +1,11 @@
 // Mobile menu toggle
-document.getElementById("menu-toggle").addEventListener("click", function () {
-  document.getElementById("mobile-menu").classList.toggle("active");
-});
+const menuToggle = document.getElementById("menu-toggle");
+const mobileMenu = document.getElementById("mobile-menu");
+if (menuToggle && mobileMenu) {
+  menuToggle.addEventListener("click", function () {
+    mobileMenu.classList.toggle("active");
+  });
+}
 
 // Portfolio filter logic
 const filters = document.querySelectorAll(".portfolio-filter");
@@ -13,34 +17,44 @@ const grids = {
 
 function showGrid(type) {
   Object.keys(grids).forEach((key) => {
-    if (type === "all" || key === type) {
-      grids[key].style.display = "";
-    } else {
-      grids[key].style.display = "none";
+    const grid = grids[key];
+    if (grid) { // Add null check
+      if (type === "all" || key === type) {
+        grid.style.display = "";
+      } else {
+        grid.style.display = "none";
+      }
     }
   });
 }
 
-filters.forEach((btn) => {
-  btn.addEventListener("click", function () {
-    filters.forEach((b) => b.classList.remove("bg-purple-600", "text-white"));
-    this.classList.add("bg-purple-600", "text-white");
-    showGrid(this.dataset.filter);
+// Only add event listeners if filters exist
+if (filters.length > 0) {
+  filters.forEach((btn) => {
+    btn.addEventListener("click", function () {
+      filters.forEach((b) => b.classList.remove("bg-purple-600", "text-white"));
+      this.classList.add("bg-purple-600", "text-white");
+      showGrid(this.dataset.filter);
+    });
   });
-});
 
-// Set default filter to 'all'
-showGrid("all");
-if (filters[0]) filters[0].classList.add("bg-purple-600", "text-white");
+  // Set default filter to 'all'
+  showGrid("all");
+  if (filters[0]) filters[0].classList.add("bg-purple-600", "text-white");
+}
 
 // Contact form logic (demo only)
-document
-  .getElementById("contact-form")
-  .addEventListener("submit", function (e) {
+const contactForm = document.getElementById("contact-form");
+if (contactForm) {
+  contactForm.addEventListener("submit", function (e) {
     e.preventDefault();
-    document.getElementById("form-status").classList.remove("hidden");
+    const formStatus = document.getElementById("form-status");
+    if (formStatus) {
+      formStatus.classList.remove("hidden");
+    }
     this.reset();
   });
+}
 
 // Set current year in footer
 if (document.getElementById("year")) {
@@ -49,21 +63,23 @@ if (document.getElementById("year")) {
 
 // Back to Top Button logic
 const backToTopBtn = document.getElementById("back-to-top");
-window.addEventListener("scroll", function () {
-  if (window.scrollY > 300) {
-    backToTopBtn.classList.remove("hidden");
-  } else {
-    backToTopBtn.classList.add("hidden");
-  }
-});
-backToTopBtn.addEventListener("click", function () {
-  window.scrollTo({ top: 0, behavior: "smooth" });
-});
+if (backToTopBtn) {
+  window.addEventListener("scroll", function () {
+    if (window.scrollY > 300) {
+      backToTopBtn.classList.remove("hidden");
+    } else {
+      backToTopBtn.classList.add("hidden");
+    }
+  });
+  backToTopBtn.addEventListener("click", function () {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+}
 
 // Theme toggle logic
 const themeToggleBtn = document.getElementById("theme-toggle");
-const themeIcon = themeToggleBtn.querySelector("i");
-const themeLabel = themeToggleBtn.querySelector("span");
+const themeIcon = themeToggleBtn ? themeToggleBtn.querySelector("i") : null;
+const themeLabel = themeToggleBtn ? themeToggleBtn.querySelector("span") : null;
 
 // Navbar logo switching logic
 const logoDark = document.getElementById("navbar-logo-dark");
@@ -85,14 +101,16 @@ function updateNavbarLogo(theme) {
 function setTheme(theme) {
   document.body.setAttribute("data-theme", theme);
   localStorage.setItem("theme", theme);
-  if (theme === "dark") {
-    themeIcon.classList.remove("fa-moon");
-    themeIcon.classList.add("fa-sun");
-    themeLabel.textContent = "Light Mode";
-  } else {
-    themeIcon.classList.remove("fa-sun");
-    themeIcon.classList.add("fa-moon");
-    themeLabel.textContent = "Dark Mode";
+  if (themeIcon && themeLabel) {
+    if (theme === "dark") {
+      themeIcon.classList.remove("fa-moon");
+      themeIcon.classList.add("fa-sun");
+      themeLabel.textContent = "Light Mode";
+    } else {
+      themeIcon.classList.remove("fa-sun");
+      themeIcon.classList.add("fa-moon");
+      themeLabel.textContent = "Dark Mode";
+    }
   }
   updateNavbarLogo(theme);
 }
@@ -103,15 +121,28 @@ setTheme(savedTheme === "dark" ? "dark" : "light");
 
 // Animate theme toggle button on load
 window.addEventListener("DOMContentLoaded", function () {
-  setTimeout(function () {
-    themeToggleBtn.classList.add("visible");
-  }, 200); // slight delay for smoothness
+  if (themeToggleBtn) {
+    setTimeout(function () {
+      themeToggleBtn.classList.add("visible");
+    }, 200); // slight delay for smoothness
+  }
 });
 
-themeToggleBtn.addEventListener("click", function () {
-  const currentTheme = document.body.getAttribute("data-theme");
-  setTheme(currentTheme === "dark" ? "light" : "dark");
+// Also ensure visibility after a longer delay as backup
+window.addEventListener("load", function () {
+  if (themeToggleBtn && !themeToggleBtn.classList.contains("visible")) {
+    setTimeout(function () {
+      themeToggleBtn.classList.add("visible");
+    }, 100);
+  }
 });
+
+if (themeToggleBtn) {
+  themeToggleBtn.addEventListener("click", function () {
+    const currentTheme = document.body.getAttribute("data-theme");
+    setTheme(currentTheme === "dark" ? "light" : "dark");
+  });
+}
 
 // Intersection Observer for About Us cards animation
 const aboutCards = document.querySelectorAll("#about .about-card");
