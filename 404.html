@@ -389,43 +389,55 @@
     
     <!-- 404 Page Specific JavaScript -->
     <script>
+        // Ensure theme toggle button is visible on 404 page
+        window.addEventListener("DOMContentLoaded", function () {
+            const themeToggleBtn = document.getElementById("theme-toggle");
+            if (themeToggleBtn) {
+                setTimeout(function () {
+                    themeToggleBtn.classList.add("visible");
+                }, 200);
+            }
+        });
+
         // Search functionality
         const searchInput = document.getElementById('search-input');
         const searchBtn = document.getElementById('search-btn');
         const searchSuggestions = document.getElementById('search-suggestions');
 
-        searchInput.addEventListener('focus', function() {
-            searchSuggestions.classList.remove('hidden');
-        });
+        if (searchInput && searchBtn && searchSuggestions) {
+            searchInput.addEventListener('focus', function() {
+                searchSuggestions.classList.remove('hidden');
+            });
 
-        searchInput.addEventListener('blur', function() {
-            setTimeout(() => {
-                searchSuggestions.classList.add('hidden');
-            }, 200);
-        });
+            searchInput.addEventListener('blur', function() {
+                setTimeout(() => {
+                    searchSuggestions.classList.add('hidden');
+                }, 200);
+            });
 
-        searchBtn.addEventListener('click', function() {
-            const query = searchInput.value.toLowerCase();
-            if (query.includes('logo') || query.includes('design')) {
-                window.location.href = '/#services';
-            } else if (query.includes('web') || query.includes('development')) {
-                window.location.href = '/#services';
-            } else if (query.includes('marketing') || query.includes('seo')) {
-                window.location.href = '/#services';
-            } else if (query.includes('portfolio') || query.includes('work')) {
-                window.location.href = '/#portfolio';
-            } else if (query.includes('contact') || query.includes('email')) {
-                window.location.href = '/#contact';
-            } else {
-                window.location.href = '/#services';
-            }
-        });
+            searchBtn.addEventListener('click', function() {
+                const query = searchInput.value.toLowerCase();
+                if (query.includes('logo') || query.includes('design')) {
+                    window.location.href = '/#services';
+                } else if (query.includes('web') || query.includes('development')) {
+                    window.location.href = '/#services';
+                } else if (query.includes('marketing') || query.includes('seo')) {
+                    window.location.href = '/#services';
+                } else if (query.includes('portfolio') || query.includes('work')) {
+                    window.location.href = '/#portfolio';
+                } else if (query.includes('contact') || query.includes('email')) {
+                    window.location.href = '/#contact';
+                } else {
+                    window.location.href = '/#services';
+                }
+            });
 
-        searchInput.addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                searchBtn.click();
-            }
-        });
+            searchInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    searchBtn.click();
+                }
+            });
+        }
 
         // Track 404 error in Google Analytics
         if (typeof gtag !== 'undefined') {
