@@ -394,38 +394,6 @@
             document.getElementById("year").textContent = new Date().getFullYear();
         }
 
-        // Ensure theme toggle button is visible on 404 page
-        document.addEventListener("DOMContentLoaded", function () {
-            const themeToggleBtn = document.getElementById("theme-toggle");
-            if (themeToggleBtn) {
-                // Force visibility of theme toggle on 404 page
-                setTimeout(function () {
-                    themeToggleBtn.classList.add("visible");
-                }, 300);
-                
-                // Additional fallback to ensure it's visible
-                setTimeout(function () {
-                    if (themeToggleBtn && !themeToggleBtn.classList.contains("visible")) {
-                        themeToggleBtn.style.opacity = "1";
-                        themeToggleBtn.style.transform = "translateY(0) scale(1)";
-                        themeToggleBtn.style.pointerEvents = "auto";
-                        themeToggleBtn.classList.add("visible");
-                    }
-                }, 1000);
-            }
-        });
-
-        // Also try on window load as additional fallback
-        window.addEventListener("load", function () {
-            const themeToggleBtn = document.getElementById("theme-toggle");
-            if (themeToggleBtn && window.getComputedStyle(themeToggleBtn).opacity === "0") {
-                themeToggleBtn.classList.add("visible");
-                themeToggleBtn.style.opacity = "1";
-                themeToggleBtn.style.transform = "translateY(0) scale(1)";
-                themeToggleBtn.style.pointerEvents = "auto";
-            }
-        });
-
         // Search functionality
         const searchInput = document.getElementById('search-input');
         const searchBtn = document.getElementById('search-btn');
