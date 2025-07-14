@@ -143,9 +143,9 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-20 items-center">
                 <div class="flex-shrink-0 flex items-center">
-                    <img src="assets/logo/SYMBOL-DARK.png" alt="N&D Co. Professional Freelance Agency Logo" class="h-10 w-10 mr-3 hidden dark:inline-block"
+                    <img src="assets/logo/SYMBOL-DARK.png" alt="N&D Co. Professional Freelance Agency Logo" class="h-10 w-10 mr-3"
                         id="navbar-logo-dark">
-                    <img src="assets/logo/SYMBOL-LIGHT.png" alt="N&D Co. Creative Freelance Agency Logo" class="h-10 w-10 mr-3 inline-block dark:hidden"
+                    <img src="assets/logo/SYMBOL-LIGHT.png" alt="N&D Co. Creative Freelance Agency Logo" class="h-10 w-10 mr-3"
                         id="navbar-logo-light">
                     <span
                         class="text-2xl font-bold gradient-text bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">N&D
@@ -389,78 +389,41 @@
     
     <!-- 404 Page Specific JavaScript -->
     <script>
-        // Theme toggle logic for 404 page
-        const themeToggleBtn = document.getElementById("theme-toggle");
-        const themeIcon = themeToggleBtn.querySelector("i");
-        const themeLabel = themeToggleBtn.querySelector("span");
-
-        // Navbar logo switching logic
-        const logoDark = document.getElementById("navbar-logo-dark");
-        const logoLight = document.getElementById("navbar-logo-light");
-        const footerLogo = document.getElementById("footer-logo");
-
-        function updateNavbarLogo(theme) {
-            if (theme === "dark") {
-                if (logoDark) logoDark.style.display = "inline-block";
-                if (logoLight) logoLight.style.display = "none";
-                if (footerLogo) footerLogo.src = "assets/logo/SYMBOL-DARK.png";
-            } else {
-                if (logoDark) logoDark.style.display = "none";
-                if (logoLight) logoLight.style.display = "inline-block";
-                if (footerLogo) footerLogo.src = "assets/logo/SYMBOL-LIGHT.png";
-            }
-        }
-
-        function setTheme(theme) {
-            document.body.setAttribute("data-theme", theme);
-            localStorage.setItem("theme", theme);
-            if (theme === "dark") {
-                themeIcon.classList.remove("fa-moon");
-                themeIcon.classList.add("fa-sun");
-                if (themeLabel) themeLabel.textContent = "Light Mode";
-            } else {
-                themeIcon.classList.remove("fa-sun");
-                themeIcon.classList.add("fa-moon");
-                if (themeLabel) themeLabel.textContent = "Dark Mode";
-            }
-            updateNavbarLogo(theme);
-        }
-
-        // On load, set theme from localStorage or default to light
-        const savedTheme = localStorage.getItem("theme");
-        setTheme(savedTheme === "dark" ? "dark" : "light");
-
-        // Ensure theme toggle button is visible on 404 page
-        window.addEventListener("DOMContentLoaded", function () {
-            if (themeToggleBtn) {
-                setTimeout(function () {
-                    themeToggleBtn.classList.add("visible");
-                }, 200);
-            }
-        });
-
-        // Theme toggle click event
-        themeToggleBtn.addEventListener("click", function () {
-            const currentTheme = document.body.getAttribute("data-theme");
-            setTheme(currentTheme === "dark" ? "light" : "dark");
-        });
-
-        // Set current year in footer
+        // Set current year in footer (since script.js already handles this too)
         if (document.getElementById("year")) {
             document.getElementById("year").textContent = new Date().getFullYear();
         }
 
-        // Back to Top Button logic
-        const backToTopBtn = document.getElementById("back-to-top");
-        window.addEventListener("scroll", function () {
-            if (window.scrollY > 300) {
-                backToTopBtn.classList.remove("hidden");
-            } else {
-                backToTopBtn.classList.add("hidden");
+        // Ensure theme toggle button is visible on 404 page
+        document.addEventListener("DOMContentLoaded", function () {
+            const themeToggleBtn = document.getElementById("theme-toggle");
+            if (themeToggleBtn) {
+                // Force visibility of theme toggle on 404 page
+                setTimeout(function () {
+                    themeToggleBtn.classList.add("visible");
+                }, 300);
+                
+                // Additional fallback to ensure it's visible
+                setTimeout(function () {
+                    if (themeToggleBtn && !themeToggleBtn.classList.contains("visible")) {
+                        themeToggleBtn.style.opacity = "1";
+                        themeToggleBtn.style.transform = "translateY(0) scale(1)";
+                        themeToggleBtn.style.pointerEvents = "auto";
+                        themeToggleBtn.classList.add("visible");
+                    }
+                }, 1000);
             }
         });
-        backToTopBtn.addEventListener("click", function () {
-            window.scrollTo({ top: 0, behavior: "smooth" });
+
+        // Also try on window load as additional fallback
+        window.addEventListener("load", function () {
+            const themeToggleBtn = document.getElementById("theme-toggle");
+            if (themeToggleBtn && window.getComputedStyle(themeToggleBtn).opacity === "0") {
+                themeToggleBtn.classList.add("visible");
+                themeToggleBtn.style.opacity = "1";
+                themeToggleBtn.style.transform = "translateY(0) scale(1)";
+                themeToggleBtn.style.pointerEvents = "auto";
+            }
         });
 
         // Search functionality
