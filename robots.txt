@@ -1,0 +1,283 @@
+# robots.txt for N&D Co. - All in One Freelance Agency
+# Website: https://ndcompany.in
+# Contact: ceo@ndcompany.in
+# Generated: 2025-07-14
+
+# Allow all search engines to crawl the entire website
+User-agent: *
+Allow: /
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: InstagramBot
+Allow: /
+
+User-agent: SnapchatBot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: DiscordBot
+Allow: /
+
+User-agent: SlackBot
+Allow: /
+
+User-agent: SkypeUriPreview
+Allow: /
+
+# Block access to sensitive or unnecessary files and directories
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.gitignore
+Disallow: /.env
+Disallow: /.htaccess
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /gulpfile.js
+Disallow: /webpack.config.js
+Disallow: /tsconfig.json
+Disallow: /.vscode/
+Disallow: /.idea/
+Disallow: /logs/
+Disallow: /backup/
+Disallow: /temp/
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /test/
+Disallow: /tests/
+Disallow: /vendor/
+Disallow: /_notes/
+Disallow: /config/
+Disallow: /database/
+
+# Allow important SEO and verification files
+Allow: /robots.txt
+Allow: /sitemap.xml
+Allow: /sitemap*.xml
+Allow: /site.webmanifest
+Allow: /.well-known/security.txt
+Allow: /.well-known/humans.txt
+Allow: /.well-known/
+
+# Allow CSS, JS, and image files for proper rendering
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+Allow: /images/
+Allow: /fonts/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.ico
+Allow: /*.pdf
+
+# Block common spam and malicious bots
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SerpstatBot
+Disallow: /
+
+User-agent: LinkpadBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: ZoomBot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# Block aggressive crawlers
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ScreamingFrogSEOSpider
+Disallow: /
+
+User-agent: BacklinkCrawler
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+# Block email harvesters
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: CherryPicker
+Disallow: /
+
+# Block content scrapers
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebSauger
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: NetMechanic
+Disallow: /
+
+User-agent: URLy Warning
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: Win16
+Disallow: /
+
+User-agent: NetAnts
+Disallow: /
+
+User-agent: Titan
+Disallow: /
+
+User-agent: Webster
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZip
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft URL Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+# Block image hotlinking bots
+User-agent: Bytespider
+Disallow: /assets/
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+# Sitemaps - Important for SEO
+Sitemap: https://ndcompany.in/sitemap.xml
+
+# Host preference (helps consolidate link equity)
+Host: ndcompany.in
+
+# Additional notes:
+# This robots.txt file is optimized for SEO and security
+# It allows major search engines to crawl all public content
+# while blocking malicious bots, scrapers, and spam crawlers
+# Regular monitoring and updates are recommended
+# For questions about this file, contact: ceo@ndcompany.in
