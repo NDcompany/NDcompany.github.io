@@ -7,6 +7,8 @@ const urlsToCache = [
   '/assets/banner/banner.webp',
   '/assets/avatar/nakshatra.webp',
   '/assets/avatar/dipro.webp',
+  '/assets/logo/SYMBOL-LIGHT.png',
+  '/assets/logo/SYMBOL-DARK.png',
   // Add more assets as needed
 ];
 
