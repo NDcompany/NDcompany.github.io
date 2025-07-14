@@ -17,11 +17,12 @@ const grids = {
 
 function showGrid(type) {
   Object.keys(grids).forEach((key) => {
-    if (grids[key]) {
+    const grid = grids[key];
+    if (grid) {
       if (type === "all" || key === type) {
-        grids[key].style.display = "";
+        grid.style.display = "";
       } else {
-        grids[key].style.display = "none";
+        grid.style.display = "none";
       }
     }
   });
