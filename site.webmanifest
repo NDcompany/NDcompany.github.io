@@ -1,7 +1,7 @@
 {
-  "name": "N&D Co.",
+  "name": "N&D Co. | All in One Freelance Agency",
   "short_name": "N&D Co.",
-  "description": "N&D Co. - Your Vision Our Execution",
+  "description": "Leading graphic design agency specializing in logo design, web development, digital marketing, SEO services, and professional photography. Boost your business with custom branding solutions, social media marketing, and website creation that drives results.",
   "icons": [
     {
       "src": "assets/favicon/android-chrome-192x192.png",
@@ -27,7 +27,7 @@
     "form_factor": "narrow"
   }],
 
-  "start_url": "https://ndcompany.github.io/",
+  "start_url": "https://ndcompany.in/",
   "theme_color": "#2a1e6b",
   "background_color": "#ffffff",
   "display": "fullscreen"
