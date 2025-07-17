@@ -209,6 +209,53 @@
   <priority>0.8</priority>
 </url>
 
+<!-- Image to PDF Tool -->
+<url>
+  <loc>https://ndcompany.in/tools/image-to-pdf/</loc>
+  <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+  <!-- Main Logo -->
+  <image:image>
+    <image:loc>https://ndcompany.in/assets/logo/SYMBOL-LIGHT.png</image:loc>
+    <image:title>Free Image to PDF Converter Tool by N&amp;D Co.</image:title>
+    <image:caption>Professional image to PDF converter tool - Convert JPG, PNG, WEBP to PDF online for free. Privacy-first, client-side processing by N&amp;D Co.</image:caption>
+  </image:image>
+  <!-- Screenshots from Web Manifest -->
+  <image:image>
+    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/screenshots/screenshot-wide.png</image:loc>
+    <image:title>Image to PDF Converter Interface - Desktop View</image:title>
+    <image:caption>Wide screen interface of the free Image to PDF converter tool showing drag &amp; drop functionality and PDF settings by N&amp;D Co.</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/screenshots/screenshot-narrow.png</image:loc>
+    <image:title>Mobile Image to PDF Converter Interface</image:title>
+    <image:caption>Mobile-responsive view of the Image to PDF converter tool optimized for smartphones and tablets by N&amp;D Co.</image:caption>
+  </image:image>
+  <!-- Decorative Media Assets -->
+  <image:image>
+    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/media/sparkle-green.svg</image:loc>
+    <image:title>Green Decorative Sparkle - Image to PDF Tool</image:title>
+    <image:caption>Decorative green sparkle element used in the Image to PDF converter tool design by N&amp;D Co.</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/media/sparkle-red.svg</image:loc>
+    <image:title>Red Decorative Sparkle - Image to PDF Tool</image:title>
+    <image:caption>Decorative red sparkle element used in the Image to PDF converter tool design by N&amp;D Co.</image:caption>
+  </image:image>
+  <!-- Tool Favicons -->
+  <image:image>
+    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/favicons/favicon-196x196.png</image:loc>
+    <image:title>Image to PDF Converter Tool Icon</image:title>
+    <image:caption>High-resolution favicon icon for the Image to PDF converter tool by N&amp;D Co.</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/favicons/apple-touch-icon-152x152.png</image:loc>
+    <image:title>Apple Touch Icon - Image to PDF Tool</image:title>
+    <image:caption>Apple touch icon for the Image to PDF converter tool optimized for iOS devices by N&amp;D Co.</image:caption>
+  </image:image>
+</url>
+
 <!-- Expertise Section -->
 <url>
   <loc>https://ndcompany.in/#expertise</loc>
