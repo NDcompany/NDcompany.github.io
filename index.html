@@ -357,39 +357,42 @@
         <!-- Navigation -->
         <nav class="bg-white shadow-lg sticky top-0 z-50">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="flex justify-between h-20 items-center">
+                <div class="flex justify-between h-16 md:h-20 items-center">
                     <div class="flex-shrink-0 flex items-center">
-                        <img src="assets/logo/SYMBOL-DARK.png" alt="N&D Co. Professional Freelance Agency Logo" class="h-10 w-10 mr-3"
+                        <img src="assets/logo/SYMBOL-DARK.png" alt="N&D Co. Professional Freelance Agency Logo" class="h-8 w-8 md:h-10 md:w-10 mr-2 md:mr-3"
                             id="navbar-logo-dark">
-                        <img src="assets/logo/SYMBOL-LIGHT.png" alt="N&D Co. Creative Freelance Agency Logo" class="h-10 w-10 mr-3"
+                        <img src="assets/logo/SYMBOL-LIGHT.png" alt="N&D Co. Creative Freelance Agency Logo" class="h-8 w-8 md:h-10 md:w-10 mr-2 md:mr-3"
                             id="navbar-logo-light">
-                        <span
-                            class="text-2xl font-bold gradient-text bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">N&D
-                            Company</span>
+                        <span class="text-lg md:text-xl lg:text-2xl font-bold gradient-text bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">N&D Company</span>
                     </div>
-                    <div class="hidden md:block">
-                        <div class="ml-10 flex items-center space-x-8">
+                    
+                    <!-- Desktop Navigation -->
+                    <div class="hidden lg:block">
+                        <div class="flex items-center space-x-1">
                             <a href="#home"
-                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium" title="Professional Design Agency Home">Home</a>
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="Professional Design Agency Home">Home</a>
                             <a href="#about"
-                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium" title="About Our Design Team">About</a>
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="About Our Design Team">About</a>
                             <a href="#expertise"
-                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium" title="Graphic Design & Marketing Expertise">Expertise</a>
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="Graphic Design & Marketing Expertise">Expertise</a>
                             <a href="#services"
-                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium" title="Design & Digital Marketing Services">Services</a>
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="Design & Digital Marketing Services">Services</a>
                             <a href="#portfolio"
-                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium" title="Design Portfolio & Case Studies">Portfolio</a>
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="Design Portfolio & Case Studies">Portfolio</a>
+                            <a href="#webdev-portfolio"
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="Web Development Projects">Web Projects</a>
                             <a href="#testimonials"
-                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium" title="Client Reviews & Success Stories">Testimonials</a>
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="Client Reviews & Success Stories">Reviews</a>
                             <a href="#contact"
-                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 font-medium" title="Contact Design Agency">Contact</a>
+                                class="nav-link text-gray-700 hover:text-purple-600 px-3 py-2 text-sm font-medium transition-colors duration-300" title="Contact Design Agency">Contact</a>
                         </div>
                     </div>
-                    <div class="md:hidden">
-                        <button id="menu-toggle" class="text-gray-700 hover:text-purple-600 focus:outline-none">
-                            <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M4 6h16M4 12h16M4 18h16"></path>
+                    
+                    <!-- Mobile menu button -->
+                    <div class="lg:hidden">
+                        <button id="menu-toggle" class="text-gray-700 hover:text-purple-600 focus:outline-none focus:text-purple-600 p-2" aria-label="Toggle mobile menu">
+                            <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
                             </svg>
                         </button>
                     </div>
@@ -397,20 +400,24 @@
             </div>
 
             <!-- Mobile menu -->
-            <div id="mobile-menu" class="mobile-menu md:hidden bg-white shadow-lg absolute w-full z-50">
-                <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+            <div id="mobile-menu" class="mobile-menu lg:hidden bg-white shadow-lg absolute w-full z-50 border-t">
+                <div class="px-4 pt-2 pb-3 space-y-1">
                     <a href="#home"
-                        class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-purple-600">Home</a>
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">Home</a>
                     <a href="#about"
-                        class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-purple-600">About</a>
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">About</a>
                     <a href="#expertise"
-                        class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-purple-600">Expertise</a>
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">Expertise</a>
                     <a href="#services"
-                        class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-purple-600">Services</a>
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">Services</a>
                     <a href="#portfolio"
-                        class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-purple-600">Portfolio</a>
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">Portfolio</a>
+                    <a href="#webdev-portfolio"
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">Web Projects</a>
+                    <a href="#testimonials"
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">Reviews</a>
                     <a href="#contact"
-                        class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-purple-600">Contact</a>
+                        class="block px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-50 rounded-md transition-colors duration-300">Contact</a>
                 </div>
             </div>
         </nav>
@@ -1522,6 +1529,140 @@
                                         class="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm">Crafts</span>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Web Development Portfolio Section -->
+        <section id="webdev-portfolio" class="py-20 bg-white">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center mb-16">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-4">Web Development Projects</h2>
+                    <div class="w-20 h-1 bg-purple-600 mx-auto"></div>
+                    <p class="text-xl text-gray-600 mt-6 max-w-3xl mx-auto">Explore our cutting-edge web development projects featuring modern technologies, responsive designs, and exceptional user experiences that drive business growth.</p>
+                </div>
+
+                <!-- Web Dev Projects Grid -->
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Project 1: E-commerce Platform -->
+                    <div class="webdev-card bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 group">
+                        <div class="relative overflow-hidden">
+                            <!-- Project Banner Image -->
+                            <div class="webdev-banner h-64 relative">
+                                <img src="assets/webdev/banners/ecommerce-banner.png" alt="Modern E-commerce Platform Banner" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                            </div>
+                            <!-- Hover Overlay with Live Preview Button -->
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end justify-center pb-8">
+                                <a href="https://ecommerce-demo.ndcompany.in" target="_blank" class="bg-white text-purple-600 px-6 py-3 rounded-full font-semibold hover:bg-purple-600 hover:text-white transition-all duration-300 transform hover:scale-105 shadow-lg">
+                                    <i class="fas fa-external-link-alt mr-2"></i>Live Preview
+                                </a>
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 text-gray-800">Modern E-commerce Solution</h3>
+                            <p class="text-gray-600 text-sm">Full-stack e-commerce platform with payment integration and analytics.</p>
+                        </div>
+                    </div>
+
+                    <!-- Project 2: Business Dashboard -->
+                    <div class="webdev-card bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 group">
+                        <div class="relative overflow-hidden">
+                            <!-- Project Banner Image -->
+                            <div class="webdev-banner h-64 relative">
+                                <img src="assets/webdev/banners/dashboard-banner.png" alt="Business Intelligence Dashboard Banner" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                            </div>
+                            <!-- Hover Overlay with Live Preview Button -->
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end justify-center pb-8">
+                                <a href="https://dashboard-demo.ndcompany.in" target="_blank" class="bg-white text-purple-600 px-6 py-3 rounded-full font-semibold hover:bg-purple-600 hover:text-white transition-all duration-300 transform hover:scale-105 shadow-lg">
+                                    <i class="fas fa-external-link-alt mr-2"></i>Live Preview
+                                </a>
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 text-gray-800">Business Intelligence Dashboard</h3>
+                            <p class="text-gray-600 text-sm">Real-time analytics dashboard with interactive charts and reporting.</p>
+                        </div>
+                    </div>
+
+                    <!-- Project 3: Restaurant Website -->
+                    <div class="webdev-card bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 group">
+                        <div class="relative overflow-hidden">
+                            <!-- Project Banner Image -->
+                            <div class="webdev-banner h-64 relative">
+                                <img src="assets/webdev/banners/restaurant-banner.png" alt="Restaurant Website Banner" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                            </div>
+                            <!-- Hover Overlay with Live Preview Button -->
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end justify-center pb-8">
+                                <a href="https://restaurant-demo.ndcompany.in" target="_blank" class="bg-white text-purple-600 px-6 py-3 rounded-full font-semibold hover:bg-purple-600 hover:text-white transition-all duration-300 transform hover:scale-105 shadow-lg">
+                                    <i class="fas fa-external-link-alt mr-2"></i>Live Preview
+                                </a>
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 text-gray-800">Restaurant Website</h3>
+                            <p class="text-gray-600 text-sm">Modern restaurant website with online ordering and reservation system.</p>
+                        </div>
+                    </div>
+
+                    <!-- Project 4: Portfolio Website -->
+                    <div class="webdev-card bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 group">
+                        <div class="relative overflow-hidden">
+                            <!-- Project Banner Image -->
+                            <div class="webdev-banner h-64 relative">
+                                <img src="assets/webdev/banners/portfolio-banner.png" alt="Creative Portfolio Website Banner" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                            </div>
+                            <!-- Hover Overlay with Live Preview Button -->
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end justify-center pb-8">
+                                <a href="https://portfolio-demo.ndcompany.in" target="_blank" class="bg-white text-purple-600 px-6 py-3 rounded-full font-semibold hover:bg-purple-600 hover:text-white transition-all duration-300 transform hover:scale-105 shadow-lg">
+                                    <i class="fas fa-external-link-alt mr-2"></i>Live Preview
+                                </a>
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 text-gray-800">Creative Portfolio Website</h3>
+                            <p class="text-gray-600 text-sm">Interactive portfolio website with smooth animations and dark mode toggle.</p>
+                        </div>
+                    </div>
+
+                    <!-- Project 5: SaaS Platform -->
+                    <div class="webdev-card bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 group">
+                        <div class="relative overflow-hidden">
+                            <!-- Project Banner Image -->
+                            <div class="webdev-banner h-64 relative">
+                                <img src="assets/webdev/banners/saas-banner.png" alt="Enterprise SaaS Platform Banner" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                            </div>
+                            <!-- Hover Overlay with Live Preview Button -->
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end justify-center pb-8">
+                                <a href="https://saas-demo.ndcompany.in" target="_blank" class="bg-white text-purple-600 px-6 py-3 rounded-full font-semibold hover:bg-purple-600 hover:text-white transition-all duration-300 transform hover:scale-105 shadow-lg">
+                                    <i class="fas fa-external-link-alt mr-2"></i>Live Preview
+                                </a>
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 text-gray-800">Enterprise SaaS Solution</h3>
+                            <p class="text-gray-600 text-sm">Scalable SaaS platform with multi-tenancy and API integration.</p>
+                        </div>
+                    </div>
+
+                    <!-- Project 6: Real Estate Platform -->
+                    <div class="webdev-card bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 group">
+                        <div class="relative overflow-hidden">
+                            <!-- Project Banner Image -->
+                            <div class="webdev-banner h-64 relative">
+                                <img src="assets/webdev/banners/realestate-banner.png" alt="Real Estate Platform Banner" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                            </div>
+                            <!-- Hover Overlay with Live Preview Button -->
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end justify-center pb-8">
+                                <a href="https://realestate-demo.ndcompany.in" target="_blank" class="bg-white text-purple-600 px-6 py-3 rounded-full font-semibold hover:bg-purple-600 hover:text-white transition-all duration-300 transform hover:scale-105 shadow-lg">
+                                    <i class="fas fa-external-link-alt mr-2"></i>Live Preview
+                                </a>
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 text-gray-800">Property Management System</h3>
+                            <p class="text-gray-600 text-sm">Real estate platform with property listings and virtual tours.</p>
                         </div>
                     </div>
                 </div>
