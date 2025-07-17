@@ -277,3 +277,92 @@ navLinks.forEach(link => {
     }
   });
 });
+
+// Web Development Portfolio Cards Animation
+const webdevCards = document.querySelectorAll('.webdev-card');
+const webdevObserverOptions = {
+  threshold: 0.1,
+  rootMargin: '0px 0px -50px 0px'
+};
+
+function animateWebdevCards(entries) {
+  entries.forEach((entry, index) => {
+    if (entry.isIntersecting) {
+      // Add staggered delay for multiple cards
+      setTimeout(() => {
+        entry.target.classList.add("animate-in");
+      }, index * 100); // 100ms delay between cards
+    } else {
+      entry.target.classList.remove("animate-in");
+    }
+  });
+}
+
+const webdevObserver = new IntersectionObserver(animateWebdevCards, webdevObserverOptions);
+webdevCards.forEach((card) => {
+  webdevObserver.observe(card);
+});
+
+// Interactive card effects
+webdevCards.forEach(card => {
+  // Add tilt effect on mouse move
+  card.addEventListener('mousemove', function(e) {
+    const rect = this.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    
+    const centerX = rect.width / 2;
+    const centerY = rect.height / 2;
+    
+    const rotateX = (y - centerY) / 10;
+    const rotateY = (centerX - x) / 10;
+    
+    this.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-12px)`;
+  });
+  
+  // Reset transform on mouse leave
+  card.addEventListener('mouseleave', function() {
+    this.style.transform = 'perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0px)';
+  });
+  
+  // Add click ripple effect
+  card.addEventListener('click', function(e) {
+    const ripple = document.createElement('span');
+    const rect = this.getBoundingClientRect();
+    const size = Math.max(rect.height, rect.width);
+    const x = e.clientX - rect.left - size / 2;
+    const y = e.clientY - rect.top - size / 2;
+    
+    ripple.style.cssText = `
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(168, 85, 247, 0.3);
+      transform: scale(0);
+      animation: ripple 0.6s linear;
+      width: ${size}px;
+      height: ${size}px;
+      left: ${x}px;
+      top: ${y}px;
+      pointer-events: none;
+      z-index: 10;
+    `;
+    
+    this.appendChild(ripple);
+    
+    setTimeout(() => {
+      ripple.remove();
+    }, 600);
+  });
+});
+
+// Add ripple animation CSS
+const style = document.createElement('style');
+style.textContent = `
+  @keyframes ripple {
+    to {
+      transform: scale(4);
+      opacity: 0;
+    }
+  }
+`;
+document.head.appendChild(style);
