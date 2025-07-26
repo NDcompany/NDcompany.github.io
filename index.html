@@ -1747,24 +1747,230 @@
 
         <!-- Contact Section -->
         <section id="contact" class="py-20 bg-gray-50">
-            <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="text-center mb-12">
                     <h2 class="text-3xl md:text-4xl font-bold mb-4">Get Free Design & Marketing Consultation</h2>
                     <div class="w-20 h-1 bg-purple-600 mx-auto"></div>
                     <p class="text-xl text-gray-600 mt-6">Ready to transform your business with professional graphic design, web development, and digital marketing services? Contact our expert team for a free consultation and discover how we can boost your brand's success.</p>
                 </div>
 
-                <div class="text-center">
-                    <a href="mailto:ceo@ndcompany.in"
-                        class="text-purple-600 hover:underline">ceo@ndcompany.in</a>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                    <!-- Contact Form -->
+                    <div class="bg-white rounded-2xl shadow-xl p-8 card-hover">
+                        <div class="mb-6">
+                            <h3 class="text-2xl font-bold text-gray-800 mb-2">Send us a Message</h3>
+                            <p class="text-gray-600">Fill out the form below and we'll get back to you within 24 hours.</p>
+                        </div>
+                        
+                        <form id="contact-form" class="space-y-6" action="#" method="POST">
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                <div>
+                                    <label for="firstName" class="block text-sm font-medium text-gray-700 mb-2">
+                                        <i class="fas fa-user text-purple-600 mr-2"></i>First Name *
+                                    </label>
+                                    <input type="text" id="firstName" name="firstName" required
+                                        class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400"
+                                        placeholder="Enter your first name">
+                                </div>
+                                <div>
+                                    <label for="lastName" class="block text-sm font-medium text-gray-700 mb-2">
+                                        <i class="fas fa-user text-purple-600 mr-2"></i>Last Name *
+                                    </label>
+                                    <input type="text" id="lastName" name="lastName" required
+                                        class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400"
+                                        placeholder="Enter your last name">
+                                </div>
+                            </div>
+                            
+                            <div>
+                                <label for="email" class="block text-sm font-medium text-gray-700 mb-2">
+                                    <i class="fas fa-envelope text-purple-600 mr-2"></i>Email Address *
+                                </label>
+                                <input type="email" id="email" name="email" required
+                                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400"
+                                    placeholder="Enter your email address">
+                            </div>
+                            
+                            <div>
+                                <label for="phone" class="block text-sm font-medium text-gray-700 mb-2">
+                                    <i class="fas fa-phone text-purple-600 mr-2"></i>Phone Number
+                                </label>
+                                <input type="tel" id="phone" name="phone"
+                                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400"
+                                    placeholder="Enter your phone number">
+                            </div>
+                            
+                            <div>
+                                <label for="company" class="block text-sm font-medium text-gray-700 mb-2">
+                                    <i class="fas fa-building text-purple-600 mr-2"></i>Company/Organization
+                                </label>
+                                <input type="text" id="company" name="company"
+                                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400"
+                                    placeholder="Enter your company name">
+                            </div>
+                            
+                            <div>
+                                <label for="service" class="block text-sm font-medium text-gray-700 mb-2">
+                                    <i class="fas fa-cogs text-purple-600 mr-2"></i>Service Interest *
+                                </label>
+                                <select id="service" name="service" required
+                                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400">
+                                    <option value="">Select a service</option>
+                                    <option value="logo-design">Logo Design</option>
+                                    <option value="web-development">Web Development</option>
+                                    <option value="digital-marketing">Digital Marketing</option>
+                                    <option value="photography">Photography</option>
+                                    <option value="seo-services">SEO Services</option>
+                                    <option value="social-media">Social Media Marketing</option>
+                                    <option value="branding">Complete Branding Package</option>
+                                    <option value="consultation">Free Consultation</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            
+                            <div>
+                                <label for="budget" class="block text-sm font-medium text-gray-700 mb-2">
+                                    <i class="fas fa-dollar-sign text-purple-600 mr-2"></i>Project Budget
+                                </label>
+                                <select id="budget" name="budget"
+                                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400">
+                                    <option value="">Select budget range</option>
+                                    <option value="under-5k">Under ₹5,000</option>
+                                    <option value="5k-15k">₹5,000 - ₹15,000</option>
+                                    <option value="15k-50k">₹15,000 - ₹50,000</option>
+                                    <option value="50k-100k">₹50,000 - ₹1,00,000</option>
+                                    <option value="100k-plus">₹1,00,000+</option>
+                                    <option value="discuss">Let's Discuss</option>
+                                </select>
+                            </div>
+                            
+                            <div>
+                                <label for="message" class="block text-sm font-medium text-gray-700 mb-2">
+                                    <i class="fas fa-comment text-purple-600 mr-2"></i>Project Details *
+                                </label>
+                                <textarea id="message" name="message" rows="5" required
+                                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition duration-300 hover:border-purple-400 resize-none"
+                                    placeholder="Tell us about your project requirements, goals, and any specific details..."></textarea>
+                            </div>
+                            
+                            <div class="flex items-start">
+                                <div class="flex items-center h-5">
+                                    <input id="consent" name="consent" type="checkbox" required
+                                        class="w-4 h-4 text-purple-600 border-gray-300 rounded focus:ring-purple-500">
+                                </div>
+                                <div class="ml-3 text-sm">
+                                    <label for="consent" class="text-gray-600">
+                                        I agree to the <a href="#" class="text-purple-600 hover:underline">Terms of Service</a> and <a href="#" class="text-purple-600 hover:underline">Privacy Policy</a>. I consent to being contacted about my inquiry. *
+                                    </label>
+                                </div>
+                            </div>
+                            
+                            <div>
+                                <button type="submit" id="submit-btn"
+                                    class="w-full bg-purple-600 text-white px-8 py-4 rounded-lg font-semibold hover:bg-purple-700 focus:ring-4 focus:ring-purple-300 transition duration-300 transform hover:scale-105 hover:shadow-lg">
+                                    <i class="fas fa-paper-plane mr-2"></i>
+                                    <span id="btn-text">Send Message</span>
+                                    <i id="loading-spinner" class="fas fa-spinner fa-spin ml-2 hidden"></i>
+                                </button>
+                            </div>
+                            
+                            <div id="form-message" class="hidden p-4 rounded-lg text-center font-medium"></div>
+                        </form>
+                    </div>
+                    
+                    <!-- Contact Information -->
+                    <div class="space-y-8">
+                        <!-- Contact Details Card -->
+                        <div class="bg-white rounded-2xl shadow-xl p-8 card-hover">
+                            <h3 class="text-2xl font-bold text-gray-800 mb-6">Get in Touch</h3>
+                            
+                            <div class="space-y-6">
+                                <div class="flex items-start space-x-4">
+                                    <div class="bg-purple-100 p-3 rounded-lg">
+                                        <i class="fas fa-envelope text-purple-600 text-xl"></i>
+                                    </div>
+                                    <div>
+                                        <h4 class="font-semibold text-gray-800 mb-1">Email Us</h4>
+                                        <a href="mailto:ceo@ndcompany.in" class="text-purple-600 hover:underline">
+                                            ceo@ndcompany.in
+                                        </a>
+                                        <p class="text-sm text-gray-500 mt-1">We'll respond within 24 hours</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="flex items-start space-x-4">
+                                    <div class="bg-purple-100 p-3 rounded-lg">
+                                        <i class="fas fa-phone text-purple-600 text-xl"></i>
+                                    </div>
+                                    <div>
+                                        <h4 class="font-semibold text-gray-800 mb-2">Call Us</h4>
+                                        <div class="space-y-1">
+                                            <p class="text-gray-600">
+                                                <span class="font-medium">Nakshatra:</span>
+                                                <a href="tel:+918902109455" class="text-purple-600 hover:underline ml-2">
+                                                    +91 8902109455
+                                                </a>
+                                            </p>
+                                            <p class="text-gray-600">
+                                                <span class="font-medium">Dipro:</span>
+                                                <a href="tel:+917439376296" class="text-purple-600 hover:underline ml-2">
+                                                    +91 7439 376 296
+                                                </a>
+                                            </p>
+                                        </div>
+                                        <p class="text-sm text-gray-500 mt-1">Mon - Sat, 9:00 AM - 6:00 PM IST</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="flex items-start space-x-4">
+                                    <div class="bg-purple-100 p-3 rounded-lg">
+                                        <i class="fas fa-clock text-purple-600 text-xl"></i>
+                                    </div>
+                                    <div>
+                                        <h4 class="font-semibold text-gray-800 mb-1">Response Time</h4>
+                                        <p class="text-gray-600">We typically respond to all inquiries within 2-4 hours during business hours.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Why Choose Us Card -->
+                        <div class="bg-white rounded-2xl shadow-xl p-8 card-hover">
+                            <h3 class="text-2xl font-bold text-gray-800 mb-6">Why Choose N&D Co?</h3>
+                            
+                            <div class="space-y-4">
+                                <div class="flex items-center space-x-3">
+                                    <i class="fas fa-check-circle text-green-500"></i>
+                                    <span class="text-gray-700">Free consultation & project quote</span>
+                                </div>
+                                <div class="flex items-center space-x-3">
+                                    <i class="fas fa-check-circle text-green-500"></i>
+                                    <span class="text-gray-700">24/7 customer support</span>
+                                </div>
+                                <div class="flex items-center space-x-3">
+                                    <i class="fas fa-check-circle text-green-500"></i>
+                                    <span class="text-gray-700">100% satisfaction guarantee</span>
+                                </div>
+                                <div class="flex items-center space-x-3">
+                                    <i class="fas fa-check-circle text-green-500"></i>
+                                    <span class="text-gray-700">Expert team of professionals</span>
+                                </div>
+                                <div class="flex items-center space-x-3">
+                                    <i class="fas fa-check-circle text-green-500"></i>
+                                    <span class="text-gray-700">On-time project delivery</span>
+                                </div>
+                            </div>
+                            
+                            <div class="mt-8 p-4 bg-purple-50 rounded-lg">
+                                <p class="text-sm text-purple-800 font-medium text-center">
+                                    <i class="fas fa-gift mr-2"></i>
+                                    Get a FREE consultation worth ₹2,000 when you contact us today!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <!-- email: ceo@ndcompany.in -->
-                <!-- phone: Nakshatra: +91 8902109455 -->
-                <!-- phone: Dipro: +91 7439 376 296 -->
-                <div class="text-center mt-6">
-                    Nakshatra:<p class="text-purple-600 font-semibold"> +91 8902109455</p>
-                    Dipro:<p class="text-purple-600 font-semibold"> +91 7439 376 296</p>
-                </div>
+            </div>
         </section>
 
         <!-- Footer -->
