@@ -264,7 +264,8 @@ body[data-theme="dark"] .text-purple-800 {
 }
 
 body[data-theme="dark"] input,
-body[data-theme="dark"] textarea {
+body[data-theme="dark"] textarea,
+body[data-theme="dark"] select {
     background-color: #181825 !important;
     color: #e5e7eb !important;
     border-color: #44446a !important;
@@ -282,6 +283,95 @@ body[data-theme="dark"] .focus\:ring-purple-500:focus {
 
 body[data-theme="dark"] .text-green-600 {
     color: #6ee7b7 !important;
+}
+
+body[data-theme="dark"] .text-green-500 {
+    color: #10b981 !important;
+}
+
+body[data-theme="dark"] select option {
+    background-color: #181825 !important;
+    color: #e5e7eb !important;
+}
+
+/* Contact Form Enhancements */
+.contact-form-animation {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.contact-form-animation.animate-in {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Form Input Focus Effects */
+.form-input-group {
+    position: relative;
+}
+
+.form-input-group input:focus + .form-label,
+.form-input-group textarea:focus + .form-label,
+.form-input-group select:focus + .form-label {
+    color: #7c3aed;
+    transform: translateY(-2px);
+}
+
+/* Success Animation */
+.success-checkmark {
+    animation: checkmark 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+@keyframes checkmark {
+    0% {
+        opacity: 0;
+        transform: scale(0) rotate(45deg);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1) rotate(0deg);
+    }
+}
+
+/* Button Loading State */
+.btn-loading {
+    background-color: #9333ea !important;
+    cursor: not-allowed;
+    transform: none !important;
+}
+
+/* Form Validation Styles */
+.input-error {
+    border-color: #ef4444 !important;
+    box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.2) !important;
+}
+
+.input-success {
+    border-color: #10b981 !important;
+    box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2) !important;
+}
+
+/* Contact Cards Hover Effects */
+.contact-info-card {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.contact-info-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+/* Mobile Responsive Improvements */
+@media (max-width: 768px) {
+    .contact-form-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .form-grid-cols {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* Avatar Styling */
