@@ -353,3 +353,192 @@ style.textContent = `
   }
 `;
 document.head.appendChild(style);
+
+// Contact Form Functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const contactForm = document.getElementById('contact-form');
+  const submitBtn = document.getElementById('submit-btn');
+  const btnText = document.getElementById('btn-text');
+  const loadingSpinner = document.getElementById('loading-spinner');
+  const formMessage = document.getElementById('form-message');
+
+  if (contactForm) {
+    // Form validation
+    function validateField(field) {
+      const value = field.value.trim();
+      const isRequired = field.hasAttribute('required');
+      let isValid = true;
+      
+      // Remove previous validation classes
+      field.classList.remove('input-error', 'input-success');
+      
+      if (isRequired && !value) {
+        isValid = false;
+      } else if (field.type === 'email' && value) {
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        isValid = emailRegex.test(value);
+      } else if (field.type === 'tel' && value) {
+        const phoneRegex = /^[\+]?[1-9][\d]{0,15}$/;
+        isValid = phoneRegex.test(value.replace(/\s/g, ''));
+      }
+      
+      // Add validation classes
+      if (!isValid && (value || isRequired)) {
+        field.classList.add('input-error');
+      } else if (value && isValid) {
+        field.classList.add('input-success');
+      }
+      
+      return isValid;
+    }
+
+    // Real-time validation
+    const formInputs = contactForm.querySelectorAll('input, textarea, select');
+    formInputs.forEach(input => {
+      input.addEventListener('blur', () => validateField(input));
+      input.addEventListener('input', () => {
+        if (input.classList.contains('input-error')) {
+          validateField(input);
+        }
+      });
+    });
+
+    // Form submission
+    contactForm.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      
+      // Validate all fields
+      let isFormValid = true;
+      formInputs.forEach(input => {
+        if (!validateField(input)) {
+          isFormValid = false;
+        }
+      });
+      
+      if (!isFormValid) {
+        showMessage('Please fill in all required fields correctly.', 'error');
+        return;
+      }
+      
+      // Show loading state
+      setLoadingState(true);
+      
+      try {
+        // Simulate form submission (replace with actual endpoint)
+        await simulateFormSubmission();
+        
+        // Success
+        showMessage('Thank you! Your message has been sent successfully. We\'ll get back to you within 24 hours.', 'success');
+        contactForm.reset();
+        
+        // Reset validation classes
+        formInputs.forEach(input => {
+          input.classList.remove('input-error', 'input-success');
+        });
+        
+      } catch (error) {
+        showMessage('Oops! Something went wrong. Please try again or contact us directly.', 'error');
+      } finally {
+        setLoadingState(false);
+      }
+    });
+
+    function setLoadingState(isLoading) {
+      if (isLoading) {
+        submitBtn.disabled = true;
+        submitBtn.classList.add('btn-loading');
+        btnText.textContent = 'Sending...';
+        loadingSpinner.classList.remove('hidden');
+      } else {
+        submitBtn.disabled = false;
+        submitBtn.classList.remove('btn-loading');
+        btnText.textContent = 'Send Message';
+        loadingSpinner.classList.add('hidden');
+      }
+    }
+
+    function showMessage(message, type) {
+      formMessage.className = `p-4 rounded-lg text-center font-medium ${
+        type === 'success' 
+          ? 'bg-green-100 text-green-800 border border-green-300' 
+          : 'bg-red-100 text-red-800 border border-red-300'
+      }`;
+      formMessage.textContent = message;
+      formMessage.classList.remove('hidden');
+      
+      // Auto hide after 5 seconds
+      setTimeout(() => {
+        formMessage.classList.add('hidden');
+      }, 5000);
+      
+      // Scroll to message
+      formMessage.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    // Simulate form submission (replace with actual implementation)
+    function simulateFormSubmission() {
+      return new Promise((resolve) => {
+        setTimeout(resolve, 2000); // Simulate 2 second delay
+      });
+    }
+  }
+
+  // Contact form animation on scroll
+  const observerOptions = {
+    threshold: 0.1,
+    rootMargin: '0px 0px -50px 0px'
+  };
+
+  const contactObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('animate-in');
+      }
+    });
+  }, observerOptions);
+
+  // Observe contact form elements
+  const contactElements = document.querySelectorAll('#contact .card-hover');
+  contactElements.forEach(el => {
+    el.classList.add('contact-form-animation');
+    contactObserver.observe(el);
+  });
+});
+
+// Auto-fill form from URL parameters (for marketing campaigns)
+function autoFillFromURL() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const serviceParam = urlParams.get('service');
+  const sourceParam = urlParams.get('source');
+  
+  if (serviceParam) {
+    const serviceSelect = document.getElementById('service');
+    if (serviceSelect) {
+      // Map URL parameters to form values
+      const serviceMap = {
+        'logo': 'logo-design',
+        'web': 'web-development',
+        'marketing': 'digital-marketing',
+        'photo': 'photography',
+        'seo': 'seo-services',
+        'social': 'social-media',
+        'brand': 'branding'
+      };
+      
+      const mappedService = serviceMap[serviceParam] || serviceParam;
+      if ([...serviceSelect.options].some(option => option.value === mappedService)) {
+        serviceSelect.value = mappedService;
+      }
+    }
+  }
+  
+  if (sourceParam) {
+    const messageField = document.getElementById('message');
+    if (messageField && !messageField.value) {
+      messageField.value = `I'm interested in your services. I found you through: ${sourceParam}\n\n`;
+    }
+  }
+}
+
+// Call auto-fill on page load
+document.addEventListener('DOMContentLoaded', autoFillFromURL);
