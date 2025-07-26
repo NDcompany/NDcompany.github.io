@@ -42,19 +42,6 @@ if (filters.length > 0) {
   if (filters[0]) filters[0].classList.add("bg-purple-600", "text-white");
 }
 
-// Contact form logic (demo only)
-const contactForm = document.getElementById("contact-form");
-if (contactForm) {
-  contactForm.addEventListener("submit", function (e) {
-    e.preventDefault();
-    const formStatus = document.getElementById("form-status");
-    if (formStatus) {
-      formStatus.classList.remove("hidden");
-    }
-    this.reset();
-  });
-}
-
 // Set current year in footer
 if (document.getElementById("year")) {
   document.getElementById("year").textContent = new Date().getFullYear();
