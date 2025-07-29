@@ -252,9 +252,9 @@ if (loadMoreBtn && posterItems.length > 0) {
   loadMoreBtn.style.display = "none";
 }
 
-// Smooth scroll for navbar links
-const navLinks = document.querySelectorAll('a.nav-link[href^="#"]');
-navLinks.forEach(link => {
+// Smooth scroll for navbar links and all anchor links
+const allAnchorLinks = document.querySelectorAll('a[href^="#"]');
+allAnchorLinks.forEach(link => {
   link.addEventListener('click', function(e) {
     const targetId = this.getAttribute('href').slice(1);
     const target = document.getElementById(targetId);
