@@ -247,8 +247,21 @@ body[data-theme="dark"] .bg-purple-100 {
     background-color: #3b2562 !important;
 }
 
+body[data-theme="dark"] .bg-purple-50 {
+    background-color: #2d1b57 !important;
+}
+
 body[data-theme="dark"] .text-purple-800 {
     color: #c7b6fa !important;
+}
+
+/* Dark mode styles for purple background sections */
+body[data-theme="dark"] .bg-purple-50 {
+    background-color: #2d1b69 !important;
+}
+
+body[data-theme="dark"] .text-purple-800 {
+    color: #e9d5ff !important;
 }
 
 /* Thumbnails cards scroll animation (unique style) */
@@ -371,6 +384,221 @@ body[data-theme="dark"] select option {
     
     .form-grid-cols {
         grid-template-columns: 1fr;
+    }
+}
+
+/* Modern Consultation Offer Card */
+.consultation-offer-card {
+    margin-top: 2rem;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 1px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+}
+
+.consultation-offer-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.consultation-offer-card:hover::before {
+    left: 100%;
+}
+
+.consultation-offer-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);
+}
+
+.offer-content {
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 1.5rem;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 1rem;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.offer-icon {
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.2rem;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.consultation-offer-card:hover .offer-icon {
+    transform: scale(1.1) rotate(5deg);
+}
+
+.offer-text {
+    min-width: 0;
+}
+
+.offer-title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: #1f2937;
+    margin: 0 0 0.25rem 0;
+    line-height: 1.3;
+}
+
+.offer-description {
+    font-size: 0.875rem;
+    color: #6b7280;
+    margin: 0;
+    line-height: 1.4;
+}
+
+.offer-cta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ef4444;
+    font-weight: 600;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    background: linear-gradient(135deg, #fef2f2, #fee2e2);
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    border: 1px solid #fecaca;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.offer-cta i {
+    animation: pulse 2s ease-in-out infinite;
+    transition: transform 0.3s ease;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+.consultation-offer-card:hover .offer-cta {
+    background: linear-gradient(135deg, #fee2e2, #fecaca);
+    border-color: #fca5a5;
+    transform: scale(1.05);
+}
+
+.consultation-offer-card:hover .offer-cta i {
+    transform: scale(1.1);
+}
+
+/* Dark Theme Styles */
+body[data-theme="dark"] .consultation-offer-card {
+    background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
+}
+
+body[data-theme="dark"] .offer-content {
+    background: #232336;
+}
+
+body[data-theme="dark"] .offer-title {
+    color: #f3f4f6;
+}
+
+body[data-theme="dark"] .offer-description {
+    color: #d1d5db;
+}
+
+body[data-theme="dark"] .offer-icon {
+    background: linear-gradient(135deg, #8b5cf6, #a855f7);
+    box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4);
+}
+
+body[data-theme="dark"] .offer-cta {
+    color: #f87171;
+    background: linear-gradient(135deg, #451a1a, #7f1d1d);
+    border-color: #991b1b;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body[data-theme="dark"] .consultation-offer-card:hover .offer-cta {
+    background: linear-gradient(135deg, #7f1d1d, #991b1b);
+    border-color: #b91c1c;
+    transform: scale(1.05);
+}
+
+body[data-theme="dark"] .consultation-offer-card:hover .offer-cta i {
+    transform: scale(1.1);
+}
+
+body[data-theme="dark"] .consultation-offer-card:hover {
+    box-shadow: 0 20px 40px rgba(139, 92, 246, 0.3);
+}
+
+/* Mobile Responsive Design */
+@media (max-width: 768px) {
+    .offer-content {
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto auto;
+        gap: 1rem;
+        padding: 1.25rem;
+    }
+    
+    .offer-icon {
+        grid-row: 1 / 3;
+        width: 42px;
+        height: 42px;
+        font-size: 1.1rem;
+    }
+    
+    .offer-text {
+        grid-column: 2;
+        grid-row: 1;
+    }
+    
+    .offer-cta {
+        grid-column: 2;
+        grid-row: 2;
+        justify-self: start;
+        margin-top: 0.25rem;
+    }
+    
+    .offer-title {
+        font-size: 1rem;
+        margin-bottom: 0.125rem;
+    }
+    
+    .offer-description {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .offer-content {
+        padding: 1rem;
+    }
+    
+    .offer-title {
+        font-size: 0.95rem;
+    }
+    
+    .offer-description {
+        font-size: 0.775rem;
+    }
+    
+    .offer-cta {
+        font-size: 0.85rem;
     }
 }
 
