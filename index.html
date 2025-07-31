@@ -1770,14 +1770,18 @@
                                 (function() {
                                     try {
                                         const today = new Date();
-                                        const year = today.getFullYear();
-                                        const month = String(today.getMonth() + 1).padStart(2, '0');
-                                        const day = String(today.getDate()).padStart(2, '0');
-                                        const currentDate = year + '-' + month + '-' + day;
+                                        const options = { 
+                                            year: 'numeric', 
+                                            month: 'long', 
+                                            day: 'numeric',
+                                            weekday: 'long'
+                                        };
+                                        const currentDate = today.toLocaleDateString('en-US', options);
                                         document.getElementById('CurrentDate').value = currentDate;
                                     } catch (error) {
                                         // Fallback to a default date if there's any error
-                                        document.getElementById('CurrentDate').value = 'error';
+                                        const today = new Date();
+                                        document.getElementById('CurrentDate').value = today.toDateString();
                                     }
                                 })();
                             </script>
