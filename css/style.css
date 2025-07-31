@@ -395,10 +395,37 @@ body[data-theme="dark"] select option {
     padding: 1px;
     position: relative;
     overflow: hidden;
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     cursor: pointer;
+    /* Enhanced glow effects */
+    box-shadow: 
+        0 0 20px rgba(102, 126, 234, 0.4),
+        0 0 40px rgba(102, 126, 234, 0.2),
+        0 8px 32px rgba(102, 126, 234, 0.3);
+    animation: cardGlow 4s ease-in-out infinite alternate;
+    /* Prevent child interference */
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    will-change: transform, box-shadow;
 }
 
+/* Continuous glow animation - completely independent */
+@keyframes cardGlow {
+    0% {
+        box-shadow: 
+            0 0 20px rgba(102, 126, 234, 0.4),
+            0 0 40px rgba(102, 126, 234, 0.2),
+            0 8px 32px rgba(102, 126, 234, 0.3);
+    }
+    100% {
+        box-shadow: 
+            0 0 30px rgba(102, 126, 234, 0.6),
+            0 0 60px rgba(102, 126, 234, 0.4),
+            0 12px 48px rgba(102, 126, 234, 0.5);
+    }
+}
+
+/* Enhanced shimmer effect */
 .consultation-offer-card::before {
     content: '';
     position: absolute;
@@ -406,17 +433,57 @@ body[data-theme="dark"] select option {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
-    transition: left 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    animation: shimmer 3s ease-in-out infinite;
+    z-index: 2;
+    pointer-events: none;
 }
 
-.consultation-offer-card:hover::before {
-    left: 100%;
+@keyframes shimmer {
+    0% {
+        left: -100%;
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        left: 100%;
+        opacity: 0;
+    }
+}
+
+/* Additional sparkle effect */
+.consultation-offer-card::after {
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 8px;
+    height: 8px;
+    background: radial-gradient(circle, #ffffff 0%, transparent 70%);
+    border-radius: 50%;
+    opacity: 0;
+    animation: sparkle 3s ease-in-out infinite;
+    z-index: 3;
+    pointer-events: none;
+}
+
+@keyframes sparkle {
+    0%, 100% {
+        opacity: 0;
+        transform: scale(0) rotate(0deg);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1) rotate(180deg);
+    }
 }
 
 .consultation-offer-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);
+    transform: translateY(-5px) scale(1.01);
+    /* Remove box-shadow and animation-duration changes to keep glow unaffected */
+    transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .offer-content {
@@ -429,6 +496,13 @@ body[data-theme="dark"] select option {
     align-items: center;
     position: relative;
     overflow: hidden;
+    /* Smooth transitions for inner content */
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    z-index: 1;
+    /* Prevent interference with parent hover */
+    pointer-events: auto;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
 }
 
 .offer-icon {
@@ -442,15 +516,43 @@ body[data-theme="dark"] select option {
     color: white;
     font-size: 1.2rem;
     box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
-    transition: transform 0.3s ease;
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    position: relative;
+    /* Add pulsing glow to icon */
+    animation: iconPulse 3s ease-in-out infinite;
+    /* Prevent pointer interference */
+    pointer-events: none;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    will-change: transform, box-shadow;
+}
+
+@keyframes iconPulse {
+    0%, 100% {
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        transform: scale(1);
+    }
+    50% {
+        box-shadow: 
+            0 4px 12px rgba(102, 126, 234, 0.5),
+            0 0 20px rgba(102, 126, 234, 0.4);
+        transform: scale(1.03);
+    }
 }
 
 .consultation-offer-card:hover .offer-icon {
-    transform: scale(1.1) rotate(5deg);
+    transform: scale(1.12) rotate(8deg);
+    animation-duration: 2s;
+    box-shadow: 
+        0 6px 20px rgba(102, 126, 234, 0.6),
+        0 0 30px rgba(102, 126, 234, 0.5);
 }
 
 .offer-text {
     min-width: 0;
+    /* Smooth text transitions */
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    pointer-events: none;
 }
 
 .offer-title {
@@ -459,6 +561,25 @@ body[data-theme="dark"] select option {
     color: #1f2937;
     margin: 0 0 0.25rem 0;
     line-height: 1.3;
+    /* Add subtle text glow */
+    text-shadow: 0 0 10px rgba(102, 126, 234, 0.2);
+    animation: titleGlow 4s ease-in-out infinite alternate;
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    pointer-events: none;
+}
+
+@keyframes titleGlow {
+    0% {
+        text-shadow: 0 0 10px rgba(102, 126, 234, 0.2);
+    }
+    100% {
+        text-shadow: 0 0 15px rgba(102, 126, 234, 0.4);
+    }
+}
+
+.consultation-offer-card:hover .offer-title {
+    text-shadow: 0 0 20px rgba(102, 126, 234, 0.6);
+    animation-duration: 2s;
 }
 
 .offer-description {
@@ -466,6 +587,8 @@ body[data-theme="dark"] select option {
     color: #6b7280;
     margin: 0;
     line-height: 1.4;
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    pointer-events: none;
 }
 
 .offer-cta {
@@ -480,32 +603,85 @@ body[data-theme="dark"] select option {
     padding: 0.5rem 0.75rem;
     border-radius: 8px;
     border: 1px solid #fecaca;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    position: relative;
+    overflow: hidden;
+    /* Add urgent glow animation */
+    animation: urgentGlow 3s ease-in-out infinite;
+    /* Prevent pointer interference while maintaining clickability */
+    pointer-events: auto;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    will-change: transform, box-shadow;
+    z-index: 2;
+}
+
+@keyframes urgentGlow {
+    0%, 100% {
+        box-shadow: 0 0 8px rgba(239, 68, 68, 0.3);
+    }
+    50% {
+        box-shadow: 
+            0 0 18px rgba(239, 68, 68, 0.5),
+            0 0 28px rgba(239, 68, 68, 0.3);
+    }
 }
 
 .offer-cta i {
-    animation: pulse 2s ease-in-out infinite;
-    transition: transform 0.3s ease;
+    animation: clockPulse 2s ease-in-out infinite;
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    pointer-events: none;
 }
 
-@keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.5; }
+@keyframes clockPulse {
+    0%, 100% { 
+        opacity: 1; 
+        transform: scale(1);
+    }
+    50% { 
+        opacity: 0.7; 
+        transform: scale(1.08);
+    }
 }
 
 .consultation-offer-card:hover .offer-cta {
     background: linear-gradient(135deg, #fee2e2, #fecaca);
     border-color: #fca5a5;
-    transform: scale(1.05);
+    transform: scale(1.06);
+    animation-duration: 2s;
+    box-shadow: 
+        0 0 25px rgba(239, 68, 68, 0.7),
+        0 0 40px rgba(239, 68, 68, 0.5);
 }
 
 .consultation-offer-card:hover .offer-cta i {
-    transform: scale(1.1);
+    transform: scale(1.15);
+    animation-duration: 1.5s;
 }
 
 /* Dark Theme Styles */
 body[data-theme="dark"] .consultation-offer-card {
     background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
+    box-shadow: 
+        0 0 20px rgba(139, 92, 246, 0.4),
+        0 0 40px rgba(139, 92, 246, 0.2),
+        0 8px 32px rgba(139, 92, 246, 0.3);
+    animation: cardGlowDark 3s ease-in-out infinite alternate;
+}
+
+@keyframes cardGlowDark {
+    0% {
+        box-shadow: 
+            0 0 20px rgba(139, 92, 246, 0.4),
+            0 0 40px rgba(139, 92, 246, 0.2),
+            0 8px 32px rgba(139, 92, 246, 0.3);
+    }
+    100% {
+        box-shadow: 
+            0 0 30px rgba(139, 92, 246, 0.6),
+            0 0 60px rgba(139, 92, 246, 0.4),
+            0 12px 48px rgba(139, 92, 246, 0.5);
+    }
 }
 
 body[data-theme="dark"] .offer-content {
@@ -514,6 +690,7 @@ body[data-theme="dark"] .offer-content {
 
 body[data-theme="dark"] .offer-title {
     color: #f3f4f6;
+    text-shadow: 0 0 10px rgba(139, 92, 246, 0.3);
 }
 
 body[data-theme="dark"] .offer-description {
@@ -535,15 +712,21 @@ body[data-theme="dark"] .offer-cta {
 body[data-theme="dark"] .consultation-offer-card:hover .offer-cta {
     background: linear-gradient(135deg, #7f1d1d, #991b1b);
     border-color: #b91c1c;
-    transform: scale(1.05);
+    transform: scale(1.08);
+    box-shadow: 
+        0 0 20px rgba(248, 113, 113, 0.6),
+        0 0 35px rgba(248, 113, 113, 0.4);
 }
 
 body[data-theme="dark"] .consultation-offer-card:hover .offer-cta i {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 
 body[data-theme="dark"] .consultation-offer-card:hover {
-    box-shadow: 0 20px 40px rgba(139, 92, 246, 0.3);
+    box-shadow: 
+        0 0 40px rgba(139, 92, 246, 0.7),
+        0 0 80px rgba(139, 92, 246, 0.5),
+        0 20px 60px rgba(139, 92, 246, 0.6);
 }
 
 /* Mobile Responsive Design */
