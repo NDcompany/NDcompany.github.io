@@ -264,6 +264,52 @@ body[data-theme="dark"] .text-purple-800 {
     color: #e9d5ff !important;
 }
 
+body[data-theme="dark"] .text-purple-700 {
+    color: #d8b4fe !important;
+}
+
+body[data-theme="dark"] .text-purple-600 {
+    color: #c084fc !important;
+}
+
+body[data-theme="dark"] .border-purple-200 {
+    border-color: #6b46c1 !important;
+}
+
+/* Dark mode hover states for purple links */
+body[data-theme="dark"] .hover\:text-purple-800:hover {
+    color: #f3e8ff !important;
+}
+
+body[data-theme="dark"] .text-purple-600.underline {
+    color: #c084fc !important;
+}
+
+/* Terms page specific contact section dark mode styles */
+body[data-theme="dark"] .prose .bg-purple-50 {
+    background-color: #2d1b69 !important;
+}
+
+body[data-theme="dark"] .prose .text-purple-800 {
+    color: #e9d5ff !important;
+}
+
+body[data-theme="dark"] .prose .text-purple-700 {
+    color: #d8b4fe !important;
+}
+
+body[data-theme="dark"] .prose .text-purple-600 {
+    color: #c084fc !important;
+}
+
+body[data-theme="dark"] .prose .border-purple-200 {
+    border-color: #6b46c1 !important;
+}
+
+body[data-theme="dark"] .prose .text-purple-600.hover\:text-purple-800:hover {
+    color: #f3e8ff !important;
+}
+
 /* Thumbnails cards scroll animation (unique style) */
 .thumbnails-card-init {
     opacity: 0;
@@ -300,6 +346,65 @@ body[data-theme="dark"] .text-green-600 {
 
 body[data-theme="dark"] .text-green-500 {
     color: #10b981 !important;
+}
+
+/* Index.html Contact Section Dark Mode Styles */
+body[data-theme="dark"] #contact.bg-gray-50 {
+    background-color: #1a1a27 !important;
+}
+
+body[data-theme="dark"] #contact .bg-white {
+    background-color: #242438 !important;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(139, 92, 246, 0.1) !important;
+    border: 1px solid rgba(139, 92, 246, 0.2) !important;
+}
+
+body[data-theme="dark"] #contact .card-hover:hover {
+    box-shadow: 0 35px 60px -12px rgba(139, 92, 246, 0.4), 0 0 0 1px rgba(139, 92, 246, 0.3) !important;
+    transform: translateY(-15px) !important;
+}
+
+body[data-theme="dark"] #contact .bg-purple-100 {
+    background-color: #3b2764 !important;
+    box-shadow: 0 4px 6px -1px rgba(139, 92, 246, 0.2) !important;
+}
+
+body[data-theme="dark"] #contact .text-gray-800 {
+    color: #f1f5f9 !important;
+}
+
+body[data-theme="dark"] #contact .text-gray-700 {
+    color: #e2e8f0 !important;
+}
+
+body[data-theme="dark"] #contact .text-gray-600 {
+    color: #cbd5e1 !important;
+}
+
+body[data-theme="dark"] #contact .text-gray-500 {
+    color: #94a3b8 !important;
+}
+
+body[data-theme="dark"] #contact .border-gray-300 {
+    border-color: #475569 !important;
+}
+
+body[data-theme="dark"] #contact .hover\:border-purple-400:hover {
+    border-color: #a855f7 !important;
+}
+
+body[data-theme="dark"] #contact .focus\:ring-purple-500:focus {
+    box-shadow: 0 0 0 3px rgba(168, 85, 247, 0.4) !important;
+}
+
+body[data-theme="dark"] #contact .bg-purple-600 {
+    background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%) !important;
+    box-shadow: 0 10px 25px -5px rgba(124, 58, 237, 0.4) !important;
+}
+
+body[data-theme="dark"] #contact .bg-purple-600:hover {
+    background: linear-gradient(135deg, #6d28d9 0%, #9333ea 100%) !important;
+    box-shadow: 0 15px 35px -5px rgba(124, 58, 237, 0.6) !important;
 }
 
 body[data-theme="dark"] select option {
