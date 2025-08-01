@@ -11,7 +11,7 @@
 <!-- Homepage -->
 <url>
   <loc>https://ndcompany.in/</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
   <image:image>
@@ -20,16 +20,50 @@
     <image:caption>Leading freelance agency specializing in logo design, web development, digital marketing, SEO services, and professional photography</image:caption>
   </image:image>
   <image:image>
-    <image:loc>https://ndcompany.in/assets/logo/SYMBOL-LIGHT.png</image:loc>
-    <image:title>N&amp;D Co. Logo</image:title>
-    <image:caption>Official logo of N&amp;D Co. freelance agency</image:caption>
+    <image:loc>https://ndcompany.in/assets/banner/banner.png</image:loc>
+    <image:title>N&amp;D Co. Agency Banner</image:title>
+    <image:caption>Professional banner image for N&amp;D Co. freelance agency</image:caption>
   </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/assets/logo/SYMBOL-LIGHT.png</image:loc>
+    <image:title>N&amp;D Co. Logo Light</image:title>
+    <image:caption>Official light version logo of N&amp;D Co. freelance agency</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/assets/logo/SYMBOL-DARK.png</image:loc>
+    <image:title>N&amp;D Co. Logo Dark</image:title>
+    <image:caption>Official dark version logo of N&amp;D Co. freelance agency</image:caption>
+  </image:image>
+</url>
+
+<!-- Terms of Service Page -->
+<url>
+  <loc>https://ndcompany.in/terms-of-services.html</loc>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
+</url>
+
+<!-- Privacy Policy Page -->
+<url>
+  <loc>https://ndcompany.in/privacy-policy.html</loc>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
+</url>
+
+<!-- 404 Error Page -->
+<url>
+  <loc>https://ndcompany.in/404.html</loc>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.3</priority>
 </url>
 
 <!-- About Section -->
 <url>
   <loc>https://ndcompany.in/#about</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
   <image:image>
@@ -44,10 +78,18 @@
   </image:image>
 </url>
 
+<!-- Expertise Section -->
+<url>
+  <loc>https://ndcompany.in/#expertise</loc>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
 <!-- Services Section -->
 <url>
   <loc>https://ndcompany.in/#services</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.9</priority>
 </url>
@@ -55,7 +97,7 @@
 <!-- Portfolio Section -->
 <url>
   <loc>https://ndcompany.in/#portfolio</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.8</priority>
   <!-- Poster Images -->
@@ -66,13 +108,8 @@
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/biryani-1.webp</image:loc>
-    <image:title>Biryani Poster Design 1</image:title>
+    <image:title>Biryani Poster Design</image:title>
     <image:caption>Creative food poster design for biryani restaurant by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/biryani-2.webp</image:loc>
-    <image:title>Biryani Poster Design 2</image:title>
-    <image:caption>Professional food poster design for biryani menu by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/bread-butter.webp</image:loc>
@@ -85,14 +122,14 @@
     <image:caption>Professional brunch menu poster design by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/chicken-lollipop.webp</image:loc>
-    <image:title>Chicken Lollipop Poster Design</image:title>
-    <image:caption>Creative food poster design for chicken lollipop by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
     <image:loc>https://ndcompany.in/designs/posters/chicken-wrap.webp</image:loc>
     <image:title>Chicken Wrap Poster Design</image:title>
     <image:caption>Professional food poster design for chicken wrap by N&amp;D Co.</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/designs/posters/IRON-NERVE-FITNESS.webp</image:loc>
+    <image:title>Iron Nerve Fitness Poster Design</image:title>
+    <image:caption>Professional fitness poster design for Iron Nerve Fitness by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/posters/meduvada.webp</image:loc>
@@ -100,9 +137,14 @@
     <image:caption>Traditional food poster design for meduvada by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/wings.webp</image:loc>
-    <image:title>Wings Poster Design</image:title>
-    <image:caption>Creative food poster design for chicken wings by N&amp;D Co.</image:caption>
+    <image:loc>https://ndcompany.in/designs/posters/steamed-momo.webp</image:loc>
+    <image:title>Steamed Momo Poster Design</image:title>
+    <image:caption>Asian food poster design for steamed momo by N&amp;D Co.</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/designs/posters/wafflerys.webp</image:loc>
+    <image:title>Wafflerys Poster Design</image:title>
+    <image:caption>Dessert poster design for waffles by N&amp;D Co.</image:caption>
   </image:image>
   <!-- Logo Images -->
   <image:image>
@@ -168,20 +210,51 @@
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/money.webp</image:loc>
-    <image:title>Money Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for finance content by N&amp;D Co.</image:caption>
+    <image:title>Money Tips Thumbnail Design</image:title>
+    <image:caption>Financial advice thumbnail design by N&amp;D Co.</image:caption>
   </image:image>
   <image:image>
     <image:loc>https://ndcompany.in/designs/thumbnails/tech-hacks.webp</image:loc>
-    <image:title>Tech Hacks Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for tech content by N&amp;D Co.</image:caption>
+    <image:title>Tech Hacks Thumbnail Design</image:title>
+    <image:caption>Technology tips thumbnail design by N&amp;D Co.</image:caption>
+  </image:image>
+</url>
+
+<!-- Web Development Portfolio Section -->
+<url>
+  <loc>https://ndcompany.in/#webdev-portfolio</loc>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+  <image:image>
+    <image:loc>https://ndcompany.in/webdev/Coming-Soon.webp</image:loc>
+    <image:title>Web Development Projects Coming Soon</image:title>
+    <image:caption>Upcoming web development projects by N&amp;D Co.</image:caption>
+  </image:image>
+</url>
+
+<!-- Genco AI Productivity Platform -->
+<url>
+  <loc>https://ndcompany.in/webdev/Genco/</loc>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+  <image:image>
+    <image:loc>https://ndcompany.in/webdev/Genco/banner.webp</image:loc>
+    <image:title>Genco AI Productivity Platform</image:title>
+    <image:caption>Revolutionary AI-powered productivity platform by N&amp;D Co. that automates, organizes, and optimizes workflows in real-time</image:caption>
+  </image:image>
+  <image:image>
+    <image:loc>https://ndcompany.in/webdev/Genco/banner.png</image:loc>
+    <image:title>Genco Platform Banner</image:title>
+    <image:caption>Genco AI productivity platform promotional banner by N&amp;D Co.</image:caption>
   </image:image>
 </url>
 
 <!-- Testimonials Section -->
 <url>
   <loc>https://ndcompany.in/#testimonials</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.7</priority>
   <image:image>
@@ -204,78 +277,9 @@
 <!-- Contact Section -->
 <url>
   <loc>https://ndcompany.in/#contact</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
-</url>
-
-<!-- Web Development Portfolio Section -->
-<url>
-  <loc>https://ndcompany.in/#webdev-portfolio</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.9</priority>
-  <!-- Web Development Project Images -->
-  <image:image>
-    <image:loc>https://ndcompany.in/webdev/Genco/banner.webp</image:loc>
-    <image:title>Genco AI-Powered Productivity Platform</image:title>
-    <image:caption>Revolutionary AI-powered productivity platform by N&amp;D Co. that automates, organizes, and optimizes workflows in real-time</image:caption>
-  </image:image>
-</url>
-
-<!-- Image to PDF Tool -->
-<url>
-  <loc>https://ndcompany.in/tools/image-to-pdf/</loc>
-  <lastmod>2025-07-17T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-  <!-- Main Logo -->
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/logo/SYMBOL-LIGHT.png</image:loc>
-    <image:title>Free Image to PDF Converter Tool by N&amp;D Co.</image:title>
-    <image:caption>Professional image to PDF converter tool - Convert JPG, PNG, WEBP to PDF online for free. Privacy-first, client-side processing by N&amp;D Co.</image:caption>
-  </image:image>
-  <!-- Screenshots from Web Manifest -->
-  <image:image>
-    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/screenshots/screenshot-wide.png</image:loc>
-    <image:title>Image to PDF Converter Interface - Desktop View</image:title>
-    <image:caption>Wide screen interface of the free Image to PDF converter tool showing drag &amp; drop functionality and PDF settings by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/screenshots/screenshot-narrow.png</image:loc>
-    <image:title>Mobile Image to PDF Converter Interface</image:title>
-    <image:caption>Mobile-responsive view of the Image to PDF converter tool optimized for smartphones and tablets by N&amp;D Co.</image:caption>
-  </image:image>
-  <!-- Decorative Media Assets -->
-  <image:image>
-    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/media/sparkle-green.svg</image:loc>
-    <image:title>Green Decorative Sparkle - Image to PDF Tool</image:title>
-    <image:caption>Decorative green sparkle element used in the Image to PDF converter tool design by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/media/sparkle-red.svg</image:loc>
-    <image:title>Red Decorative Sparkle - Image to PDF Tool</image:title>
-    <image:caption>Decorative red sparkle element used in the Image to PDF converter tool design by N&amp;D Co.</image:caption>
-  </image:image>
-  <!-- Tool Favicons -->
-  <image:image>
-    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/favicons/favicon-196x196.png</image:loc>
-    <image:title>Image to PDF Converter Tool Icon</image:title>
-    <image:caption>High-resolution favicon icon for the Image to PDF converter tool by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/tools/image-to-pdf/src/favicons/apple-touch-icon-152x152.png</image:loc>
-    <image:title>Apple Touch Icon - Image to PDF Tool</image:title>
-    <image:caption>Apple touch icon for the Image to PDF converter tool optimized for iOS devices by N&amp;D Co.</image:caption>
-  </image:image>
-</url>
-
-<!-- Expertise Section -->
-<url>
-  <loc>https://ndcompany.in/#expertise</loc>
-  <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
 </url>
 
 </urlset>
