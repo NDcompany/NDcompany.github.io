@@ -279,8 +279,6 @@ September 2026 data on how websites score on phones for visitors in India, what 
 
 Read the guide
 
-[Add N&D Co. as a preferred source on Google](https://www.google.com/preferences/source?q=ndcompany.in)
-
 ## Ready to start?
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.

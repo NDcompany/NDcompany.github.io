@@ -102,8 +102,6 @@ Read the guide
 
 [All tags](https://ndcompany.in/tags)
 
-[Add N&D Co. as a preferred source on Google](https://www.google.com/preferences/source?q=ndcompany.in)
-
 ## Rather hand it over?
 
 If you would rather have the work done for you, these are the services that cover it.

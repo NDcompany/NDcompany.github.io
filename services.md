@@ -112,8 +112,6 @@ Most projects include two to three review rounds, and your quote states the numb
 
 Final files, access and documentation are handed over, followed by a seven-day support window for anything that needs a fix.
 
-[Add N&D Co. as a preferred source on Google](https://www.google.com/preferences/source?q=ndcompany.in)
-
 ## Not sure which service fits?
 
 Tell us what you are trying to achieve and we will suggest the smallest package that gets you there. Monday to Saturday, 9:00 AM to 6:00 PM IST.
