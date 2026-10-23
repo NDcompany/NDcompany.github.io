@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-IN">
+<title>N&amp;D Co. Blogs</title>
+<subtitle>Insights, quick tips and plain guides from N&amp;D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.</subtitle>
+<link href="https://ndcompany.in/blogs" rel="alternate" type="text/html"/>
+<link href="https://ndcompany.in/atom.xml" rel="self" type="application/atom+xml"/>
+<id>https://ndcompany.in/blogs</id>
+<updated>2026-10-23T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
+<entry>
+<title>Technical SEO checklist for small business websites</title>
+<link href="https://ndcompany.in/blogs/technical-seo-checklist" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/technical-seo-checklist-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/technical-seo-checklist</id>
+<published>2026-10-23T00:00:00+05:30</published>
+<updated>2026-10-23T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="technical-seo" label="Technical SEO" scheme="https://ndcompany.in/tags/"/>
+<category term="google-search-console" label="Google Search Console" scheme="https://ndcompany.in/tags/"/>
+<category term="core-web-vitals" label="Core Web Vitals" scheme="https://ndcompany.in/tags/"/>
+<summary>Twelve technical SEO checks for a small business website, in priority order: Search Console, indexing, robots.txt, sitemap, HTTPS, phones, speed and schema.</summary>
+</entry>
+<entry>
+<title>How to plan a business website before you hire anyone</title>
+<link href="https://ndcompany.in/blogs/plan-a-business-website" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/plan-a-business-website-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/plan-a-business-website</id>
+<published>2026-10-23T00:00:00+05:30</published>
+<updated>2026-10-23T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="websites" label="Websites" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="website-planning" label="Website planning" scheme="https://ndcompany.in/tags/"/>
+<category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
+<category term="core-web-vitals" label="Core Web Vitals" scheme="https://ndcompany.in/tags/"/>
+<category term="web-accessibility" label="Web accessibility" scheme="https://ndcompany.in/tags/"/>
+<summary>Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes.</summary>
+</entry>
+<entry>
+<title>Logo vs brand identity: what you are paying for</title>
+<link href="https://ndcompany.in/blogs/logo-vs-brand-identity" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/logo-vs-brand-identity-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/logo-vs-brand-identity</id>
+<published>2026-10-23T00:00:00+05:30</published>
+<updated>2026-10-23T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="branding" label="Branding" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="logos" label="Logos" scheme="https://ndcompany.in/tags/"/>
+<category term="brand-guidelines" label="Brand guidelines" scheme="https://ndcompany.in/tags/"/>
+<category term="trade-marks" label="Trade marks" scheme="https://ndcompany.in/tags/"/>
+<category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
+<summary>A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark.</summary>
+</entry>
+<entry>
+<title>Core Web Vitals explained for business owners</title>
+<link href="https://ndcompany.in/blogs/core-web-vitals-explained" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/core-web-vitals-explained-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/core-web-vitals-explained</id>
+<published>2026-10-23T00:00:00+05:30</published>
+<updated>2026-10-23T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="websites" label="Websites" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="core-web-vitals" label="Core Web Vitals" scheme="https://ndcompany.in/tags/"/>
+<category term="google-search-console" label="Google Search Console" scheme="https://ndcompany.in/tags/"/>
+<summary>What LCP, INP and CLS measure, the marks a page must hit to pass, how websites score on phones in India and what to ask your developer to fix.</summary>
+</entry>
+<entry>
+<title>Google Business Profile: a setup and upkeep guide for local businesses</title>
+<link href="https://ndcompany.in/blogs/google-business-profile-guide" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/google-business-profile-guide-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/google-business-profile-guide</id>
+<published>2026-10-23T00:00:00+05:30</published>
+<updated>2026-10-23T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="google-business-profile" label="Google Business Profile" scheme="https://ndcompany.in/tags/"/>
+<category term="local-seo" label="Local SEO" scheme="https://ndcompany.in/tags/"/>
+<category term="online-reviews" label="Online reviews" scheme="https://ndcompany.in/tags/"/>
+<category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
+<summary>Set up and verify a Google Business Profile (formerly Google My Business) in India, ask for reviews within Google's rules and avoid suspensions.</summary>
+</entry>
+<entry>
+<title>What goes into a brand style guide, and how to use one</title>
+<link href="https://ndcompany.in/blogs/brand-style-guide" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/brand-style-guide-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/brand-style-guide</id>
+<published>2026-10-23T00:00:00+05:30</published>
+<updated>2026-10-23T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="branding" label="Branding" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="brand-guidelines" label="Brand guidelines" scheme="https://ndcompany.in/tags/"/>
+<category term="logos" label="Logos" scheme="https://ndcompany.in/tags/"/>
+<category term="web-accessibility" label="Web accessibility" scheme="https://ndcompany.in/tags/"/>
+<category term="fonts" label="Fonts" scheme="https://ndcompany.in/tags/"/>
+<summary>What brand guidelines need: logo versions and platform sizes, colour pairs that pass contrast checks, font licences, Indian scripts, voice rules and templates.</summary>
+</entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- N&D Co. sitemap: the homepage, the FAQ, the tools we use and the legal pages (9 URLs). Built by scripts/prerender.mjs. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ndcompany.in/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/growth-trust.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/services.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/about/ndco-logo-mark.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/about/design-work-laptop.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/faq.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/faq</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools-we-use</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/terms</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/privacy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/cookies-policy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/disclaimer</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/refund-cancellation-policy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/security-policy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+</urlset>

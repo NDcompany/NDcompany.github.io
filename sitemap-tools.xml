@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- N&D Co. sitemap: the free tools hub and every tool (4 URLs). Built by scripts/prerender.mjs. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ndcompany.in/tools</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools/rankguru</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools/invoice-generator</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools/image-to-pdf</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+</urlset>

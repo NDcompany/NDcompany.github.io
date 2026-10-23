@@ -1,0 +1,104 @@
+# N&D Co.
+
+> Brand and growth agency in Barrackpore, Kolkata, India: brand identity and logos, websites, e-commerce and software, SEO, digital marketing, social media, video and content for businesses across India and worldwide.
+
+Every page below is also available as Markdown: add .md to its address (https://ndcompany.in/index.md for the homepage). [llms-full.txt](https://ndcompany.in/llms-full.txt) holds the full text of the main pages in one file.
+
+## Services
+
+- [All services](https://ndcompany.in/services): overview of every service, with links to each page.
+- [Website Design & Development](https://ndcompany.in/services/website-design-development): Responsive websites, e-commerce development, and SEO-optimized web solutions.
+- [SEO Services](https://ndcompany.in/services/seo-services): On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+- [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions): Complete branding including logo design, identity, and marketing materials.
+- [Software Development](https://ndcompany.in/services/software-development): Custom software, CRM systems, mobile apps, and web applications.
+- [Brand Identity Design](https://ndcompany.in/services/brand-identity-design): Logo design, brand guidelines, and visual identity systems.
+- [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions): Online store development with payment integration and optimization.
+- [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing): Google Ads, social media marketing, and ROI-focused campaigns.
+- [Social Media Management](https://ndcompany.in/services/social-media-management): Content planning, posting, and audience growth strategies.
+- [Video Production & Editing](https://ndcompany.in/services/video-production-editing): Video ads, reels, and promotional content production.
+- [Graphic Design](https://ndcompany.in/services/graphic-design): Posters, banners, ad creatives, and marketing graphics.
+- [Logo Design](https://ndcompany.in/services/logo-design): Custom logo design and brand identity creation.
+- [Content Creation](https://ndcompany.in/services/content-creation): SEO content, blogs, and social media content.
+
+## Locations
+
+- [Locations](https://ndcompany.in/locations): the countries we work with remotely from Kolkata, how projects run across timezones and how payment works from each.
+- [India](https://ndcompany.in/locations/india): Brand and growth agency in Kolkata serving businesses across India, from West Bengal to the Seven Sisters: websites, e-commerce, SEO, branding and marketing.
+- [Bangladesh](https://ndcompany.in/locations/bangladesh): N&D Co. serves businesses in Bangladesh remotely from Kolkata: websites, e-commerce, branding, SEO and marketing, in Bengali and English, in your timezone.
+- [United States](https://ndcompany.in/locations/usa): N&D Co. works remotely with US businesses: custom websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars.
+- [Netherlands](https://ndcompany.in/locations/netherlands): N&D Co. works remotely with businesses in the Netherlands: websites, webshops, branding, SEO and marketing, with hours overlapping most of the Dutch workday.
+
+## Blogs
+
+- [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist): Twelve technical SEO checks for a small business website, in priority order: Search Console, indexing, robots.txt, sitemap, HTTPS, phones, speed and schema.
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website): Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes.
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity): A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark.
+- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained): What LCP, INP and CLS measure, the marks a page must hit to pass, how websites score on phones in India and what to ask your developer to fix.
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide): Set up and verify a Google Business Profile (formerly Google My Business) in India, ask for reviews within Google's rules and avoid suspensions.
+- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide): What brand guidelines need: logo versions and platform sizes, colour pairs that pass contrast checks, font licences, Indian scripts, voice rules and templates.
+- [SEO](https://ndcompany.in/blogs/topic/seo): SEO tips, guides and insights from N&D Co. for small businesses: technical checks, indexing and Google Business Profile, with links to Google documentation.
+- [Websites](https://ndcompany.in/blogs/topic/websites): Website tips and guides from N&D Co. for business owners: planning a site before you hire anyone, page speed and Core Web Vitals, and what to fix first.
+- [Branding](https://ndcompany.in/blogs/topic/branding): Branding tips and guides from N&D Co.: what separates a logo from a brand identity, which files you should receive, and what a brand style guide needs.
+
+## Projects
+
+- [Projects](https://ndcompany.in/projects): software, marketing, branding and design work, one page per client with everything we did for them, and the client's review where there is one.
+- [Branding projects](https://ndcompany.in/projects/category/branding): Logos and brand identities for new and growing businesses: a seafood wholesaler, a wall texture maker, food brands, a pub, a hair salon and a coffee shop.
+- [Design projects](https://ndcompany.in/projects/category/design): Social media posts, ad creatives, thumbnails and other graphics.
+- [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch): An applicant portal and case management system for Bangali Oikya Manch, a community service organisation. Reported cases a day: about 5 to 6 by hand and 30 to 40 on a typical day with the platform.
+- [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish): A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 18 logo concepts, a fish with a fin of mountain peaks, a blue palette, a seal and business cards.
+- [Brand identity for Innovation Texture](https://ndcompany.in/projects/innovation-texture): A logo and brand identity for Innovation Texture, a wall texture maker in Vadodara: a rising sun that forms the letters I and T, five palettes, lockups and mockups.
+- [Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana): Ads, graphic design, reel editing and social media management for Kebabiyana, a restaurant.
+- [Marketing and design for Wafflery's](https://ndcompany.in/projects/wafflerys): Marketing and graphic design for Wafflery's, a growing food venture in Kolkata.
+- [Pio Bhai offer creative for Dream Bar](https://ndcompany.in/projects/dream-bar): An offer creative for Dream Bar, a bar and restaurant in Barrackpore, Kolkata, for its Pio Bhai weekend promotion.
+- [Gym promotion creative for Iron Nerve Fitness](https://ndcompany.in/projects/iron-nerve-fitness): A promotion creative for Iron Nerve Fitness, a premium Roman-themed gym.
+- [Food posts and ad creatives](https://ndcompany.in/projects/food-poster-series): Five food social media posts and ad creatives: a Kolkata brunch, a biryani, a chicken wrap, medu vada and a breakfast promo called Bread and Butter.
+- [YouTube thumbnail series](https://ndcompany.in/projects/youtube-thumbnail-series): Seven YouTube thumbnails for videos on fitness, food, travel, gaming, beauty, money and DIY.
+- [Logo for Edli Delight](https://ndcompany.in/projects/edli-delight): A modern logo for Edli Delight, a South Indian food chain: the name in green inside a brushed circle, beside a stack of idlis.
+- [Logo for Koustav Kitchen](https://ndcompany.in/projects/koustav-kitchen): A logo for Koustav Kitchen, a cloud kitchen startup that sells through Zomato: a cartoon chef with a whisk in a round badge.
+- [Logo for North East, a pub and bar](https://ndcompany.in/projects/north-east-pub-and-bar): A logo for North East, a pub and bar in Jaipur, built around two clinking beer mugs.
+- [Logo for Style & Co.](https://ndcompany.in/projects/style-and-co): A startup logo for Style & Co., a unisex hair salon in Salt Lake, Kolkata.
+- [Logo for Sunfresso](https://ndcompany.in/projects/sunfresso): A logo for Sunfresso, a coffee shop in Kolkata: a steaming cup under an arc, above the name and the words Coffee Shop.
+- [Logo for Taste and Bite](https://ndcompany.in/projects/taste-and-bite): A logo for Taste and Bite, a restaurant in Bhopal: a round badge with a flame over a crossed fork and spatula.
+
+## Open source
+
+- [Open source](https://ndcompany.in/open-source): Open-source code by Nakshatra Ranjan Saha, founder of N&D Co., starting with MailGrab, a Python email crawler: what each project does and how to run it.
+- [MailGrab](https://ndcompany.in/open-source/mailgrab) (Python, MIT licence): A crawler for checking which email addresses your own websites publish, and on which pages. It checks robots.txt by default and also runs as an MCP server. Source: https://github.com/OCEANOFANYTHING/MailGrab; website: https://oceanofanything.github.io/MailGrab/; current version v2.0.0, released 2026-09-03
+
+## Free tools
+
+- [Free tools](https://ndcompany.in/tools): Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus an invoice generator and an image to PDF converter.
+- [RankGuru](https://ndcompany.in/tools/rankguru): Checks a web page's title, description, headings, links, images and structured data, and compares its words with up to three competitor pages.
+- [Invoice generator](https://ndcompany.in/tools/invoice-generator): Makes an invoice from your details, items, tax and discount with a live preview, then prints it or saves it as a PDF from your browser.
+- [Image to PDF](https://ndcompany.in/tools/image-to-pdf): Turns JPEG, PNG, WebP and other images into one PDF, in the order you choose, on A4, Letter or image-sized pages. Your images never leave your device.
+
+## Tags
+
+Subjects shared by the blogs and the projects; each tag page lists both.
+
+- [Logos](https://ndcompany.in/tags/logos): The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
+- [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+- [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
+
+## Team
+
+- [Team](https://ndcompany.in/team): N&D Co.'s founder and what the team does.
+- [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha): CEO & Founder of N&D Co. and author of the blogs.
+
+## Company
+
+- [Home](https://ndcompany.in/): agency overview, selected work, client reviews, FAQ and how to reach us.
+- [Frequently asked questions](https://ndcompany.in/faq): every question and answer in one searchable place, across general topics and every service.
+- [Tools we use](https://ndcompany.in/tools-we-use): the design, video, development, SEO and AI tools behind the work, and how each is used.
+- [Terms of service](https://ndcompany.in/terms): how we quote, bill, revise and hand over work, and what you own after full payment.
+- [Privacy policy](https://ndcompany.in/privacy): what personal data the site and our work collect, why, who else handles it and your rights.
+- [Cookies policy](https://ndcompany.in/cookies-policy): the cookies and browser storage the site uses, and how to change your choice.
+- [Disclaimer](https://ndcompany.in/disclaimer): the limits of what the information and free tools on this site promise.
+- [Refund and cancellation policy](https://ndcompany.in/refund-cancellation-policy): how cancelling a project or a monthly service works, and when money is refunded.
+- [Security policy](https://ndcompany.in/security-policy): how the site runs, what waits for your consent, how client data is handled and how to report a problem.

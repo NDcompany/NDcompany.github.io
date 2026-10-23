@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- N&D Co. sitemap: the locations hub and every country we serve (5 URLs). Built by scripts/prerender.mjs. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ndcompany.in/locations</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/india</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/bangladesh</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/usa</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/netherlands</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+</urlset>

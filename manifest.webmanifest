@@ -1,0 +1,29 @@
+{
+  "id": "/",
+  "name": "N&D Co. | Brand & Growth Agency",
+  "short_name": "N&D Co.",
+  "description": "Brand and growth agency in Kolkata: websites, e-commerce, branding, SEO, digital marketing, social media and video for clients worldwide.",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#ffffff",
+  "categories": ["business", "design", "productivity"],
+  "icons": [
+    { "src": "/assets/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/favicon/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/favicon/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/assets/favicon/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Our services", "short_name": "Services", "url": "/services", "icons": [{ "src": "/assets/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "Get a quote", "short_name": "Quote", "url": "/#contact", "icons": [{ "src": "/assets/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "Frequently asked questions", "short_name": "FAQ", "url": "/faq", "icons": [{ "src": "/assets/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" }] }
+  ],
+  "screenshots": [
+    { "src": "/assets/pwa/screenshot-wide.webp", "sizes": "1280x720", "type": "image/webp", "form_factor": "wide", "label": "N&D Co. homepage on desktop" },
+    { "src": "/assets/pwa/screenshot-narrow.webp", "sizes": "412x915", "type": "image/webp", "form_factor": "narrow", "label": "N&D Co. homepage on mobile" }
+  ]
+}

@@ -1,285 +1,596 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-            http://www.google.com/schemas/sitemap-image/1.1
-            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
-
-<!-- Homepage -->
-<url>
-  <loc>https://ndcompany.in/</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>1.0</priority>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/banner/banner.webp</image:loc>
-    <image:title>N&amp;D Co. - All in One Freelance Agency</image:title>
-    <image:caption>Leading freelance agency specializing in logo design, web development, digital marketing, SEO services, and professional photography</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/banner/banner.png</image:loc>
-    <image:title>N&amp;D Co. Agency Banner</image:title>
-    <image:caption>Professional banner image for N&amp;D Co. freelance agency</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/logo/SYMBOL-LIGHT.png</image:loc>
-    <image:title>N&amp;D Co. Logo Light</image:title>
-    <image:caption>Official light version logo of N&amp;D Co. freelance agency</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/logo/SYMBOL-DARK.png</image:loc>
-    <image:title>N&amp;D Co. Logo Dark</image:title>
-    <image:caption>Official dark version logo of N&amp;D Co. freelance agency</image:caption>
-  </image:image>
-</url>
-
-<!-- Terms of Service Page -->
-<url>
-  <loc>https://ndcompany.in/terms-of-services.html</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.6</priority>
-</url>
-
-<!-- Privacy Policy Page -->
-<url>
-  <loc>https://ndcompany.in/privacy-policy.html</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.6</priority>
-</url>
-
-<!-- 404 Error Page -->
-<url>
-  <loc>https://ndcompany.in/404.html</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>yearly</changefreq>
-  <priority>0.3</priority>
-</url>
-
-<!-- About Section -->
-<url>
-  <loc>https://ndcompany.in/#about</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/avatar/nakshatra.webp</image:loc>
-    <image:title>Nakshatra Ranjan Saha - CEO &amp; Founder</image:title>
-    <image:caption>CEO and Founder of N&amp;D Co. freelance agency</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/avatar/dipro.webp</image:loc>
-    <image:title>Dipro Ghosh - Co-Founder &amp; CMO</image:title>
-    <image:caption>Co-Founder and CMO of N&amp;D Co. freelance agency</image:caption>
-  </image:image>
-</url>
-
-<!-- Expertise Section -->
-<url>
-  <loc>https://ndcompany.in/#expertise</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
-</url>
-
-<!-- Services Section -->
-<url>
-  <loc>https://ndcompany.in/#services</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.9</priority>
-</url>
-
-<!-- Portfolio Section -->
-<url>
-  <loc>https://ndcompany.in/#portfolio</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
-  <!-- Poster Images -->
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/beer.webp</image:loc>
-    <image:title>Beer Poster Design</image:title>
-    <image:caption>Professional poster design for beer branding by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/biryani-1.webp</image:loc>
-    <image:title>Biryani Poster Design</image:title>
-    <image:caption>Creative food poster design for biryani restaurant by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/bread-butter.webp</image:loc>
-    <image:title>Bread &amp; Butter Poster Design</image:title>
-    <image:caption>Creative food poster design for bakery by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/brunch.webp</image:loc>
-    <image:title>Brunch Poster Design</image:title>
-    <image:caption>Professional brunch menu poster design by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/chicken-wrap.webp</image:loc>
-    <image:title>Chicken Wrap Poster Design</image:title>
-    <image:caption>Professional food poster design for chicken wrap by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/IRON-NERVE-FITNESS.webp</image:loc>
-    <image:title>Iron Nerve Fitness Poster Design</image:title>
-    <image:caption>Professional fitness poster design for Iron Nerve Fitness by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/meduvada.webp</image:loc>
-    <image:title>Meduvada Poster Design</image:title>
-    <image:caption>Traditional food poster design for meduvada by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/steamed-momo.webp</image:loc>
-    <image:title>Steamed Momo Poster Design</image:title>
-    <image:caption>Asian food poster design for steamed momo by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/posters/wafflerys.webp</image:loc>
-    <image:title>Wafflerys Poster Design</image:title>
-    <image:caption>Dessert poster design for waffles by N&amp;D Co.</image:caption>
-  </image:image>
-  <!-- Logo Images -->
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/logos/edli-delight.webp</image:loc>
-    <image:title>Edli Delight Logo Design</image:title>
-    <image:caption>Professional logo design for Edli Delight restaurant by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/logos/koustav-kitchen.webp</image:loc>
-    <image:title>Koustav Kitchen Logo Design</image:title>
-    <image:caption>Creative logo design for Koustav Kitchen by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/logos/pub-and-bar.webp</image:loc>
-    <image:title>Pub &amp; Bar Logo Design</image:title>
-    <image:caption>Professional logo design for pub and bar by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/logos/saloon.webp</image:loc>
-    <image:title>Saloon Logo Design</image:title>
-    <image:caption>Creative logo design for saloon business by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/logos/sunfresso.webp</image:loc>
-    <image:title>Sunfresso Logo Design</image:title>
-    <image:caption>Professional coffee shop logo design for Sunfresso by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/logos/taste-and-bite.webp</image:loc>
-    <image:title>Taste &amp; Bite Logo Design</image:title>
-    <image:caption>Creative restaurant logo design for Taste &amp; Bite by N&amp;D Co.</image:caption>
-  </image:image>
-  <!-- Thumbnail Images -->
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/bali.webp</image:loc>
-    <image:title>Bali Travel Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for Bali travel content by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/deserts.webp</image:loc>
-    <image:title>Deserts Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for desert content by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/diys.webp</image:loc>
-    <image:title>DIY Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for DIY content by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/epic.webp</image:loc>
-    <image:title>Epic Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for epic content by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/fitness.webp</image:loc>
-    <image:title>Fitness Thumbnail</image:title>
-    <image:caption>Professional thumbnail design for fitness content by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/makeup.webp</image:loc>
-    <image:title>Makeup Thumbnail</image:title>
-    <image:caption>Creative thumbnail design for makeup content by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/money.webp</image:loc>
-    <image:title>Money Tips Thumbnail Design</image:title>
-    <image:caption>Financial advice thumbnail design by N&amp;D Co.</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/designs/thumbnails/tech-hacks.webp</image:loc>
-    <image:title>Tech Hacks Thumbnail Design</image:title>
-    <image:caption>Technology tips thumbnail design by N&amp;D Co.</image:caption>
-  </image:image>
-</url>
-
-<!-- Web Development Portfolio Section -->
-<url>
-  <loc>https://ndcompany.in/#webdev-portfolio</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.9</priority>
-  <image:image>
-    <image:loc>https://ndcompany.in/webdev/Coming-Soon.webp</image:loc>
-    <image:title>Web Development Projects Coming Soon</image:title>
-    <image:caption>Upcoming web development projects by N&amp;D Co.</image:caption>
-  </image:image>
-</url>
-
-<!-- Genco AI Productivity Platform -->
-<url>
-  <loc>https://ndcompany.in/webdev/Genco/</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
-  <image:image>
-    <image:loc>https://ndcompany.in/webdev/Genco/banner.webp</image:loc>
-    <image:title>Genco AI Productivity Platform</image:title>
-    <image:caption>Revolutionary AI-powered productivity platform by N&amp;D Co. that automates, organizes, and optimizes workflows in real-time</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/webdev/Genco/banner.png</image:loc>
-    <image:title>Genco Platform Banner</image:title>
-    <image:caption>Genco AI productivity platform promotional banner by N&amp;D Co.</image:caption>
-  </image:image>
-</url>
-
-<!-- Testimonials Section -->
-<url>
-  <loc>https://ndcompany.in/#testimonials</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/avatar/client-1.webp</image:loc>
-    <image:title>Client Testimonial 1</image:title>
-    <image:caption>Happy client testimonial for N&amp;D Co. services</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/avatar/client-2.webp</image:loc>
-    <image:title>Client Testimonial 2</image:title>
-    <image:caption>Satisfied customer testimonial for N&amp;D Co. services</image:caption>
-  </image:image>
-  <image:image>
-    <image:loc>https://ndcompany.in/assets/avatar/client-3.webp</image:loc>
-    <image:title>Client Testimonial 3</image:title>
-    <image:caption>Positive client feedback for N&amp;D Co. services</image:caption>
-  </image:image>
-</url>
-
-<!-- Contact Section -->
-<url>
-  <loc>https://ndcompany.in/#contact</loc>
-  <lastmod>2025-07-31T00:00:00+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-</url>
-
+<!-- N&D Co. sitemap: every page (70 URLs). Built by scripts/prerender.mjs. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ndcompany.in/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/growth-trust.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/services.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/about/ndco-logo-mark.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/about/design-work-laptop.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/faq.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/website-design-development</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/seo-services</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/full-branding-solutions</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/software-development</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/brand-identity-design</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/ecommerce-solutions</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/digital-marketing</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/social-media-management</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/video-production-editing</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/graphic-design</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/logo-design</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/content-creation</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/india</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/bangladesh</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/usa</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/netherlands</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/faq</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools-we-use</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools/rankguru</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools/invoice-generator</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tools/image-to-pdf</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/topic/seo</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/topic/websites</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/topic/branding</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/logos</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/social-media-creatives</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/brand-guidelines</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/core-web-vitals</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/team</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/category/branding</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/category/design</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/bangali-oikya-manch</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-home-page.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-website.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-application-flowchart.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-services.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-login.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-otp-email.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-applicant-dashboard.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-applicant-forms.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-applicant-documents.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-applicant-profile.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-admin-dashboard.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-admin-profile.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-all-applications.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-application-record.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-case-documents.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-instructions.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-generated-documents.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-data-export.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-super-admin-dashboard.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-super-admin-profile.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-user-management.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-reports.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-activity-log.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/sea-seven-fish</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-primary-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-tertiary-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-secondary-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-concepts-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-concepts-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-concepts-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-concepts-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-concepts-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-concepts-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-brand-icon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-icon-colourways.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-logo-variations.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-logo-variations-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-construction.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-seal.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-card-1-back.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-card-1-front.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-card-2-back.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-card-2-front.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-8.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-mockup-3.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/innovation-texture</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-stacked-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-horizontal-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-logo-variations.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-palette-options.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-palette.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-logo-files.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-construction.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-horizontal-grid.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-12.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-20.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-11.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-19.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-13.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-15.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-16.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-mockup-1.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/kebabiyana</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/kebabiyana-steamed-momo-poster.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/kebabiyana-bbq-chicken-wings.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/wafflerys</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/wafflerys-chocolate-waffle-poster.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/dream-bar</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/dream-bar-pio-bhai-poster.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/dream-bar-pio-bhai-portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/iron-nerve-fitness</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/iron-nerve-fitness-gym-poster.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/food-poster-series</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/bread-and-butter-poster.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/kolkata-brunch-poster.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/biryani-poster.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/chicken-wrap-poster.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/medu-vada-poster.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/youtube-thumbnail-series</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-bali-travel.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-fitness-challenge.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-dessert-recipes.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-gaming-moments.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-everyday-makeup.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-money-saving.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-diy-projects.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/edli-delight</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/edli-delight-logo.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/koustav-kitchen</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/koustav-kitchen-logo.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/north-east-pub-and-bar</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/pub-and-bar-logo.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/style-and-co</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/style-and-co-logo.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/sunfresso</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sunfresso-logo.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/taste-and-bite</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/taste-and-bite-logo.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/open-source</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/open-source/mailgrab</loc>
+    <lastmod>2026-10-21</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/technical-seo-checklist</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/plan-a-business-website</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/logo-vs-brand-identity</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/core-web-vitals-explained</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/google-business-profile-guide</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/brand-style-guide</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/terms</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/privacy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/cookies-policy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/disclaimer</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/refund-cancellation-policy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/security-policy</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
 </urlset>

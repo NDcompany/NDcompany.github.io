@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- N&D Co. sitemap index: one sitemap per kind of page. Built by scripts/prerender.mjs. -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://ndcompany.in/sitemap-pages.xml</loc>
+    <lastmod>2026-10-23</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ndcompany.in/sitemap-services.xml</loc>
+    <lastmod>2026-10-23</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ndcompany.in/sitemap-locations.xml</loc>
+    <lastmod>2026-10-23</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ndcompany.in/sitemap-projects.xml</loc>
+    <lastmod>2026-10-20</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ndcompany.in/sitemap-open-source.xml</loc>
+    <lastmod>2026-10-21</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ndcompany.in/sitemap-blog.xml</loc>
+    <lastmod>2026-10-23</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://ndcompany.in/sitemap-tools.xml</loc>
+    <lastmod>2026-10-23</lastmod>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,1 @@
+var e=e=>{e?.complete&&e.removeAttribute(`data-loading`)},t=e=>e.currentTarget.removeAttribute(`data-loading`);export{e as n,t};

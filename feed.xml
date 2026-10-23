@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>N&amp;D Co. Blogs</title>
+<link>https://ndcompany.in/blogs</link>
+<atom:link href="https://ndcompany.in/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Insights, quick tips and plain guides from N&amp;D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.</description>
+<language>en-in</language>
+<lastBuildDate>Thu, 22 Oct 2026 18:30:00 GMT</lastBuildDate>
+<image><url>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</url><title>N&amp;D Co. Blogs</title><link>https://ndcompany.in/blogs</link></image>
+<item>
+<title>Technical SEO checklist for small business websites</title>
+<link>https://ndcompany.in/blogs/technical-seo-checklist</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/technical-seo-checklist</guid>
+<pubDate>Thu, 22 Oct 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>SEO</category>
+<category>Technical SEO</category>
+<category>Google Search Console</category>
+<category>Core Web Vitals</category>
+<description>Twelve technical SEO checks for a small business website, in priority order: Search Console, indexing, robots.txt, sitemap, HTTPS, phones, speed and schema.</description>
+<enclosure url="https://ndcompany.in/assets/pins/technical-seo-checklist.jpg" length="81941" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/technical-seo-checklist.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>How to plan a business website before you hire anyone</title>
+<link>https://ndcompany.in/blogs/plan-a-business-website</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/plan-a-business-website</guid>
+<pubDate>Thu, 22 Oct 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Websites</category>
+<category>Website planning</category>
+<category>Working with an agency</category>
+<category>Core Web Vitals</category>
+<category>Web accessibility</category>
+<description>Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes.</description>
+<enclosure url="https://ndcompany.in/assets/pins/plan-a-business-website.jpg" length="96287" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/plan-a-business-website.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>Logo vs brand identity: what you are paying for</title>
+<link>https://ndcompany.in/blogs/logo-vs-brand-identity</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/logo-vs-brand-identity</guid>
+<pubDate>Thu, 22 Oct 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Branding</category>
+<category>Logos</category>
+<category>Brand guidelines</category>
+<category>Trade marks</category>
+<category>Working with an agency</category>
+<description>A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark.</description>
+<enclosure url="https://ndcompany.in/assets/pins/logo-vs-brand-identity.jpg" length="70570" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/logo-vs-brand-identity.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>Core Web Vitals explained for business owners</title>
+<link>https://ndcompany.in/blogs/core-web-vitals-explained</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/core-web-vitals-explained</guid>
+<pubDate>Thu, 22 Oct 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Websites</category>
+<category>Core Web Vitals</category>
+<category>Google Search Console</category>
+<description>What LCP, INP and CLS measure, the marks a page must hit to pass, how websites score on phones in India and what to ask your developer to fix.</description>
+<enclosure url="https://ndcompany.in/assets/pins/core-web-vitals-explained.jpg" length="81771" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/core-web-vitals-explained.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>Google Business Profile: a setup and upkeep guide for local businesses</title>
+<link>https://ndcompany.in/blogs/google-business-profile-guide</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/google-business-profile-guide</guid>
+<pubDate>Thu, 22 Oct 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>SEO</category>
+<category>Google Business Profile</category>
+<category>Local SEO</category>
+<category>Online reviews</category>
+<category>Working with an agency</category>
+<description>Set up and verify a Google Business Profile (formerly Google My Business) in India, ask for reviews within Google's rules and avoid suspensions.</description>
+<enclosure url="https://ndcompany.in/assets/pins/google-business-profile-guide.jpg" length="94636" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/google-business-profile-guide.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>What goes into a brand style guide, and how to use one</title>
+<link>https://ndcompany.in/blogs/brand-style-guide</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/brand-style-guide</guid>
+<pubDate>Thu, 22 Oct 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Branding</category>
+<category>Brand guidelines</category>
+<category>Logos</category>
+<category>Web accessibility</category>
+<category>Fonts</category>
+<description>What brand guidelines need: logo versions and platform sizes, colour pairs that pass contrast checks, font licences, Indian scripts, voice rules and templates.</description>
+<enclosure url="https://ndcompany.in/assets/pins/brand-style-guide.jpg" length="69423" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/brand-style-guide.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+</channel>
+</rss>
