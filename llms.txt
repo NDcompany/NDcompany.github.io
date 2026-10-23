@@ -102,3 +102,4 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Disclaimer](https://ndcompany.in/disclaimer): the limits of what the information and free tools on this site promise.
 - [Refund and cancellation policy](https://ndcompany.in/refund-cancellation-policy): how cancelling a project or a monthly service works, and when money is refunded.
 - [Security policy](https://ndcompany.in/security-policy): how the site runs, what waits for your consent, how client data is handled and how to report a problem.
+- [Free SEO audit conditions](https://ndcompany.in/free-seo-audit): what the free SEO audit covers, who can ask, when the report arrives and the offer that comes with it.

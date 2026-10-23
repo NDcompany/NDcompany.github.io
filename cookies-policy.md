@@ -4,13 +4,13 @@ description: "Cookies policy for ndcompany.in: the browser storage we use, the G
 url: "https://ndcompany.in/cookies-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-23"
+modified: "2026-10-24"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Cookies policy
 
-Effective date: 23 October 2026
+Effective date: 23 October 2026 · Last updated: 24 October 2026
 
 This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
@@ -77,14 +77,6 @@ Set: when you leave or reload a page.
 
 Lasts: until you close the tab.
 
-### `ndco-enquiry`
-
-Session storage. When you press Free SEO Audit, it lets the contact form open with a free SEO audit already chosen.
-
-Set: only when you press that button.
-
-Lasts: until the form has read it, or you close the tab.
-
 ### Analytics cookies (only after you allow them)
 
 ### `_ga`
@@ -105,7 +97,7 @@ Lasts: 2 years.
 
 ### `ndco-visit`
 
-Session storage, ours, not Google's. Remembers the first page of your visit, the website that linked you to it and the last button you clicked. It leaves your browser only if you send our contact form, which then tells us what led you to it.
+Session storage, ours, not Google's. Remembers the first page of your visit, the website that linked you to it and the last button you clicked. It leaves your browser only if you send our contact form or SEO audit form, which then tells us what led you to it.
 
 Set: after you allow analytics cookies, and when you click a button.
 
@@ -157,7 +149,7 @@ With offline access off, or never turned on, our main website runs no service wo
 
 ## 3. Third-party cookies and services
 
-Google is the only third party that sets cookies through our website, and only after you allow it in our cookie box. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are two exceptions, both described below: RankGuru, which asks each website you name for its page, and Cloudflare Turnstile, which our contact form loads when you start filling it in.
+Google is the only third party that sets cookies through our website, and only after you allow it in our cookie box. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are two exceptions, both described below: RankGuru, which asks each website you name for its page, and Cloudflare Turnstile, which our contact and SEO audit forms load when you start filling one in.
 
 **Google's own explanation:** [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
@@ -244,7 +236,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains your rights over you
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-23",
+      "dateModified": "2026-10-24",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

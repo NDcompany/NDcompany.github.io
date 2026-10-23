@@ -1,16 +1,16 @@
 ---
 title: "Privacy policy | N&D Co."
-description: "Privacy policy for N&D Co.: what we collect through our contact form or when you contact or hire us, analytics only with your consent, who receives it, how long we keep it and your rights."
+description: "Privacy policy for N&D Co.: what we collect through our contact and SEO audit forms or when you contact or hire us, analytics only with your consent, who receives it, how long we keep it and your rights."
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-23"
+modified: "2026-10-24"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026
+Effective date: 23 October 2026 · Last updated: 24 October 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -20,7 +20,9 @@ We get the personal information you choose to give us, plus, if you allow it, in
 
 This website has no sign-up or accounts. If you write to us through the contact form on our homepage, we receive your first and last name, your email address, your phone number if you give it, the service you are interested in and your project description, with the date and time you sent it and the page you sent it from. If you allowed analytics cookies, it also tells us what led you to it: the first page you opened on our site in that visit, the website that linked you to it, and the last button you clicked before the form. We do not record your IP address or details of your device with it.
 
-To keep automated spam out, the form uses Cloudflare Turnstile. It loads only when you start filling in the form, checks in the background that a person is using it and does not read what you type. Section 6 says what it processes.
+If you ask for a free SEO audit with the Free SEO Audit button, we receive your name, your email address, your website's address and the language you would like the audit in, with the date and time you sent it and the page you sent it from and, if you allowed analytics cookies, what led you to it, as for the contact form. We keep these requests in a database of their own, apart from contact form messages, and use them to carry out your audit, send you the report with our offer and reply to you. The form also records that you confirmed you own or manage the website, whether you ticked the box for tips and offers, and which version of this policy it linked to.
+
+To keep automated spam out, both forms use Cloudflare Turnstile. It loads only when you start filling in a form, checks in the background that a person is using it and does not read what you type. Section 6 says what it processes.
 
 When you email us, call us or message us on social media, we receive what you send, which can include your:
 
@@ -47,24 +49,26 @@ You do not have to give us any personal information. Without a way to reach you,
 We use the information we collect to:
 
 - Respond to your inquiries
-- Keep spam and automated abuse out of our contact form
+- Carry out the free SEO audits you ask for, and send you the report with our offer and up to two follow-ups about it
+- Send occasional SEO tips and offers to people who ask for them
+- Keep spam and automated abuse out of our contact and SEO audit forms
 - Communicate about project details and updates
 - Deliver the work you hire us for, and invoice and keep records of it
 - Improve our website and service offerings, using analytics only if you allow it
 - Use Google's advertising features, such as remarketing, only if you allow marketing cookies (see section 4)
 - Handle your grievances, which may involve AI-assisted tools (see "Contact us" below)
 
-If you are in the European Economic Area (EEA), these are the legal bases we rely on under the GDPR: your consent for analytics cookies, marketing cookies, offline access and any marketing email; steps you ask us to take before a contract, and the contract itself, for inquiries and projects; and our legitimate interests in answering messages, keeping this website and its contact form secure, finding and fixing errors on this website, and keeping the accounting and tax records the law requires.
+If you are in the European Economic Area (EEA), these are the legal bases we rely on under the GDPR: your consent for analytics cookies, marketing cookies, offline access and any marketing email; steps you ask us to take before a contract, and the contract itself, for inquiries, free SEO audit requests and projects; and our legitimate interests in answering messages, telling people who ask for a free SEO audit about our services in the report email and up to two follow-ups, keeping this website and its forms secure, finding and fixing errors on this website, and keeping the accounting and tax records the law requires.
 
 ## 3. Email marketing and newsletters
 
-We do not send marketing emails or newsletters, and this website has no newsletter sign-up. If we start, we will send them only to people who have opted in, using Mailchimp or a self-hosted email tool, and we will name the tool in this policy before the first email goes out. Like any consent you give us, you can withdraw it at any time (see section 8).
+The email with a free SEO audit report includes an offer for our services, and we may follow up about it twice: the audit form says so before you send it. Apart from that, we send marketing emails only to people who have opted in, for example by ticking the box for tips and offers on the audit form. We will send them using Mailchimp or a self-hosted email tool, and we will name the tool in this policy before the first one goes out. Every email has an unsubscribe link, and once you unsubscribe we stop. Like any consent you give us, you can withdraw it at any time (see section 8).
 
 ## 4. Cookies and tracking technologies
 
 Without your consent, our website sets no cookies; with it, Google Analytics sets its cookies on ndcompany.in, as below. Your browser's storage keeps your cookie choice, your light or dark theme, the currency you pick for prices and, for the open tab, how far down each page you were. If you tick "Remember my business details" in our invoice generator, it also keeps those details, and if a page's code fails to load, the tab keeps a note so the page reloads only once. To choose a currency before you pick one, the page reads your device's time zone in your browser. None of this is sent to us.
 
-If you start filling in our contact form, Cloudflare Turnstile runs in a small frame of its own and keeps one item, cf.turnstile.u, in that frame's storage in your browser. It sets no cookies. The form cannot be protected from spam without it, so we treat it as essential and it does not wait for your consent, but nothing of it loads until you use the form.
+If you start filling in our contact form or our SEO audit form, Cloudflare Turnstile runs in a small frame of its own and keeps one item, cf.turnstile.u, in that frame's storage in your browser. It sets no cookies. The form cannot be protected from spam without it, so we treat it as essential and it does not wait for your consent, but nothing of it loads until you use a form.
 
 Offline access is off until you switch it on in our cookie box (Accept switches it on too). While it is on, our service worker, a small script your browser runs for this site, keeps copies in your browser's Cache Storage: our offline page and its images, our homepage, the site's icons and web app manifest, each page you open and the site files those pages use (scripts, styles, fonts and images, never videos). Pages you have opened then work without a connection and load faster later. The service worker refreshes these copies from ndcompany.in while you are online and sends nothing to us or to anyone else. If you switch offline access off, or never switch it on, we register no service worker, and the next page you open removes any service worker and saved copies left from an earlier visit, including ones from our old website.
 
@@ -104,11 +108,11 @@ Runs Google Analytics for us, only if you allow analytics cookies, and its adver
 
 Every request to ndcompany.in passes through Cloudflare, which delivers the website, keeps it on HTTPS and protects it from attacks, and so processes your IP address and the details of each request. If a page fails to load, your browser may also send Cloudflare a short network error report. See the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-If you use our contact form, Cloudflare also runs Turnstile, which uses your IP address and your browser's TLS fingerprint and user agent to tell people from bots, as the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/) explains, and it stores the messages sent through the form for us in a database (Cloudflare D1).
+If you use our contact form or our SEO audit form, Cloudflare also runs Turnstile, which uses your IP address and your browser's TLS fingerprint and user agent to tell people from bots, as the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/) explains, and it stores the messages and audit requests sent through them for us in two databases (Cloudflare D1).
 
 ### Resend
 
-Emails us each message sent through our contact form, from our own ndcompany.in address. See the [Resend Privacy Policy](https://resend.com/legal/privacy-policy).
+Emails us each message and audit request sent through our forms, from our own ndcompany.in address. See the [Resend Privacy Policy](https://resend.com/legal/privacy-policy).
 
 ### Sentry
 
@@ -117,6 +121,10 @@ Receives the error reports described in section 1. They reach it through our own
 ### GitHub
 
 Hosts this website on GitHub Pages. Requests reach it through Cloudflare, which passes on your IP address, and GitHub logs visitors' IP addresses for security. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Our SEO audit tool
+
+Prepares the free SEO audits on our own computer in India. It copies each request from our Cloudflare database, checks that your email address can receive mail by asking your email provider's mail server (no email is sent), and asks Google Web Risk whether your website is on Google's list of unsafe sites. Google PageSpeed Insights tests its speed. AI models, run on our own computer or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps encrypted backups with storage providers such as Google Cloud and GitHub, which cannot read them because the keys stay with us.
 
 ### Email, phone and payment providers
 
@@ -141,13 +149,13 @@ We keep personal data only as long as we need it to:
 - Complete the project or communication
 - Comply with legal obligations
 
-**Retention period:** We keep enquiries, whether they reach us through our contact form, email, phone or social media, for 24 months after they arrive, unless you became our client. We keep project records, deliverables and invoices for 8 years after the project ends, which covers Indian tax and GST record keeping, and then delete them. You can ask us to delete your data sooner, unless the law requires us to keep it.
+**Retention period:** We keep enquiries, whether they reach us through our contact form, our free SEO audit form, email, phone or social media, for 24 months after they arrive, unless you became our client. We keep project records, deliverables and invoices for 8 years after the project ends, which covers Indian tax and GST record keeping, and then delete them. You can ask us to delete your data sooner, unless the law requires us to keep it.
 
 If you are a client and ask us to delete your project data once the project is complete, we delete it and send you a PDF confirming the deletion. We keep only what the law requires, such as accounts and tax records and, from 13 May 2027, the records of processing that the Digital Personal Data Protection Rules require us to keep for one year, and delete them when that period ends.
 
 Google Analytics deletes the user-level and event-level data it holds for us once it is 14 months old, the retention period set in our Analytics account. Our standard reports, which show only totals, are kept. Its cookies last up to 2 years: see our [cookies policy](https://ndcompany.in/cookies-policy).
 
-Messages sent through our contact form are deleted from our database automatically 24 months after they arrive, unless you became our client, in which case they stay with your project records. Our database provider can restore deleted data for up to 30 days, after which it is gone. We email ourselves a backup of the form's messages each month and keep only the latest one, so a deleted message leaves our backups within a month. We delete the copies in our email inbox and our own business systems on the same schedule.
+Messages sent through our contact form, and free SEO audit requests, are deleted from our databases automatically 24 months after they arrive, unless you became our client, in which case they stay with your project records. Our database provider can restore deleted data for up to 30 days, after which it is gone. We email ourselves a backup of each form's entries each month and keep only the latest one, so a deleted entry leaves our backups within a month. We delete the copies in our email inbox and our own business systems on the same schedule. Our Cloudflare database keeps a free SEO audit request in full until 30 days after it is sent, fails or is cancelled, and then only its number, dates and status; our audit tool keeps the request and its report for the 24 months. When the tool deletes a request, it destroys the request's key, which also makes its encrypted backups unreadable; the keys themselves are backed up apart, encrypted with a passphrase only we hold, and a destroyed key leaves those backups within 30 days. If you unsubscribe, our Cloudflare database and the tool keep a coded fingerprint of your email address, which cannot be turned back into the address, for as long as we send emails, so that we never send you our offers again. The tool's security logs record sign-ins, administrator actions and errors, without report contents or full email addresses, and are kept for one year.
 
 Sentry deletes error reports 30 days after it receives them.
 
@@ -191,7 +199,7 @@ To use any of these rights, email us from the address you used with us, or tell 
 
 ## 9. Children's privacy
 
-Our website and services are not intended for users under the age of 18. Our website and services are meant for adults. If you are under 18, please do not allow analytics or marketing cookies or send us your details; ask a parent or guardian to contact us instead. If we find that we hold a child's personal data without a parent's verifiable consent, we delete it.
+Our website and services are not intended for users under the age of 18. Our website and services are meant for adults. If you are under 18, please do not allow analytics or marketing cookies or send us your details; ask a parent or guardian to contact us instead. Our free SEO audit is only for businesses and adults aged 18 or over. If we find that we hold a child's personal data without a parent's verifiable consent, we delete it.
 
 **Child protection:** If you believe we may have collected data from a child, please contact us immediately.
 
@@ -246,7 +254,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       "@type": "WebPage",
       "@id": "https://ndcompany.in/privacy#webpage",
       "name": "Privacy policy",
-      "description": "Privacy policy for N&D Co.: what we collect through our contact form or when you contact or hire us, analytics only with your consent, who receives it, how long we keep it and your rights.",
+      "description": "Privacy policy for N&D Co.: what we collect through our contact and SEO audit forms or when you contact or hire us, analytics only with your consent, who receives it, how long we keep it and your rights.",
       "url": "https://ndcompany.in/privacy",
       "isPartOf": {
         "@type": "WebSite",
@@ -261,7 +269,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-23",
+      "dateModified": "2026-10-24",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

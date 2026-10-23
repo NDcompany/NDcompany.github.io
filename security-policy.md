@@ -4,25 +4,27 @@ description: "Security policy for N&D Co.: how our static website runs, what loa
 url: "https://ndcompany.in/security-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-23"
+modified: "2026-10-24"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Security policy
 
-Effective date: 23 October 2026
+Effective date: 23 October 2026 · Last updated: 24 October 2026
 
 This is a public summary of our security practices. It explains how our website works, what runs only with your consent, how we handle client data and how to report a security problem. It leaves out credentials and other details that could help an attacker.
 
 ## 1. How our website works
 
-This website is static: we build each page as a file in advance, GitHub Pages hosts the files, and Cloudflare sits in front of it. The site does not run on a server of ours, and it has no accounts or logins. Its only database holds the messages sent through our contact form.
+This website is static: we build each page as a file in advance, GitHub Pages hosts the files, and Cloudflare sits in front of it. The site does not run on a server of ours, and it has no accounts or logins. Its only databases hold the messages sent through our contact form and the requests sent through our free SEO audit form.
 
 Cloudflare serves every page over HTTPS, with TLS 1.2 or later, so what passes between your browser and the site is encrypted in transit. It redirects a request for the plain http:// address to https:// and tells browsers to use only HTTPS for our site from then on (HSTS). Its responses also stop other websites from showing our pages inside theirs, keep our pages in a browsing context of their own and stop browsers from guessing a file's type. Every page also carries a Content Security Policy that lets only our own scripts run, and the ones they load.
 
 The contact form on our homepage sends your message over HTTPS to our own address on ndcompany.in, where a small program that runs on Cloudflare (a Worker) checks it before anything is saved. It accepts messages only from our own pages, sits behind a Cloudflare rule that limits how many requests one visitor can send in a short time, refuses a message without a fresh Cloudflare Turnstile check that has not been used before, and drops messages from form-filling bots. Only then does it save the message in our Cloudflare database and email it to us through Resend, without your IP address or device details, and tell you it arrived. Messages are deleted 24 months after they arrive, unless you became our client. You can also reach us by email or phone.
 
-Our fonts, scripts, styles, images and videos all load from ndcompany.in. Until you give consent, our pages load nothing from any other service, except Cloudflare Turnstile once you start filling in the contact form, and Google Analytics stays off.
+The free SEO audit form works the same way, through a Worker of its own with the same checks and the same limit on requests, and saves each request in a separate database. Requests are deleted 24 months after they arrive, unless you became our client. The audit tool that prepares the reports runs on our own computer: it stores each request and report encrypted with a key of its own, keeps encrypted backups that its storage providers cannot read, and keeps security logs for a year.
+
+Our fonts, scripts, styles, images and videos all load from ndcompany.in. Until you give consent, our pages load nothing from any other service, except Cloudflare Turnstile once you start filling in the contact form or the SEO audit form, and Google Analytics stays off.
 
 Our free tools at ndcompany.in/tools are pages of this website and work the same way. They handle what you enter or add inside your browser and do not send it to us. RankGuru asks each website you name for its page straight from your browser.
 
@@ -97,7 +99,7 @@ Phone: [+91 89021 09455](tel:+918902109455)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-23",
+      "dateModified": "2026-10-24",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

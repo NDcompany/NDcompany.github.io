@@ -1,0 +1,1 @@
+var e,t=()=>e??=new Promise((t,n)=>{let r=document.createElement(`script`);r.src=`https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit`,r.async=!0,r.onload=()=>t(window.turnstile),r.onerror=()=>{e=null,n(Error(`turnstile`))},document.head.append(r)});export{t};

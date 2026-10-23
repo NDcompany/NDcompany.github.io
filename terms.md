@@ -4,13 +4,13 @@ description: "Terms of service for N&D Co., Kolkata: how we work with clients, p
 url: "https://ndcompany.in/terms"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-23"
+modified: "2026-10-24"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Terms of service
 
-Effective date: 23 October 2026
+Effective date: 23 October 2026 · Last updated: 24 October 2026
 
 N&D Co. is a brand and growth agency offering creative and digital services. By using our website at https://ndcompany.in, including the free tools at ndcompany.in/tools, or engaging with our services, you agree to these Terms of Service.
 
@@ -40,6 +40,8 @@ Our services include:
 We also take on other creative and digital work agreed with you in writing. Each service has its own page under [Services](https://ndcompany.in/services). Some services run monthly, such as SEO, social media management, performance marketing and content creation. Others are one-off projects, such as a website, a logo or a video.
 
 We handle most work with our in-house team, and for select projects we may collaborate with trusted freelancers or subcontractors when needed.
+
+The free SEO audit offered on this website is not a paid service and has its own [free SEO audit conditions](https://ndcompany.in/free-seo-audit): what it covers, who can ask, when the report arrives and the offer that comes with it.
 
 ## 3. Client engagement
 
@@ -204,7 +206,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-23",
+      "dateModified": "2026-10-24",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",
