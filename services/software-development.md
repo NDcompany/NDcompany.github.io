@@ -1,6 +1,6 @@
 ---
-title: "Custom Software Development Services in Kolkata | N&D Co."
-description: "Custom software development for businesses in India and worldwide: web applications, CRM systems, mobile apps and internal tools, built by N&D Co. in Kolkata."
+title: "Software & Android App Development in Kolkata | N&D Co."
+description: "Software and Android app development in Kolkata: web applications, CRM systems, Android and iOS apps and internal tools, for businesses in India and worldwide."
 url: "https://ndcompany.in/services/software-development"
 type: "Service"
 image: "https://ndcompany.in/assets/share/software-development.png"
@@ -8,9 +8,9 @@ image: "https://ndcompany.in/assets/share/software-development.png"
 
 Built around your workflow
 
-# Software development for growing businesses
+# Software and Android app development in Kolkata
 
-We design and build custom software: web applications, CRM systems, mobile apps and internal tools that fit the way your business already works. Scope, timeline and price are set in writing before development starts, and ownership of the deliverables named in your quote passes to you once the final invoice is paid.
+We design and build custom software: web applications, CRM systems, Android and iOS apps and internal tools that fit the way your business already works. Scope, timeline and price are set in writing before development starts, and ownership of the deliverables named in your quote passes to you once the final invoice is paid.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -320,8 +320,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/software-development#webpage",
       "url": "https://ndcompany.in/services/software-development",
-      "name": "Custom Software Development Services in Kolkata | N&D Co.",
-      "description": "Custom software development for businesses in India and worldwide: web applications, CRM systems, mobile apps and internal tools, built by N&D Co. in Kolkata.",
+      "name": "Software & Android App Development in Kolkata | N&D Co.",
+      "description": "Software and Android app development in Kolkata: web applications, CRM systems, Android and iOS apps and internal tools, for businesses in India and worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

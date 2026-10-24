@@ -368,7 +368,7 @@ We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients 
 
 Web design and development
 
-# Custom website design and development
+# Website design and development in Kolkata
 
 Source: https://ndcompany.in/services/website-design-development
 
@@ -651,11 +651,11 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Search engine optimization
 
-# SEO services for businesses in India and worldwide
+# SEO services in Kolkata for businesses in India and worldwide
 
 Source: https://ndcompany.in/services/seo-services
 
-We do technical, on-page and off-page SEO for businesses that want more visitors from Google search rather than from paid ads alone. The work runs monthly: fixing crawl and speed problems, writing and improving pages for the searches your customers make, and reporting what changed.
+We are an SEO agency in Kolkata doing technical, on-page and off-page SEO for businesses that want more visitors from Google search rather than from paid ads alone. The work runs monthly: fixing crawl and speed problems, writing and improving pages for the searches your customers make, and reporting what changed.
 
 [Request an audit](https://ndcompany.in/#contact)
 
@@ -715,7 +715,7 @@ Google Analytics and Search Console connected and checked, so traffic and indexi
 
 A report each month with rankings, organic traffic, indexing status and a log of the work completed.
 
-## SEO services pricing
+## SEO packages and pricing
 
 Every monthly fee is fixed in writing after the audit and before work starts. The tiers below are starting points; the final scope depends on site size and competition.
 
@@ -1205,11 +1205,11 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Built around your workflow
 
-# Software development for growing businesses
+# Software and Android app development in Kolkata
 
 Source: https://ndcompany.in/services/software-development
 
-We design and build custom software: web applications, CRM systems, mobile apps and internal tools that fit the way your business already works. Scope, timeline and price are set in writing before development starts, and ownership of the deliverables named in your quote passes to you once the final invoice is paid.
+We design and build custom software: web applications, CRM systems, Android and iOS apps and internal tools that fit the way your business already works. Scope, timeline and price are set in writing before development starts, and ownership of the deliverables named in your quote passes to you once the final invoice is paid.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -1785,7 +1785,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Online store development
 
-# E-commerce solutions for businesses selling across India and worldwide
+# E-commerce website development in Kolkata, for sellers across India and worldwide
 
 Source: https://ndcompany.in/services/ecommerce-solutions
 
@@ -2046,7 +2046,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Paid media and reporting
 
-# Digital marketing & performance marketing
+# Digital marketing and performance marketing in Kolkata
 
 Source: https://ndcompany.in/services/digital-marketing
 
@@ -2878,7 +2878,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Print and digital design
 
-# Graphic design for print and digital
+# Graphic and brochure design in Kolkata, for print and digital
 
 Source: https://ndcompany.in/services/graphic-design
 
@@ -3174,7 +3174,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Custom logo design
 
-# Logo design for new and growing businesses
+# Logo design in Kolkata for new and growing businesses
 
 Source: https://ndcompany.in/services/logo-design
 
@@ -9272,7 +9272,7 @@ Most places that show your logo online use a small square, and Facebook crops it
 | [Facebook Page](https://www.facebook.com/help/125379114252045) | Cropped to a circle; shown at 176 x 176 px on computers, 196 x 196 px on smartphones and 36 x 36 px on most feature phones; upload 320 x 320 px |
 | [YouTube channel](https://support.google.com/youtube/answer/10456525) | Profile picture renders at 98 x 98 px; banner at least 2048 x 1152 px, with text and logos inside 1235 x 338 px |
 | [LinkedIn Page](https://www.linkedin.com/help/linkedin/answer/a563309/image-specifications-for-your-linkedin-pages-and-career-pages) | Logo 400 x 400 px (268 x 268 px minimum), shown on light and dark backgrounds; a transparent logo sits on white |
-| [Links shared on Facebook](https://developers.facebook.com/docs/sharing/webmasters/images/) | At least 1200 x 630 px, close to 1.91:1 so Feed does not crop it |
+| [Links shared on Facebook](https://developers.facebook.com/documentation/sharing/webmasters/images) | At least 1200 x 630 px, close to 1.91:1 so Feed does not crop it |
 
 So the guide needs a square icon that still reads inside a small circle, and logo versions tested on white and on dark, because LinkedIn and Google choose the background.
 
@@ -9399,7 +9399,7 @@ Add spelling (British or American), date format, prices (₹1,00,000 or ₹100,0
 Make templates for what you produce most, with the platform sizes built in, so people start from a correct file rather than a blank page:
 
 - A YouTube banner at 2048 x 1152 px with the [1235 x 338 px safe area](https://support.google.com/youtube/answer/10456525) marked.
-- A [1200 x 630 px image](https://developers.facebook.com/docs/sharing/webmasters/images/) for shared links.
+- A [1200 x 630 px image](https://developers.facebook.com/documentation/sharing/webmasters/images) for shared links.
 - A Facebook cover with room for the profile picture, which [overlaps it by about 40 px on mobile](https://www.facebook.com/help/125379114252045).
 - A LinkedIn cover at 1512 x 256 px with anything important [away from the edges, especially the lower-right corner](https://www.linkedin.com/help/linkedin/answer/a563309/image-specifications-for-your-linkedin-pages-and-career-pages).
 

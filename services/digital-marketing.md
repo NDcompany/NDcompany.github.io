@@ -1,6 +1,6 @@
 ---
-title: "Digital & Performance Marketing in Kolkata | N&D Co."
-description: "Paid ads on Google and Meta, email campaigns and monthly performance reports for businesses across India and worldwide, from N&D Co., Kolkata."
+title: "Digital Marketing Company in Kolkata | N&D Co."
+description: "Digital marketing company in Kolkata: Google and Meta ads, email campaigns and a monthly performance report, for businesses across India and worldwide."
 url: "https://ndcompany.in/services/digital-marketing"
 type: "Service"
 image: "https://ndcompany.in/assets/share/digital-marketing.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/digital-marketing.png"
 
 Paid media and reporting
 
-# Digital marketing & performance marketing
+# Digital marketing and performance marketing in Kolkata
 
 We plan and run paid campaigns on Google Ads and Meta, write and send email campaigns, and report every month on what the spend produced. The service is for businesses across India and worldwide that want one team handling ads, email, tracking and reporting instead of separate vendors.
 
@@ -328,8 +328,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/digital-marketing#webpage",
       "url": "https://ndcompany.in/services/digital-marketing",
-      "name": "Digital & Performance Marketing in Kolkata | N&D Co.",
-      "description": "Paid ads on Google and Meta, email campaigns and monthly performance reports for businesses across India and worldwide, from N&D Co., Kolkata.",
+      "name": "Digital Marketing Company in Kolkata | N&D Co.",
+      "description": "Digital marketing company in Kolkata: Google and Meta ads, email campaigns and a monthly performance report, for businesses across India and worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

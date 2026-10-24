@@ -1,5 +1,5 @@
 ---
-title: "Custom Logo Design Services in Kolkata, India | N&D Co."
+title: "Logo Design Company in Kolkata: Custom Logos | N&D Co."
 description: "Custom logo design by N&D Co., Barrackpore, Kolkata: concept directions, refinement, vector source files and a usage guide for businesses in India and abroad."
 url: "https://ndcompany.in/services/logo-design"
 type: "Service"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/logo-design.png"
 
 Custom logo design
 
-# Logo design for new and growing businesses
+# Logo design in Kolkata for new and growing businesses
 
 We design logos from scratch for businesses starting out or replacing a mark that no longer fits. You receive a primary logo, alternate lockups, a color palette and vector source files, and the rights to the final design once the project is paid in full.
 
@@ -320,7 +320,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/logo-design#webpage",
       "url": "https://ndcompany.in/services/logo-design",
-      "name": "Custom Logo Design Services in Kolkata, India | N&D Co.",
+      "name": "Logo Design Company in Kolkata: Custom Logos | N&D Co.",
       "description": "Custom logo design by N&D Co., Barrackpore, Kolkata: concept directions, refinement, vector source files and a usage guide for businesses in India and abroad.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

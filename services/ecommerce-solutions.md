@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/ecommerce-solutions.png"
 
 Online store development
 
-# E-commerce solutions for businesses selling across India and worldwide
+# E-commerce website development in Kolkata, for sellers across India and worldwide
 
 We build online stores that take orders, payments and shipping details without manual work: catalog, checkout, payment gateway and order management set up and tested before launch. The store runs on Shopify, WooCommerce or a custom build, chosen for your catalog size and how you fulfill orders.
 

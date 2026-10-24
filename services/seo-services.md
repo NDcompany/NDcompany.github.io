@@ -1,6 +1,6 @@
 ---
-title: "SEO Services in Kolkata for Businesses in India | N&D Co."
-description: "Technical, on-page and off-page SEO for businesses in Kolkata, across India and worldwide. Monthly SEO work with a written report, from N&D Co."
+title: "SEO Company in Kolkata: SEO Services & Packages | N&D Co."
+description: "SEO company in Kolkata for businesses in India and worldwide: technical, on-page and local SEO with a monthly report. Packages from ₹7,999 a month."
 url: "https://ndcompany.in/services/seo-services"
 type: "Service"
 image: "https://ndcompany.in/assets/share/seo-services.png"
@@ -8,9 +8,9 @@ image: "https://ndcompany.in/assets/share/seo-services.png"
 
 Search engine optimization
 
-# SEO services for businesses in India and worldwide
+# SEO services in Kolkata for businesses in India and worldwide
 
-We do technical, on-page and off-page SEO for businesses that want more visitors from Google search rather than from paid ads alone. The work runs monthly: fixing crawl and speed problems, writing and improving pages for the searches your customers make, and reporting what changed.
+We are an SEO agency in Kolkata doing technical, on-page and off-page SEO for businesses that want more visitors from Google search rather than from paid ads alone. The work runs monthly: fixing crawl and speed problems, writing and improving pages for the searches your customers make, and reporting what changed.
 
 [Request an audit](https://ndcompany.in/#contact)
 
@@ -70,7 +70,7 @@ Google Analytics and Search Console connected and checked, so traffic and indexi
 
 A report each month with rankings, organic traffic, indexing status and a log of the work completed.
 
-## SEO services pricing
+## SEO packages and pricing
 
 Every monthly fee is fixed in writing after the audit and before work starts. The tiers below are starting points; the final scope depends on site size and competition.
 
@@ -317,8 +317,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/seo-services#webpage",
       "url": "https://ndcompany.in/services/seo-services",
-      "name": "SEO Services in Kolkata for Businesses in India | N&D Co.",
-      "description": "Technical, on-page and off-page SEO for businesses in Kolkata, across India and worldwide. Monthly SEO work with a written report, from N&D Co.",
+      "name": "SEO Company in Kolkata: SEO Services & Packages | N&D Co.",
+      "description": "SEO company in Kolkata for businesses in India and worldwide: technical, on-page and local SEO with a monthly report. Packages from ₹7,999 a month.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

@@ -55,7 +55,7 @@ Most places that show your logo online use a small square, and Facebook crops it
 | [Facebook Page](https://www.facebook.com/help/125379114252045) | Cropped to a circle; shown at 176 x 176 px on computers, 196 x 196 px on smartphones and 36 x 36 px on most feature phones; upload 320 x 320 px |
 | [YouTube channel](https://support.google.com/youtube/answer/10456525) | Profile picture renders at 98 x 98 px; banner at least 2048 x 1152 px, with text and logos inside 1235 x 338 px |
 | [LinkedIn Page](https://www.linkedin.com/help/linkedin/answer/a563309/image-specifications-for-your-linkedin-pages-and-career-pages) | Logo 400 x 400 px (268 x 268 px minimum), shown on light and dark backgrounds; a transparent logo sits on white |
-| [Links shared on Facebook](https://developers.facebook.com/docs/sharing/webmasters/images/) | At least 1200 x 630 px, close to 1.91:1 so Feed does not crop it |
+| [Links shared on Facebook](https://developers.facebook.com/documentation/sharing/webmasters/images) | At least 1200 x 630 px, close to 1.91:1 so Feed does not crop it |
 
 So the guide needs a square icon that still reads inside a small circle, and logo versions tested on white and on dark, because LinkedIn and Google choose the background.
 
@@ -182,7 +182,7 @@ Add spelling (British or American), date format, prices (₹1,00,000 or ₹100,0
 Make templates for what you produce most, with the platform sizes built in, so people start from a correct file rather than a blank page:
 
 - A YouTube banner at 2048 x 1152 px with the [1235 x 338 px safe area](https://support.google.com/youtube/answer/10456525) marked.
-- A [1200 x 630 px image](https://developers.facebook.com/docs/sharing/webmasters/images/) for shared links.
+- A [1200 x 630 px image](https://developers.facebook.com/documentation/sharing/webmasters/images) for shared links.
 - A Facebook cover with room for the profile picture, which [overlaps it by about 40 px on mobile](https://www.facebook.com/help/125379114252045).
 - A LinkedIn cover at 1512 x 256 px with anything important [away from the edges, especially the lower-right corner](https://www.linkedin.com/help/linkedin/answer/a563309/image-specifications-for-your-linkedin-pages-and-career-pages).
 

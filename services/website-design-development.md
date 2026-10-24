@@ -1,6 +1,6 @@
 ---
-title: "Website Design & Development Services in Kolkata | N&D Co."
-description: "Custom website design and development by N&D Co., Kolkata: responsive business sites, e-commerce stores, WordPress, landing pages and web apps, worldwide."
+title: "Website Design & Development Company in Kolkata | N&D Co."
+description: "Website design and development in Kolkata from ₹9,999: custom business sites, e-commerce stores, WordPress and web apps, for clients in India and worldwide."
 url: "https://ndcompany.in/services/website-design-development"
 type: "Service"
 image: "https://ndcompany.in/assets/share/website-design-development.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/website-design-development.png"
 
 Web design and development
 
-# Custom website design and development
+# Website design and development in Kolkata
 
 We design and build custom websites for businesses that need a site to bring in leads, sell products or explain what they do. Each project covers design, development, content placement, mobile testing and launch, with a 7-day support window after handover.
 
@@ -317,8 +317,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/website-design-development#webpage",
       "url": "https://ndcompany.in/services/website-design-development",
-      "name": "Website Design & Development Services in Kolkata | N&D Co.",
-      "description": "Custom website design and development by N&D Co., Kolkata: responsive business sites, e-commerce stores, WordPress, landing pages and web apps, worldwide.",
+      "name": "Website Design & Development Company in Kolkata | N&D Co.",
+      "description": "Website design and development in Kolkata from ₹9,999: custom business sites, e-commerce stores, WordPress and web apps, for clients in India and worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

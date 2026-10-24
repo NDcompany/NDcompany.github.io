@@ -1,5 +1,5 @@
 ---
-title: "Restaurant social media and ads for Kebabiyana | N&D Co."
+title: "Restaurant social media marketing for Kebabiyana | N&D Co."
 description: "We ran ads, designed posts and ad creatives, edited reels and managed social media for Kebabiyana, a restaurant. One creative sells steamed momos at ₹59."
 url: "https://ndcompany.in/projects/kebabiyana"
 type: "CreativeWork"
@@ -162,7 +162,7 @@ Tell us about your business in a few lines and we will reply with questions or a
       "@type": "WebPage",
       "@id": "https://ndcompany.in/projects/kebabiyana#webpage",
       "url": "https://ndcompany.in/projects/kebabiyana",
-      "name": "Restaurant social media and ads for Kebabiyana | N&D Co.",
+      "name": "Restaurant social media marketing for Kebabiyana | N&D Co.",
       "description": "We ran ads, designed posts and ad creatives, edited reels and managed social media for Kebabiyana, a restaurant. One creative sells steamed momos at ₹59.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

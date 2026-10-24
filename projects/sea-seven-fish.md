@@ -1,5 +1,5 @@
 ---
-title: "Sea Seven Fish brand identity case study | N&D Co."
+title: "Sea Seven Fish seafood logo and brand identity | N&D Co."
 description: "Brand identity for Sea Seven Fish, a seafood brand from Northeast India: 18 logo concepts, the chosen Mountains & Waters mark, colours, fonts and guidelines."
 url: "https://ndcompany.in/projects/sea-seven-fish"
 type: "CreativeWork"
@@ -379,7 +379,7 @@ Tell us about your business in a few lines and we will reply with questions or a
       "@type": "WebPage",
       "@id": "https://ndcompany.in/projects/sea-seven-fish#webpage",
       "url": "https://ndcompany.in/projects/sea-seven-fish",
-      "name": "Sea Seven Fish brand identity case study | N&D Co.",
+      "name": "Sea Seven Fish seafood logo and brand identity | N&D Co.",
       "description": "Brand identity for Sea Seven Fish, a seafood brand from Northeast India: 18 logo concepts, the chosen Mountains & Waters mark, colours, fonts and guidelines.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
