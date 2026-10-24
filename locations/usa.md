@@ -1,6 +1,6 @@
 ---
 title: "Web Design & Marketing for US Businesses | N&D Co."
-description: "N&D Co. works remotely with US businesses: custom websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars."
+description: "N&D Co. works remotely with US businesses: websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars."
 url: "https://ndcompany.in/locations/usa"
 type: "Service"
 image: "https://ndcompany.in/assets/share/services.png"
@@ -143,7 +143,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/locations/usa#webpage",
       "url": "https://ndcompany.in/locations/usa",
       "name": "Web Design & Marketing for US Businesses | N&D Co.",
-      "description": "N&D Co. works remotely with US businesses: custom websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars.",
+      "description": "N&D Co. works remotely with US businesses: websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

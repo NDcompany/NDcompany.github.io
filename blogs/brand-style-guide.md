@@ -1,5 +1,5 @@
 ---
-title: "Brand style guide: what to include and how to use it | N&D Co."
+title: "Brand style guide: what goes in and how to use it | N&D Co."
 description: "What brand guidelines need: logo versions and platform sizes, colour pairs that pass contrast checks, font licences, Indian scripts, voice rules and templates."
 url: "https://ndcompany.in/blogs/brand-style-guide"
 type: "BlogPosting"
@@ -410,7 +410,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "WebPage",
       "@id": "https://ndcompany.in/blogs/brand-style-guide#webpage",
       "url": "https://ndcompany.in/blogs/brand-style-guide",
-      "name": "Brand style guide: what to include and how to use it | N&D Co.",
+      "name": "Brand style guide: what goes in and how to use it | N&D Co.",
       "description": "What brand guidelines need: logo versions and platform sizes, colour pairs that pass contrast checks, font licences, Indian scripts, voice rules and templates.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

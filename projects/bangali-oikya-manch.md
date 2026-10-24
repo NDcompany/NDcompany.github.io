@@ -1,6 +1,6 @@
 ---
 title: "Bangali Oikya Manch case study: case management platform"
-description: "We built an applicant portal and case management system for Bangali Oikya Manch. Reported cases a day: 5 to 6 by hand, 30 to 40 on a typical day with the platform."
+description: "An applicant portal and case management system for Bangali Oikya Manch. Reported cases a day: 5 to 6 by hand, 30 to 40 on a typical day with the platform."
 url: "https://ndcompany.in/projects/bangali-oikya-manch"
 type: "CreativeWork"
 image: "https://ndcompany.in/assets/projects/bangali-oikya-manch-16x9.png"
@@ -507,7 +507,7 @@ Tell us about your business in a few lines and we will reply with questions or a
       "@id": "https://ndcompany.in/projects/bangali-oikya-manch#webpage",
       "url": "https://ndcompany.in/projects/bangali-oikya-manch",
       "name": "Bangali Oikya Manch case study: case management platform",
-      "description": "We built an applicant portal and case management system for Bangali Oikya Manch. Reported cases a day: 5 to 6 by hand, 30 to 40 on a typical day with the platform.",
+      "description": "An applicant portal and case management system for Bangali Oikya Manch. Reported cases a day: 5 to 6 by hand, 30 to 40 on a typical day with the platform.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

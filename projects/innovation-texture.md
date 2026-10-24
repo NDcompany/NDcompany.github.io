@@ -1,6 +1,6 @@
 ---
 title: "Innovation Texture brand identity case study | N&D Co."
-description: "Logo and brand identity for Innovation Texture, a wall texture maker in Vadodara: a rising sun formed from I and T, a bulb, buildings, five palettes and lockups."
+description: "Logo and brand identity for Innovation Texture, a Vadodara wall texture maker: a rising sun formed from I and T, a bulb, buildings, five palettes and lockups."
 url: "https://ndcompany.in/projects/innovation-texture"
 type: "CreativeWork"
 image: "https://ndcompany.in/assets/projects/innovation-texture-16x9.png"
@@ -276,7 +276,7 @@ Tell us about your business in a few lines and we will reply with questions or a
       "@id": "https://ndcompany.in/projects/innovation-texture#webpage",
       "url": "https://ndcompany.in/projects/innovation-texture",
       "name": "Innovation Texture brand identity case study | N&D Co.",
-      "description": "Logo and brand identity for Innovation Texture, a wall texture maker in Vadodara: a rising sun formed from I and T, a bulb, buildings, five palettes and lockups.",
+      "description": "Logo and brand identity for Innovation Texture, a Vadodara wall texture maker: a rising sun formed from I and T, a bulb, buildings, five palettes and lockups.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

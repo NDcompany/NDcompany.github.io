@@ -1,5 +1,5 @@
 ---
-title: "Plan a business website: checklist and one-page brief | N&D Co."
+title: "Plan a business website: checklist and brief | N&D Co."
 description: "Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes."
 url: "https://ndcompany.in/blogs/plan-a-business-website"
 type: "BlogPosting"
@@ -426,7 +426,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "WebPage",
       "@id": "https://ndcompany.in/blogs/plan-a-business-website#webpage",
       "url": "https://ndcompany.in/blogs/plan-a-business-website",
-      "name": "Plan a business website: checklist and one-page brief | N&D Co.",
+      "name": "Plan a business website: checklist and brief | N&D Co.",
       "description": "Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

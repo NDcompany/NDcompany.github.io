@@ -25,7 +25,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 - [Locations](https://ndcompany.in/locations): the countries we work with remotely from Kolkata, how projects run across timezones and how payment works from each.
 - [India](https://ndcompany.in/locations/india): Brand and growth agency in Kolkata serving businesses across India, from West Bengal to the Seven Sisters: websites, e-commerce, SEO, branding and marketing.
 - [Bangladesh](https://ndcompany.in/locations/bangladesh): N&D Co. serves businesses in Bangladesh remotely from Kolkata: websites, e-commerce, branding, SEO and marketing, in Bengali and English, in your timezone.
-- [United States](https://ndcompany.in/locations/usa): N&D Co. works remotely with US businesses: custom websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars.
+- [United States](https://ndcompany.in/locations/usa): N&D Co. works remotely with US businesses: websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars.
 - [Netherlands](https://ndcompany.in/locations/netherlands): N&D Co. works remotely with businesses in the Netherlands: websites, webshops, branding, SEO and marketing, with hours overlapping most of the Dutch workday.
 
 ## Blogs
