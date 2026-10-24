@@ -1,6 +1,6 @@
 ---
 title: "Privacy policy | N&D Co."
-description: "Privacy policy for N&D Co.: what we collect through our contact and SEO audit forms or when you contact or hire us, analytics only with your consent, who receives it, how long we keep it and your rights."
+description: "What our contact and SEO audit forms collect, what we keep when you hire us, analytics only with consent, who receives it, how long we keep it and your rights."
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
@@ -254,7 +254,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       "@type": "WebPage",
       "@id": "https://ndcompany.in/privacy#webpage",
       "name": "Privacy policy",
-      "description": "Privacy policy for N&D Co.: what we collect through our contact and SEO audit forms or when you contact or hire us, analytics only with your consent, who receives it, how long we keep it and your rights.",
+      "description": "What our contact and SEO audit forms collect, what we keep when you hire us, analytics only with consent, who receives it, how long we keep it and your rights.",
       "url": "https://ndcompany.in/privacy",
       "isPartOf": {
         "@type": "WebSite",

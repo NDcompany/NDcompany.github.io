@@ -1,6 +1,6 @@
 ---
 title: "Branding projects by N&D Co., Kolkata"
-description: "Logos and brand identities for new and growing businesses: a seafood wholesaler, a wall texture maker, food brands, a pub, a hair salon and a coffee shop. 8 projects by N&D Co. in Kolkata, each with what we made."
+description: "Logos and brand identities for new and growing businesses: a seafood wholesaler, a wall texture maker, food brands, a pub, a hair salon and a coffee shop."
 url: "https://ndcompany.in/projects/category/branding"
 type: "CollectionPage"
 image: "https://ndcompany.in/assets/share/projects.png"
@@ -115,7 +115,7 @@ Send a few lines about what you need and we will reply with questions or a quote
       "@id": "https://ndcompany.in/projects/category/branding#webpage",
       "url": "https://ndcompany.in/projects/category/branding",
       "name": "Branding projects by N&D Co., Kolkata",
-      "description": "Logos and brand identities for new and growing businesses: a seafood wholesaler, a wall texture maker, food brands, a pub, a hair salon and a coffee shop. 8 projects by N&D Co. in Kolkata, each with what we made.",
+      "description": "Logos and brand identities for new and growing businesses: a seafood wholesaler, a wall texture maker, food brands, a pub, a hair salon and a coffee shop.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
