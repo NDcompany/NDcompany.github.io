@@ -284,7 +284,6 @@ If step one turns up missing logo versions, fix those first, and [talk to us abo
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fbrand-style-guide-16x9.png&description=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one)
 - [Share by email](mailto:?subject=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one&body=What%20brand%20guidelines%20need%3A%20logo%20versions%20and%20platform%20sizes%2C%20colour%20pairs%20that%20pass%20contrast%20checks%2C%20font%20licences%2C%20Indian%20scripts%2C%20voice%20rules%20and%20templates.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

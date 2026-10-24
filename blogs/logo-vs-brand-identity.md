@@ -271,7 +271,6 @@ If a website is on the list, our guide to [planning a business website](https://
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flogo-vs-brand-identity-16x9.png&description=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for)
 - [Share by email](mailto:?subject=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for&body=A%20logo%20is%20one%20mark%3B%20a%20brand%20identity%20is%20the%20system%20around%20it.%20See%20what%20each%20includes%2C%20who%20owns%20your%20logo%20in%20India%20and%20how%20to%20register%20it%20as%20a%20trademark.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

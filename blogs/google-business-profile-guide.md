@@ -258,7 +258,6 @@ Step 1 takes one search, so start there today. If you find a listing you can't g
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fgoogle-business-profile-guide-16x9.png&description=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses)
 - [Share by email](mailto:?subject=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses&body=Set%20up%20and%20verify%20a%20Google%20Business%20Profile%20(formerly%20Google%20My%20Business)%20in%20India%2C%20ask%20for%20reviews%20within%20Google%27s%20rules%20and%20avoid%20suspensions.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
