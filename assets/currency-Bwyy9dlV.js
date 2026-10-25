@@ -1,0 +1,1 @@
+var e=`ndco-currency`,t=[`INR`,`USD`],n=()=>{if(navigator.webdriver)return`INR`;try{let n=localStorage.getItem(e);if(t.includes(n))return n}catch{}let n=Intl.DateTimeFormat().resolvedOptions().timeZone;return n===`Asia/Kolkata`||n===`Asia/Calcutta`?`INR`:`USD`},r=t=>{try{localStorage.setItem(e,t)}catch{}};export{n,r,t};

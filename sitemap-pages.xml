@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the homepage, the FAQ, the tools we use and the legal pages (13 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the homepage, the FAQ, the tools we use and the legal pages (14 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -29,6 +29,10 @@
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/pricing</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/white-label</loc>
     <lastmod>2026-10-25</lastmod>
   </url>
@@ -46,7 +50,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/privacy</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/cookies-policy</loc>

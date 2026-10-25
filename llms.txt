@@ -95,6 +95,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 
 - [Home](https://ndcompany.in/): agency overview, selected work, client reviews, FAQ and how to reach us.
 - [Frequently asked questions](https://ndcompany.in/faq): every question and answer in one searchable place, across general topics and every service.
+- [Pricing](https://ndcompany.in/pricing): starting prices for every service in Indian rupees and US dollars, what changes the price, and payment and GST basics.
 - [White label for agencies](https://ndcompany.in/white-label): every service available white label for agencies, unbranded and under NDA, with agency starting prices in US dollars.
 - [White label SEO for agencies](https://ndcompany.in/white-label/seo): audits, on-page work, content, local SEO, link building and monthly reports under the agency's brand, with agency prices.
 - [White label web development for agencies](https://ndcompany.in/white-label/web-development): WordPress, Shopify, WooCommerce and custom sites built to an agency's brief, unbranded, with agency prices.

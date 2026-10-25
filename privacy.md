@@ -4,13 +4,13 @@ description: "What our contact and SEO audit forms collect, what we keep when yo
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-24"
+modified: "2026-10-25"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026 · Last updated: 24 October 2026
+Effective date: 23 October 2026 · Last updated: 25 October 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -124,7 +124,7 @@ Hosts this website on GitHub Pages. Requests reach it through Cloudflare, which 
 
 ### Our SEO audit tool
 
-Prepares the free SEO audits on our own computer in India. It copies each request from our Cloudflare database, checks that your email address can receive mail by asking your email provider's mail server (no email is sent), and asks Google Web Risk whether your website is on Google's list of unsafe sites. Google PageSpeed Insights tests its speed. AI models, run on our own computer or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps encrypted backups with storage providers such as Google Cloud and GitHub, which cannot read them because the keys stay with us.
+Prepares the free SEO audits on our own computer in India. It copies each request from our Cloudflare database, checks that your email address can receive mail by looking up its domain's public mail records (no email is sent and your provider's mail server is not contacted), and checks your website against public lists of phishing and other unsafe sites. Google PageSpeed Insights tests its speed. AI models, run on our own computer or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps a daily encrypted backup in a private GitHub repository. The keys that unlock your details are never stored there, so GitHub cannot read them.
 
 ### Email, phone and payment providers
 
@@ -269,7 +269,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-10-25",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

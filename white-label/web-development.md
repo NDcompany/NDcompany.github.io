@@ -84,7 +84,7 @@ No credit in the code, the site footer, the files or the reports, which can carr
 
 We talk to you, not to them. If you want us on a client call, we join as part of your team.
 
-## Agency prices in US dollars
+## White label web development pricing
 
 Starting prices for agencies, including the NDA, unbranded files and reports, and calls in US hours. Your final price is set in a written quote before work starts.
 
