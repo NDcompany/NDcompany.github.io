@@ -168,6 +168,17 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
 
 [Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
+## Google Business Profile
+
+2 posts
+
+Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
+
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  25 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  23 Oct 2026
+
 ## Google Search Console
 
 2 posts
@@ -178,6 +189,28 @@ Setting up Google's free Search Console with the business as owner, then reading
   23 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   23 Oct 2026
+
+## Local SEO
+
+2 posts
+
+Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
+
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  25 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  23 Oct 2026
+
+## SEO audits
+
+2 posts
+
+What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
+
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  25 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
 
 ## Technical SEO
 
@@ -237,24 +270,6 @@ Naming brand fonts with their licences, choosing fallbacks for documents and web
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
   23 Oct 2026
 
-## Google Business Profile
-
-1 post
-
-Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
-
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
-
-## Local SEO
-
-1 post
-
-Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
-
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
-
 ## Online reviews
 
 1 post
@@ -263,15 +278,6 @@ Asking customers for reviews, replying to them and reporting the ones that break
 
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   23 Oct 2026
-
-## SEO audits
-
-1 post
-
-What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
-
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  25 Oct 2026
 
 ## Trade marks
 
@@ -370,68 +376,68 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 9,
-            "name": "Google Search Console",
-            "url": "https://ndcompany.in/tags#google-search-console"
-          },
-          {
-            "@type": "ListItem",
-            "position": 10,
-            "name": "Technical SEO",
-            "url": "https://ndcompany.in/tags#technical-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 11,
-            "name": "Website costs",
-            "url": "https://ndcompany.in/tags#website-costs"
-          },
-          {
-            "@type": "ListItem",
-            "position": 12,
-            "name": "Case management",
-            "url": "https://ndcompany.in/tags#case-management"
-          },
-          {
-            "@type": "ListItem",
-            "position": 13,
-            "name": "Community platforms",
-            "url": "https://ndcompany.in/tags#community-platforms"
-          },
-          {
-            "@type": "ListItem",
-            "position": 14,
-            "name": "Data management",
-            "url": "https://ndcompany.in/tags#data-management"
-          },
-          {
-            "@type": "ListItem",
-            "position": 15,
-            "name": "Fonts",
-            "url": "https://ndcompany.in/tags#fonts"
-          },
-          {
-            "@type": "ListItem",
-            "position": 16,
             "name": "Google Business Profile",
             "url": "https://ndcompany.in/tags#google-business-profile"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 10,
+            "name": "Google Search Console",
+            "url": "https://ndcompany.in/tags#google-search-console"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags#local-seo"
           },
           {
             "@type": "ListItem",
+            "position": 12,
+            "name": "SEO audits",
+            "url": "https://ndcompany.in/tags#seo-audits"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "name": "Technical SEO",
+            "url": "https://ndcompany.in/tags#technical-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "name": "Website costs",
+            "url": "https://ndcompany.in/tags#website-costs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "name": "Case management",
+            "url": "https://ndcompany.in/tags#case-management"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "name": "Community platforms",
+            "url": "https://ndcompany.in/tags#community-platforms"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "name": "Data management",
+            "url": "https://ndcompany.in/tags#data-management"
+          },
+          {
+            "@type": "ListItem",
             "position": 18,
-            "name": "Online reviews",
-            "url": "https://ndcompany.in/tags#online-reviews"
+            "name": "Fonts",
+            "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
             "position": 19,
-            "name": "SEO audits",
-            "url": "https://ndcompany.in/tags#seo-audits"
+            "name": "Online reviews",
+            "url": "https://ndcompany.in/tags#online-reviews"
           },
           {
             "@type": "ListItem",

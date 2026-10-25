@@ -267,6 +267,16 @@ SEO
 
 Guide · 25 Oct 2026
 
+### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+
+Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
+
+Read the guide
+
+SEO
+
+Guide · 25 Oct 2026
+
 ### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
 
 From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
@@ -280,16 +290,6 @@ Guide · 23 Oct 2026
 ### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
 
 Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 

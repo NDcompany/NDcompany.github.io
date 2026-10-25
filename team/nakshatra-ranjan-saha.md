@@ -40,6 +40,16 @@ The blogs are where N&D Co. shares what it learns: quick tips, longer guides and
 
 ## Articles by Nakshatra Ranjan Saha
 
+SEO
+
+Guide · 25 Oct 2026
+
+### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+
+Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
+
+Read the guide
+
 Websites
 
 Guide · 25 Oct 2026

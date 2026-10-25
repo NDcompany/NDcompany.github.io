@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (24 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (25 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/blogs</loc>
@@ -63,6 +63,10 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/local-seo-audit</loc>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/website-cost-india</loc>

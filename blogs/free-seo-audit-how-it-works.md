@@ -187,6 +187,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Cli
 
 SEO
 
+Guide · 25 Oct 2026
+
+### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+
+Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
+
+Read the guide
+
+SEO
+
 Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
@@ -202,16 +212,6 @@ Guide · 23 Oct 2026
 ### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
 
 Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 

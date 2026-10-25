@@ -288,13 +288,13 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
-Websites
+SEO
 
 Guide · 25 Oct 2026
 
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
+Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
 Read the guide
 
@@ -302,9 +302,9 @@ Websites
 
 Guide · 25 Oct 2026
 
-### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
 
-The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
+The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 

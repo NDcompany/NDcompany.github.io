@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+SEO
+
+Guide · 25 Oct 2026
+
+### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+
+Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
+
+Read the guide
+
 Websites
 
 Guide · 25 Oct 2026
@@ -106,6 +116,8 @@ Read the guide
 
 ## Recently updated
 
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  25 Oct 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   25 Oct 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
@@ -113,8 +125,6 @@ Read the guide
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  23 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
   23 Oct 2026
 
 ## Trending tags
@@ -127,8 +137,8 @@ Read the guide
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 - [Google Search Console](https://ndcompany.in/tags#google-search-console)
-- [Technical SEO](https://ndcompany.in/tags#technical-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -200,6 +210,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/local-seo-audit#article",
+          "headline": "How to run a local SEO audit: a checklist for small businesses",
+          "description": "Run a local SEO audit in an afternoon: your Google Business Profile, matching details on Bing, Apple Maps, location pages, reviews, links and what to measure.",
+          "image": "https://ndcompany.in/assets/blog/local-seo-audit-16x9.png",
+          "url": "https://ndcompany.in/blogs/local-seo-audit",
+          "datePublished": "2026-10-25T00:00:00+05:30",
+          "dateModified": "2026-10-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/website-cost-india#article",

@@ -31,6 +31,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit): Run a local SEO audit in an afternoon: your Google Business Profile, matching details on Bing, Apple Maps, location pages, reviews, links and what to measure.
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india): What a website costs in India in 2026: the build from ₹9,999, then domain, hosting, Shopify, payment gateway fees, email and GST, at each provider's own prices.
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost): What a small business website costs in 2026: the build from $149, then domain, hosting, Shopify, card fees, email and the ADA, at each provider's own prices.
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works): How our free website SEO audit works: what the form asks, the safety checks, the ten pages we read, how findings are ranked, and a sample SEO audit report.

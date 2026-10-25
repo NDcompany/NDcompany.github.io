@@ -46,6 +46,8 @@ Read the guide
 
 ## Recently updated
 
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  25 Oct 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   25 Oct 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
@@ -53,8 +55,6 @@ Read the guide
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  23 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
   23 Oct 2026
 
 ## Trending tags
@@ -67,8 +67,8 @@ Read the guide
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 - [Google Search Console](https://ndcompany.in/tags#google-search-console)
-- [Technical SEO](https://ndcompany.in/tags#technical-seo)
 
 [All tags](https://ndcompany.in/tags)
 

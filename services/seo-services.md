@@ -257,6 +257,16 @@ SEO
 
 Guide · 25 Oct 2026
 
+### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+
+Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
+
+Read the guide
+
+SEO
+
+Guide · 25 Oct 2026
+
 ### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
 
 From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
@@ -270,16 +280,6 @@ Guide · 23 Oct 2026
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
 
 Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 
