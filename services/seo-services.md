@@ -199,6 +199,10 @@ Pricing depends on the size of the site, how competitive your market is, and how
 
 Technical fixes are usually picked up by Google within a few weeks. Ranking and traffic changes for competitive phrases take several months, which is why the service is monthly rather than a one-off. We do not guarantee specific rankings, because Google controls those, but we report every month on what moved.
 
+**Do you offer an SEO audit?**
+
+Yes, as the first step of every SEO package. We crawl the site, review Search Console data if you have it and check how competitors rank, then send a written audit with a proposed monthly scope. If you want a first look before deciding, the free SEO audit on this site covers the basics.
+
 **What do you need from me to start SEO?**
 
 Access to your website admin or to a developer who can make changes, and to Google Search Console and Analytics if they exist. We also need a short list of the products or services that matter most and the cities or areas you serve. Everything else comes out of the audit.

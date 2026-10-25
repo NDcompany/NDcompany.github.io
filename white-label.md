@@ -46,7 +46,7 @@ We sign your non-disclosure agreement before you share anything about your clien
 
 ### No N&D Co. name anywhere
 
-No credit in the code, the site footer, the files or the reports. Reports can carry your agency's branding.
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
 
 ### No contact with your client
 
@@ -108,6 +108,14 @@ The table on this page lists our starting prices for agencies in US dollars. The
 **What hours do you work?**
 
 Our office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST, and we keep part of our evening free for calls in US morning hours. Between calls we send written updates.
+
+**Will you ever work for my client directly?**
+
+No. While we work with you, and for 12 months after our last project for you, we do not approach or knowingly take work from a client you introduced to us. Our terms of service set this out.
+
+**Do we pay you if our client pays us late?**
+
+Yes. Our agreement is with your agency, so you pay our invoices on the terms in your quote, usually a 50% advance and the balance before delivery, whether or not your client has paid you yet.
 
 **Who owns the work?**
 

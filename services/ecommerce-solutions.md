@@ -1,6 +1,6 @@
 ---
-title: "E-commerce Website Development in Kolkata | N&D Co."
-description: "Online store development by N&D Co., Kolkata: Shopify, WooCommerce or custom stores with payment gateway integration, for sellers across India and worldwide."
+title: "Shopify & E-commerce Website Development, Kolkata | N&D Co."
+description: "Shopify development and e-commerce websites by N&D Co., Kolkata: Shopify, WooCommerce or custom stores with payment gateways, for sellers in India and worldwide."
 url: "https://ndcompany.in/services/ecommerce-solutions"
 type: "Service"
 image: "https://ndcompany.in/assets/share/ecommerce-solutions.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/ecommerce-solutions.png"
 
 Online store development
 
-# E-commerce website development in Kolkata, for sellers across India and worldwide
+# Shopify and e-commerce website development in Kolkata, for sellers across India and worldwide
 
 We build online stores that take orders, payments and shipping details without manual work: catalog, checkout, payment gateway and order management set up and tested before launch. The store runs on Shopify, WooCommerce or a custom build, chosen for your catalog size and how you fulfill orders.
 
@@ -295,8 +295,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/ecommerce-solutions#webpage",
       "url": "https://ndcompany.in/services/ecommerce-solutions",
-      "name": "E-commerce Website Development in Kolkata | N&D Co.",
-      "description": "Online store development by N&D Co., Kolkata: Shopify, WooCommerce or custom stores with payment gateway integration, for sellers across India and worldwide.",
+      "name": "Shopify & E-commerce Website Development, Kolkata | N&D Co.",
+      "description": "Shopify development and e-commerce websites by N&D Co., Kolkata: Shopify, WooCommerce or custom stores with payment gateways, for sellers in India and worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

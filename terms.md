@@ -1,16 +1,16 @@
 ---
 title: "Terms of service | N&D Co."
-description: "Terms of service for N&D Co., Kolkata: how we work with clients, payments and refunds, ownership, our portfolio, third-party platforms and governing law."
+description: "Terms of service for N&D Co., Kolkata: working with clients and agencies, payments and refunds, ownership, portfolio, third-party platforms and governing law."
 url: "https://ndcompany.in/terms"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-24"
+modified: "2026-10-25"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Terms of service
 
-Effective date: 23 October 2026 · Last updated: 24 October 2026
+Effective date: 23 October 2026 · Last updated: 25 October 2026
 
 N&D Co. is a brand and growth agency offering creative and digital services. By using our website at https://ndcompany.in, including the free tools at ndcompany.in/tools, or engaging with our services, you agree to these Terms of Service.
 
@@ -163,7 +163,20 @@ These Terms are governed by the laws of India. If a dispute comes up, tell us ab
 
 Nothing in these Terms takes away any right you have as a consumer under the Consumer Protection Act, 2019, or any other right the law does not allow a contract to remove. If you are a consumer living in the European Union, these Terms do not take away any right the law of your country gives you, including any right to cancel within 14 days, and you can also bring a claim in the courts where you live.
 
-## 13. Updates to terms
+## 13. White-label work for agencies
+
+An agency can buy any of our services [white label](https://ndcompany.in/white-label) and resell the work to its own client under its own name. This section applies to that work together with the rest of these Terms, and where they differ, this section applies.
+
+- Our agreement is with the agency, which is our client under these Terms. The agency's client has no agreement with us, and we deal only with the agency. We never contact its client, except as part of the agency's team when the agency asks us to.
+- The agency pays our invoices as section 5 sets out, whether or not its own client has paid it.
+- Before the agency shares anything about its client, we sign its non-disclosure agreement once we have read it, or offer our own mutual one. On confidentiality, that agreement applies where it differs from these Terms.
+- Nothing we deliver carries our name. We do not show the work, or name the agency or its client, in our portfolio or anywhere else unless the agency agrees in writing. This replaces the portfolio rule in section 6 for white-label work.
+- While we work with the agency, and for 12 months after our last project for it, we do not approach or knowingly take work from a client the agency introduced to us.
+- On full payment we assign to the agency the final deliverables named in its quote, as section 6 describes, and the agency may transfer them to its client. The licence to our own tools and code in a deliverable passes on with it.
+- The agency handles its client, complaints included, and tells us in writing about any problem with our work. We then put it right or refund as section 5 says, and the limits in section 9 apply to the fees the agency paid us.
+- The agency indemnifies us, which means it pays our losses and reasonable legal costs, for any claim by its client to the extent the claim comes from something we did not do: the agency's own promises or statements to its client, scope it agreed without us, or material it or its client gave us.
+
+## 14. Updates to terms
 
 We may revise these Terms at any time. Updates are published on this page, and the Last updated date at the top shows our latest material change.
 
@@ -191,7 +204,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       "@type": "WebPage",
       "@id": "https://ndcompany.in/terms#webpage",
       "name": "Terms of service",
-      "description": "Terms of service for N&D Co., Kolkata: how we work with clients, payments and refunds, ownership, our portfolio, third-party platforms and governing law.",
+      "description": "Terms of service for N&D Co., Kolkata: working with clients and agencies, payments and refunds, ownership, portfolio, third-party platforms and governing law.",
       "url": "https://ndcompany.in/terms",
       "isPartOf": {
         "@type": "WebSite",
@@ -206,7 +219,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-10-25",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

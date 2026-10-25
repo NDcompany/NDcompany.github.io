@@ -844,6 +844,10 @@ Pricing depends on the size of the site, how competitive your market is, and how
 
 Technical fixes are usually picked up by Google within a few weeks. Ranking and traffic changes for competitive phrases take several months, which is why the service is monthly rather than a one-off. We do not guarantee specific rankings, because Google controls those, but we report every month on what moved.
 
+**Do you offer an SEO audit?**
+
+Yes, as the first step of every SEO package. We crawl the site, review Search Console data if you have it and check how competitors rank, then send a written audit with a proposed monthly scope. If you want a first look before deciding, the free SEO audit on this site covers the basics.
+
 **What do you need from me to start SEO?**
 
 Access to your website admin or to a developer who can make changes, and to Google Search Console and Analytics if they exist. We also need a short list of the products or services that matter most and the cities or areas you serve. Everything else comes out of the audit.
@@ -1785,7 +1789,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Online store development
 
-# E-commerce website development in Kolkata, for sellers across India and worldwide
+# Shopify and e-commerce website development in Kolkata, for sellers across India and worldwide
 
 Source: https://ndcompany.in/services/ecommerce-solutions
 
@@ -2340,7 +2344,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Planning and posting
 
-# Social media marketing and management in Kolkata
+# Social media marketing, management and content creation in Kolkata
 
 Source: https://ndcompany.in/services/social-media-management
 
@@ -3460,7 +3464,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 SEO and social content
 
-# Content writing and creation in Kolkata, for websites and social media
+# SEO copywriting and content writing in Kolkata, for websites and social media
 
 Source: https://ndcompany.in/services/content-creation
 
@@ -4510,7 +4514,7 @@ We sign your non-disclosure agreement before you share anything about your clien
 
 ### No N&D Co. name anywhere
 
-No credit in the code, the site footer, the files or the reports. Reports can carry your agency's branding.
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
 
 ### No contact with your client
 
@@ -4572,6 +4576,14 @@ The table on this page lists our starting prices for agencies in US dollars. The
 **What hours do you work?**
 
 Our office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST, and we keep part of our evening free for calls in US morning hours. Between calls we send written updates.
+
+**Will you ever work for my client directly?**
+
+No. While we work with you, and for 12 months after our last project for you, we do not approach or knowingly take work from a client you introduced to us. Our terms of service set this out.
+
+**Do we pay you if our client pays us late?**
+
+Yes. Our agreement is with your agency, so you pay our invoices on the terms in your quote, usually a 50% advance and the balance before delivery, whether or not your client has paid you yet.
 
 **Who owns the work?**
 
@@ -9690,9 +9702,9 @@ Send a few lines about your business and what you are trying to fix. We will rep
 # Terms of service
 
 Source: https://ndcompany.in/terms
-Updated: 2026-10-24
+Updated: 2026-10-25
 
-Effective date: 23 October 2026 · Last updated: 24 October 2026
+Effective date: 23 October 2026 · Last updated: 25 October 2026
 
 N&D Co. is a brand and growth agency offering creative and digital services. By using our website at https://ndcompany.in, including the free tools at ndcompany.in/tools, or engaging with our services, you agree to these Terms of Service.
 
@@ -9845,7 +9857,20 @@ These Terms are governed by the laws of India. If a dispute comes up, tell us ab
 
 Nothing in these Terms takes away any right you have as a consumer under the Consumer Protection Act, 2019, or any other right the law does not allow a contract to remove. If you are a consumer living in the European Union, these Terms do not take away any right the law of your country gives you, including any right to cancel within 14 days, and you can also bring a claim in the courts where you live.
 
-## 13. Updates to terms
+## 13. White-label work for agencies
+
+An agency can buy any of our services [white label](https://ndcompany.in/white-label) and resell the work to its own client under its own name. This section applies to that work together with the rest of these Terms, and where they differ, this section applies.
+
+- Our agreement is with the agency, which is our client under these Terms. The agency's client has no agreement with us, and we deal only with the agency. We never contact its client, except as part of the agency's team when the agency asks us to.
+- The agency pays our invoices as section 5 sets out, whether or not its own client has paid it.
+- Before the agency shares anything about its client, we sign its non-disclosure agreement once we have read it, or offer our own mutual one. On confidentiality, that agreement applies where it differs from these Terms.
+- Nothing we deliver carries our name. We do not show the work, or name the agency or its client, in our portfolio or anywhere else unless the agency agrees in writing. This replaces the portfolio rule in section 6 for white-label work.
+- While we work with the agency, and for 12 months after our last project for it, we do not approach or knowingly take work from a client the agency introduced to us.
+- On full payment we assign to the agency the final deliverables named in its quote, as section 6 describes, and the agency may transfer them to its client. The licence to our own tools and code in a deliverable passes on with it.
+- The agency handles its client, complaints included, and tells us in writing about any problem with our work. We then put it right or refund as section 5 says, and the limits in section 9 apply to the fees the agency paid us.
+- The agency indemnifies us, which means it pays our losses and reasonable legal costs, for any claim by its client to the extent the claim comes from something we did not do: the agency's own promises or statements to its client, scope it agreed without us, or material it or its client gave us.
+
+## 14. Updates to terms
 
 We may revise these Terms at any time. Updates are published on this page, and the Last updated date at the top shows our latest material change.
 

@@ -160,6 +160,18 @@ Technical fixes are usually picked up by Google within a few weeks. Ranking and 
 
 [SEO Services](https://ndcompany.in/services/seo-services#svc-faq)
 
+**Do you offer an SEO audit? SEO Services**
+
+Yes, as the first step of every SEO package. We crawl the site, review Search Console data if you have it and check how competitors rank, then send a written audit with a proposed monthly scope.
+
+[Read the full answer on the SEO Services page](https://ndcompany.in/services/seo-services#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[SEO Services](https://ndcompany.in/services/seo-services#svc-faq)
+
 **What do you need from me to start SEO? SEO Services**
 
 Access to your website admin or to a developer who can make changes, and to Google Search Console and Analytics if they exist.

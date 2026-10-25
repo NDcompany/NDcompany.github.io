@@ -1,6 +1,6 @@
 ---
 title: "Social Media Marketing Agency in Kolkata | N&D Co."
-description: "Social media management by N&D Co., Barrackpore, Kolkata: content calendars, post design, scheduling, replies and reports for businesses in India and abroad."
+description: "Social media management and content creation by N&D Co., Kolkata: content calendars, post design, scheduling, replies and reports for businesses in India and abroad."
 url: "https://ndcompany.in/services/social-media-management"
 type: "Service"
 image: "https://ndcompany.in/assets/share/social-media-management.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/social-media-management.png"
 
 Planning and posting
 
-# Social media marketing and management in Kolkata
+# Social media marketing, management and content creation in Kolkata
 
 We plan your content calendar, design and write the posts, publish them on schedule and reply to comments and messages, so your pages stay active without you doing it at night. The service is for businesses across India and worldwide that want a consistent presence on Instagram, Facebook and LinkedIn.
 
@@ -317,7 +317,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/social-media-management#webpage",
       "url": "https://ndcompany.in/services/social-media-management",
       "name": "Social Media Marketing Agency in Kolkata | N&D Co.",
-      "description": "Social media management by N&D Co., Barrackpore, Kolkata: content calendars, post design, scheduling, replies and reports for businesses in India and abroad.",
+      "description": "Social media management and content creation by N&D Co., Kolkata: content calendars, post design, scheduling, replies and reports for businesses in India and abroad.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
