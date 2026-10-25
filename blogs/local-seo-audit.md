@@ -4,8 +4,8 @@ description: "Run a local SEO audit in an afternoon: your Google Business Profil
 url: "https://ndcompany.in/blogs/local-seo-audit"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
-published: "2026-10-25T00:00:00+05:30"
-modified: "2026-10-25T00:00:00+05:30"
+published: "2026-10-26T00:00:00+05:30"
+modified: "2026-10-26T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/local-seo-audit-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/local-seo-audit-16x9.png"
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 October 2026 9 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 26 October 2026 9 min read
 
 A local SEO audit checks the things that decide whether your business shows up when people nearby search for what you sell: your Google Business Profile, whether your name, address and phone number match everywhere, your website's location details, your reviews, the links that point to you, and the numbers that show what is working. This checklist takes you through each one in order, with the rule or source behind every check, so you can run it yourself in an afternoon.
 
@@ -87,7 +87,7 @@ Structured data tells Google your details in a form it reads directly. For a loc
 
 ### Location pages, not doorway pages
 
-A business with several branches can have one useful page per branch. Pages made only to rank for city after city are a problem: Google's spam policies list "having multiple domain names or pages targeted at specific regions or cities that funnel users to one page" as doorway abuse ([Google Search spam policies](https://developers.google.com/search/docs/essentials/spam-policies)). If your location pages differ only in the city name, merge them or give each one real, local content.
+A business with several branches can have one useful page per branch. Pages made only to rank for city after city are a problem: Google's spam policies list "having multiple domain names or pages targeted at specific regions or cities that funnel users to one page" as doorway abuse ([Google Search spam policies](https://developers.google.com/search/docs/essentials/spam-policies)). If your location pages differ only in the city name, merge them or give each one real, local content. To check a page's title, description, headings and structured data, and compare its words with a competitor's page, run it through [RankGuru, our free on-page SEO checker](https://ndcompany.in/tools/rankguru).
 
 ## Step 5: review your reviews
 
@@ -117,7 +117,7 @@ Prominence is partly "how many websites link to your business". List the sites t
 Take a baseline before you change anything, so you can see what worked.
 
 - **Business Profile performance.** Available "only for verified Business Profiles", it shows the searches people used to find you, views, direction requests, calls and website clicks ([Google's help on profile performance](https://support.google.com/business/answer/9918094?hl=en)). The searches figure "is updated at the start of each month".
-- **Search Console.** Filter the Performance report to your country and to your location or contact pages to see the local searches that reach your site: "Filter by multiple countries or devices to see their combined data" ([Search Console Help on filtering](https://support.google.com/webmasters/answer/17011165?hl=en)).
+- **Search Console.** Filter the Performance report to your country and to your location or contact pages to see the local searches that reach your site: "Filter by multiple countries or devices to see their combined data" ([Search Console Help on filtering](https://support.google.com/webmasters/answer/17011165?hl=en)). No Search Console yet? The first step of our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist#own-search-console) covers setting it up.
 
 Note the numbers on the day you start, fix the problems, and compare a month later.
 
@@ -249,8 +249,8 @@ Send a few lines about your business and what you are trying to fix. We will rep
           "height": 1200
         }
       ],
-      "datePublished": "2026-10-25T00:00:00+05:30",
-      "dateModified": "2026-10-25T00:00:00+05:30",
+      "datePublished": "2026-10-26T00:00:00+05:30",
+      "dateModified": "2026-10-26T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -270,7 +270,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Local SEO, SEO audits, Google Business Profile",
       "genre": "Guide",
-      "wordCount": 1893,
+      "wordCount": 1937,
       "inLanguage": "en-IN"
     },
     {

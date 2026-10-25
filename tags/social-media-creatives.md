@@ -65,7 +65,7 @@ See the project
 ## Recently updated
 
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  25 Oct 2026
+  26 Oct 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   25 Oct 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)

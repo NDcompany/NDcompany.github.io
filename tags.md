@@ -175,7 +175,7 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
 Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  25 Oct 2026
+  26 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   23 Oct 2026
 
@@ -197,7 +197,7 @@ Setting up Google's free Search Console with the business as owner, then reading
 Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
 
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  25 Oct 2026
+  26 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   23 Oct 2026
 
@@ -208,7 +208,7 @@ Showing up when people nearby search for what you sell, and the relevance, dista
 What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
 
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  25 Oct 2026
+  26 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
 

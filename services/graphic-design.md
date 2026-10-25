@@ -171,6 +171,7 @@ After the balance is paid we deliver print-ready PDFs, web-ready PNG or JPG file
 - Startups with a logo but nothing else that need business cards, a one-page profile and social templates before launch.
 - Marketing teams with more requests than in-house capacity that want a designer who follows their brand guidelines.
 - Product businesses that need labels and packaging laid out correctly on the supplier dieline.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

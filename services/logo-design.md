@@ -145,7 +145,7 @@ written quote before work starts · delivered in 2 to 3 weeks
 
 For multi-product businesses or a full rebrand.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen).
 
 ## How we work
 
@@ -175,6 +175,7 @@ After the balance is paid, you receive every lockup in AI, EPS, SVG, PDF and PNG
 - Established businesses whose current logo no longer works on a website or a phone screen.
 - Product brands that need a mark strong enough to sit on packaging next to bigger competitors.
 - Clubs and events that need an identity for a fixed period and want to keep the source files.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

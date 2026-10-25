@@ -189,6 +189,7 @@ A 7-day post-delivery support window covers minor corrections and technical issu
 - Companies whose off-the-shelf CRM or ERP no longer fits, and who want software shaped around their own process.
 - Founders with a validated idea who need a first working version of a web or mobile product.
 - Established firms in Kolkata, across India and worldwide that want a remote development team working from a written scope and quote.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

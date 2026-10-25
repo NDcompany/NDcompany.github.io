@@ -149,7 +149,7 @@ written quote before work starts · delivered in 3 to 6 weeks
 
 For rebrands and multi-product companies, scoped from scratch.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken).
 
 ## How we work
 
@@ -183,6 +183,7 @@ Files and guidelines are delivered on final payment. A 7-day post-delivery suppo
 - Established businesses whose logo dates from an earlier stage and no longer matches what they sell.
 - Businesses that have a logo but no system around it, so every new piece of material looks slightly different.
 - Companies preparing for a website redesign, a product launch or a funding round that want the identity settled first.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

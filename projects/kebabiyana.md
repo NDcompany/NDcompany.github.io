@@ -148,7 +148,7 @@ See the project
 
 ## Want something like this?
 
-Tell us about your business in a few lines and we will reply with questions or a quote. We work from Kolkata with clients across India and abroad.
+Tell us about your business in a few lines and we will reply with questions or a quote. We work from Kolkata with clients across India and abroad. Run a restaurant, cafe or bar? See our page on [restaurant marketing and branding](https://ndcompany.in/restaurant-marketing).
 
 [Get a quote](https://ndcompany.in/#contact)
 

@@ -179,6 +179,7 @@ Final exports in every agreed format once the balance is paid, with a 7-day wind
 - Brands and creators with hours of raw footage who want it edited into reels and short ads on a regular basis.
 - Startups and software companies that need product explainers and motion graphics to show how a service works.
 - Marketing teams that already run social media and ads and need video delivered in the right formats on schedule.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

@@ -267,7 +267,7 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Cli
 
 SEO
 
-Guide · 25 Oct 2026
+Guide · 26 Oct 2026
 
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 

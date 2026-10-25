@@ -177,6 +177,7 @@ You receive the report, we discuss it on a short call, and the next calendar is 
 - Founders and consultants building a personal or company presence on LinkedIn and Instagram.
 - Direct-to-consumer brands and online stores that want a steady flow of product content and quick replies to buyer questions.
 - Marketing managers who need an extra pair of hands for production and scheduling while they keep strategy in-house.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

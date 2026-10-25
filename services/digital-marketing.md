@@ -179,6 +179,7 @@ At the end of every month you receive the report and a short call to walk throug
 - Online stores that need someone to run product campaigns and report on cost per order.
 - Service businesses such as clinics, coaching institutes, real estate agencies and professional firms that depend on a steady flow of leads.
 - Founders who have run ads themselves and want to hand the account to a team that reports back every month.
+- Agencies that resell this work under their own name: see our [white label Google Ads](https://ndcompany.in/white-label/google-ads) page.
 
 ## Frequently asked questions
 

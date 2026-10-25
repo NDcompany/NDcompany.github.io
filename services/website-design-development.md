@@ -158,7 +158,7 @@ written quote before work starts · delivered in 4 to 6 weeks
 
 Fits stores and companies whose site has to do more than present information.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Website laten maken](https://ndcompany.in/nl/website-laten-maken).
 
 ## How we work
 
@@ -188,6 +188,7 @@ The site goes live on your domain. For seven days after delivery we fix minor co
 - Shop owners who want to sell online through their own store instead of only through marketplaces.
 - Startups and professionals who need a landing page or a small site live before a launch date.
 - Companies that need a web application, such as a booking system or client portal, that off-the-shelf software does not cover.
+- Agencies that resell this work under their own name: see our [white label web development](https://ndcompany.in/white-label/web-development) page.
 
 ## Frequently asked questions
 

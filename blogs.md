@@ -16,7 +16,7 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 SEO
 
-Guide · 25 Oct 2026
+Guide · 26 Oct 2026
 
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
@@ -117,7 +117,7 @@ Read the guide
 ## Recently updated
 
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  25 Oct 2026
+  26 Oct 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   25 Oct 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
@@ -217,8 +217,8 @@ Send a few lines about your business and what you want to fix or build. We will 
           "description": "Run a local SEO audit in an afternoon: your Google Business Profile, matching details on Bing, Apple Maps, location pages, reviews, links and what to measure.",
           "image": "https://ndcompany.in/assets/blog/local-seo-audit-16x9.png",
           "url": "https://ndcompany.in/blogs/local-seo-audit",
-          "datePublished": "2026-10-25T00:00:00+05:30",
-          "dateModified": "2026-10-25T00:00:00+05:30",
+          "datePublished": "2026-10-26T00:00:00+05:30",
+          "dateModified": "2026-10-26T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }

@@ -177,6 +177,7 @@ You send notes in the document and we revise within the agreed rounds. Final fil
 - E-commerce stores with hundreds of products that need descriptions written to one consistent format.
 - Service businesses running Google Ads or social campaigns that need landing pages and captions written to the campaign.
 - Marketing managers who want blog output on a fixed schedule from a writer who follows their brand guidelines.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

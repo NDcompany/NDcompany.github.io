@@ -184,6 +184,7 @@ Final files are delivered in organized folders with the guidelines PDF. A 7-day 
 - Established companies whose logo, website and print materials were made at different times and no longer match.
 - Product businesses that need packaging, labels and marketing materials designed together with the brand.
 - Founders who want one agency to handle branding and then carry it into a website and social media.
+- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
 ## Frequently asked questions
 

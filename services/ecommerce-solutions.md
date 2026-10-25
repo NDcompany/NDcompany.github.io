@@ -152,7 +152,7 @@ written quote before work starts · delivered in 6 to 12 weeks
 
 For marketplaces, B2B catalogs and stores with workflows the platforms cannot handle.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken).
 
 ## How we work
 
@@ -186,6 +186,7 @@ A 7-day post-delivery support window for corrections, then optional maintenance 
 - Wholesalers and manufacturers that want a catalog with account-based pricing for their dealers.
 - Businesses selling on a marketplace who want their own storefront and their own customer data.
 - Existing store owners whose site is slow, hard to update or losing orders at checkout.
+- Agencies that resell this work under their own name: see our [white label web development](https://ndcompany.in/white-label/web-development) page.
 
 ## Frequently asked questions
 
