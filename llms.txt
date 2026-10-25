@@ -71,7 +71,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 
 - [Free tools](https://ndcompany.in/tools): Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus an invoice generator and an image to PDF converter.
 - [RankGuru](https://ndcompany.in/tools/rankguru): Checks a web page's title, description, headings, links, images and structured data, and compares its words with up to three competitor pages.
-- [Invoice generator](https://ndcompany.in/tools/invoice-generator): Makes an invoice from your details, items, tax and discount with a live preview, then prints it or saves it as a PDF from your browser.
+- [Invoice generator](https://ndcompany.in/tools/invoice-generator): Makes an invoice, proforma invoice or quote with GST or other taxes, discounts and a UPI QR code, with a live preview, then prints it or saves it as a PDF.
 - [Image to PDF](https://ndcompany.in/tools/image-to-pdf): Turns JPEG, PNG, WebP and other images into one PDF, in the order you choose, on A4, Letter or image-sized pages. Your images never leave your device.
 
 ## Tags
@@ -96,6 +96,8 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Home](https://ndcompany.in/): agency overview, selected work, client reviews, FAQ and how to reach us.
 - [Frequently asked questions](https://ndcompany.in/faq): every question and answer in one searchable place, across general topics and every service.
 - [White label for agencies](https://ndcompany.in/white-label): every service available white label for agencies, unbranded and under NDA, with agency starting prices in US dollars.
+- [White label SEO for agencies](https://ndcompany.in/white-label/seo): audits, on-page work, content, local SEO, link building and monthly reports under the agency's brand, with agency prices.
+- [White label web development for agencies](https://ndcompany.in/white-label/web-development): WordPress, Shopify, WooCommerce and custom sites built to an agency's brief, unbranded, with agency prices.
 - [Tools we use](https://ndcompany.in/tools-we-use): the design, video, development, SEO and AI tools behind the work, and how each is used.
 - [Terms of service](https://ndcompany.in/terms): how we quote, bill, revise and hand over work, and what you own after full payment.
 - [Privacy policy](https://ndcompany.in/privacy): what personal data the site and our work collect, why, who else handles it and your rights.

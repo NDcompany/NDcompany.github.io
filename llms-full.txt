@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (52 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (54 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -4488,6 +4488,8 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Every quote is set in writing before work starts.
 
+The two services agencies ask us for most have their own pages: [white label SEO services](https://ndcompany.in/white-label/seo) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+
 ## How it works
 
 ### You send the brief
@@ -4597,6 +4599,275 @@ Send the brief and your NDA, and we will reply with questions or a written quote
 
 ---
 
+White label SEO
+
+# White label SEO services for agencies
+
+Source: https://ndcompany.in/white-label/seo
+
+We run SEO for your clients under your agency's name: the audit, on-page fixes, content, local SEO, link building and a monthly report that carries your branding or none. You keep the client, and we never contact them.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+[See agency prices](https://ndcompany.in/white-label/seo#wl-prices)
+
+## White label SEO, the way we run it
+
+Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice.
+
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+
+## What you can resell
+
+### SEO audits under your brand
+
+A full crawl of your client's site for indexing problems, broken links, redirect chains, slow templates and missing metadata, delivered as a prioritized fix list in your agency's report.
+
+### Keyword research and page mapping
+
+The search phrases your client's customers use, grouped by intent and mapped to existing or new pages.
+
+### On-page optimization
+
+Titles, meta descriptions, headings, internal links, image alt text and schema markup, updated page by page.
+
+### SEO content
+
+New pages and blog posts written to answer each search directly: 3 posts a month on Starter, 8 on Growth, or as your brief sets.
+
+### Local SEO
+
+Google Business Profile setup or cleanup and consistent business details across directories. Google's rules for anyone who manages a profile for someone else apply to us too.
+
+### Link building
+
+Outreach for links from relevant sites and directories, plus reclaiming links the site has already earned.
+
+### Monthly white-label reports
+
+Rankings, organic traffic, indexing status and a log of the work done, unbranded or with your agency's logo, ready to forward.
+
+## How it works
+
+### You send the brief
+
+Tell us what your client needs: the service, the scope, the deadline and anything already agreed with them. Send your NDA first if you want it signed before you share details.
+
+### We quote in writing
+
+You get a written quote in US dollars from the agency prices below, with the scope and the delivery time, before any work starts.
+
+### We do the work, you stay the face
+
+We work only with you. Files, drafts and reports carry your agency's name or none, and we never contact your client or appear in their tools under our own name.
+
+### You review, then hand over
+
+You see every draft and decide what goes to your client. Ownership of the final deliverables named in your quote passes to you once it is paid in full.
+
+## Your client never sees us
+
+### Your NDA, signed
+
+We sign your non-disclosure agreement before you share anything about your client.
+
+### No N&D Co. name anywhere
+
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
+
+### No contact with your client
+
+We talk to you, not to them. If you want us on a client call, we join as part of your team.
+
+## Agency prices in US dollars
+
+Starting prices for agencies, including the NDA, unbranded files and reports, and calls in US hours. Your final price is set in a written quote before work starts.
+
+**Agency starting prices per service, in US dollars**
+
+| Service | Billed | First tier | Second tier | Top tier |
+| --- | --- | --- | --- | --- |
+| [SEO Services](https://ndcompany.in/services/seo-services) | per month | Starter: $199 | Growth: $359 | Custom: $599 |
+
+What each tier includes is listed on the service page: [SEO Services pricing](https://ndcompany.in/services/seo-services#pricing).
+
+## Working with a US agency
+
+### Calls in your morning
+
+We keep part of our evening in India free for calls during US morning hours.
+
+### Written updates
+
+Between calls you get written progress updates, so nothing waits on a meeting.
+
+### Paid in US dollars
+
+Invoices are in US dollars, paid by PayPal, through Wise or by bank transfer.
+
+## Frequently asked questions
+
+**Can the reports carry our logo?**
+
+Yes. Reports and audits come unbranded or with your agency's logo, and nothing in them names N&D Co.
+
+**Can we resell an SEO audit on its own?**
+
+The audit is the first step of our SEO packages rather than a separate product. You get it in the first month, with a proposed monthly scope you can take to your client.
+
+**Will our client see your name in their Google accounts?**
+
+No. We work through the access you arrange for us and can use an email address you choose, so nothing in your client's Search Console, Analytics or website admin shows our name.
+
+**Do you guarantee rankings?**
+
+No. Google controls rankings, so we do not promise them. Technical fixes are usually picked up within a few weeks, and ranking changes for competitive phrases take several months. Each monthly report shows what moved.
+
+**How do we end a client's SEO?**
+
+Give us 30 days' notice in writing. A month that has started is billed in full.
+
+## Have a project for a client?
+
+Send the brief and your NDA, and we will reply with questions or a written quote.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+---
+
+White label web development
+
+# White label web development and design for agencies
+
+Source: https://ndcompany.in/white-label/web-development
+
+We design and build websites and online stores for your clients under your agency's name, on WordPress, Shopify, WooCommerce or custom code. No credit in the footer or the code, and we never contact your client.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+[See agency prices](https://ndcompany.in/white-label/web-development#wl-prices)
+
+## White label web development, the way we run it
+
+Our white-label web development is the same work as our own website and e-commerce projects. You send the brief and your client's brand files, we design and build to them, and you hand the site over as your own. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
+
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label) and [white label SEO services](https://ndcompany.in/white-label/seo).
+
+## What you can resell
+
+### Business websites
+
+Multi-page sites on WordPress or another CMS, with an admin panel your client can edit, set up with the theme, plugins and editor roles they need.
+
+### Shopify and WooCommerce stores
+
+Catalog, variants, cart, checkout and a payment gateway for your client's market, such as Stripe or PayPal for sales abroad, tested end to end with test orders.
+
+### Landing pages
+
+Single pages for a campaign, launch or lead form, with one call to action and a form that reaches the right inbox.
+
+### Custom web applications
+
+Dashboards, booking systems and client portals, scoped and built around the process rather than adapted from a plugin.
+
+### Design to your brief
+
+Custom layouts for mobile and desktop from your brief and your client's brand, reviewed with you before development starts.
+
+### SEO setup and speed
+
+Titles, meta descriptions, headings, alt text, sitemap and robots.txt configured before launch, with speed tuning on the larger tiers.
+
+### Launch and handover
+
+Deployed to your client's domain, forms and links tested on the live server, and the logins and files named in your quote handed to you.
+
+## How it works
+
+### You send the brief
+
+Tell us what your client needs: the service, the scope, the deadline and anything already agreed with them. Send your NDA first if you want it signed before you share details.
+
+### We quote in writing
+
+You get a written quote in US dollars from the agency prices below, with the scope and the delivery time, before any work starts.
+
+### We do the work, you stay the face
+
+We work only with you. Files, drafts and reports carry your agency's name or none, and we never contact your client or appear in their tools under our own name.
+
+### You review, then hand over
+
+You see every draft and decide what goes to your client. Ownership of the final deliverables named in your quote passes to you once it is paid in full.
+
+## Your client never sees us
+
+### Your NDA, signed
+
+We sign your non-disclosure agreement before you share anything about your client.
+
+### No N&D Co. name anywhere
+
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
+
+### No contact with your client
+
+We talk to you, not to them. If you want us on a client call, we join as part of your team.
+
+## Agency prices in US dollars
+
+Starting prices for agencies, including the NDA, unbranded files and reports, and calls in US hours. Your final price is set in a written quote before work starts.
+
+**Agency starting prices per service, in US dollars**
+
+| Service | Billed | First tier | Second tier | Top tier |
+| --- | --- | --- | --- | --- |
+| [Website Design & Development](https://ndcompany.in/services/website-design-development) | per project | Starter: $229 | Business: $449 | Custom: $679 |
+| [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions) | per project | Starter: $359 | Growth: $719 | Custom: $1,439 |
+
+What each tier includes is listed on the service pages: [Website Design & Development pricing](https://ndcompany.in/services/website-design-development#pricing) and [E-commerce Solutions pricing](https://ndcompany.in/services/ecommerce-solutions#pricing).
+
+## Working with a US agency
+
+### Calls in your morning
+
+We keep part of our evening in India free for calls during US morning hours.
+
+### Written updates
+
+Between calls you get written progress updates, so nothing waits on a meeting.
+
+### Paid in US dollars
+
+Invoices are in US dollars, paid by PayPal, through Wise or by bank transfer.
+
+## Frequently asked questions
+
+**Is there any credit to N&D Co. on the site?**
+
+No. There is no credit in the footer, the code comments, the admin panel or the files. The site is yours to present as your agency's work.
+
+**Which platforms do you build on?**
+
+WordPress and other CMSs for business sites, Shopify or WooCommerce for stores, and custom code for web applications. We recommend one in writing when the brief leaves it open.
+
+**Who hosts the site?**
+
+Hosting and the domain go in an account your agency or your client controls. Your quote says whether a package includes them and for how long.
+
+**What happens after launch?**
+
+A 7-day support window covers minor corrections and technical issues in the delivered site. Ongoing maintenance is available as a separate package, also white label.
+
+## Have a project for a client?
+
+Send the brief and your NDA, and we will reply with questions or a written quote.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+---
+
 Free tool
 
 # RankGuru, a free on-page SEO checker
@@ -4649,7 +4920,7 @@ RankGuru checks one page at a time against a fixed list of on-page basics. It do
 
 ### [Invoice generator](https://ndcompany.in/tools/invoice-generator)
 
-Makes an invoice from your details, items, tax and discount with a live preview, then prints it or saves it as a PDF from your browser.
+Makes an invoice, proforma invoice or quote with GST or other taxes, discounts and a UPI QR code, with a live preview, then prints it or saves it as a PDF.
 
 Open the tool
 
@@ -4681,7 +4952,7 @@ Free tool
 
 Source: https://ndcompany.in/tools/invoice-generator
 
-Fill in your business and client details, add your items, and set the tax and discount. The invoice updates as you type, and you can print it or save it as a PDF. Nothing you enter leaves your browser.
+Fill in your business and client details, add your items, and set the tax, discount and any amount already paid. For India you can split GST into CGST and SGST or show IGST, add HSN/SAC codes and print a UPI QR code. The invoice updates as you type, and you can print it or save it as a PDF. Nothing you enter leaves your browser.
 
 Invoice
 
@@ -4704,11 +4975,11 @@ Add your business name, address and contact details, and your logo if you have o
 
 ### The client
 
-Add who the invoice is for, the invoice number, the date and the due date.
+Add who it is for, then pick invoice, proforma invoice or quote, and set the number, date and due date.
 
 ### Items and tax
 
-Add each item with its quantity and rate, then set the tax and discount rates.
+Add each item with its quantity and rate. Choose GST or your own tax lines, and add a discount, a shipping charge or an amount paid.
 
 ### Save it
 
@@ -4722,11 +4993,15 @@ Press Save as PDF. Your browser's print window opens: choose Save as PDF (or Mic
 
 **Where are my details kept?**
 
-Only in this page while it is open, unless you tick Remember my business details. Then your business details, logo, currency, tax, payment details and notes stay in this browser for your next invoice. Untick it and they are deleted. Nothing is sent to N&D Co.
+Only in this page while it is open, unless you tick Remember my business details. Then your business details, logo, number style and next number, currency, tax settings, UPI ID, payment details, terms and notes stay in this browser for your next invoice. Your client, items and amounts are never kept. Untick it and everything is deleted. Nothing is sent to N&D Co.
 
 **Does it make a GST tax invoice?**
 
-It shows your tax number (such as a GSTIN) and one tax line at the rate you set. It does not split CGST and SGST or add a column for HSN or SAC codes, so check what the GST rules ask of your invoices before you use it for them.
+It lays out the parts a GST invoice usually has: your GSTIN and your client's, CGST and SGST at half the rate each or IGST at the full rate, an HSN/SAC column and a tax rate for each item. It only does the arithmetic and the layout. It does not check your rates or codes, and it is not tax advice, so check what the GST rules ask of your invoices, or ask your accountant.
+
+**How does the UPI QR code work?**
+
+Choose Indian rupees and type your UPI ID, such as name@bank. The invoice then shows a QR code that opens a UPI app with your ID, the balance due and the invoice number filled in. It disappears once the invoice is paid in full.
 
 **Which currencies can I use?**
 
@@ -4824,7 +5099,7 @@ Open the tool
 
 ### [Invoice generator](https://ndcompany.in/tools/invoice-generator)
 
-Makes an invoice from your details, items, tax and discount with a live preview, then prints it or saves it as a PDF from your browser.
+Makes an invoice, proforma invoice or quote with GST or other taxes, discounts and a UPI QR code, with a live preview, then prints it or saves it as a PDF.
 
 Open the tool
 
@@ -10134,9 +10409,9 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
 # Cookies policy
 
 Source: https://ndcompany.in/cookies-policy
-Updated: 2026-10-24
+Updated: 2026-10-25
 
-Effective date: 23 October 2026 · Last updated: 24 October 2026
+Effective date: 23 October 2026 · Last updated: 25 October 2026
 
 This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
@@ -10291,7 +10566,7 @@ Other services that receive information when you use our website:
 
 Our free tools (RankGuru, the invoice generator and the image to PDF converter) are pages of this website, so everything above applies to them. RankGuru asks each website you name for its page straight from your browser, so that website receives your IP address and browser details, as it would if you opened the page yourself. The invoice generator can also store:
 
-- **ndco-invoice-details** (local storage): your business details, logo, currency, tax, payment details and notes, only while you tick "Remember my business details on this device". Unticking it deletes them. It stays in your browser; we never receive it.
+- **ndco-invoice-details** (local storage): your business details, logo, invoice number style and next number, currency, tax settings, UPI ID, payment details, terms and notes, never your clients, items or amounts, only while you tick "Remember my business details on this device". Unticking it deletes them. It stays in your browser; we never receive it.
 
 A browser that used the first version of our tools may still hold its storage: the caches nd-tools-v1, nd-tools-runtime-v1, invoice-generator-v1.0.0 and image-to-pdf-v1.0.0, and the local storage items ios-install-shown and invoice-template- followed by a number. The next time you open our site, it removes those caches and the first version's service workers. The local storage items stay until you clear this site's data.
 

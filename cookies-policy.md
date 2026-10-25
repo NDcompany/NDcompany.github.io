@@ -4,13 +4,13 @@ description: "Cookies policy for ndcompany.in: the browser storage we use, the G
 url: "https://ndcompany.in/cookies-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-24"
+modified: "2026-10-25"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Cookies policy
 
-Effective date: 23 October 2026 · Last updated: 24 October 2026
+Effective date: 23 October 2026 · Last updated: 25 October 2026
 
 This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
@@ -165,7 +165,7 @@ Other services that receive information when you use our website:
 
 Our free tools (RankGuru, the invoice generator and the image to PDF converter) are pages of this website, so everything above applies to them. RankGuru asks each website you name for its page straight from your browser, so that website receives your IP address and browser details, as it would if you opened the page yourself. The invoice generator can also store:
 
-- **ndco-invoice-details** (local storage): your business details, logo, currency, tax, payment details and notes, only while you tick "Remember my business details on this device". Unticking it deletes them. It stays in your browser; we never receive it.
+- **ndco-invoice-details** (local storage): your business details, logo, invoice number style and next number, currency, tax settings, UPI ID, payment details, terms and notes, never your clients, items or amounts, only while you tick "Remember my business details on this device". Unticking it deletes them. It stays in your browser; we never receive it.
 
 A browser that used the first version of our tools may still hold its storage: the caches nd-tools-v1, nd-tools-runtime-v1, invoice-generator-v1.0.0 and image-to-pdf-v1.0.0, and the local storage items ios-install-shown and invoice-template- followed by a number. The next time you open our site, it removes those caches and the first version's service workers. The local storage items stay until you clear this site's data.
 
@@ -236,7 +236,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains your rights over you
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-10-25",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

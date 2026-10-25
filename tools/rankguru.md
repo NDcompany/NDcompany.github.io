@@ -56,7 +56,7 @@ RankGuru checks one page at a time against a fixed list of on-page basics. It do
 
 ### [Invoice generator](https://ndcompany.in/tools/invoice-generator)
 
-Makes an invoice from your details, items, tax and discount with a live preview, then prints it or saves it as a PDF from your browser.
+Makes an invoice, proforma invoice or quote with GST or other taxes, discounts and a UPI QR code, with a live preview, then prints it or saves it as a PDF.
 
 Open the tool
 

@@ -1,6 +1,6 @@
 ---
 title: "Free online invoice generator, no login | N&D Co."
-description: "Make an invoice online for free: add your details, logo, items, tax and discount, watch the preview update, then print it or save it as a PDF. No sign-up."
+description: "Make an invoice online for free: your logo, items, GST or other taxes, discount and a UPI QR code. Watch the preview update, then save it as a PDF. No sign-up."
 url: "https://ndcompany.in/tools/invoice-generator"
 type: "WebPage"
 image: "https://ndcompany.in/assets/share/invoice-generator.png"
@@ -10,7 +10,7 @@ Free tool
 
 # Free invoice generator
 
-Fill in your business and client details, add your items, and set the tax and discount. The invoice updates as you type, and you can print it or save it as a PDF. Nothing you enter leaves your browser.
+Fill in your business and client details, add your items, and set the tax, discount and any amount already paid. For India you can split GST into CGST and SGST or show IGST, add HSN/SAC codes and print a UPI QR code. The invoice updates as you type, and you can print it or save it as a PDF. Nothing you enter leaves your browser.
 
 Invoice
 
@@ -33,11 +33,11 @@ Add your business name, address and contact details, and your logo if you have o
 
 ### The client
 
-Add who the invoice is for, the invoice number, the date and the due date.
+Add who it is for, then pick invoice, proforma invoice or quote, and set the number, date and due date.
 
 ### Items and tax
 
-Add each item with its quantity and rate, then set the tax and discount rates.
+Add each item with its quantity and rate. Choose GST or your own tax lines, and add a discount, a shipping charge or an amount paid.
 
 ### Save it
 
@@ -51,11 +51,15 @@ Press Save as PDF. Your browser's print window opens: choose Save as PDF (or Mic
 
 **Where are my details kept?**
 
-Only in this page while it is open, unless you tick Remember my business details. Then your business details, logo, currency, tax, payment details and notes stay in this browser for your next invoice. Untick it and they are deleted. Nothing is sent to N&D Co.
+Only in this page while it is open, unless you tick Remember my business details. Then your business details, logo, number style and next number, currency, tax settings, UPI ID, payment details, terms and notes stay in this browser for your next invoice. Your client, items and amounts are never kept. Untick it and everything is deleted. Nothing is sent to N&D Co.
 
 **Does it make a GST tax invoice?**
 
-It shows your tax number (such as a GSTIN) and one tax line at the rate you set. It does not split CGST and SGST or add a column for HSN or SAC codes, so check what the GST rules ask of your invoices before you use it for them.
+It lays out the parts a GST invoice usually has: your GSTIN and your client's, CGST and SGST at half the rate each or IGST at the full rate, an HSN/SAC column and a tax rate for each item. It only does the arithmetic and the layout. It does not check your rates or codes, and it is not tax advice, so check what the GST rules ask of your invoices, or ask your accountant.
+
+**How does the UPI QR code work?**
+
+Choose Indian rupees and type your UPI ID, such as name@bank. The invoice then shows a QR code that opens a UPI app with your ID, the balance due and the invoice number filled in. It disappears once the invoice is paid in full.
 
 **Which currencies can I use?**
 
@@ -94,7 +98,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/tools/invoice-generator#webpage",
       "url": "https://ndcompany.in/tools/invoice-generator",
       "name": "Free online invoice generator, no login | N&D Co.",
-      "description": "Make an invoice online for free: add your details, logo, items, tax and discount, watch the preview update, then print it or save it as a PDF. No sign-up.",
+      "description": "Make an invoice online for free: your logo, items, GST or other taxes, discount and a UPI QR code. Watch the preview update, then save it as a PDF. No sign-up.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
