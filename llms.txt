@@ -112,3 +112,11 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Refund and cancellation policy](https://ndcompany.in/refund-cancellation-policy): how cancelling a project or a monthly service works, and when money is refunded.
 - [Security policy](https://ndcompany.in/security-policy): how the site runs, what waits for your consent, how client data is handled and how to report a problem.
 - [Free SEO audit conditions](https://ndcompany.in/free-seo-audit): what the free SEO audit covers, who can ask, when the report arrives and the offer that comes with it.
+
+## In Dutch (Nederlands)
+
+- [Website laten maken](https://ndcompany.in/nl/website-laten-maken): Website laten maken: een eigen ontwerp vanaf € 349, een zakelijke website met CMS voor € 699, een webshop of webapp vanaf € 1.499. Met schriftelijke offerte.
+- [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken): Webshop laten maken in Shopify of WooCommerce: vanaf € 1.299, met eigen paginaontwerpen voor € 2.299, of maatwerk vanaf € 3.499. Met schriftelijke offerte vooraf.
+- [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen): Logo laten ontwerpen: een concept met twee correctierondes voor € 149, een volledige logoset met stijlgids voor € 399, of maatwerk vanaf € 799. Inclusief vectorbestanden.
+- [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken): Huisstijl laten maken: logo, kleuren, lettertypen en een stijlgids vanaf € 449, met visitekaartjes, briefpapier en templates voor € 899, of maatwerk vanaf € 1.799.
+- [Herroepingsrecht](https://ndcompany.in/nl/herroepingsrecht): bedenktijd van 14 dagen voor particulieren en het modelformulier voor herroeping.

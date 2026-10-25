@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the homepage, the FAQ, the tools we use and the legal pages (14 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the homepage, the FAQ, the tools we use and the legal pages (19 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -30,6 +30,26 @@
   </url>
   <url>
     <loc>https://ndcompany.in/pricing</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/website-laten-maken</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/webshop-laten-maken</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/logo-laten-ontwerpen</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/huisstijl-laten-maken</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/herroepingsrecht</loc>
     <lastmod>2026-10-25</lastmod>
   </url>
   <url>

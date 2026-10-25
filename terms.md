@@ -57,7 +57,7 @@ Our prices differ by region. We set them separately for each market we serve, ba
 
 The prices we show in rupees and in US dollars are starting prices for each market. They are not currency conversions of each other, and they do not mean that a service has the same monetary value in every market.
 
-Our website shows prices in Indian rupees to visitors in India and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
+Our website shows prices in Indian rupees to visitors in India and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
 
 ## 5. Payments and refunds
 

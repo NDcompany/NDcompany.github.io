@@ -38,6 +38,24 @@ Every project is quoted in writing, fixed-price or hourly, before work starts. Q
 
 E-commerce builds, business sites, brand identities, SEO and marketing from one remote team.
 
+## Prices in euros, in Dutch
+
+### [Website laten maken](https://ndcompany.in/nl/website-laten-maken)
+
+Websites from € 349, in Dutch, with our three packages and what each includes.
+
+### [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken)
+
+Shopify and WooCommerce stores from € 1.299.
+
+### [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen)
+
+Logos from € 149, with every file you need.
+
+### [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+
+Brand identities from € 449, with guidelines your team can follow.
+
 ## What we can build for you
 
 Every service is delivered remotely to businesses in the Netherlands.

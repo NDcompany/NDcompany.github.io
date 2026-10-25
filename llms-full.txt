@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (58 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (63 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -4148,6 +4148,24 @@ Every project is quoted in writing, fixed-price or hourly, before work starts. Q
 
 E-commerce builds, business sites, brand identities, SEO and marketing from one remote team.
 
+## Prices in euros, in Dutch
+
+### [Website laten maken](https://ndcompany.in/nl/website-laten-maken)
+
+Websites from € 349, in Dutch, with our three packages and what each includes.
+
+### [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken)
+
+Shopify and WooCommerce stores from € 1.299.
+
+### [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen)
+
+Logos from € 149, with every file you need.
+
+### [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+
+Brand identities from € 449, with guidelines your team can follow.
+
 ## What we can build for you
 
 Every service is delivered remotely to businesses in the Netherlands.
@@ -4759,6 +4777,662 @@ Agencies that resell our work under their own name have their own US dollar pric
 Tell us what you need, and we will reply with questions or a written quote.
 
 [Get a quote](https://ndcompany.in/#contact)
+
+---
+
+Website laten maken
+
+# Website laten maken: eigen ontwerp, heldere startprijzen
+
+Source: https://ndcompany.in/nl/website-laten-maken
+
+Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We ontwerpen en bouwen websites voor bedrijven in Nederland, volledig op afstand: van een landingspagina vanaf € 349 tot een webshop of webapplicatie op maat.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+[Bekijk de prijzen](https://ndcompany.in/nl/website-laten-maken#pricing)
+
+## Wat kost het?
+
+Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket zit het eerste jaar daarvan erbij.
+
+## Pakketten en prijzen
+
+Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+Starter
+
+€ 349
+
+schriftelijke offerte vooraf · klaar in 1 tot 2 weken
+
+- Een landingspagina of kleine website
+- Eigen ontwerp, geen templates
+- 3 maanden ons Starter-SEO-pakket gratis
+- Ontworpen voor mobiel, ook goed op desktop
+- Contactformulier gekoppeld aan je inbox
+- Basis on-page SEO en een sitemap
+- 7 dagen ondersteuning na oplevering
+- Hosting en domeinnaam niet inbegrepen; kopen wij ze voor je, dan betaal je ze vooraf
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Business
+
+€ 699
+
+schriftelijke offerte vooraf · klaar in 2 tot 4 weken
+
+- Zakelijke website met meerdere pagina's
+- WordPress, Shopify of een ander CMS, met beheerderstoegang
+- 3 maanden ons Growth-SEO-pakket gratis
+- Eigen ontwerp met twee tot drie correctierondes
+- Blog of nieuwssectie
+- Contact- en aanvraagformulieren
+- On-page SEO en een sitemap
+- Technische SEO-controle en snelheidsoptimalisatie
+- 7 dagen ondersteuning na oplevering
+- Een jaar hosting en domeinnaam inbegrepen (Hostinger), daarna te verlengen tegen kostprijs
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Custom
+
+Vanaf
+
+€ 1.499
+
+schriftelijke offerte vooraf · klaar in 4 tot 6 weken
+
+- Webshop of webapplicatie op maat
+- Betaalprovider en orderbeheer
+- Gebruikersaccounts, dashboards of boekingssystemen
+- Koppelingen met andere software, zoals afgesproken
+- Testomgeving en een volledige testronde
+- 3 maanden ons Growth-SEO-pakket gratis
+- Overdracht van de broncode en documentatie
+- Onderhoudspakket los verkrijgbaar
+- Hosting op AWS of een VPS los verkrijgbaar
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Zo werken we
+
+### Kennismaking
+
+Een gesprek of e-mail over wat de website moet doen, wie hem bezoekt en welke inhoud er al is. Daarna sturen we een schriftelijke offerte met planning.
+
+### Ontwerp
+
+Paginaontwerpen en een visuele richting, ter beoordeling. Reken op twee tot drie correctierondes.
+
+### Bouw
+
+We bouwen het goedgekeurde ontwerp, koppelen het CMS en plaatsen je content. Via een testlink zie je de pagina's ontstaan.
+
+### Testen
+
+Formulieren, links en laadsnelheid controleren we op mobiel en desktop voordat er iets live gaat.
+
+### Livegang en ondersteuning
+
+De website gaat live op je domeinnaam. Tot zeven dagen na oplevering voeren we kleine correcties door en lossen we technische problemen op; daarna is onderhoud los verkrijgbaar.
+
+## Goed om te weten
+
+### Prijzen en btw
+
+Alle prijzen zijn startprijzen in euro. Wij zijn gevestigd in India en rekenen geen btw. Bij zakelijke klanten is de btw verlegd: zij geven die zelf aan. Voor particulieren is de getoonde prijs de totaalprijs. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+### Betalen
+
+Je betaalt in euro via PayPal, Wise of een bankoverschrijving. We beginnen na een aanbetaling van 50%; de rest betaal je voor de oplevering.
+
+### Taal en voorwaarden
+
+We werken in het Engels: offertes, gesprekken en oplevering. Onze algemene voorwaarden zijn ook in het Engels.
+
+### Bedenktijd voor particulieren
+
+Sluit je als particulier een overeenkomst met ons, dan heb je 14 dagen bedenktijd. Hoe je de overeenkomst herroept, staat op onze pagina over het herroepingsrecht, met het modelformulier.
+
+### Eigendom
+
+Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+Lees ook de [informatie over het herroepingsrecht en het modelformulier](https://ndcompany.in/nl/herroepingsrecht), onze [algemene voorwaarden](https://ndcompany.in/terms) (Engels) en deze pagina [in het Engels](https://ndcompany.in/services/website-design-development).
+
+## Veelgestelde vragen
+
+**Wat kost een website laten maken?**
+
+Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+**Hoelang duurt het?**
+
+Een kleine website is in 1 tot 2 weken klaar, een zakelijke website in 2 tot 4 weken en een project op maat in 4 tot 6 weken. De datum spreken we schriftelijk af.
+
+**Kan mijn website Nederlandstalig zijn?**
+
+Ja. We werken zelf in het Engels, maar we schrijven ook de Nederlandse teksten voor je website en laten ze controleren voordat de site live gaat. Heb je de teksten al, dan plaatsen we die.
+
+**Van wie is de website als hij klaar is?**
+
+Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+**Wat kost hosting na het eerste jaar?**
+
+Bij het Business-pakket zitten hosting en domeinnaam het eerste jaar bij de prijs (Hostinger). Daarna verlengen we ze tegen de kostprijs van de aanbieder, zonder opslag.
+
+## Ook in het Nederlands
+
+[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+
+## Benieuwd wat het voor jou kost?
+
+Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een schriftelijke offerte.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+---
+
+Webshop laten maken
+
+# Webshop laten maken in Shopify of WooCommerce
+
+Source: https://ndcompany.in/nl/webshop-laten-maken
+
+Wij bouwen webshops voor ondernemers in Nederland, volledig op afstand vanuit Kolkata, India: in Shopify of WooCommerce, of helemaal op maat. Je krijgt een schriftelijke offerte voordat we beginnen.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+[Bekijk de prijzen](https://ndcompany.in/nl/webshop-laten-maken#pricing)
+
+## Wat kost het?
+
+Een webshop laten maken kost bij ons € 1.299 voor een Shopify- of WooCommerce-webshop met een thema in jouw huisstijl, € 2.299 voor eigen paginaontwerpen en een grote catalogus, en vanaf € 3.499 voor een webshop op maat. Het Shopify-abonnement, betaalde apps en de kosten van je betaalprovider betaal je zelf.
+
+## Pakketten en prijzen
+
+Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+Starter
+
+€ 1.299
+
+schriftelijke offerte vooraf · klaar in 2 tot 3 weken
+
+- Webshop in Shopify of WooCommerce
+- Catalogus voor één merk
+- Thema in jouw huisstijl
+- Een betaalprovider voor jouw markt, zoals Stripe (met iDEAL | Wero) of PayPal
+- Verzendzones en btw-instellingen
+- 7 dagen ondersteuning na oplevering
+- Shopify-abonnement, betaalde apps en kosten van je betaalprovider betaal je zelf
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Growth
+
+€ 2.299
+
+schriftelijke offerte vooraf · klaar in 3 tot 5 weken
+
+- Alles uit Starter
+- Eigen ontwerp voor de home-, categorie- en productpagina's
+- Import van een grote catalogus met varianten
+- Koppeling met een verzendservice
+- Kortingscodes en e-mails bij een verlaten winkelwagen
+- Productgegevens voor zoekmachines en snelheidsoptimalisatie
+- Uitleg over het beheer van je webshop
+- Shopify-abonnement, betaalde apps en kosten van je betaalprovider betaal je zelf
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Custom
+
+Vanaf
+
+€ 3.499
+
+schriftelijke offerte vooraf · klaar in 6 tot 12 weken
+
+- Webshop en beheeromgeving op maat
+- Marketplace met meerdere verkopers of een dealerportaal
+- Prijzen per klant of groothandelsprijzen
+- Koppeling met ERP-, boekhoud- of voorraadsoftware
+- Mobiele app voor je klanten
+- Onderhoudspakket als optie
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Zo werken we
+
+### Kennismaking
+
+Een gesprek over wat je verkoopt, hoeveel producten je hebt, hoe je verzendt en welke betaalmethoden je nodig hebt. Daarna volgen ons advies over het platform en een schriftelijke offerte.
+
+### Ontwerp
+
+Ontwerpen voor de belangrijkste pagina's, beoordeeld op computer en telefoon. Reken op twee tot drie correctierondes.
+
+### Bouw
+
+Het thema of de bouw op maat, de catalogus en de instellingen voor betaling, verzending en btw. Via een testlink probeer je de webshop uit als klant.
+
+### Testen
+
+Testbestellingen met elke betaalmethode, terugbetalingen, elk verzendtarief en elke e-mailmelding, op echte apparaten.
+
+### Livegang en ondersteuning
+
+Domeinnaam gekoppeld, SSL actief, betalingen live en een eerste echte bestelling bevestigd. Daarna 7 dagen ondersteuning en onderhoud als optie.
+
+## Goed om te weten
+
+### Prijzen en btw
+
+Alle prijzen zijn startprijzen in euro. Wij zijn gevestigd in India en rekenen geen btw. Bij zakelijke klanten is de btw verlegd: zij geven die zelf aan. Voor particulieren is de getoonde prijs de totaalprijs. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+### Betalen
+
+Je betaalt in euro via PayPal, Wise of een bankoverschrijving. We beginnen na een aanbetaling van 50%; de rest betaal je voor de oplevering.
+
+### Taal en voorwaarden
+
+We werken in het Engels: offertes, gesprekken en oplevering. Onze algemene voorwaarden zijn ook in het Engels.
+
+### Bedenktijd voor particulieren
+
+Sluit je als particulier een overeenkomst met ons, dan heb je 14 dagen bedenktijd. Hoe je de overeenkomst herroept, staat op onze pagina over het herroepingsrecht, met het modelformulier.
+
+### Eigendom
+
+Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+Lees ook de [informatie over het herroepingsrecht en het modelformulier](https://ndcompany.in/nl/herroepingsrecht), onze [algemene voorwaarden](https://ndcompany.in/terms) (Engels) en deze pagina [in het Engels](https://ndcompany.in/services/ecommerce-solutions).
+
+## Veelgestelde vragen
+
+**Wat kost een webshop laten maken?**
+
+Bij ons € 1.299 voor een webshop in Shopify of WooCommerce, € 2.299 met eigen paginaontwerpen en een grote catalogus, en vanaf € 3.499 voor een webshop op maat. Je definitieve prijs staat in een schriftelijke offerte.
+
+**Shopify of WooCommerce?**
+
+Dat hangt af van je catalogus, je budget en hoe je verzendt. Voordat we beginnen, krijg je een kort schriftelijk advies met de reden voor onze keuze.
+
+**Welke kosten komen er nog bij?**
+
+Het Shopify-abonnement, betaalde apps en de kosten van je betaalprovider betaal je zelf, rechtstreeks aan de aanbieder. Bij WooCommerce betaal je voor hosting die geschikt is voor een webshop.
+
+**Van wie is de webshop?**
+
+Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom, en de accounts staan waar mogelijk op jouw naam.
+
+## Ook in het Nederlands
+
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+
+## Benieuwd wat het voor jou kost?
+
+Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een schriftelijke offerte.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+---
+
+Logo laten ontwerpen
+
+# Logo laten ontwerpen, met alle bestanden die je nodig hebt
+
+Source: https://ndcompany.in/nl/logo-laten-ontwerpen
+
+Wij ontwerpen logo's voor ondernemers in Nederland, op afstand vanuit Kolkata, India. Je krijgt vectorbestanden voor drukwerk en digitaal gebruik, en zodra je volledig hebt betaald, is het logo van jou.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+[Bekijk de prijzen](https://ndcompany.in/nl/logo-laten-ontwerpen#pricing)
+
+## Wat kost het?
+
+Een logo laten ontwerpen kost bij ons € 149 voor een conceptrichting met twee correctierondes, € 399 voor twee richtingen, een volledige logoset en een korte stijlgids, en vanaf € 799 voor submerken, briefpapier en een uitgebreide stijlgids.
+
+## Pakketten en prijzen
+
+Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+Essential
+
+€ 149
+
+schriftelijke offerte vooraf · klaar in 3 tot 5 dagen
+
+- Eén conceptrichting
+- Twee correctierondes
+- Hoofdlogo plus een alternatieve versie
+- Versies in kleur en in zwart-wit
+- Vectorbestanden (AI, EPS, SVG, PDF) en PNG-bestanden
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Identity
+
+€ 399
+
+schriftelijke offerte vooraf · klaar in 7 tot 10 dagen
+
+- Twee conceptrichtingen
+- Drie correctierondes
+- Hoofdlogo, een liggende en een staande versie en een icoonversie
+- Versies in kleur, in één kleur, in zwart-wit en in diapositief
+- Kleurenpalet in CMYK, RGB en HEX
+- Korte stijlgids als pdf
+- Profielset voor sociale media
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Custom
+
+Vanaf
+
+€ 799
+
+schriftelijke offerte vooraf · klaar in 2 tot 3 weken
+
+- Alles uit Identity
+- Conceptrichtingen en correctierondes volgens jouw briefing
+- Logo's voor submerken of productlijnen
+- Uitgebreide stijlgids met voorbeelden
+- Ontwerp van visitekaartjes en briefpapier
+- Overdrachtsgesprek met je team of je drukker
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Zo werken we
+
+### Briefing
+
+Je vult een korte vragenlijst in over je bedrijf, je doelgroep en je voorkeuren, en stuurt bestaand materiaal mee. Daarna volgt een gesprek.
+
+### Offerte en afspraken
+
+Je krijgt een offerte met conceptrichtingen, correctierondes, bestanden en opleverdatum. We beginnen na ondertekening en de aanbetaling van 50%.
+
+### Concepten
+
+Na onderzoek en schetsen tonen we de sterkste richtingen in zwart-wit, elk met een korte toelichting en een voorbeeld op een visitekaartje en een telefoonscherm. Jij kiest er één.
+
+### Uitwerking
+
+De gekozen richting gaat door de afgesproken correctierondes. Hier voegen we kleur toe, en we testen het logo heel klein en heel groot.
+
+### Bestanden
+
+Na de laatste betaling krijg je elke versie in AI, EPS, SVG, PDF en PNG, met de kleur- en lettertypegegevens en de stijlgids. Dan wordt het logo jouw eigendom en begint de ondersteuning van 7 dagen.
+
+## Goed om te weten
+
+### Prijzen en btw
+
+Alle prijzen zijn startprijzen in euro. Wij zijn gevestigd in India en rekenen geen btw. Bij zakelijke klanten is de btw verlegd: zij geven die zelf aan. Voor particulieren is de getoonde prijs de totaalprijs. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+### Betalen
+
+Je betaalt in euro via PayPal, Wise of een bankoverschrijving. We beginnen na een aanbetaling van 50%; de rest betaal je voor de oplevering.
+
+### Taal en voorwaarden
+
+We werken in het Engels: offertes, gesprekken en oplevering. Onze algemene voorwaarden zijn ook in het Engels.
+
+### Bedenktijd voor particulieren
+
+Sluit je als particulier een overeenkomst met ons, dan heb je 14 dagen bedenktijd. Hoe je de overeenkomst herroept, staat op onze pagina over het herroepingsrecht, met het modelformulier.
+
+### Eigendom
+
+Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+Lees ook de [informatie over het herroepingsrecht en het modelformulier](https://ndcompany.in/nl/herroepingsrecht), onze [algemene voorwaarden](https://ndcompany.in/terms) (Engels) en deze pagina [in het Engels](https://ndcompany.in/services/logo-design).
+
+## Veelgestelde vragen
+
+**Wat kost een logo laten ontwerpen?**
+
+Bij ons € 149 voor een conceptrichting met twee correctierondes, € 399 voor een volledige logoset met stijlgids en vanaf € 799 voor maatwerk met submerken en briefpapier.
+
+**Welke bestanden krijg ik?**
+
+Elke versie van je logo als vectorbestand (AI, EPS, SVG en PDF) en als PNG, in kleur en in zwart-wit. Bij Identity en Custom ook het kleurenpalet en een stijlgids.
+
+**Van wie is het logo?**
+
+Van jou. Zodra je volledig hebt betaald, wordt het logo dat in je offerte staat jouw eigendom. Concepten die je niet kiest, blijven van ons.
+
+**Wat is het verschil tussen een logo en een huisstijl?**
+
+Een logo is het herkenningsteken van je bedrijf. Een huisstijl is het systeem eromheen: kleuren, lettertypen, beeld en de regels om ze te gebruiken, vaak met visitekaartjes en templates.
+
+## Ook in het Nederlands
+
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+
+## Benieuwd wat het voor jou kost?
+
+Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een schriftelijke offerte.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+---
+
+Huisstijl laten maken
+
+# Huisstijl laten maken: logo, kleuren, lettertypen en regels
+
+Source: https://ndcompany.in/nl/huisstijl-laten-maken
+
+Wij ontwerpen huisstijlen voor ondernemers in Nederland, op afstand vanuit Kolkata, India: een logo met kleuren, lettertypen en een huisstijlhandboek dat je team en je leveranciers kunnen volgen.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+[Bekijk de prijzen](https://ndcompany.in/nl/huisstijl-laten-maken#pricing)
+
+## Wat kost het?
+
+Een huisstijl laten maken kost bij ons € 449 voor een logo, kleuren, lettertypen en een korte stijlgids, € 899 met een volledig huisstijlhandboek, visitekaartjes, briefpapier, e-mailhandtekening en templates, en vanaf € 1.799 voor submerken, verpakkingen of een rebranding.
+
+## Pakketten en prijzen
+
+Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+Essentials
+
+€ 449
+
+schriftelijke offerte vooraf · klaar in 1 tot 2 weken
+
+- Merkbriefing en moodboard
+- Hoofdlogo met een tweede versie en een icoon
+- Kleurenpalet met waarden voor drukwerk en digitaal gebruik
+- Combinatie van lettertypen
+- Korte stijlgids als pdf
+- Vector- en PNG-bestanden
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Complete
+
+€ 899
+
+schriftelijke offerte vooraf · klaar in 2 tot 3 weken
+
+- Alles uit Essentials
+- Grafische elementen en een beeldrichting
+- Volledig huisstijlhandboek met voorbeelden
+- Visitekaartje, briefpapier en e-mailhandtekening
+- Templates voor je profiel en posts op sociale media
+- Template voor presentaties of documenten
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Custom
+
+Vanaf
+
+€ 1.799
+
+schriftelijke offerte vooraf · klaar in 3 tot 6 weken
+
+- Alles uit Complete
+- Huisstijlen voor submerken of productlijnen
+- Toepassingen op verpakkingen of bewegwijzering
+- Rebranding van een bestaande huisstijl met advies voor de overgang
+- Uitrol op je bestaande website en sociale kanalen
+- Doorlopende samenwerking als optie
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Zo werken we
+
+### Kennismaking
+
+Een gesprek over je bedrijf, je klanten en wat je merk moet uitstralen. Daarna sturen we een merkbriefing en een schriftelijke offerte met planning.
+
+### Onderzoek
+
+We bekijken je markt en directe concurrenten, waar ze ook zitten, en spreken via een moodboard met je een richting af voordat we iets tekenen.
+
+### Concepten
+
+We tonen logoconcepten met een toelichting, toegepast op voorbeelden uit de praktijk. Jij kiest een richting.
+
+### Uitwerking
+
+Het gekozen concept wordt een compleet systeem: varianten, kleur, typografie en ondersteunende elementen. Reken op twee tot drie correctierondes.
+
+### Huisstijlhandboek en overdracht
+
+We schrijven en ontwerpen het huisstijlhandboek en leveren alle bestandsformaten aan. Na de laatste betaling krijg je de bestanden uit je offerte, met 7 dagen ondersteuning.
+
+## Goed om te weten
+
+### Prijzen en btw
+
+Alle prijzen zijn startprijzen in euro. Wij zijn gevestigd in India en rekenen geen btw. Bij zakelijke klanten is de btw verlegd: zij geven die zelf aan. Voor particulieren is de getoonde prijs de totaalprijs. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+### Betalen
+
+Je betaalt in euro via PayPal, Wise of een bankoverschrijving. We beginnen na een aanbetaling van 50%; de rest betaal je voor de oplevering.
+
+### Taal en voorwaarden
+
+We werken in het Engels: offertes, gesprekken en oplevering. Onze algemene voorwaarden zijn ook in het Engels.
+
+### Bedenktijd voor particulieren
+
+Sluit je als particulier een overeenkomst met ons, dan heb je 14 dagen bedenktijd. Hoe je de overeenkomst herroept, staat op onze pagina over het herroepingsrecht, met het modelformulier.
+
+### Eigendom
+
+Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+Lees ook de [informatie over het herroepingsrecht en het modelformulier](https://ndcompany.in/nl/herroepingsrecht), onze [algemene voorwaarden](https://ndcompany.in/terms) (Engels) en deze pagina [in het Engels](https://ndcompany.in/services/brand-identity-design).
+
+## Veelgestelde vragen
+
+**Wat kost een huisstijl laten maken?**
+
+Bij ons € 449 voor een logo, kleuren, lettertypen en een korte stijlgids, € 899 met een volledig huisstijlhandboek, drukwerk en templates, en vanaf € 1.799 voor maatwerk.
+
+**Wat staat er in een huisstijlhandboek?**
+
+Hoe je het logo gebruikt, de kleurcodes voor drukwerk en digitaal gebruik, de lettertypen en hoe je ze combineert, en voorbeelden van toepassingen, zodat anderen je huisstijl kunnen toepassen zonder dat steeds bij ons te hoeven navragen.
+
+**Hoelang duurt het?**
+
+Essentials is in 1 tot 2 weken klaar, Complete in 2 tot 3 weken en maatwerk in 3 tot 6 weken. De datum spreken we schriftelijk af.
+
+**Van wie is de huisstijl?**
+
+Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+## Ook in het Nederlands
+
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen)
+
+## Benieuwd wat het voor jou kost?
+
+Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een schriftelijke offerte.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+---
+
+Voor consumenten
+
+# Herroepingsrecht voor consumenten
+
+Source: https://ndcompany.in/nl/herroepingsrecht
+
+Sluit je als consument in de Europese Unie een overeenkomst op afstand met ons, dan heb je het recht die overeenkomst binnen 14 dagen te herroepen. Hieronder staan de instructies en het modelformulier uit de Europese richtlijn consumentenrechten. Zakelijke klanten hebben dit recht niet.
+
+## Herroepingsrecht
+
+U heeft het recht om binnen een termijn van 14 dagen zonder opgave van redenen de overeenkomst te herroepen.
+
+De herroepingstermijn verstrijkt 14 dagen na de dag van de sluiting van de overeenkomst.
+
+Om het herroepingsrecht uit te oefenen, moet u ons (N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: ceo@ndcompany.in) via een ondubbelzinnige verklaring (bv. schriftelijk per post, fax of e-mail) op de hoogte stellen van uw beslissing de overeenkomst te herroepen. U kunt hiervoor gebruikmaken van het bijgevoegde modelformulier voor herroeping, maar bent hiertoe niet verplicht.
+
+Om de herroepingstermijn na te leven volstaat het om uw mededeling betreffende uw uitoefening van het herroepingsrecht te verzenden voordat de herroepingstermijn is verstreken.
+
+## Gevolgen van de herroeping
+
+Als u de overeenkomst herroept, ontvangt u alle betalingen die u tot op dat moment heeft gedaan onverwijld en in ieder geval niet later dan 14 dagen nadat wij op de hoogte zijn gesteld van uw beslissing de overeenkomst te herroepen, van ons terug. Wij betalen u terug met hetzelfde betaalmiddel als waarmee u de oorspronkelijke transactie heeft verricht, tenzij u uitdrukkelijk anderszins heeft ingestemd; in ieder geval zullen u voor zulke terugbetaling geen kosten in rekening worden gebracht.
+
+Als u heeft verzocht om de verrichting van diensten te laten beginnen tijdens de herroepingstermijn, betaalt u een bedrag dat evenredig is aan hetgeen op het moment dat u ons ervan in kennis heeft gesteld dat u de overeenkomst herroept reeds geleverd is, vergeleken met de volledige uitvoering van de overeenkomst.
+
+Ons volledige postadres staat op je offerte en je factuur.
+
+## Modelformulier voor herroeping
+
+(dit formulier alleen invullen en terugzenden als u de overeenkomst wilt herroepen)
+
+- Aan N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: ceo@ndcompany.in:
+- Ik/Wij (*) deel/delen (*) u hierbij mede dat ik/wij (*) onze overeenkomst betreffende de verkoop van de volgende goederen/levering van de volgende dienst (*) herroep/herroepen (*)
+- Besteld op (*)/Ontvangen op (*)
+- Naam/Namen consument(en)
+- Adres consument(en)
+- Handtekening van consument(en) (alleen wanneer dit formulier op papier wordt ingediend)
+- Datum
+
+(*) Doorhalen wat niet van toepassing is.
+
+Bron: [Richtlijn 2011/83/EU betreffende consumentenrechten, bijlage I (EUR-Lex)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32011L0083). Onze [algemene voorwaarden](https://ndcompany.in/terms) zijn in het Engels.
 
 ---
 
@@ -8628,9 +9302,9 @@ WooCommerce on WordPress has no platform fee: "Our core platform is free" ([WooC
 
 | Provider | Online card payment | Notes |
 | --- | --- | --- |
-| [Stripe](https://stripe.com/pricing) | 2.9% + 30¢ | Plus 1.5% for international cards and 1% if currency conversion is needed; $15 per dispute |
-| Shopify Payments (Basic) | 2.9% + 30¢ | Lower rates on the Grow and Advanced plans |
-| [Square](https://squareup.com/us/en/pricing) (free plan) | 3.3% + 30¢ | 2.9% + 30¢ on the paid Plus and Premium plans |
+| [Stripe](https://stripe.com/pricing) | 2.9% + $0.30 | Plus 1.5% for international cards and 1% if currency conversion is needed; $15 per dispute |
+| Shopify Payments (Basic) | 2.9% + $0.30 | Lower rates on the Grow and Advanced plans |
+| [Square](https://squareup.com/us/en/pricing) (free plan) | 3.3% + $0.30 | 2.9% + $0.30 on the paid Plus and Premium plans |
 | [PayPal Checkout](https://www.paypal.com/us/business/paypal-business-fees) | 3.49% + $0.49 | Card-only options: 2.99% standard and 2.89% advanced, each plus a fixed fee |
 
 ## The parts that are free
@@ -11001,7 +11675,7 @@ Our prices differ by region. We set them separately for each market we serve, ba
 
 The prices we show in rupees and in US dollars are starting prices for each market. They are not currency conversions of each other, and they do not mean that a service has the same monetary value in every market.
 
-Our website shows prices in Indian rupees to visitors in India and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
+Our website shows prices in Indian rupees to visitors in India and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
 
 ## 5. Payments and refunds
 

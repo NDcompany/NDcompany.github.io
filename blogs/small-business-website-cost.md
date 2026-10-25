@@ -89,9 +89,9 @@ WooCommerce on WordPress has no platform fee: "Our core platform is free" ([WooC
 
 | Provider | Online card payment | Notes |
 | --- | --- | --- |
-| [Stripe](https://stripe.com/pricing) | 2.9% + 30¢ | Plus 1.5% for international cards and 1% if currency conversion is needed; $15 per dispute |
-| Shopify Payments (Basic) | 2.9% + 30¢ | Lower rates on the Grow and Advanced plans |
-| [Square](https://squareup.com/us/en/pricing) (free plan) | 3.3% + 30¢ | 2.9% + 30¢ on the paid Plus and Premium plans |
+| [Stripe](https://stripe.com/pricing) | 2.9% + $0.30 | Plus 1.5% for international cards and 1% if currency conversion is needed; $15 per dispute |
+| Shopify Payments (Basic) | 2.9% + $0.30 | Lower rates on the Grow and Advanced plans |
+| [Square](https://squareup.com/us/en/pricing) (free plan) | 3.3% + $0.30 | 2.9% + $0.30 on the paid Plus and Premium plans |
 | [PayPal Checkout](https://www.paypal.com/us/business/paypal-business-fees) | 3.49% + $0.49 | Card-only options: 2.99% standard and 2.89% advanced, each plus a fixed fee |
 
 ## The parts that are free
