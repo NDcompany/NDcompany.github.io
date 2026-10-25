@@ -267,6 +267,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Cli
 
 SEO
 
+Guide · 25 Oct 2026
+
+### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+
+From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
+
+Read the guide
+
+SEO
+
 Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
@@ -282,16 +292,6 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
-
-Read the guide
-
-Branding
-
-Guide · 23 Oct 2026
-
-### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
 
 Read the guide
 

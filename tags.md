@@ -88,6 +88,23 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 
+## Core Web Vitals
+
+4 posts
+
+How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
+
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  23 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+  23 Oct 2026
+
+[Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+
 ## Brand guidelines
 
 2 posts, 1 project
@@ -103,21 +120,6 @@ Brand style guides that others can follow without asking you: logo rules, colour
   Branding
 
 [Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
-
-## Core Web Vitals
-
-3 posts
-
-How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
-
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  23 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  23 Oct 2026
-
-[Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
 ## Working with an agency
 
@@ -143,6 +145,17 @@ Setting up Google's free Search Console with the business as owner, then reading
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   23 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+  23 Oct 2026
+
+## Technical SEO
+
+2 posts
+
+Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
+
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   23 Oct 2026
 
 ## Web accessibility
@@ -219,14 +232,14 @@ Asking customers for reviews, replying to them and reporting the ones that break
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   23 Oct 2026
 
-## Technical SEO
+## SEO audits
 
 1 post
 
-Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
+What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
 
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  23 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
 
 ## Trade marks
 
@@ -304,14 +317,14 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Brand guidelines",
-            "url": "https://ndcompany.in/tags/brand-guidelines"
+            "name": "Core Web Vitals",
+            "url": "https://ndcompany.in/tags/core-web-vitals"
           },
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "Core Web Vitals",
-            "url": "https://ndcompany.in/tags/core-web-vitals"
+            "name": "Brand guidelines",
+            "url": "https://ndcompany.in/tags/brand-guidelines"
           },
           {
             "@type": "ListItem",
@@ -328,72 +341,78 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 8,
-            "name": "Web accessibility",
-            "url": "https://ndcompany.in/tags#web-accessibility"
-          },
-          {
-            "@type": "ListItem",
-            "position": 9,
-            "name": "Case management",
-            "url": "https://ndcompany.in/tags#case-management"
-          },
-          {
-            "@type": "ListItem",
-            "position": 10,
-            "name": "Community platforms",
-            "url": "https://ndcompany.in/tags#community-platforms"
-          },
-          {
-            "@type": "ListItem",
-            "position": 11,
-            "name": "Data management",
-            "url": "https://ndcompany.in/tags#data-management"
-          },
-          {
-            "@type": "ListItem",
-            "position": 12,
-            "name": "Fonts",
-            "url": "https://ndcompany.in/tags#fonts"
-          },
-          {
-            "@type": "ListItem",
-            "position": 13,
-            "name": "Google Business Profile",
-            "url": "https://ndcompany.in/tags#google-business-profile"
-          },
-          {
-            "@type": "ListItem",
-            "position": 14,
-            "name": "Local SEO",
-            "url": "https://ndcompany.in/tags#local-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 15,
-            "name": "Online reviews",
-            "url": "https://ndcompany.in/tags#online-reviews"
-          },
-          {
-            "@type": "ListItem",
-            "position": 16,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags#technical-seo"
           },
           {
             "@type": "ListItem",
+            "position": 9,
+            "name": "Web accessibility",
+            "url": "https://ndcompany.in/tags#web-accessibility"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "Case management",
+            "url": "https://ndcompany.in/tags#case-management"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "Community platforms",
+            "url": "https://ndcompany.in/tags#community-platforms"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "name": "Data management",
+            "url": "https://ndcompany.in/tags#data-management"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "name": "Fonts",
+            "url": "https://ndcompany.in/tags#fonts"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "name": "Google Business Profile",
+            "url": "https://ndcompany.in/tags#google-business-profile"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "name": "Local SEO",
+            "url": "https://ndcompany.in/tags#local-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "name": "Online reviews",
+            "url": "https://ndcompany.in/tags#online-reviews"
+          },
+          {
+            "@type": "ListItem",
             "position": 17,
+            "name": "SEO audits",
+            "url": "https://ndcompany.in/tags#seo-audits"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
             "name": "Website planning",
             "url": "https://ndcompany.in/tags#website-planning"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 20,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

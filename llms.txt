@@ -31,6 +31,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works): How our free website SEO audit works: what the form asks, the safety checks, the ten pages we read, how findings are ranked, and a sample SEO audit report.
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist): Twelve technical SEO checks for a small business website, in priority order: Search Console, indexing, robots.txt, sitemap, HTTPS, phones, speed and schema.
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website): Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes.
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity): A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark.
@@ -81,8 +82,8 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Logos](https://ndcompany.in/tags/logos): The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
 

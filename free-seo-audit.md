@@ -29,7 +29,7 @@ The report covers:
 
 Our own audit tool runs the checks, using Google's PageSpeed Insights and Lighthouse for speed. Before it starts, it checks that your email address can receive mail and that your website is safe to visit. It reads only the public pages of your website, never areas behind a login.
 
-AI models help write the summary and our offer from what the checks find. They never receive your name or your email address. Our [privacy policy](https://ndcompany.in/privacy) names the services involved.
+AI models help write the summary and our offer from what the checks find. They never receive your name or your email address. Our [privacy policy](https://ndcompany.in/privacy) names the services involved, and our guide [how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works) walks through each step with a sample report.
 
 ## 3. Who can ask
 

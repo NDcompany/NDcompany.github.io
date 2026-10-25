@@ -319,21 +319,21 @@ Read the guide
 
 SEO
 
+Guide · 25 Oct 2026
+
+### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+
+From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
+
+Read the guide
+
+SEO
+
 Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
 
 Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
-
-Read the guide
-
-Branding
-
-Guide · 23 Oct 2026
-
-### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
 
 Read the guide
 

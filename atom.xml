@@ -5,9 +5,23 @@
 <link href="https://ndcompany.in/blogs" rel="alternate" type="text/html"/>
 <link href="https://ndcompany.in/atom.xml" rel="self" type="application/atom+xml"/>
 <id>https://ndcompany.in/blogs</id>
-<updated>2026-10-23T00:00:00+05:30</updated>
+<updated>2026-10-25T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
+<entry>
+<title>How our free SEO audit works, from request to report</title>
+<link href="https://ndcompany.in/blogs/free-seo-audit-how-it-works" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/free-seo-audit-how-it-works-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/free-seo-audit-how-it-works</id>
+<published>2026-10-25T00:00:00+05:30</published>
+<updated>2026-10-25T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="seo-audits" label="SEO audits" scheme="https://ndcompany.in/tags/"/>
+<category term="technical-seo" label="Technical SEO" scheme="https://ndcompany.in/tags/"/>
+<category term="core-web-vitals" label="Core Web Vitals" scheme="https://ndcompany.in/tags/"/>
+<summary>How our free website SEO audit works: what the form asks, the safety checks, the ten pages we read, how findings are ranked, and a sample SEO audit report.</summary>
+</entry>
 <entry>
 <title>Technical SEO checklist for small business websites</title>
 <link href="https://ndcompany.in/blogs/technical-seo-checklist" rel="alternate" type="text/html"/>

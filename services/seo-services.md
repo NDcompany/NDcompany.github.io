@@ -255,6 +255,16 @@ Guides on the work behind SEO Services.
 
 SEO
 
+Guide · 25 Oct 2026
+
+### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+
+From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
+
+Read the guide
+
+SEO
+
 Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
@@ -270,16 +280,6 @@ Guide · 23 Oct 2026
 ### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
 
 September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
-
-Read the guide
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
 
 Read the guide
 

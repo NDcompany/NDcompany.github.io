@@ -16,6 +16,16 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 
 SEO
 
+Guide · 25 Oct 2026
+
+### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+
+From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
+
+Read the guide
+
+SEO
+
 Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
@@ -46,6 +56,8 @@ Read the guide
 
 ## Recently updated
 
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   23 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
@@ -54,21 +66,19 @@ Read the guide
   23 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   23 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Google Search Console](https://ndcompany.in/tags#google-search-console)
+- [Technical SEO](https://ndcompany.in/tags#technical-seo)
 - [Web accessibility](https://ndcompany.in/tags#web-accessibility)
 - [Case management](https://ndcompany.in/tags#case-management)
-- [Community platforms](https://ndcompany.in/tags#community-platforms)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -125,18 +135,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How our free SEO audit works, from request to report",
+            "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Core Web Vitals explained for business owners",
             "url": "https://ndcompany.in/blogs/core-web-vitals-explained"
           }

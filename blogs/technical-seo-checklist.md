@@ -237,7 +237,7 @@ Google's [guide to hiring an SEO](https://developers.google.com/search/docs/fund
 
 ## Where to start
 
-This week, make the business a verified owner in Search Console, run your home page through URL Inspection to confirm it is indexed and the live test finds no noindex, and submit your sitemap. Then give it time. Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) suggests waiting a few weeks before judging changes, [Page indexing validation](https://support.google.com/webmasters/answer/7440203) typically takes up to about two weeks, and the [Core Web Vitals report](https://support.google.com/webmasters/answer/9205520) tracks a fix for 28 days. If you would rather hand the list over, [ask us for a free SEO audit](https://ndcompany.in/#contact). More guides are on our [SEO topic page](https://ndcompany.in/blogs/topic/seo).
+This week, make the business a verified owner in Search Console, run your home page through URL Inspection to confirm it is indexed and the live test finds no noindex, and submit your sitemap. Then give it time. Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) suggests waiting a few weeks before judging changes, [Page indexing validation](https://support.google.com/webmasters/answer/7440203) typically takes up to about two weeks, and the [Core Web Vitals report](https://support.google.com/webmasters/answer/9205520) tracks a fix for 28 days. If you would rather hand the list over, ask us for a free SEO audit: [how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works) explains what it checks and what the report contains. More guides are on our [SEO topic page](https://ndcompany.in/blogs/topic/seo).
 
 - [Technical SEO](https://ndcompany.in/tags#technical-seo)
 - [Google Search Console](https://ndcompany.in/tags#google-search-console)
@@ -265,6 +265,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Cli
 
 SEO
 
+Guide · 25 Oct 2026
+
+### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+
+From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
+
+Read the guide
+
+SEO
+
 Guide · 23 Oct 2026
 
 ### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
@@ -280,16 +290,6 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
-
-Read the guide
-
-Branding
-
-Guide · 23 Oct 2026
-
-### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
 
 Read the guide
 
@@ -369,7 +369,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Technical SEO, Google Search Console, Core Web Vitals",
       "genre": "Guide",
-      "wordCount": 2855,
+      "wordCount": 2869,
       "inLanguage": "en-IN"
     },
     {

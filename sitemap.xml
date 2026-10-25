@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (75 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (76 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -134,11 +134,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/websites</loc>
@@ -150,7 +150,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
@@ -165,11 +165,11 @@
     <lastmod>2026-10-20</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/brand-guidelines</loc>
-    <lastmod>2026-10-23</lastmod>
+    <loc>https://ndcompany.in/tags/core-web-vitals</loc>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/core-web-vitals</loc>
+    <loc>https://ndcompany.in/tags/brand-guidelines</loc>
     <lastmod>2026-10-23</lastmod>
   </url>
   <url>
@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
@@ -559,6 +559,28 @@
     </image:image>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/free-seo-audit-how-it-works</loc>
+    <lastmod>2026-10-25</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-pipeline.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-request.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-findings.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-page-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-page-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-requests.webp</image:loc>
     </image:image>
   </url>
   <url>
