@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (63 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (64 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -5452,7 +5452,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Every quote is set in writing before work starts.
 
-The two services agencies ask us for most have their own pages: [white label SEO services](https://ndcompany.in/white-label/seo) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
 
 ## How it works
 
@@ -5579,7 +5579,7 @@ We run SEO for your clients under your agency's name: the audit, on-page fixes, 
 
 Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
 
 ## What you can resell
 
@@ -5699,6 +5699,142 @@ Send the brief and your NDA, and we will reply with questions or a written quote
 
 ---
 
+White label PPC
+
+# White label Google Ads and PPC management for agencies
+
+Source: https://ndcompany.in/white-label/google-ads
+
+We run Google Ads and Meta ads campaigns for your clients under your agency's name: setup, conversion tracking, weekly optimization and a monthly report with your branding or none. Your client pays the platforms directly, and we never contact them.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+[See agency prices](https://ndcompany.in/white-label/google-ads#wl-prices)
+
+## White label PPC, the way we run it
+
+Our white-label PPC is the same work as our own digital marketing packages, with your agency's name on the reports instead of ours. Campaigns run in ad accounts that belong to your client, and ads go live only after you approve the copy and creative. Each client runs month to month on a scope set in writing, and you can end it with 30 days' notice.
+
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+
+## What you can resell
+
+### Google Ads management
+
+Search and display campaigns: keyword research, ad copy, bidding, negative keywords and ongoing optimization of the account.
+
+### Meta ads management
+
+Facebook and Instagram campaigns in Meta Ads Manager, with audience setup, creative briefs and A/B tests of copy and images.
+
+### Conversion tracking
+
+Analytics and ad platform pixels set up to record form submissions, calls, purchases or whatever counts as a lead for your client.
+
+### Retargeting and email
+
+Retargeting campaigns and a monthly email campaign on the Growth tier, more on Custom.
+
+### Landing page recommendations
+
+A review of the pages the ads send people to, with specific changes to copy, layout and forms.
+
+### Weekly optimization
+
+Each week we review spend, pause weak ads, test new copy and adjust bids and audiences.
+
+### Monthly white-label reports
+
+Spend, clicks, cost per lead, what we changed and what we plan next, unbranded or with your agency's logo, ready to forward.
+
+## How it works
+
+### You send the brief
+
+Tell us what your client needs: the service, the scope, the deadline and anything already agreed with them. Send your NDA first if you want it signed before you share details.
+
+### We quote in writing
+
+You get a written quote in US dollars from the agency prices below, with the scope and the delivery time, before any work starts.
+
+### We do the work, you stay the face
+
+We work only with you. Files, drafts and reports carry your agency's name or none, and we never contact your client or appear in their tools under our own name.
+
+### You review, then hand over
+
+You see every draft and decide what goes to your client. Ownership of the final deliverables named in your quote passes to you once it is paid in full.
+
+## Your client never sees us
+
+### Your NDA, signed
+
+We sign your non-disclosure agreement before you share anything about your client.
+
+### No N&D Co. name anywhere
+
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
+
+### No contact with your client
+
+We talk to you, not to them. If you want us on a client call, we join as part of your team.
+
+## White label PPC pricing
+
+Starting prices for agencies, including the NDA, unbranded files and reports, and calls in US hours. Your final price is set in a written quote before work starts.
+
+**Agency starting prices per service, in US dollars**
+
+| Service | Billed | First tier | Second tier | Top tier |
+| --- | --- | --- | --- | --- |
+| [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing) | per month | Starter: $149 | Growth: $289 | Custom: $599 |
+
+What each tier includes is listed on the service page: [Digital Marketing & Performance Marketing pricing](https://ndcompany.in/services/digital-marketing#pricing).
+
+## Working with a US agency
+
+### Calls in your morning
+
+We keep part of our evening in India free for calls during US morning hours.
+
+### Written updates
+
+Between calls you get written progress updates, so nothing waits on a meeting.
+
+### Paid in US dollars
+
+Invoices are in US dollars, paid by PayPal, through Wise or by bank transfer.
+
+## Frequently asked questions
+
+**Who pays the ad spend?**
+
+Your client, directly to Google or Meta from their own ad account. It is never part of our fee, so the platform's invoice shows exactly what was spent.
+
+**Can we approve ads before they go live?**
+
+Yes. Ads go live only after you approve the copy and creative, so you can check them with your client first.
+
+**Will our client see your name in their ad accounts?**
+
+No. We work through the access you arrange for us and can use an email address you choose, so nothing in your client's Google Ads or Meta accounts shows our name.
+
+**Who owns the ad accounts?**
+
+Your client. Campaigns run in accounts registered to their business; if the work ends, they keep the accounts, the campaign history and the audiences built.
+
+**Do you guarantee a cost per lead?**
+
+No. Results depend on the offer, the market and the budget, so we do not promise a cost per lead or a number of leads. Each monthly report shows the actual numbers and what we change next.
+
+## Have a project for a client?
+
+Send the brief and your NDA, and we will reply with questions or a written quote.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+---
+
 White label web development
 
 # White label web development and design for agencies
@@ -5715,7 +5851,7 @@ We design and build websites and online stores for your clients under your agenc
 
 Our white-label web development is the same work as our own website and e-commerce projects. You send the brief and your client's brand files, we design and build to them, and you hand the site over as your own. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label) and [white label SEO services](https://ndcompany.in/white-label/seo).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo) and [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads).
 
 ## What you can resell
 

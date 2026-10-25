@@ -20,7 +20,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Every quote is set in writing before work starts.
 
-The two services agencies ask us for most have their own pages: [white label SEO services](https://ndcompany.in/white-label/seo) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
 
 ## How it works
 
