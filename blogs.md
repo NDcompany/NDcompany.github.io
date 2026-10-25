@@ -14,6 +14,26 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Websites
+
+Guide · 25 Oct 2026
+
+### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+
+The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
+
+Read the guide
+
+Websites
+
+Guide · 25 Oct 2026
+
+### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+
+The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
+
+Read the guide
+
 SEO
 
 Guide · 25 Oct 2026
@@ -86,15 +106,15 @@ Read the guide
 
 ## Recently updated
 
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   23 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   23 Oct 2026
 
 ## Trending tags
@@ -103,12 +123,12 @@ Read the guide
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Web accessibility](https://ndcompany.in/tags/web-accessibility)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Google Search Console](https://ndcompany.in/tags#google-search-console)
 - [Technical SEO](https://ndcompany.in/tags#technical-seo)
-- [Web accessibility](https://ndcompany.in/tags#web-accessibility)
-- [Case management](https://ndcompany.in/tags#case-management)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -180,6 +200,32 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/website-cost-india#article",
+          "headline": "How much does a website cost in India in 2026?",
+          "description": "What a website costs in India in 2026: the build from ₹9,999, then domain, hosting, Shopify, payment gateway fees, email and GST, at each provider's own prices.",
+          "image": "https://ndcompany.in/assets/blog/website-cost-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/website-cost-india",
+          "datePublished": "2026-10-25T00:00:00+05:30",
+          "dateModified": "2026-10-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/small-business-website-cost#article",
+          "headline": "What does a small business website cost in 2026?",
+          "description": "What a small business website costs in 2026: the build from $149, then domain, hosting, Shopify, card fees, email and the ADA, at each provider's own prices.",
+          "image": "https://ndcompany.in/assets/blog/small-business-website-cost-16x9.png",
+          "url": "https://ndcompany.in/blogs/small-business-website-cost",
+          "datePublished": "2026-10-25T00:00:00+05:30",
+          "dateModified": "2026-10-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/free-seo-audit-how-it-works#article",

@@ -1,16 +1,16 @@
 ---
-title: "Web Design & Marketing for US Businesses | N&D Co."
-description: "N&D Co. works remotely with US businesses: websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars."
+title: "Outsource Web Development to India from the US | N&D Co."
+description: "Outsource web development, e-commerce, SEO and design to N&D Co. in Kolkata, India: prices in US dollars, overnight turnaround, and white label for agencies."
 url: "https://ndcompany.in/locations/usa"
 type: "Service"
 image: "https://ndcompany.in/assets/share/services.png"
 ---
 
-A remote agency partner for US businesses
+Outsourcing for US businesses and agencies
 
-# Web design and digital marketing for businesses in the United States
+# Outsource web development, design and marketing to India
 
-We are a brand and growth agency based in Kolkata, India, working with US businesses fully remotely. Custom websites, e-commerce stores, brand identities, SEO and marketing, quoted in writing before work starts and delivered while your office sleeps.
+We are a brand and growth agency in Kolkata, India, working with US businesses and agencies fully remotely: custom websites, e-commerce stores, brand identities, SEO and marketing. Prices are set in US dollars for the US market, every project is quoted in writing before work starts, and the work moves while your office sleeps.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -30,13 +30,31 @@ Feedback you send at the end of your day reaches us at the start of ours, so rev
 
 Early morning on the US East Coast overlaps the end of our office day, so standing calls are easy to schedule.
 
-### Billed in US dollars
+### Priced and billed in US dollars
 
-Every project is quoted in writing, fixed-price or hourly, before work starts, and invoiced in US dollars. You pay by PayPal, through Wise or by bank transfer.
+Our US prices are set for the US market, not converted from rupees. Every project is quoted in writing, fixed-price or hourly, before work starts, and invoiced in US dollars. You pay by PayPal, through Wise or by bank transfer.
 
 ### You own the final work
 
 Once the final payment clears, ownership of the final deliverables named in your quote passes to you.
+
+## Ways to work with us from the US
+
+### [Outsource a project](https://ndcompany.in/pricing)
+
+A website, online store, brand identity or SEO for your own business. Starting prices are listed in US dollars on our pricing page, and your written quote confirms the final price.
+
+### [White label for agencies](https://ndcompany.in/white-label)
+
+Resell any of our services under your agency's name, with your NDA signed, nothing carrying our name and no contact with your client.
+
+### [White label SEO](https://ndcompany.in/white-label/seo)
+
+Audits, on-page work, content, local SEO and monthly reports under your agency's brand.
+
+### [White label web development](https://ndcompany.in/white-label/web-development)
+
+WordPress, Shopify, WooCommerce and custom sites built to your brief, unbranded.
 
 ## What we can build for you
 
@@ -88,6 +106,14 @@ N&D Co. is run by its founder, [Nakshatra Ranjan Saha](https://ndcompany.in/team
 
 Yes. We work with US businesses fully remotely from Kolkata, India. Projects are quoted in writing before work starts and billed in US dollars, and the time difference means work is ready by your next morning.
 
+**Why outsource web development to India with us?**
+
+You get prices in US dollars set for the US market, work that moves while you are offline, a written quote before anything starts, and ownership of the final deliverables named in your quote once it is paid in full. You deal with our founder directly.
+
+**Do you work with US agencies white label?**
+
+Yes. Agencies can resell any of our services under their own name: we sign the agency's NDA, deliver unbranded files and reports, and never contact its client. Agency prices in US dollars are on our white label page.
+
 **How do we work across the time difference?**
 
 India is 9.5 to 13.5 hours ahead of the US depending on your coast. In practice that means we do the work while you are offline: briefs and feedback from your afternoon are handled during our next working day and are ready by your morning. Calls are scheduled for early morning on the East Coast, which is the end of our day.
@@ -125,7 +151,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/locations/usa#service",
       "name": "Web design, development and digital marketing in the United States",
       "serviceType": "Web design, development and digital marketing",
-      "description": "We are a brand and growth agency based in Kolkata, India, working with US businesses fully remotely. Custom websites, e-commerce stores, brand identities, SEO and marketing, quoted in writing before work starts and delivered while your office sleeps.",
+      "description": "We are a brand and growth agency in Kolkata, India, working with US businesses and agencies fully remotely: custom websites, e-commerce stores, brand identities, SEO and marketing. Prices are set in US dollars for the US market, every project is quoted in writing before work starts, and the work moves while your office sleeps.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -142,8 +168,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/locations/usa#webpage",
       "url": "https://ndcompany.in/locations/usa",
-      "name": "Web Design & Marketing for US Businesses | N&D Co.",
-      "description": "N&D Co. works remotely with US businesses: websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars.",
+      "name": "Outsource Web Development to India from the US | N&D Co.",
+      "description": "Outsource web development, e-commerce, SEO and design to N&D Co. in Kolkata, India: prices in US dollars, overnight turnaround, and white label for agencies.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

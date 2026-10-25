@@ -25,12 +25,14 @@ Every page below is also available as Markdown: add .md to its address (https://
 - [Locations](https://ndcompany.in/locations): the countries we work with remotely from Kolkata, how projects run across timezones and how payment works from each.
 - [India](https://ndcompany.in/locations/india): Brand and growth agency in Kolkata serving businesses across India, from West Bengal to the Seven Sisters: websites, e-commerce, SEO, branding and marketing.
 - [Bangladesh](https://ndcompany.in/locations/bangladesh): N&D Co. serves businesses in Bangladesh remotely from Kolkata: websites, e-commerce, branding, SEO and marketing, in Bengali and English, in your timezone.
-- [United States](https://ndcompany.in/locations/usa): N&D Co. works remotely with US businesses: websites, e-commerce, branding, SEO and marketing, with overnight turnaround from IST and billing in US dollars.
+- [United States](https://ndcompany.in/locations/usa): Outsource web development, e-commerce, SEO and design to N&D Co. in Kolkata, India: prices in US dollars, overnight turnaround, and white label for agencies.
 - [Netherlands](https://ndcompany.in/locations/netherlands): N&D Co. works remotely with businesses in the Netherlands: websites, webshops, branding, SEO and marketing, with hours overlapping most of the Dutch workday.
 
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india): What a website costs in India in 2026: the build from ₹9,999, then domain, hosting, Shopify, payment gateway fees, email and GST, at each provider's own prices.
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost): What a small business website costs in 2026: the build from $149, then domain, hosting, Shopify, card fees, email and the ADA, at each provider's own prices.
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works): How our free website SEO audit works: what the form asks, the safety checks, the ten pages we read, how findings are ranked, and a sample SEO audit report.
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist): Twelve technical SEO checks for a small business website, in priority order: Search Console, indexing, robots.txt, sitemap, HTTPS, phones, speed and schema.
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website): Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes.
@@ -83,8 +85,10 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
+- [Web accessibility](https://ndcompany.in/tags/web-accessibility): WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
+- [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
 
 ## Team

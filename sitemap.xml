@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (76 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (80 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/websites</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/branding</loc>
@@ -169,12 +169,20 @@
     <lastmod>2026-10-25</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/tags/brand-guidelines</loc>
     <lastmod>2026-10-23</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
-    <lastmod>2026-10-23</lastmod>
+    <loc>https://ndcompany.in/tags/web-accessibility</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/website-planning</loc>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/team</loc>
@@ -560,6 +568,14 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/website-cost-india</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/small-business-website-cost</loc>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/free-seo-audit-how-it-works</loc>

@@ -105,6 +105,23 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 
 [Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
+## Working with an agency
+
+4 posts
+
+Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  23 Oct 2026
+
+[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+
 ## Brand guidelines
 
 2 posts, 1 project
@@ -121,20 +138,35 @@ Brand style guides that others can follow without asking you: logo rules, colour
 
 [Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
-## Working with an agency
+## Web accessibility
 
 3 posts
 
-Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
 
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
   23 Oct 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
   23 Oct 2026
 
-[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+[Everything tagged Web accessibility](https://ndcompany.in/tags/web-accessibility)
+
+## Website planning
+
+3 posts
+
+Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
+
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+
+[Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
 ## Google Search Console
 
@@ -158,16 +190,16 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   23 Oct 2026
 
-## Web accessibility
+## Website costs
 
 2 posts
 
-WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
+What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
 
 ## Case management
 
@@ -250,15 +282,6 @@ Protecting a business name or logo as a trade mark: classes and fees, searching 
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
   23 Oct 2026
 
-## Website planning
-
-1 post
-
-Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
-
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-
 ## YouTube thumbnails
 
 1 project
@@ -323,96 +346,102 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "Brand guidelines",
-            "url": "https://ndcompany.in/tags/brand-guidelines"
-          },
-          {
-            "@type": "ListItem",
-            "position": 6,
             "name": "Working with an agency",
             "url": "https://ndcompany.in/tags/working-with-an-agency"
           },
           {
             "@type": "ListItem",
+            "position": 6,
+            "name": "Brand guidelines",
+            "url": "https://ndcompany.in/tags/brand-guidelines"
+          },
+          {
+            "@type": "ListItem",
             "position": 7,
+            "name": "Web accessibility",
+            "url": "https://ndcompany.in/tags/web-accessibility"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Website planning",
+            "url": "https://ndcompany.in/tags/website-planning"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
             "name": "Google Search Console",
             "url": "https://ndcompany.in/tags#google-search-console"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 10,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags#technical-seo"
           },
           {
             "@type": "ListItem",
-            "position": 9,
-            "name": "Web accessibility",
-            "url": "https://ndcompany.in/tags#web-accessibility"
+            "position": 11,
+            "name": "Website costs",
+            "url": "https://ndcompany.in/tags#website-costs"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 12,
             "name": "Case management",
             "url": "https://ndcompany.in/tags#case-management"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 13,
             "name": "Community platforms",
             "url": "https://ndcompany.in/tags#community-platforms"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 14,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 15,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 16,
             "name": "Google Business Profile",
             "url": "https://ndcompany.in/tags#google-business-profile"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 17,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags#local-seo"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 18,
             "name": "Online reviews",
             "url": "https://ndcompany.in/tags#online-reviews"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 19,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags#seo-audits"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 20,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 19,
-            "name": "Website planning",
-            "url": "https://ndcompany.in/tags#website-planning"
-          },
-          {
-            "@type": "ListItem",
-            "position": 20,
+            "position": 21,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

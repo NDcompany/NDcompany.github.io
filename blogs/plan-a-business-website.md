@@ -282,10 +282,10 @@ WEBSITE BRIEF: [business name, contact]
 
 There are more guides on our [websites topic page](https://ndcompany.in/blogs/topic/websites). If we are on your list, [send us your brief](https://ndcompany.in/#contact).
 
-- [Website planning](https://ndcompany.in/tags#website-planning)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Web accessibility](https://ndcompany.in/tags#web-accessibility)
+- [Web accessibility](https://ndcompany.in/tags/web-accessibility)
 
 ## Share this post
 
@@ -309,31 +309,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Cli
 
 Websites
 
+Guide · 25 Oct 2026
+
+### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+
+The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
+
+Read the guide
+
+Websites
+
+Guide · 25 Oct 2026
+
+### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+
+The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
+
+Read the guide
+
+Websites
+
 Guide · 23 Oct 2026
 
 ### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
 
 September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
-
-Read the guide
-
-SEO
-
-Guide · 25 Oct 2026
-
-### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-
-From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
-
-Read the guide
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-
-Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
 
 Read the guide
 

@@ -249,6 +249,26 @@ Guides on the work behind E-commerce Solutions.
 
 Websites
 
+Guide · 25 Oct 2026
+
+### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+
+The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
+
+Read the guide
+
+Websites
+
+Guide · 25 Oct 2026
+
+### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+
+The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
+
+Read the guide
+
+Websites
+
 Guide · 23 Oct 2026
 
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
