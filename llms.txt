@@ -95,6 +95,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 
 - [Home](https://ndcompany.in/): agency overview, selected work, client reviews, FAQ and how to reach us.
 - [Frequently asked questions](https://ndcompany.in/faq): every question and answer in one searchable place, across general topics and every service.
+- [White label for agencies](https://ndcompany.in/white-label): every service available white label for agencies, unbranded and under NDA, with agency starting prices in US dollars.
 - [Tools we use](https://ndcompany.in/tools-we-use): the design, video, development, SEO and AI tools behind the work, and how each is used.
 - [Terms of service](https://ndcompany.in/terms): how we quote, bill, revise and hand over work, and what you own after full payment.
 - [Privacy policy](https://ndcompany.in/privacy): what personal data the site and our work collect, why, who else handles it and your rights.

@@ -1,5 +1,5 @@
 ---
-title: "Free invoice generator: make and print invoices | N&D Co."
+title: "Free online invoice generator, no login | N&D Co."
 description: "Make an invoice online for free: add your details, logo, items, tax and discount, watch the preview update, then print it or save it as a PDF. No sign-up."
 url: "https://ndcompany.in/tools/invoice-generator"
 type: "WebPage"
@@ -93,7 +93,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/tools/invoice-generator#webpage",
       "url": "https://ndcompany.in/tools/invoice-generator",
-      "name": "Free invoice generator: make and print invoices | N&D Co.",
+      "name": "Free online invoice generator, no login | N&D Co.",
       "description": "Make an invoice online for free: add your details, logo, items, tax and discount, watch the preview update, then print it or save it as a PDF. No sign-up.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

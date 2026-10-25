@@ -1,5 +1,5 @@
 ---
-title: "N&D Co. | Brand, Web Design & Growth Agency in Kolkata"
+title: "N&D Co. | Web Design, SEO & Marketing Agency in Kolkata"
 description: "All-in-one brand and growth agency in Barrackpore, Kolkata: website design and development, SEO, branding, digital marketing and video for clients worldwide."
 url: "https://ndcompany.in/"
 type: "WebPage"
@@ -376,7 +376,7 @@ We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients 
       "@type": "WebPage",
       "@id": "https://ndcompany.in/#webpage",
       "url": "https://ndcompany.in/",
-      "name": "N&D Co. | Brand, Web Design & Growth Agency in Kolkata",
+      "name": "N&D Co. | Web Design, SEO & Marketing Agency in Kolkata",
       "description": "All-in-one brand and growth agency in Barrackpore, Kolkata: website design and development, SEO, branding, digital marketing and video for clients worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

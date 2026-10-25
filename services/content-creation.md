@@ -1,5 +1,5 @@
 ---
-title: "Content Creation in Kolkata: Blogs, Copy, Social | N&D Co."
+title: "Content Writing Agency in Kolkata | N&D Co."
 description: "Content creation by N&D Co., Kolkata: SEO blog posts, website copy, landing pages, product descriptions and social captions for businesses in India and abroad."
 url: "https://ndcompany.in/services/content-creation"
 type: "Service"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/content-creation.png"
 
 SEO and social content
 
-# Content creation for websites and social media
+# Content writing and creation in Kolkata, for websites and social media
 
 We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
 
@@ -286,7 +286,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/content-creation#webpage",
       "url": "https://ndcompany.in/services/content-creation",
-      "name": "Content Creation in Kolkata: Blogs, Copy, Social | N&D Co.",
+      "name": "Content Writing Agency in Kolkata | N&D Co.",
       "description": "Content creation by N&D Co., Kolkata: SEO blog posts, website copy, landing pages, product descriptions and social captions for businesses in India and abroad.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

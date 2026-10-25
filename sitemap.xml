@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (71 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (72 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/growth-trust.svg</image:loc>
     </image:image>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/website-design-development</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services/social-media-management</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/video-production-editing</loc>
@@ -70,7 +70,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services/content-creation</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/locations</loc>
@@ -101,20 +101,24 @@
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/white-label</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/tools</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/rankguru</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/invoice-generator</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/image-to-pdf</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs</loc>
