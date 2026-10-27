@@ -74,7 +74,10 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/local-seo-audit</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/local-seo-audit/search-console-performance-india.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/website-cost-india</loc>
@@ -110,6 +113,15 @@
     <loc>https://ndcompany.in/blogs/technical-seo-checklist</loc>
     <lastmod>2026-10-28</lastmod>
     <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-why-not-indexed.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-url-inspection.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-sitemaps.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://ndcompany.in/assets/blog/technical-seo-checklist/schema-validator-homepage.webp</image:loc>
     </image:image>
   </url>
@@ -126,6 +138,9 @@
     <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/blog/core-web-vitals-explained/pagespeed-insights-mobile.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/core-web-vitals-explained/search-console-core-web-vitals.webp</image:loc>
     </image:image>
   </url>
   <url>

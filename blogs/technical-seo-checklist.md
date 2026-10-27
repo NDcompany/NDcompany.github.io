@@ -81,7 +81,15 @@ Every property needs at least one verified owner, and if all of them are removed
 
 The [Page indexing report](https://support.google.com/webmasters/answer/7440203) lists the reasons pages are not indexed, such as noindex tags, redirects and duplicates. Google says not to expect every URL to be indexed, so duplicates there are normal, but important pages should not be on the list. After a fix, click Validate fix. Validation typically takes up to about two weeks.
 
+![Search Console's Why pages aren't indexed table for ndcompany.in: Not found (404), 3 pages, validation not started; Alternate page with proper canonical tag, 4; Page with redirect, 3; Crawled, currently not indexed, 6; Discovered, currently not indexed, 8](https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-why-not-indexed.webp)
+
+*The reasons table in our own Page indexing report, 28 October 2026, a few days after the new site launched. Open any row to see the addresses it covers and decide whether it needs a fix.*
+
 For one page, the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289) shows whether it is indexed, which canonical Google chose and, in a live test, how Google sees it now. You can request indexing there, but a request guarantees nothing, there is a daily limit, and indexing typically takes a day or so, sometimes much longer. A site: search is no way to count indexed pages, because the [site: operator](https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site) doesn't necessarily return every indexed URL.
+
+![URL Inspection in Search Console for this checklist's address: URL is on Google, Page indexing says Page is indexed, HTTPS says Page is served over HTTPS, and Breadcrumbs shows 1 valid item detected](https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-url-inspection.webp)
+
+*URL Inspection for this checklist, 28 October 2026: on Google, indexed, served over HTTPS and with valid breadcrumbs.*
 
 On WordPress, check Settings, Reading. The "Discourage search engines" box [adds a noindex,nofollow tag](https://wordpress.org/documentation/article/settings-reading-screen/) to your pages and [turns off the built-in sitemaps](https://make.wordpress.org/core/2020/07/22/new-xml-sitemaps-functionality-in-wordpress-5-5/). Untick it when the site goes live.
 
@@ -134,6 +142,10 @@ A sitemap lists the pages you want Google to find. A site of about 500 pages or 
 - List only the canonical URLs you want in search results, as full addresses.
 - Keep `lastmod` accurate, because Google uses it only when it is. Google ignores `priority` and `changefreq`.
 - Submit the sitemap in the Sitemaps report and add a Sitemap line to robots.txt, as above.
+
+![Search Console's Submitted sitemaps table for ndcompany.in: sitemap-tools.xml, sitemap-blog.xml, sitemap-open-source.xml, sitemap-projects.xml and sitemap-locations.xml, each submitted on 24 October 2026, last read on 27 October 2026, with status Success and 4, 25, 2, 18 and 5 discovered pages](https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-sitemaps.webp)
+
+*Part of our own Sitemaps report: one sitemap per kind of page, each read by Google with status Success.*
 
 ## 5. Give every page one address
 

@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/local-seo-audit"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-26T00:00:00+05:30"
-modified: "2026-10-26T00:00:00+05:30"
+modified: "2026-10-28T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/local-seo-audit-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/local-seo-audit-16x9.png"
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 26 October 2026 9 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 26 October 2026 Updated 28 October 2026 9 min read
 
 A local SEO audit checks the things that decide whether your business shows up when people nearby search for what you sell: your Google Business Profile, whether your name, address and phone number match everywhere, your website's location details, your reviews, the links that point to you, and the numbers that show what is working. This checklist takes you through each one in order, with the rule or source behind every check, so you can run it yourself in an afternoon.
 
@@ -118,6 +118,10 @@ Take a baseline before you change anything, so you can see what worked.
 
 - **Business Profile performance.** Available "only for verified Business Profiles", it shows the searches people used to find you, views, direction requests, calls and website clicks ([Google's help on profile performance](https://support.google.com/business/answer/9918094?hl=en)). The searches figure "is updated at the start of each month".
 - **Search Console.** Filter the Performance report to your country and to your location or contact pages to see the local searches that reach your site: "Filter by multiple countries or devices to see their combined data" ([Search Console Help on filtering](https://support.google.com/webmasters/answer/17011165?hl=en)). No Search Console yet? The first step of our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist#own-search-console) covers setting it up.
+
+![Search Console's Performance report for ndcompany.in over 3 months, filtered to Country: India: 21 total clicks, 355 total impressions, 5.9% average CTR and an average position of 10.7, with daily lines for clicks, impressions and position from late July to late October 2026](https://ndcompany.in/assets/blog/local-seo-audit/search-console-performance-india.webp)
+
+*Our own Performance report filtered to India, three months to 25 October 2026. Write down the four totals on the day you start, then compare the same filter a month later.*
 
 Note the numbers on the day you start, fix the problems, and compare a month later.
 
@@ -249,7 +253,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-26T00:00:00+05:30",
-      "dateModified": "2026-10-26T00:00:00+05:30",
+      "dateModified": "2026-10-28T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

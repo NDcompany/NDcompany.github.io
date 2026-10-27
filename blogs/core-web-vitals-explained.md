@@ -102,6 +102,10 @@ Desktop does better: [51% of websites visited from India passed](https://httparc
 
 *PageSpeed Insights on this guide, 28 October 2026. The site is new, so the real-visitor section says No Data and only the lab test shows. A lab score of 100 does not mean real visits pass.*
 
+![The Mobile card of Search Console's Core Web Vitals report for ndcompany.in: Not enough usage data in the last 90 days for this device type, with a link to try PageSpeed Insights](https://ndcompany.in/assets/blog/core-web-vitals-explained/search-console-core-web-vitals.webp)
+
+*The same site in Search Console's Core Web Vitals report: not enough visits yet for Google to judge it, so the lab test and a real phone are what we have to go on.*
+
 ### What the PageSpeed score means
 
 The 0 to 100 number in the lab section blends five lab measurements: [Total Blocking Time 30%, LCP 25%, CLS 25%, First Contentful Paint 10% and Speed Index 10%](https://developer.chrome.com/docs/lighthouse/performance/performance-scoring). Total Blocking Time [stands in for INP](https://web.dev/articles/vitals), because nobody taps during a lab test. The score does not decide whether a page passes. PageSpeed Insights calls 90 or more good, but warns that good lab data ["does not necessarily mean real-user experiences will also be good"](https://developers.google.com/speed/docs/insights/v5/about). Lighthouse's documentation calls a perfect 100 "extremely challenging to achieve and not expected", and Google Search Central says chasing one just for SEO ["may not be the best use of your time"](https://developers.google.com/search/docs/appearance/page-experience).

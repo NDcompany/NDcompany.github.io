@@ -9857,11 +9857,11 @@ Send a few lines about your business and what you are trying to fix. We will rep
 # How to run a local SEO audit: a checklist for small businesses
 
 Source: https://ndcompany.in/blogs/local-seo-audit
-Updated: 2026-10-26
+Updated: 2026-10-28
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 26 October 2026 9 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 26 October 2026 Updated 28 October 2026 9 min read
 
 A local SEO audit checks the things that decide whether your business shows up when people nearby search for what you sell: your Google Business Profile, whether your name, address and phone number match everywhere, your website's location details, your reviews, the links that point to you, and the numbers that show what is working. This checklist takes you through each one in order, with the rule or source behind every check, so you can run it yourself in an afternoon.
 
@@ -9964,6 +9964,10 @@ Take a baseline before you change anything, so you can see what worked.
 
 - **Business Profile performance.** Available "only for verified Business Profiles", it shows the searches people used to find you, views, direction requests, calls and website clicks ([Google's help on profile performance](https://support.google.com/business/answer/9918094?hl=en)). The searches figure "is updated at the start of each month".
 - **Search Console.** Filter the Performance report to your country and to your location or contact pages to see the local searches that reach your site: "Filter by multiple countries or devices to see their combined data" ([Search Console Help on filtering](https://support.google.com/webmasters/answer/17011165?hl=en)). No Search Console yet? The first step of our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist#own-search-console) covers setting it up.
+
+![Search Console's Performance report for ndcompany.in over 3 months, filtered to Country: India: 21 total clicks, 355 total impressions, 5.9% average CTR and an average position of 10.7, with daily lines for clicks, impressions and position from late July to late October 2026](https://ndcompany.in/assets/blog/local-seo-audit/search-console-performance-india.webp)
+
+*Our own Performance report filtered to India, three months to 25 October 2026. Write down the four totals on the day you start, then compare the same filter a month later.*
 
 Note the numbers on the day you start, fix the problems, and compare a month later.
 
@@ -10792,7 +10796,15 @@ Every property needs at least one verified owner, and if all of them are removed
 
 The [Page indexing report](https://support.google.com/webmasters/answer/7440203) lists the reasons pages are not indexed, such as noindex tags, redirects and duplicates. Google says not to expect every URL to be indexed, so duplicates there are normal, but important pages should not be on the list. After a fix, click Validate fix. Validation typically takes up to about two weeks.
 
+![Search Console's Why pages aren't indexed table for ndcompany.in: Not found (404), 3 pages, validation not started; Alternate page with proper canonical tag, 4; Page with redirect, 3; Crawled, currently not indexed, 6; Discovered, currently not indexed, 8](https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-why-not-indexed.webp)
+
+*The reasons table in our own Page indexing report, 28 October 2026, a few days after the new site launched. Open any row to see the addresses it covers and decide whether it needs a fix.*
+
 For one page, the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289) shows whether it is indexed, which canonical Google chose and, in a live test, how Google sees it now. You can request indexing there, but a request guarantees nothing, there is a daily limit, and indexing typically takes a day or so, sometimes much longer. A site: search is no way to count indexed pages, because the [site: operator](https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site) doesn't necessarily return every indexed URL.
+
+![URL Inspection in Search Console for this checklist's address: URL is on Google, Page indexing says Page is indexed, HTTPS says Page is served over HTTPS, and Breadcrumbs shows 1 valid item detected](https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-url-inspection.webp)
+
+*URL Inspection for this checklist, 28 October 2026: on Google, indexed, served over HTTPS and with valid breadcrumbs.*
 
 On WordPress, check Settings, Reading. The "Discourage search engines" box [adds a noindex,nofollow tag](https://wordpress.org/documentation/article/settings-reading-screen/) to your pages and [turns off the built-in sitemaps](https://make.wordpress.org/core/2020/07/22/new-xml-sitemaps-functionality-in-wordpress-5-5/). Untick it when the site goes live.
 
@@ -10845,6 +10857,10 @@ A sitemap lists the pages you want Google to find. A site of about 500 pages or 
 - List only the canonical URLs you want in search results, as full addresses.
 - Keep `lastmod` accurate, because Google uses it only when it is. Google ignores `priority` and `changefreq`.
 - Submit the sitemap in the Sitemaps report and add a Sitemap line to robots.txt, as above.
+
+![Search Console's Submitted sitemaps table for ndcompany.in: sitemap-tools.xml, sitemap-blog.xml, sitemap-open-source.xml, sitemap-projects.xml and sitemap-locations.xml, each submitted on 24 October 2026, last read on 27 October 2026, with status Success and 4, 25, 2, 18 and 5 discovered pages](https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-sitemaps.webp)
+
+*Part of our own Sitemaps report: one sitemap per kind of page, each read by Google with status Success.*
 
 ## 5. Give every page one address
 
@@ -11823,6 +11839,10 @@ Desktop does better: [51% of websites visited from India passed](https://httparc
 ![PageSpeed Insights on the mobile tab for this guide: No Data beside Discover what your real users are experiencing, then lab scores of 100 for performance, accessibility, best practices and SEO, and lab metrics of First Contentful Paint 0.9 s, Largest Contentful Paint 1.2 s, Total Blocking Time 0 ms, Cumulative Layout Shift 0 and Speed Index 0.9 s](https://ndcompany.in/assets/blog/core-web-vitals-explained/pagespeed-insights-mobile.webp)
 
 *PageSpeed Insights on this guide, 28 October 2026. The site is new, so the real-visitor section says No Data and only the lab test shows. A lab score of 100 does not mean real visits pass.*
+
+![The Mobile card of Search Console's Core Web Vitals report for ndcompany.in: Not enough usage data in the last 90 days for this device type, with a link to try PageSpeed Insights](https://ndcompany.in/assets/blog/core-web-vitals-explained/search-console-core-web-vitals.webp)
+
+*The same site in Search Console's Core Web Vitals report: not enough visits yet for Google to judge it, so the lab test and a real phone are what we have to go on.*
 
 ### What the PageSpeed score means
 
