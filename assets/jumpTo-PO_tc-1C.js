@@ -1,0 +1,1 @@
+import{p as e}from"./index.esm-DETiPAjI.js";var t=t=>{let n=document.getElementById(t);if(!n)return;let r=window.matchMedia(`(prefers-reduced-motion: reduce)`).matches;n.scrollIntoView({behavior:r?`instant`:`smooth`,block:`start`}),history.replaceState(history.state,``,`#${t}`),e(),n.tabIndex=-1,n.focus({preventScroll:!0})};export{t};
