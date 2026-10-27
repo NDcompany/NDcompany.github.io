@@ -42,7 +42,7 @@ Each tool works inside your browser. The invoice generator and the image to PDF 
 
 RankGuru asks each site you name for its page, straight from your browser, and checks it there. We never see the addresses you check or the results.
 
-With analytics allowed in your cookie settings, Google Analytics and Microsoft Clarity show us that someone used a tool page, never what was typed into it. Clarity masks everything inside the tool.
+With analytics allowed in your cookie settings, Google Analytics, Microsoft Clarity and PostHog show us that someone used a tool page, never what was typed into it. Clarity masks everything inside the tool, and PostHog ignores clicks there.
 
 Our [privacy policy](https://ndcompany.in/privacy) and [cookies policy](https://ndcompany.in/cookies-policy) give the details.
 

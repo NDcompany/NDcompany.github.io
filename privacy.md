@@ -38,6 +38,8 @@ If you allow analytics cookies, Google Analytics records how you use the site: t
 
 If you allow analytics cookies, Microsoft Clarity also records how you use our pages: your clicks, taps, mouse movements and scrolling, and how each page looked on your screen. We can watch a visit back as a recording or see many visits summed up as a heatmap. Clarity masks everything you type, and on our contact and SEO audit forms and in our free tools it also masks the text the page shows, so none of it reaches Microsoft. Clarity uses your IP address to work out your approximate location.
 
+If you allow analytics cookies, PostHog also records how you use the site: the pages you view, the links and buttons you click, how fast each page loads for you, how you reached us, your device and browser, and your approximate location, which it works out from your IP address without storing the address. It does not record what you type, it ignores clicks inside our contact and SEO audit forms and our free tools, and it does not record your visits.
+
 Our homepage and some of our service and project pages show reviews that clients posted publicly on Google and Facebook, with the names they used there.
 
 Our free tools at ndcompany.in/tools work inside your browser. We do not receive what you type or upload in them.
@@ -86,6 +88,8 @@ Microsoft Clarity also runs only after you allow analytics cookies. It shows us 
 
 With analytics cookies allowed, our site also loads Google Tag Manager, a Google tool we use to manage the measurement tags on our site. It sets no cookies of its own. Any tag we add through it follows your choices in our cookie box, and we name it in this policy before it runs.
 
+PostHog also runs only after you allow analytics cookies. It shows us which pages and buttons lead people to get in touch, and it keeps an ID for your browser in a cookie and in your browser's storage on ndcompany.in. If you switch analytics off, PostHog stops at once and deletes them, keeping only a note that you said no.
+
 Our [cookies policy](https://ndcompany.in/cookies-policy) lists every cookie and storage item we use, what each one does and how long it lasts, and explains how to change your choice.
 
 Other parties can collect information about your activity across websites through our site only if you allow marketing cookies: Google and Microsoft, as described above. Our website does not respond to browser Do Not Track signals; the cookie box is how you choose.
@@ -115,6 +119,10 @@ Google Calendar also shows our booking calendar on our book a call page, once yo
 ### Microsoft
 
 Runs Microsoft Clarity for us, only if you allow analytics cookies, and keeps what it records in its Azure cloud. We use Microsoft Clarity and Microsoft Advertising to see how you use and interact with our website, through usage figures, heatmaps and recordings of visits. Microsoft collects this with first-party and third-party cookies and similar technologies, and uses it to improve websites, for fraud prevention and security, and for advertising, as the [Microsoft Privacy Statement](https://www.microsoft.com/privacy/privacystatement) explains.
+
+### PostHog
+
+Runs PostHog for us, only if you allow analytics cookies, on its US Cloud in the United States. See the [PostHog Privacy Policy](https://posthog.com/privacy).
 
 ### Cloudflare
 
@@ -167,7 +175,7 @@ If you are a client and ask us to delete your project data once the project is c
 
 Google Analytics deletes the user-level and event-level data it holds for us once it is 14 months old, the retention period set in our Analytics account. Our standard reports, which show only totals, are kept. Its cookies last up to 2 years: see our [cookies policy](https://ndcompany.in/cookies-policy).
 
-Microsoft Clarity keeps recordings of visits for 30 days. It keeps a random sample of them, and any we mark as favourites, for up to 9 months.
+Microsoft Clarity keeps recordings of visits for 30 days. It keeps a random sample of them, and any we mark as favourites, for up to 9 months. PostHog keeps what it records for 1 year, and its cookie also lasts 1 year.
 
 Messages sent through our contact form, and free SEO audit requests, are deleted from our databases automatically 24 months after they arrive, unless you became our client, in which case they stay with your project records. Our database provider can restore deleted data for up to 30 days, after which it is gone. We email ourselves a backup of each form's entries each month and keep only the latest one, so a deleted entry leaves our backups within a month. We delete the copies in our email inbox and our own business systems on the same schedule. Our Cloudflare database keeps a free SEO audit request in full until 30 days after it is sent, fails or is cancelled, and then only its number, dates and status; our audit tool keeps the request and its report for the 24 months. When the tool deletes a request, it destroys the request's key, which also makes its encrypted backups unreadable; the keys themselves are backed up apart, encrypted with a passphrase only we hold, and a destroyed key leaves those backups within 30 days. If you unsubscribe, our Cloudflare database and the tool keep a coded fingerprint of your email address, which cannot be turned back into the address, for as long as we send emails, so that we never send you our offers again. The tool's security logs record sign-ins, administrator actions and errors, without report contents or full email addresses, and are kept for one year.
 

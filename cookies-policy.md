@@ -12,7 +12,7 @@ image: "https://ndcompany.in/assets/share/home.png"
 
 Effective date: 23 October 2026 · Last updated: 27 October 2026
 
-This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics, Microsoft Clarity and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
+This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics, Microsoft Clarity, PostHog and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
 ## 1. What are cookies?
 
@@ -28,10 +28,10 @@ Safari deletes all three if you use Safari for 7 days without interacting with t
 
 ## 2. Types of cookies we use
 
-Our own code sets no cookies. It keeps a few items in your browser's storage. Google Analytics and Microsoft Clarity set cookies, and our service worker saves copies of our pages, only if you allow them. Our cookie box groups all of this into four kinds:
+Our own code sets no cookies. It keeps a few items in your browser's storage. Google Analytics, Microsoft Clarity and PostHog set cookies, and our service worker saves copies of our pages, only if you allow them. Our cookie box groups all of this into four kinds:
 
 - **Essential cookies:** remember your cookie choices, your theme and the currency you pick for prices, return you to where you were on a page, and help a page recover when its code fails to load. Always on. They stay in your browser and are never sent to us.
-- **Analytics cookies:** let Google Analytics and Microsoft Clarity show us how people find and use our website. Off until you switch them on.
+- **Analytics cookies:** let Google Analytics, Microsoft Clarity and PostHog show us how people find and use our website. Off until you switch them on.
 - **Marketing cookies:** let Google Analytics use Google's advertising features, and Microsoft Clarity use Microsoft's advertising cookies. Off until you switch them on, and they only work together with analytics cookies.
 - **Offline access:** lets our service worker save copies of our pages and files in your browser, so they open without a connection and load faster. Off until you switch it on.
 
@@ -119,7 +119,31 @@ Set: when Clarity starts, after you allow analytics cookies.
 
 Lasts: 1 day.
 
-Two years is Google's default. Browsers can shorten it if you do not come back: Google notes a maximum of 400 days in Chrome and 7 days in Safari. Before you allow analytics cookies, Google Analytics and Microsoft Clarity do not load at all, so nothing is sent to Google or Microsoft.
+### `ph_phc_…_posthog`
+
+Set by PostHog on ndcompany.in, as a cookie and in local storage, under a name that holds our PostHog project key. Keeps the random ID PostHog gives your browser and the state of your visit.
+
+Set: when PostHog starts, after you allow analytics cookies.
+
+Lasts: 1 year (the cookie), and in local storage until PostHog or you remove it.
+
+### `ph_phc_…_window_id` and `ph_phc_…_primary_window_exists`
+
+Session storage, set by PostHog. Tell your visit's tabs apart.
+
+Set: when PostHog starts, after you allow analytics cookies.
+
+Lasts: until you close the tab.
+
+### `__ph_opt_in_out_phc_…`
+
+Local storage, set by PostHog. Notes that you switched analytics off, so the PostHog code already running in your tab sends nothing more.
+
+Set: if you switch analytics off while PostHog is running.
+
+Lasts: until you allow analytics again or clear this site's data.
+
+Two years is Google's default. Browsers can shorten it if you do not come back: Google notes a maximum of 400 days in Chrome and 7 days in Safari. Before you allow analytics cookies, Google Analytics, Microsoft Clarity and PostHog do not load at all, so nothing is sent to Google, Microsoft or PostHog.
 
 Clarity records your clicks, taps, mouse movements and scrolling and how each page looked, so we can watch a visit back or see many visits as a heatmap. It masks everything you type, and the text shown in our forms and free tools. It keeps recordings for 30 days, and a random sample of them, plus any we mark as favourites, for up to 9 months.
 
@@ -171,7 +195,7 @@ With offline access off, or never turned on, our main website runs no service wo
 
 ## 3. Third-party cookies and services
 
-Two third parties set cookies through our website. Google does, through Google Analytics and Google's advertising features only after you allow them in our cookie box, and through Google Calendar inside our book a call page only once you ask to see the times. Microsoft does, through Microsoft Clarity, only after you allow analytics cookies. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are three exceptions, all described below: RankGuru, which asks each website you name for its page; Cloudflare Turnstile, which our contact and SEO audit forms and our book a call page load when you start using them; and Google Calendar on our book a call page.
+Two third parties set cookies through our website. Google does, through Google Analytics and Google's advertising features only after you allow them in our cookie box, and through Google Calendar inside our book a call page only once you ask to see the times. Microsoft does, through Microsoft Clarity, only after you allow analytics cookies. PostHog, which also waits for analytics cookies, sets its own on ndcompany.in, as listed above. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are three exceptions, all described below: RankGuru, which asks each website you name for its page; Cloudflare Turnstile, which our contact and SEO audit forms and our book a call page load when you start using them; and Google Calendar on our book a call page.
 
 **Google's own explanation:** [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
@@ -210,11 +234,11 @@ Our cookie box appears about 20 seconds after you arrive. Nothing optional loads
 - **Edit preferences** shows three switches: analytics cookies, marketing cookies and offline access (essential cookies are always on). The switches start off, and **Save preferences** keeps what you chose.
 - The close button (×) hides the box without saving a choice. Nothing optional loads, and the box asks again on your next visit.
 
-To change your choice later, use Cookie settings at the bottom of every page. It opens the same switches with your saved choices ticked. If you switch analytics off, Google Analytics and Microsoft Clarity stop at once, and Clarity deletes its cookies on ndcompany.in. If you switch marketing off, it stops using Google's advertising features at once. The cookies it already set stay until they expire or you clear this site's data (cookies and site data for ndcompany.in) in your browser settings. If you switch offline access off, our site removes its service worker and the copies it saved. A tab you already have open stops handing it pages at once; anything that tab still saves is deleted the next time you open a page of our site.
+To change your choice later, use Cookie settings at the bottom of every page. It opens the same switches with your saved choices ticked. If you switch analytics off, Google Analytics, Microsoft Clarity and PostHog stop at once, and Clarity and PostHog delete their cookies on ndcompany.in. If you switch marketing off, it stops using Google's advertising features at once. The cookies it already set stay until they expire or you clear this site's data (cookies and site data for ndcompany.in) in your browser settings. If you switch offline access off, our site removes its service worker and the copies it saved. A tab you already have open stops handing it pages at once; anything that tab still saves is deleted the next time you open a page of our site.
 
 Clearing this site's data also removes your saved choice, your theme setting, your currency choice, the pages saved for offline use and the business details our invoice generator remembers.
 
-You can also manage or disable cookies through your browser settings. If you block storage for this site, our main website still works, but it will not remember your theme or your cookie choice, Google Analytics and Microsoft Clarity stay off, and pages are not saved for offline use.
+You can also manage or disable cookies through your browser settings. If you block storage for this site, our main website still works, but it will not remember your theme or your cookie choice, Google Analytics, Microsoft Clarity and PostHog stay off, and pages are not saved for offline use.
 
 To stop Google Analytics from using your data on websites that run its JavaScript (analytics.js or gtag.js), ours included, install Google's [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), available for Chrome, Safari, Firefox and Microsoft Edge.
 
