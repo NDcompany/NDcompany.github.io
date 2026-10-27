@@ -3,7 +3,7 @@ title: "Nakshatra Ranjan Saha, CEO & Founder | N&D Co."
 description: "Nakshatra Ranjan Saha is the CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata: profile and articles on SEO, websites and branding."
 url: "https://ndcompany.in/team/nakshatra-ranjan-saha"
 type: "ProfilePage"
-modified: "2026-10-27T00:00:00+05:30"
+modified: "2026-10-28T00:00:00+05:30"
 image: "https://ndcompany.in/assets/share/blogs.png"
 ---
 
@@ -177,7 +177,7 @@ Send a few lines about your business and what you need. We will reply with quest
         "@id": "https://ndcompany.in/team/nakshatra-ranjan-saha#breadcrumb"
       },
       "inLanguage": "en-IN",
-      "dateModified": "2026-10-27T00:00:00+05:30",
+      "dateModified": "2026-10-28T00:00:00+05:30",
       "mainEntity": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

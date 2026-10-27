@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/core-web-vitals-explained"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-23T00:00:00+05:30"
-modified: "2026-10-23T00:00:00+05:30"
+modified: "2026-10-28T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/core-web-vitals-explained-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/core-web-vitals-explained-16x9.png"
 
 September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 13 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 28 October 2026 13 min read
 
 Core Web Vitals are three measurements Google takes from real visits to a website. Largest Contentful Paint (LCP) is how long the main content takes to appear, Interaction to Next Paint (INP) is how quickly the page responds to a tap, click or key press, and Cumulative Layout Shift (CLS) is how much the layout jumps unexpectedly during a visit. A page passes when [each of the three is good for at least three out of four visits](https://web.dev/articles/vitals), with phones and computers judged separately. Most websites measured for visitors in India fail on phones: in September 2026, [32% of the websites in Google's Chrome data for India passed](https://httparchive.org/reports/techreport/tech?tech=ALL&geo=India&rank=ALL), against [53% worldwide](https://httparchive.org/reports/techreport/tech?tech=ALL&geo=ALL&rank=ALL).
 
@@ -97,6 +97,10 @@ Desktop does better: [51% of websites visited from India passed](https://httparc
 2. If that section is missing, either Google has too few visits to the page and the site in its data (CrUX covers [millions of popular websites, but not all of them](https://web.dev/articles/optimize-cwv-business)) or the page is [blocked from crawling or indexing](https://developers.google.com/speed/docs/insights/v5/about). Use the lab test lower down the same report, which [simulates a slow mobile connection](https://github.com/GoogleChrome/lighthouse/blob/main/docs/throttling.md), and a mid-range Android phone on mobile data. A developer can also collect real visitors' figures with Google's [web-vitals library](https://github.com/GoogleChrome/web-vitals) and send them to Google Analytics 4, though reading the 75th percentile there needs GA4's BigQuery export or Data API, not its built-in reports.
 3. Open the [Core Web Vitals report](https://support.google.com/webmasters/answer/9205520?hl=en) in Google Search Console, one of [the tools we use](https://ndcompany.in/tools-we-use). Verify the site from an account the business owns, not your developer's (our checklist covers [setting up Search Console](https://ndcompany.in/blogs/technical-seo-checklist)). Fix groups marked Poor first, as Google recommends; a group usually shares one template, so one fix can move many pages. Once the fix is live, start validation, and Search Console watches the pages for 28 days.
 4. Write down the date, the three field numbers and the element that counts as LCP, which [the lab report shows](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-largest-contentful-paint), so you can tell later whether the work changed anything.
+
+![PageSpeed Insights on the mobile tab for this guide: No Data beside Discover what your real users are experiencing, then lab scores of 100 for performance, accessibility, best practices and SEO, and lab metrics of First Contentful Paint 0.9 s, Largest Contentful Paint 1.2 s, Total Blocking Time 0 ms, Cumulative Layout Shift 0 and Speed Index 0.9 s](https://ndcompany.in/assets/blog/core-web-vitals-explained/pagespeed-insights-mobile.webp)
+
+*PageSpeed Insights on this guide, 28 October 2026. The site is new, so the real-visitor section says No Data and only the lab test shows. A lab score of 100 does not mean real visits pass.*
 
 ### What the PageSpeed score means
 
@@ -323,7 +327,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-23T00:00:00+05:30",
-      "dateModified": "2026-10-23T00:00:00+05:30",
+      "dateModified": "2026-10-28T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

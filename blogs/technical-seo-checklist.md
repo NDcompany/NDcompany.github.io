@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/technical-seo-checklist"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-23T00:00:00+05:30"
-modified: "2026-10-23T00:00:00+05:30"
+modified: "2026-10-28T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/technical-seo-checklist-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/technical-seo-checklist-16x9.png"
 
 Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 13 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 28 October 2026 13 min read
 
 A technical SEO checklist for a small business website covers the checks that decide whether Google can find, read, index and show your pages: Search Console access, indexing, robots.txt, the sitemap, one address per page, HTTPS, phones, speed, JavaScript, errors and redirects, structured data, and page titles. Work through it in that order, because the later checks only matter once the early ones pass. Run the full list at launch or after a rebuild, then check the main Search Console reports once a month.
 
@@ -201,6 +201,10 @@ Structured data is a standard format for telling Google what a page is about, an
 
 [LocalBusiness](https://developers.google.com/search/docs/appearance/structured-data/local-business) markup requires an address, so use it only if you have a real street address to show. If you travel to customers, keep Organization and set up a [service-area Google Business Profile](https://ndcompany.in/blogs/google-business-profile-guide). Whatever you add must be a [true representation of the visible page](https://developers.google.com/search/docs/appearance/structured-data/sd-policies), and even correct markup does not guarantee a rich result. Two old tactics do not work: a business that controls the reviews about itself is [ineligible for review stars](https://developers.google.com/search/docs/appearance/structured-data/review-snippet), and FAQ rich results [stopped appearing](https://developers.google.com/search/updates) on 7 May 2026.
 
+![The Schema.org validator's result for the ndcompany.in home page: a WebPage item with 0 errors and 0 warnings, showing its type, id, address, name, description and language, and the WebSite it is part of](https://ndcompany.in/assets/blog/technical-seo-checklist/schema-validator-homepage.webp)
+
+*Our home page in the Schema.org validator, 28 October 2026: one WebPage, part of the WebSite, with no errors or warnings. Google's Rich Results Test then shows which rich results the markup can earn.*
+
 ## 12. Tidy titles, descriptions, links and favicon
 
 - Give every page its own `<title>`, as Google [asks](https://developers.google.com/search/docs/appearance/title-link).
@@ -348,7 +352,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-23T00:00:00+05:30",
-      "dateModified": "2026-10-23T00:00:00+05:30",
+      "dateModified": "2026-10-28T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

@@ -66,15 +66,15 @@ Read the guide
 
 ## Recently updated
 
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  28 Oct 2026
+- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+  28 Oct 2026
 - [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
   27 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   26 Oct 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
 
 ## Trending tags

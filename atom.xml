@@ -5,7 +5,7 @@
 <link href="https://ndcompany.in/blogs" rel="alternate" type="text/html"/>
 <link href="https://ndcompany.in/atom.xml" rel="self" type="application/atom+xml"/>
 <id>https://ndcompany.in/blogs</id>
-<updated>2026-10-27T00:00:00+05:30</updated>
+<updated>2026-10-28T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
 <entry>
@@ -83,7 +83,7 @@
 <media:content url="https://ndcompany.in/assets/blog/technical-seo-checklist-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
 <id>https://ndcompany.in/blogs/technical-seo-checklist</id>
 <published>2026-10-23T00:00:00+05:30</published>
-<updated>2026-10-23T00:00:00+05:30</updated>
+<updated>2026-10-28T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
 <category term="technical-seo" label="Technical SEO" scheme="https://ndcompany.in/tags/"/>
@@ -127,7 +127,7 @@
 <media:content url="https://ndcompany.in/assets/blog/core-web-vitals-explained-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
 <id>https://ndcompany.in/blogs/core-web-vitals-explained</id>
 <published>2026-10-23T00:00:00+05:30</published>
-<updated>2026-10-23T00:00:00+05:30</updated>
+<updated>2026-10-28T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <category term="websites" label="Websites" scheme="https://ndcompany.in/blogs/topic/"/>
 <category term="core-web-vitals" label="Core Web Vitals" scheme="https://ndcompany.in/tags/"/>

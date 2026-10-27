@@ -174,15 +174,15 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/websites</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/branding</loc>
@@ -190,7 +190,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
@@ -210,7 +210,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags/core-web-vitals</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/brand-guidelines</loc>
@@ -234,7 +234,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
@@ -653,7 +653,10 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/technical-seo-checklist</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/technical-seo-checklist/schema-validator-homepage.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/plan-a-business-website</loc>
@@ -665,7 +668,10 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/core-web-vitals-explained</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/core-web-vitals-explained/pagespeed-insights-mobile.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/google-business-profile-guide</loc>
