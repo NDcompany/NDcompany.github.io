@@ -1,0 +1,199 @@
+var e=`import { Link } from 'react-router-dom';\r
+import { Callout, Figure } from '../../components/post';\r
+\r
+const SHOT = '/assets/blog/free-seo-audit-how-it-works';\r
+\r
+export default function Post() {\r
+    return (\r
+        <>\r
+            <p>Our free SEO audit works in five steps. You send a short form with your name, email address, website and preferred language. We check that your email address can receive mail and that your website is not on a list of dangerous sites. Our audit tool then reads your homepage and up to nine more pages, runs technical, on-page, link, structured data and speed checks, and ranks what it finds. You get a PDF report in English, Bengali or Hindi by email within 5 working days. It costs nothing, and asking for one does not commit you to anything.</p>\r
+            <p>We built the tool ourselves, and this post shows how it works from the day your request arrives to the day the report reaches your inbox: what it reads, what it skips, how it scores your site and what happens to your details afterwards. The screenshots use made-up websites and people, so no real request appears in them.</p>\r
+\r
+            <Callout title="Key takeaways">\r
+                <ul>\r
+                    <li>The form asks for four things: your name, email address, website and the language you want the report in.</li>\r
+                    <li>Before anything is read from your site, we check your email address and look your website up on public lists of phishing and other dangerous sites.</li>\r
+                    <li>The audit reads only public pages: the homepage, up to nine more, and your sitemap, robots.txt and llms.txt. It follows your robots.txt rules.</li>\r
+                    <li>Speed results come from Google's own PageSpeed Insights test of your homepage on a phone.</li>\r
+                    <li>An AI model helps write the summary from the findings alone. It never sees your name or email address.</li>\r
+                </ul>\r
+            </Callout>\r
+\r
+            <h2 id="what-the-free-seo-audit-is">What is our free SEO audit?</h2>\r
+            <p>An SEO audit is a check of the things that decide whether search engines can find, read and show your pages, and whether people who land on them get a fast, clear page. Ours is a free check with a fixed, published scope. Its <Link to="/free-seo-audit">conditions</Link> set out what it covers: your homepage and up to nine more pages, your sitemap, robots.txt and llms.txt files, and a short written summary of the fixes that matter most.</p>\r
+            <p>It is meant for business owners who want a straight answer to "what is wrong with my site, and what should I fix first?" without a sales call first. The report is yours to keep. You can fix things yourself, hand it to your developer, or ask us for a quote.</p>\r
+\r
+            <Figure\r
+                src={\`\${SHOT}/dashboard-pipeline.webp\`}\r
+                width={1280}\r
+                height={838}\r
+                copies={[480, 640]}\r
+                alt="The audit dashboard's pipeline map: the website form, then in line, email check, safety check and read website along the top row, then find issues, write report, send email, delivered and follow-ups along the second row, with needs you, declined and failed as exits below"\r
+                caption="The pipeline map in our private audit dashboard. Every request moves along these stages. Sample data: the counts are made up."\r
+            />\r
+\r
+            <h2 id="how-to-ask">How to ask for a free website SEO audit</h2>\r
+            <p>Use the Free SEO Audit button that sits on every page of this site. The form asks for:</p>\r
+            <ul>\r
+                <li>Your name, so the report and the email are addressed to you.</li>\r
+                <li>Your email address, where the report goes.</li>\r
+                <li>Your website. You can type it as example.com; the form adds the https:// for you.</li>\r
+                <li>Your preferred language: English, Bengali or Hindi. The whole report is written in it.</li>\r
+            </ul>\r
+            <p>Two tick boxes follow. The first is required: you confirm that you own or manage the website. We ask because a report about someone else's site, sent to a stranger, helps nobody, and the audit is only for businesses and adults aged 18 or over. The second is optional and starts unticked: occasional SEO tips and offers. Leave it empty and you get the report, our offer in the same email and at most two follow-ups about that offer, nothing more.</p>\r
+            <p>A bot check runs in the background when you send the form, and requests that look like spam wait for a person instead of going through. When your request is saved you see a thank-you message, and the 5 working days start. Our working days are Monday to Saturday.</p>\r
+\r
+            <h2 id="safety-checks">The checks before we read your site</h2>\r
+            <p>Nothing is read from your website until two checks pass.</p>\r
+            <p>First, your email address. The tool checks that the address can receive mail: that its domain accepts email, that it is not a throwaway address and that it is not an obvious typo of a common provider. It sends you nothing while it checks. If the address cannot receive mail at all, we cannot send the report, so the request stops there.</p>\r
+            <p>Second, your website. The tool looks the site up on public lists of phishing and other dangerous websites, which it keeps up to date every day. A listed site is declined and not visited. While the pages are being read, the tool also watches for signs that a site has been hacked or is posing as another business. If it sees any, the request is held, and one of our team looks at the site before deciding whether to carry on.</p>\r
+            <p>We may also decline a request when the website does not answer, or when the same website had a free audit in the last 90 days. If we decline and your email address works, we email you to say why.</p>\r
+\r
+            <Figure\r
+                src={\`\${SHOT}/dashboard-request.webp\`}\r
+                width={1280}\r
+                height={992}\r
+                copies={[480, 640]}\r
+                alt="One request in the audit dashboard for a made-up bakery website: a row of completed stages from in line to delivered, who asked, the report language, the checks showing the email looks valid, a company address and the website on no phishing list, and an audit result of 68 with scores for technical, on-page, indexing, speed, links and structured data"\r
+                caption="One request from start to finish, with the email and safety checks and the scores. Sample data: the bakery, its owner and the email address are made up."\r
+            />\r
+\r
+            <h2 id="pages-we-read">Which pages the audit reads</h2>\r
+            <p>The audit reads your website the way a search engine's crawler does: it asks for each page, reads the HTML that comes back and follows the links in it. It starts at your homepage and picks up to nine more pages from the links there and from your sitemap. It looks first for the pages that matter most to a business, such as services, products, prices and contact, then up to three of your recent blog posts if you have a blog.</p>\r
+            <p>It also fetches three files:</p>\r
+            <ul>\r
+                <li>robots.txt, which tells crawlers what they may visit (<a href="https://developers.google.com/search/docs/crawling-indexing/robots/intro" target="_blank" rel="noopener noreferrer">Google's introduction to robots.txt</a> explains it). The audit follows its rules: a page you block from crawlers is a page we do not read.</li>\r
+                <li>Your sitemap, the list of pages you want search engines to find.</li>\r
+                <li>llms.txt, an optional file some AI tools read, proposed at <a href="https://llmstxt.org/" target="_blank" rel="noopener noreferrer">llmstxt.org</a>. The report mentions it, but never counts it as something Google ranks on.</li>\r
+            </ul>\r
+            <p>The audit never logs in, never fills in your forms and never reads anything behind a password. It reads only those few pages and files, so your server barely notices it, and it identifies itself as an N&amp;D Co. audit with a link to our conditions page, so it is easy to spot in your server logs.</p>\r
+\r
+            <h2 id="what-we-check">What the SEO audit checks</h2>\r
+            <p>The checks fall into six areas. Each area gets a score out of 100, and the overall score weighs them as the table shows.</p>\r
+            <div className="blog-table" role="region" aria-label="What the free SEO audit checks" tabIndex={0}>\r
+                <table>\r
+                    <caption>The six areas of the free SEO audit and their weight in the overall score</caption>\r
+                    <thead>\r
+                        <tr>\r
+                            <th scope="col">Area</th>\r
+                            <th scope="col">What it looks at</th>\r
+                            <th scope="col">Weight</th>\r
+                        </tr>\r
+                    </thead>\r
+                    <tbody>\r
+                        <tr>\r
+                            <th scope="row">Technical</th>\r
+                            <td>HTTPS, redirects, error pages, compression, the page language, a favicon, robots.txt and the sitemap</td>\r
+                            <td>25%</td>\r
+                        </tr>\r
+                        <tr>\r
+                            <th scope="row">On-page</th>\r
+                            <td>Page titles, meta descriptions, headings, image alt text, the mobile viewport and social sharing tags</td>\r
+                            <td>25%</td>\r
+                        </tr>\r
+                        <tr>\r
+                            <th scope="row">Indexing</th>\r
+                            <td>noindex tags and headers, pages blocked by robots.txt, canonical tags and errors in the sitemap</td>\r
+                            <td>20%</td>\r
+                        </tr>\r
+                        <tr>\r
+                            <th scope="row">Speed</th>\r
+                            <td>Google PageSpeed Insights for your homepage on a phone, plus page size, slow responses and scripts that hold up the first paint</td>\r
+                            <td>15%</td>\r
+                        </tr>\r
+                        <tr>\r
+                            <th scope="row">Links</th>\r
+                            <td>Broken internal links and internal links that redirect</td>\r
+                            <td>10%</td>\r
+                        </tr>\r
+                        <tr>\r
+                            <th scope="row">Structured data</th>\r
+                            <td>Whether your pages carry structured data, whether it is valid JSON, and Organization data on the homepage</td>\r
+                            <td>5%</td>\r
+                        </tr>\r
+                    </tbody>\r
+                </table>\r
+            </div>\r
+            <p>Many of these checks come straight from Google's documentation. Google asks for a title on every page and warns against <a href="https://developers.google.com/search/docs/appearance/title-link" target="_blank" rel="noopener noreferrer">repeated or boilerplate text in titles</a>, and it says that <a href="https://developers.google.com/search/docs/appearance/snippet" target="_blank" rel="noopener noreferrer">identical or similar descriptions on every page</a> are not helpful in search results. Our <Link to="/blogs/technical-seo-checklist">technical SEO checklist</Link> covers the same ground in more depth if you want to understand each check.</p>\r
+            <p>For speed, the tool asks Google's PageSpeed Insights to test your homepage on a phone. PageSpeed Insights reports two kinds of data. <a href="https://developers.google.com/speed/docs/insights/v5/about" target="_blank" rel="noopener noreferrer">Lab data from Lighthouse</a> comes from a test run in a controlled setting, which is useful for finding the cause of a problem. Field data comes from real Chrome visitors over the previous 28 days, measured at the 75th percentile, and appears only when Google has enough of it for your site. A page passes Core Web Vitals when LCP is 2.5 seconds or less, INP 200 milliseconds or less and CLS 0.1 or less. The report shows both kinds of data and labels them as Google's, and says so plainly when Google has no real-visitor data for your site. Our guide to <Link to="/blogs/core-web-vitals-explained">Core Web Vitals</Link> explains what those three measures mean.</p>\r
+\r
+            <h2 id="how-findings-are-ranked">How findings are ranked and scored</h2>\r
+            <p>Every check that fails becomes a finding with a severity: critical, high, medium or low. A homepage that tells Google not to index it is rated high; a heading that skips a level is rated low. Findings are sorted by severity first, then by how many pages they affect, so a problem on all ten pages comes before the same problem on one.</p>\r
+            <p>The report explains the most important findings one by one: what is wrong, why it matters, how to fix it and a few example pages where we saw it. The rest are listed more briefly. A recommended order of work closes the findings, so you know where to start.</p>\r
+            <p>The overall score is our own measure, built from the six area scores and the weights above. It is not a Google score, and the report says so on its first page. Use it to compare your site with itself after you fix things, not with other sites.</p>\r
+\r
+            <Figure\r
+                src={\`\${SHOT}/dashboard-findings.webp\`}\r
+                width={1280}\r
+                height={805}\r
+                copies={[480, 640]}\r
+                alt="The findings list for a sample audit, sorted by severity: two high findings, duplicate page titles across four pages and broken internal links on two, then medium findings for render-blocking scripts, missing image alt text, missing meta descriptions and sitemap errors, then two low ones; the first is open to show why it matters, the fix and four example pages"\r
+                caption="Findings sorted by severity, then by the number of pages affected. Sample data from a made-up website."\r
+            />\r
+\r
+            <h2 id="the-report">What is in the SEO audit report: a sample</h2>\r
+            <p>The report is a PDF of a few pages, attached to an email from an N&amp;D Co. address. In order, it contains:</p>\r
+            <ol>\r
+                <li>Your overall score and a short summary of what matters most.</li>\r
+                <li>A score for each of the six areas.</li>\r
+                <li>The most important fixes, each with why it matters, the fix and example pages.</li>\r
+                <li>Your PageSpeed Insights results and the recommended order of work.</li>\r
+                <li>A page on how we could fix these for you, with the services that match your findings. It is left out if you unsubscribed from our offers earlier.</li>\r
+                <li>The scope and its limits: the pages we read, whether your sitemap, robots.txt and llms.txt were found, and what the report does not promise.</li>\r
+            </ol>\r
+            <p>The summary at the top and the page about our services are drafted by an AI model. It works from the audit's findings and your public pages only; it never receives your name, your email address or anything else you typed into the form. The tool checks each draft against rules before it goes into the PDF: what it says must match a finding, it may name only our real services, it may not add links and it may not bring in numbers the findings do not contain. If no AI model is available, the report uses plain text built from the findings instead. Your name is added by the tool afterwards, outside the AI step.</p>\r
+\r
+            <Figure\r
+                src={\`\${SHOT}/report-page-1.webp\`}\r
+                width={1280}\r
+                height={1637}\r
+                copies={[480, 640]}\r
+                alt="The first page of a sample free SEO audit report for a made-up bakery website: the N&D Co. logo, report ID and date, an overall SEO score of 68 out of 100 with a note that it is not a Google score, a short summary of what matters most, scores by area and the first of the most important fixes"\r
+                caption="Page one of a sample report: the score, the summary, the area scores and the first fix. Sample data for a made-up website."\r
+            />\r
+\r
+            <Figure\r
+                src={\`\${SHOT}/report-page-4.webp\`}\r
+                width={1280}\r
+                height={1013}\r
+                copies={[480, 640]}\r
+                alt="A later page of the sample report: Google PageSpeed Insights results on mobile with Lighthouse scores for performance, accessibility, best practices and SEO, the lab measurements for LCP, CLS and TBT, a note that Google has no real-visitor Core Web Vitals for the site yet, and a numbered recommended order of work"\r
+                caption="The PageSpeed Insights section and the recommended order of work. Sample data for a made-up website."\r
+            />\r
+\r
+            <h2 id="tracking-your-request">How we keep track of your request</h2>\r
+            <p>Every request lives in a private dashboard that only our team can open. It shows where each request is, which checks it passed, its score, the exact PDF that was sent and every email that went out. Each request also carries its deadline, so a report that is running late is easy to see. If we will miss the 5 working days, the tool emails you to say so and when to expect the report.</p>\r
+            <p>Most of the work is automatic. A person steps in when a request is held: a site that looks suspicious, a request that looks like spam, a site we audited recently or an email that could not be delivered.</p>\r
+\r
+            <Figure\r
+                src={\`\${SHOT}/dashboard-requests.webp\`}\r
+                width={1280}\r
+                height={868}\r
+                copies={[480, 640]}\r
+                alt="The requests list in the audit dashboard: eight made-up websites with first names and initials, each with a status such as delivered, reading the website, finding issues, checking site safety, waiting in line or writing the PDF, a score for the delivered ones, the report language, the deadline and when it was received"\r
+                caption="The requests list, with each request's status, language and deadline. Sample data: every website and name is made up."\r
+            />\r
+\r
+            <h2 id="your-details">What happens to your details</h2>\r
+            <p>We use your name, email address, website and language to prepare and send the report and our offer, and to reply to you. Our <Link to="/privacy">privacy policy</Link> covers the details; in short:</p>\r
+            <ul>\r
+                <li>Your request is kept for 24 months after it arrives, then deleted, unless you become a client. You can ask us to delete it sooner.</li>\r
+                <li>Each request and report is stored encrypted with a key of its own. Deleting a request destroys its key, so within 30 days its backups can no longer be read either.</li>\r
+                <li>The copy in the online inbox the form writes to is cut down to its number, dates and status 30 days after the request is finished.</li>\r
+                <li>Every email has a one-click unsubscribe link. After you unsubscribe, we send you no more offers, follow-ups or tips. If you ask for another audit later, you get the report without an offer.</li>\r
+                <li>AI models see your public pages and the audit's findings, never your name or email address.</li>\r
+            </ul>\r
+\r
+            <h2 id="what-it-does-not-do">What the free audit does not do</h2>\r
+            <p>The report describes what the checks found on the day they ran, and it has limits:</p>\r
+            <ul>\r
+                <li>It reads ten pages at most. A large site or online store can have problems on pages we did not read.</li>\r
+                <li>It does not research keywords, look at your competitors or check the links other sites point at yours.</li>\r
+                <li>It does not see inside your Google Search Console, which shows how Google itself indexes your site. Our checklist explains <Link to="/blogs/technical-seo-checklist">how to set up Search Console</Link> with the business as owner.</li>\r
+                <li>It is not a promise of rankings, traffic or sales, and it is not legal or security advice.</li>\r
+            </ul>\r
+            <p>If you want to check a single page right now, our free <Link to="/tools/rankguru">RankGuru on-page checker</Link> runs in your browser and shows the results on screen. If the report shows more than you want to fix yourself, our <Link to="/services/seo-services">SEO services</Link> start from the same findings, and we put the scope and price in writing before any work begins.</p>\r
+        </>\r
+    );\r
+}\r
+`;export{e as default};

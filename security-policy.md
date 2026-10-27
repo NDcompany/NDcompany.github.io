@@ -4,13 +4,13 @@ description: "Security policy for N&D Co.: how our static website runs, what loa
 url: "https://ndcompany.in/security-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-24"
+modified: "2026-10-27"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Security policy
 
-Effective date: 23 October 2026 · Last updated: 24 October 2026
+Effective date: 23 October 2026 · Last updated: 27 October 2026
 
 This is a public summary of our security practices. It explains how our website works, what runs only with your consent, how we handle client data and how to report a security problem. It leaves out credentials and other details that could help an attacker.
 
@@ -24,7 +24,7 @@ The contact form on our homepage sends your message over HTTPS to our own addres
 
 The free SEO audit form works the same way, through a Worker of its own with the same checks and the same limit on requests, and saves each request in a separate database. Requests are deleted 24 months after they arrive, unless you became our client. The audit tool that prepares the reports runs on our own computer: it stores each request and report encrypted with a key of its own, keeps encrypted backups that its storage providers cannot read, and keeps security logs for a year.
 
-Our fonts, scripts, styles, images and videos all load from ndcompany.in. Until you give consent, our pages load nothing from any other service, except Cloudflare Turnstile once you start filling in the contact form or the SEO audit form, and Google Analytics stays off.
+Our fonts, scripts, styles, images and videos all load from ndcompany.in. Until you give consent, our pages load nothing from any other service, except Cloudflare Turnstile once you start filling in the contact form or the SEO audit form, and Google Analytics and Microsoft Clarity stay off.
 
 Our free tools at ndcompany.in/tools are pages of this website and work the same way. They handle what you enter or add inside your browser and do not send it to us. RankGuru asks each website you name for its page straight from your browser.
 
@@ -34,7 +34,7 @@ When a page breaks with an error, it reports the error to Sentry so we can fix i
 
 Our cookie box has three optional switches, for analytics cookies, marketing cookies and offline access. All three are off until you turn them on. "Accept" turns on all three, and "Reject all" keeps only the essential storage the site needs, such as your cookie choice and your light or dark theme. You can change your choice at any time with "Cookie settings" at the bottom of every page.
 
-With analytics on, we use Google Analytics to see how people use the site. Google's advertising features (Google signals, remarketing and ad personalization) also need the marketing switch, and they start only when you first tap, click, press a key or turn the mouse wheel on a page.
+With analytics on, we use Google Analytics and Microsoft Clarity to see how people use the site. Clarity records clicks, scrolling and how pages looked, and masks what you type and the text our forms and free tools show. Google's advertising features (Google signals, remarketing and ad personalization) also need the marketing switch, and they start only when you first tap, click, press a key or turn the mouse wheel on a page.
 
 Offline access lets pages open without a connection and load faster later. When you turn it on, the site registers a service worker (/sw.js). The worker keeps copies in your browser's Cache Storage, in caches named ndco-static-v1 and ndco-pages-v1: the offline page and its images, the site's icons and manifest, the homepage and each page you open, and the site files those pages use (scripts, styles, fonts and images, never videos). It refreshes these copies from ndcompany.in when you are online and sends nothing to us or to anyone else.
 
@@ -99,7 +99,7 @@ Phone: [+91 89021 09455](tel:+918902109455)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-10-27",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

@@ -1,18 +1,18 @@
 ---
 title: "Cookies policy | N&D Co."
-description: "Cookies policy for ndcompany.in: the browser storage we use, the Google Analytics cookies set only with your consent, how long each lasts and how to change it."
+description: "Cookies policy for ndcompany.in: the browser storage we use, the analytics cookies set only with your consent, how long each lasts and how to change it."
 url: "https://ndcompany.in/cookies-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-25"
+modified: "2026-10-27"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Cookies policy
 
-Effective date: 23 October 2026 · Last updated: 25 October 2026
+Effective date: 23 October 2026 · Last updated: 27 October 2026
 
-This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
+This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics, Microsoft Clarity and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
 ## 1. What are cookies?
 
@@ -28,11 +28,11 @@ Safari deletes all three if you use Safari for 7 days without interacting with t
 
 ## 2. Types of cookies we use
 
-Our own code sets no cookies. It keeps a few items in your browser's storage. Google Analytics sets cookies, and our service worker saves copies of our pages, only if you allow them. Our cookie box groups all of this into four kinds:
+Our own code sets no cookies. It keeps a few items in your browser's storage. Google Analytics and Microsoft Clarity set cookies, and our service worker saves copies of our pages, only if you allow them. Our cookie box groups all of this into four kinds:
 
 - **Essential cookies:** remember your cookie choices, your theme and the currency you pick for prices, return you to where you were on a page, and help a page recover when its code fails to load. Always on. They stay in your browser and are never sent to us.
-- **Analytics cookies:** let Google Analytics show us how people find and use our website. Off until you switch them on.
-- **Marketing cookies:** let Google Analytics use Google's advertising features. Off until you switch them on, and they only work together with analytics cookies.
+- **Analytics cookies:** let Google Analytics and Microsoft Clarity show us how people find and use our website. Off until you switch them on.
+- **Marketing cookies:** let Google Analytics use Google's advertising features, and Microsoft Clarity use Microsoft's advertising cookies. Off until you switch them on, and they only work together with analytics cookies.
 - **Offline access:** lets our service worker save copies of our pages and files in your browser, so they open without a connection and load faster. Off until you switch it on.
 
 ### Essential storage (always on)
@@ -103,7 +103,27 @@ Set: after you allow analytics cookies, and when you click a button.
 
 Lasts: until you close the tab.
 
-Two years is Google's default. Browsers can shorten it if you do not come back: Google notes a maximum of 400 days in Chrome and 7 days in Safari. Before you allow analytics cookies, Google Analytics does not load at all, so nothing is sent to Google.
+### `_clck`
+
+Set by Microsoft Clarity on ndcompany.in. Keeps the random ID Clarity gives your browser, so your visits to our site count as one person's.
+
+Set: when Clarity starts, after you allow analytics cookies, and renewed on each visit.
+
+Lasts: 1 year.
+
+### `_clsk`
+
+Set by Microsoft Clarity on ndcompany.in. Joins the pages you open in one visit into a single recording.
+
+Set: when Clarity starts, after you allow analytics cookies.
+
+Lasts: 1 day.
+
+Two years is Google's default. Browsers can shorten it if you do not come back: Google notes a maximum of 400 days in Chrome and 7 days in Safari. Before you allow analytics cookies, Google Analytics and Microsoft Clarity do not load at all, so nothing is sent to Google or Microsoft.
+
+Clarity records your clicks, taps, mouse movements and scrolling and how each page looked, so we can watch a visit back or see many visits as a heatmap. It masks everything you type, and the text shown in our forms and free tools. It keeps recordings for 30 days, and a random sample of them, plus any we mark as favourites, for up to 9 months.
+
+With analytics cookies allowed, our site also loads Google Tag Manager, which we use to manage our measurement tags. It sets no cookies of its own. Any tag we add through it follows your choices in our cookie box and is listed here before it runs.
 
 We set Google Analytics to keep user-level and event-level data for 14 months. When data reaches the end of that period, Google deletes it automatically in its monthly clean-up. Reports that show only totals are not affected.
 
@@ -124,6 +144,8 @@ Because Google Analytics is linked to Google Ads, Google's tag may also set thes
 - **_gcl_ls** (local storage): kept by the same tag for the same purpose.
 
 With marketing switched off, our site tells Google Analytics to keep advertising storage, Google signals and ad personalization off, and not to send your data to Google for advertising.
+
+Microsoft Clarity can also read or set cookies on Microsoft's own domains, such as clarity.ms: MUID, which identifies your browser across Microsoft's sites and which Microsoft uses for advertising, site analytics and other operational purposes, and CLID, ANONCHK, MR and SM, which support it. Our site tells Clarity it may use advertising storage only after you allow marketing as well as analytics and first interact with the page. Microsoft describes these cookies on its page [Clarity cookies](https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-cookies).
 
 ### Offline access (only after you turn it on)
 
@@ -149,14 +171,17 @@ With offline access off, or never turned on, our main website runs no service wo
 
 ## 3. Third-party cookies and services
 
-Google is the only third party that sets cookies through our website, and only after you allow it in our cookie box. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are two exceptions, both described below: RankGuru, which asks each website you name for its page, and Cloudflare Turnstile, which our contact and SEO audit forms load when you start filling one in.
+Two third parties set cookies through our website. Google does, through Google Analytics and Google's advertising features only after you allow them in our cookie box, and through Google Calendar inside our book a call page only once you ask to see the times. Microsoft does, through Microsoft Clarity, only after you allow analytics cookies. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are three exceptions, all described below: RankGuru, which asks each website you name for its page; Cloudflare Turnstile, which our contact and SEO audit forms and our book a call page load when you start using them; and Google Calendar on our book a call page.
 
 **Google's own explanation:** [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+
+**Microsoft's own explanation:** [Microsoft Privacy Statement](https://www.microsoft.com/privacy/privacystatement).
 
 Other services that receive information when you use our website:
 
 - **Cloudflare** delivers this website and protects it, so it processes your IP address. It sets no cookies on our site. Its responses ask your browser to report a page that fails to load (Network Error Logging), and your browser keeps that request for up to seven days. See the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
-- **Cloudflare Turnstile** protects our contact form from spam. It loads from challenges.cloudflare.com, in a frame of its own, only when you start filling in the form. It sets no cookies and keeps one item, cf.turnstile.u, in that frame's local storage until you clear your browser's data. It uses your IP address and your browser's TLS fingerprint and user agent to tell people from bots, and does not read what you type. The form cannot be protected without it, so we treat it as essential and it does not wait for your consent. See the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
+- **Cloudflare Turnstile** protects our contact and SEO audit forms and our book a call page from bots. It loads from challenges.cloudflare.com, in a frame of its own, only when you start filling in a form or ask to see the booking times. It sets no cookies and keeps one item, cf.turnstile.u, in that frame's local storage until you clear your browser's data. It uses your IP address and your browser's TLS fingerprint and user agent to tell people from bots, and does not read what you type. The form cannot be protected without it, so we treat it as essential and it does not wait for your consent. See the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
+- **Google Calendar** shows our booking calendar on our [book a call page](https://ndcompany.in/book-a-call), in a frame from calendar.google.com, only after you select Show available times. Google may set its own cookies in that frame, and it receives what you enter to book a call (your name, email address and any notes) and the time you pick. The page tells you this before you open the calendar. See the [Google Privacy Policy](https://policies.google.com/privacy).
 - **Sentry** receives a report when a page of this website breaks with an error, through our own address on Cloudflare. The code that sends it loads only after an error, from this website, and sets no cookies and stores nothing in your browser. Because a report has little or no effect on your privacy and helps us keep the website working, we send it without asking for consent. Our [privacy policy](https://ndcompany.in/privacy) says what a report holds. See the [Sentry Privacy Policy](https://sentry.io/privacy/).
 - **GitHub** hosts this website on GitHub Pages, behind Cloudflare, and logs visitors' IP addresses for security. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 - **Share buttons, our social media links and links to other websites** are plain links. Nothing loads from those sites, and they receive nothing from us, until you click one. After that, their own policies apply.
@@ -185,11 +210,11 @@ Our cookie box appears about 20 seconds after you arrive. Nothing optional loads
 - **Edit preferences** shows three switches: analytics cookies, marketing cookies and offline access (essential cookies are always on). The switches start off, and **Save preferences** keeps what you chose.
 - The close button (×) hides the box without saving a choice. Nothing optional loads, and the box asks again on your next visit.
 
-To change your choice later, use Cookie settings at the bottom of every page. It opens the same switches with your saved choices ticked. If you switch analytics off, Google Analytics stops at once. If you switch marketing off, it stops using Google's advertising features at once. The cookies it already set stay until they expire or you clear this site's data (cookies and site data for ndcompany.in) in your browser settings. If you switch offline access off, our site removes its service worker and the copies it saved. A tab you already have open stops handing it pages at once; anything that tab still saves is deleted the next time you open a page of our site.
+To change your choice later, use Cookie settings at the bottom of every page. It opens the same switches with your saved choices ticked. If you switch analytics off, Google Analytics and Microsoft Clarity stop at once, and Clarity deletes its cookies on ndcompany.in. If you switch marketing off, it stops using Google's advertising features at once. The cookies it already set stay until they expire or you clear this site's data (cookies and site data for ndcompany.in) in your browser settings. If you switch offline access off, our site removes its service worker and the copies it saved. A tab you already have open stops handing it pages at once; anything that tab still saves is deleted the next time you open a page of our site.
 
 Clearing this site's data also removes your saved choice, your theme setting, your currency choice, the pages saved for offline use and the business details our invoice generator remembers.
 
-You can also manage or disable cookies through your browser settings. If you block storage for this site, our main website still works, but it will not remember your theme or your cookie choice, Google Analytics stays off, and pages are not saved for offline use.
+You can also manage or disable cookies through your browser settings. If you block storage for this site, our main website still works, but it will not remember your theme or your cookie choice, Google Analytics and Microsoft Clarity stay off, and pages are not saved for offline use.
 
 To stop Google Analytics from using your data on websites that run its JavaScript (analytics.js or gtag.js), ours included, install Google's [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), available for Chrome, Safari, Firefox and Microsoft Edge.
 
@@ -221,7 +246,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains your rights over you
       "@type": "WebPage",
       "@id": "https://ndcompany.in/cookies-policy#webpage",
       "name": "Cookies policy",
-      "description": "Cookies policy for ndcompany.in: the browser storage we use, the Google Analytics cookies set only with your consent, how long each lasts and how to change it.",
+      "description": "Cookies policy for ndcompany.in: the browser storage we use, the analytics cookies set only with your consent, how long each lasts and how to change it.",
       "url": "https://ndcompany.in/cookies-policy",
       "isPartOf": {
         "@type": "WebSite",
@@ -236,7 +261,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains your rights over you
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-25",
+      "dateModified": "2026-10-27",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

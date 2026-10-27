@@ -4,13 +4,13 @@ description: "What our contact and SEO audit forms collect, what we keep when yo
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-25"
+modified: "2026-10-27"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026 · Last updated: 25 October 2026
+Effective date: 23 October 2026 · Last updated: 27 October 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -35,6 +35,8 @@ When you email us, call us or message us on social media, we receive what you se
 If you hire us, we also keep the project records and the payment records described in section 5.
 
 If you allow analytics cookies, Google Analytics records how you use the site: the pages you view and how long you stay, how you reached us (for example from a search engine or a link), your device, browser and approximate location (such as your city), and the actions we measure, such as button clicks, shares, searches on our blog and projects pages, and plays of our service videos. Google says Google Analytics 4 does not log or store IP addresses.
+
+If you allow analytics cookies, Microsoft Clarity also records how you use our pages: your clicks, taps, mouse movements and scrolling, and how each page looked on your screen. We can watch a visit back as a recording or see many visits summed up as a heatmap. Clarity masks everything you type, and on our contact and SEO audit forms and in our free tools it also masks the text the page shows, so none of it reaches Microsoft. Clarity uses your IP address to work out your approximate location.
 
 Our homepage and some of our service and project pages show reviews that clients posted publicly on Google and Facebook, with the names they used there.
 
@@ -66,7 +68,7 @@ The email with a free SEO audit report includes an offer for our services, and w
 
 ## 4. Cookies and tracking technologies
 
-Without your consent, our website sets no cookies; with it, Google Analytics sets its cookies on ndcompany.in, as below. Your browser's storage keeps your cookie choice, your light or dark theme, the currency you pick for prices and, for the open tab, how far down each page you were. If you tick "Remember my business details" in our invoice generator, it also keeps those details, and if a page's code fails to load, the tab keeps a note so the page reloads only once. To choose a currency before you pick one, the page reads your device's time zone in your browser. None of this is sent to us.
+Without your consent, our website sets no cookies; with it, Google Analytics and Microsoft Clarity set their cookies on ndcompany.in, as below. Your browser's storage keeps your cookie choice, your light or dark theme, the currency you pick for prices and, for the open tab, how far down each page you were. If you tick "Remember my business details" in our invoice generator, it also keeps those details, and if a page's code fails to load, the tab keeps a note so the page reloads only once. To choose a currency before you pick one, the page reads your device's time zone in your browser. None of this is sent to us.
 
 If you start filling in our contact form or our SEO audit form, Cloudflare Turnstile runs in a small frame of its own and keeps one item, cf.turnstile.u, in that frame's storage in your browser. It sets no cookies. The form cannot be protected from spam without it, so we treat it as essential and it does not wait for your consent, but nothing of it loads until you use a form.
 
@@ -80,9 +82,13 @@ Google Analytics runs only after you allow analytics cookies in our cookie box. 
 
 If you also allow marketing cookies, Google Analytics can use Google's advertising features from your first tap, click, key press or scroll on a page. Google signals is on in our Analytics account: for people signed in to a Google account who have turned on ad personalization, it lets Google link visits across devices and add demographic and interest data to our reports. Our Analytics account is also linked to our Google Ads account, with personalized advertising on, so your visits can be used to show you our ads later (remarketing). Google can also use your visit to measure whether our ads led to an enquiry: when you send our contact form, we tell Google Analytics which service you asked about, the last button you clicked and your enquiry's reference number in our records, so we can see which pages lead to enquiries; never your name, email address, phone number or message. Without marketing consent, our site tells Google Analytics to keep these features off.
 
+Microsoft Clarity also runs only after you allow analytics cookies. It shows us where people click, how far they scroll and where a page gets in their way, so we can fix it. It sets its own cookies on ndcompany.in, and on Microsoft's domains it can set cookies that Microsoft also uses for advertising. We let Clarity use those advertising cookies only if you also allow marketing cookies. If you switch analytics off, Clarity stops at once and deletes its cookies on ndcompany.in.
+
+With analytics cookies allowed, our site also loads Google Tag Manager, a Google tool we use to manage the measurement tags on our site. It sets no cookies of its own. Any tag we add through it follows your choices in our cookie box, and we name it in this policy before it runs.
+
 Our [cookies policy](https://ndcompany.in/cookies-policy) lists every cookie and storage item we use, what each one does and how long it lasts, and explains how to change your choice.
 
-Other parties can collect information about your activity across websites through our site only if you allow marketing cookies: Google, as described above. Our website does not respond to browser Do Not Track signals; the cookie box is how you choose.
+Other parties can collect information about your activity across websites through our site only if you allow marketing cookies: Google and Microsoft, as described above. Our website does not respond to browser Do Not Track signals; the cookie box is how you choose.
 
 ## 5. Payment information
 
@@ -104,6 +110,12 @@ These services also receive personal data:
 
 Runs Google Analytics for us, only if you allow analytics cookies, and its advertising features, including our linked Google Ads account, only if you also allow marketing cookies. Google explains how it uses this data in [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
+Google Calendar also shows our booking calendar on our book a call page, once you ask to see the times. What you enter there (your name, email address and any notes) and the time you pick go to Google and to us, and Google may set its own cookies in that calendar. Google handles it under the [Google Privacy Policy](https://policies.google.com/privacy). We keep a booking like any other enquiry.
+
+### Microsoft
+
+Runs Microsoft Clarity for us, only if you allow analytics cookies, and keeps what it records in its Azure cloud. We use Microsoft Clarity and Microsoft Advertising to see how you use and interact with our website, through usage figures, heatmaps and recordings of visits. Microsoft collects this with first-party and third-party cookies and similar technologies, and uses it to improve websites, for fraud prevention and security, and for advertising, as the [Microsoft Privacy Statement](https://www.microsoft.com/privacy/privacystatement) explains.
+
 ### Cloudflare
 
 Every request to ndcompany.in passes through Cloudflare, which delivers the website, keeps it on HTTPS and protects it from attacks, and so processes your IP address and the details of each request. If a page fails to load, your browser may also send Cloudflare a short network error report. See the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
@@ -124,7 +136,7 @@ Hosts this website on GitHub Pages. Requests reach it through Cloudflare, which 
 
 ### Our SEO audit tool
 
-Prepares the free SEO audits on our own computer in India. It copies each request from our Cloudflare database, checks that your email address can receive mail by looking up its domain's public mail records (no email is sent and your provider's mail server is not contacted), and checks your website against public lists of phishing and other unsafe sites. Google PageSpeed Insights tests its speed. AI models, run on our own computer or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps a daily encrypted backup in a private GitHub repository. The keys that unlock your details are never stored there, so GitHub cannot read them.
+Prepares the free SEO audits on our own computer in India. It copies each request from our Cloudflare database, checks that your email address can receive mail by looking up its domain's public mail records (no email is sent and your provider's mail server is not contacted), and checks your website against public lists of phishing and other unsafe sites. Google PageSpeed Insights tests its speed. If you name a competitor's website on the form, the tool checks that site's public pages the same way and shows its scores beside yours in your report; we do not contact that business. AI models, run on our own computer or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps a daily encrypted backup in a private GitHub repository. The keys that unlock your details are never stored there, so GitHub cannot read them.
 
 ### Email, phone and payment providers
 
@@ -154,6 +166,8 @@ We keep personal data only as long as we need it to:
 If you are a client and ask us to delete your project data once the project is complete, we delete it and send you a PDF confirming the deletion. We keep only what the law requires, such as accounts and tax records and, from 13 May 2027, the records of processing that the Digital Personal Data Protection Rules require us to keep for one year, and delete them when that period ends.
 
 Google Analytics deletes the user-level and event-level data it holds for us once it is 14 months old, the retention period set in our Analytics account. Our standard reports, which show only totals, are kept. Its cookies last up to 2 years: see our [cookies policy](https://ndcompany.in/cookies-policy).
+
+Microsoft Clarity keeps recordings of visits for 30 days. It keeps a random sample of them, and any we mark as favourites, for up to 9 months.
 
 Messages sent through our contact form, and free SEO audit requests, are deleted from our databases automatically 24 months after they arrive, unless you became our client, in which case they stay with your project records. Our database provider can restore deleted data for up to 30 days, after which it is gone. We email ourselves a backup of each form's entries each month and keep only the latest one, so a deleted entry leaves our backups within a month. We delete the copies in our email inbox and our own business systems on the same schedule. Our Cloudflare database keeps a free SEO audit request in full until 30 days after it is sent, fails or is cancelled, and then only its number, dates and status; our audit tool keeps the request and its report for the 24 months. When the tool deletes a request, it destroys the request's key, which also makes its encrypted backups unreadable; the keys themselves are backed up apart, encrypted with a passphrase only we hold, and a destroyed key leaves those backups within 30 days. If you unsubscribe, our Cloudflare database and the tool keep a coded fingerprint of your email address, which cannot be turned back into the address, for as long as we send emails, so that we never send you our offers again. The tool's security logs record sign-ins, administrator actions and errors, without report contents or full email addresses, and are kept for one year.
 
@@ -269,7 +283,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-25",
+      "dateModified": "2026-10-27",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

@@ -256,6 +256,7 @@ This week, make the business a verified owner in Search Console, run your home p
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Ftechnical-seo-checklist-16x9.png&description=Technical%20SEO%20checklist%20for%20small%20business%20websites)
 - [Share by email](mailto:?subject=Technical%20SEO%20checklist%20for%20small%20business%20websites&body=Twelve%20technical%20SEO%20checks%20for%20a%20small%20business%20website%2C%20in%20priority%20order%3A%20Search%20Console%2C%20indexing%2C%20robots.txt%2C%20sitemap%2C%20HTTPS%2C%20phones%2C%20speed%20and%20schema.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist)
 - 
+- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

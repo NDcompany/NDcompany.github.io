@@ -163,6 +163,7 @@ If you would rather have someone else run it, our [SEO services](https://ndcompa
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flocal-seo-audit-16x9.png&description=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses)
 - [Share by email](mailto:?subject=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses&body=Run%20a%20local%20SEO%20audit%20in%20an%20afternoon%3A%20your%20Google%20Business%20Profile%2C%20matching%20details%20on%20Bing%2C%20Apple%20Maps%2C%20location%20pages%2C%20reviews%2C%20links%20and%20what%20to%20measure.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit)
 - 
+- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

@@ -4,13 +4,13 @@ description: "Conditions of N&D Co.'s free SEO audit: what the report covers, wh
 url: "https://ndcompany.in/free-seo-audit"
 type: "WebPage"
 published: "2026-10-24"
-modified: "2026-10-24"
+modified: "2026-10-26"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Free SEO audit conditions
 
-Effective date: 24 October 2026
+Effective date: 24 October 2026 · Last updated: 26 October 2026
 
 These conditions cover the free SEO audit you can ask for with the Free SEO Audit button on our website. Our [terms of service](https://ndcompany.in/terms) cover paid work.
 
@@ -24,6 +24,7 @@ The report covers:
 - Your sitemap, robots.txt and llms.txt files, if they exist
 - Speed and Core Web Vitals, mobile friendliness, page titles and descriptions, headings, links and the basics of how search engines can find and index your pages
 - A short written summary of the fixes that matter most
+- If you name a competitor's website on the form, its scores, shown beside yours. We check that site's public pages the same way, show only its scores, and do not contact that business.
 
 ## 2. How we prepare it
 
@@ -93,7 +94,7 @@ Phone: [+91 89021 09455](tel:+918902109455)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-24",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-10-26",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

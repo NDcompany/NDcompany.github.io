@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (88 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (89 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -101,6 +101,10 @@
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/book-a-call</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/pricing</loc>
     <lastmod>2026-10-26</lastmod>
   </url>
@@ -146,19 +150,19 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tools</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/rankguru</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/invoice-generator</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/image-to-pdf</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs</loc>
@@ -661,11 +665,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/privacy</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/cookies-policy</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/disclaimer</loc>
@@ -677,10 +681,10 @@
   </url>
   <url>
     <loc>https://ndcompany.in/security-policy</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/free-seo-audit</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-26</lastmod>
   </url>
 </urlset>

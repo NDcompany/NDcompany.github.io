@@ -12,7 +12,7 @@ N&D Co. is a brand and growth agency in Kolkata, India, with clients in India an
 
 conversions, clients, sales and growth
 
-[Book a consultation call](https://ndcompany.in/#contact)
+[Book a consultation call](https://ndcompany.in/book-a-call)
 
 ![Illustration of two people presenting a growth chart beside the N&D Co. logo on a large screen](https://ndcompany.in/assets/images/growth-trust.svg)
 
