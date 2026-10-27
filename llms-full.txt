@@ -4564,7 +4564,7 @@ Source: https://ndcompany.in/book-a-call
 
 Pick a time that suits you. The times are shown in your own time zone.
 
-The calendar is Google's booking page, and Google may set its own cookies in it. It opens here after a quick check that you are not a bot.
+Pick a day and a time, then tell us your name and email. We send you a Google Meet link.
 
 ## What we can talk about
 
@@ -4577,7 +4577,7 @@ The call is free and you are not committing to anything. If we can help, we foll
 
 ## Prefer to write?
 
-Email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking is handled by Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
+Email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking goes into our Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
 
 ---
 
@@ -9773,7 +9773,6 @@ A short call answers most of this. If you want to try us, you can [book a free 1
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Foutsource-web-development-india-16x9.png&description=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
 - [Share by email](mailto:?subject=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses&body=Outsource%20web%20development%20or%20digital%20marketing%20to%20India%20from%20the%20US%3A%20what%20it%20costs%2C%20how%20the%20time%20difference%20works%2C%20what%20to%20agree%20in%20writing%20and%20how%20to%20pay.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -9999,7 +9998,6 @@ If you would rather have someone else run it, our [SEO services](https://ndcompa
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flocal-seo-audit-16x9.png&description=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses)
 - [Share by email](mailto:?subject=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses&body=Run%20a%20local%20SEO%20audit%20in%20an%20afternoon%3A%20your%20Google%20Business%20Profile%2C%20matching%20details%20on%20Bing%2C%20Apple%20Maps%2C%20location%20pages%2C%20reviews%2C%20links%20and%20what%20to%20measure.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -10204,7 +10202,6 @@ If you want a figure for your own site, our [pricing page](https://ndcompany.in/
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fwebsite-cost-india-16x9.png&description=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F)
 - [Share by email](mailto:?subject=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F&body=What%20a%20website%20costs%20in%20India%20in%202026%3A%20the%20build%20from%20%E2%82%B99%2C999%2C%20then%20domain%2C%20hosting%2C%20Shopify%2C%20payment%20gateway%20fees%2C%20email%20and%20GST%2C%20at%20each%20provider%27s%20own%20prices.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -10413,7 +10410,6 @@ Agencies that want to resell our work under their own name can see our [white la
 - [Share on Bluesky](https://bsky.app/intent/compose?text=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fsmall-business-website-cost-16x9.png&description=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F)
 - [Share by email](mailto:?subject=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F&body=What%20a%20small%20business%20website%20costs%20in%202026%3A%20the%20build%20from%20%24149%2C%20then%20domain%2C%20hosting%2C%20Shopify%2C%20card%20fees%2C%20email%20and%20the%20ADA%2C%20at%20each%20provider%27s%20own%20prices.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -10648,7 +10644,6 @@ If you want to check a single page right now, our free [RankGuru on-page checker
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20our%20free%20SEO%20audit%20works%2C%20from%20request%20to%20report%20https%3A%2F%2Fndcompany.in%2Fblogs%2Ffree-seo-audit-how-it-works)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Ffree-seo-audit-how-it-works&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Ffree-seo-audit-how-it-works-16x9.png&description=How%20our%20free%20SEO%20audit%20works%2C%20from%20request%20to%20report)
 - [Share by email](mailto:?subject=How%20our%20free%20SEO%20audit%20works%2C%20from%20request%20to%20report&body=How%20our%20free%20website%20SEO%20audit%20works%3A%20what%20the%20form%20asks%2C%20the%20safety%20checks%2C%20the%20ten%20pages%20we%20read%2C%20how%20findings%20are%20ranked%2C%20and%20a%20sample%20SEO%20audit%20report.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Ffree-seo-audit-how-it-works)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -10961,7 +10956,6 @@ This week, make the business a verified owner in Search Console, run your home p
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Technical%20SEO%20checklist%20for%20small%20business%20websites%20https%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Ftechnical-seo-checklist-16x9.png&description=Technical%20SEO%20checklist%20for%20small%20business%20websites)
 - [Share by email](mailto:?subject=Technical%20SEO%20checklist%20for%20small%20business%20websites&body=Twelve%20technical%20SEO%20checks%20for%20a%20small%20business%20website%2C%20in%20priority%20order%3A%20Search%20Console%2C%20indexing%2C%20robots.txt%2C%20sitemap%2C%20HTTPS%2C%20phones%2C%20speed%20and%20schema.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -11318,7 +11312,6 @@ There are more guides on our [websites topic page](https://ndcompany.in/blogs/to
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fplan-a-business-website-16x9.png&description=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone)
 - [Share by email](mailto:?subject=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone&body=Plan%20a%20business%20website%20before%20you%20hire%3A%20set%20its%20one%20job%2C%20sketch%20pages%20for%20phones%2C%20keep%20the%20domain%20in%20your%20name%20and%20copy%20our%20one-page%20brief%20for%20quotes.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -11652,7 +11645,6 @@ If a website is on the list, our guide to [planning a business website](https://
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for%20https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flogo-vs-brand-identity-16x9.png&description=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for)
 - [Share by email](mailto:?subject=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for&body=A%20logo%20is%20one%20mark%3B%20a%20brand%20identity%20is%20the%20system%20around%20it.%20See%20what%20each%20includes%2C%20who%20owns%20your%20logo%20in%20India%20and%20how%20to%20register%20it%20as%20a%20trademark.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -11946,7 +11938,6 @@ If you would rather hand the work over, our [website design and development serv
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Core%20Web%20Vitals%20explained%20for%20business%20owners%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fcore-web-vitals-explained-16x9.png&description=Core%20Web%20Vitals%20explained%20for%20business%20owners)
 - [Share by email](mailto:?subject=Core%20Web%20Vitals%20explained%20for%20business%20owners&body=What%20LCP%2C%20INP%20and%20CLS%20measure%2C%20the%20marks%20a%20page%20must%20hit%20to%20pass%2C%20how%20websites%20score%20on%20phones%20in%20India%20and%20what%20to%20ask%20your%20developer%20to%20fix.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -12261,7 +12252,6 @@ Step 1 takes one search, so start there today. If you find a listing you can't g
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fgoogle-business-profile-guide-16x9.png&description=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses)
 - [Share by email](mailto:?subject=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses&body=Set%20up%20and%20verify%20a%20Google%20Business%20Profile%20(formerly%20Google%20My%20Business)%20in%20India%2C%20ask%20for%20reviews%20within%20Google%27s%20rules%20and%20avoid%20suspensions.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -12602,7 +12592,6 @@ If step one turns up missing logo versions, fix those first, and [talk to us abo
 - [Share on Bluesky](https://bsky.app/intent/compose?text=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fbrand-style-guide-16x9.png&description=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one)
 - [Share by email](mailto:?subject=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one&body=What%20brand%20guidelines%20need%3A%20logo%20versions%20and%20platform%20sizes%2C%20colour%20pairs%20that%20pass%20contrast%20checks%2C%20font%20licences%2C%20Indian%20scripts%2C%20voice%20rules%20and%20templates.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -12972,7 +12961,7 @@ These services also receive personal data:
 
 Runs Google Analytics for us, only if you allow analytics cookies, and its advertising features, including our linked Google Ads account, only if you also allow marketing cookies. Google explains how it uses this data in [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
-Google Calendar also shows our booking calendar on our book a call page, once you ask to see the times. What you enter there (your name, email address and any notes) and the time you pick go to Google and to us, and Google may set its own cookies in that calendar. Google handles it under the [Google Privacy Policy](https://policies.google.com/privacy). We keep a booking like any other enquiry.
+Google Calendar also holds the calls booked on our book a call page. When you book, our server adds the call to our Google Calendar with your name, email address and the time you pick, and Google emails you the invitation with the Google Meet link. What you write about the call comes to us by email and is not put in the invitation. Google handles the calendar under the [Google Privacy Policy](https://policies.google.com/privacy). We keep a booking like any other enquiry.
 
 ### Microsoft
 
@@ -13316,7 +13305,7 @@ With offline access off, or never turned on, our main website runs no service wo
 
 ## 3. Third-party cookies and services
 
-Two third parties set cookies through our website. Google does, through Google Analytics and Google's advertising features only after you allow them in our cookie box, and through Google Calendar inside our book a call page only once you ask to see the times. Microsoft does, through Microsoft Clarity, only after you allow analytics cookies. PostHog, which also waits for analytics cookies, sets its own on ndcompany.in, as listed above. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are three exceptions, all described below: RankGuru, which asks each website you name for its page; Cloudflare Turnstile, which our contact and SEO audit forms and our book a call page load when you start using them; and Google Calendar on our book a call page.
+Two third parties set cookies through our website. Google does, through Google Analytics and Google's advertising features only after you allow them in our cookie box. Microsoft does, through Microsoft Clarity, only after you allow analytics cookies. PostHog, which also waits for analytics cookies, sets its own on ndcompany.in, as listed above. Until then, our website, free tools included, loads nothing from other websites: its fonts, images and videos are served with the site itself. There are two exceptions, both described below: RankGuru, which asks each website you name for its page, and Cloudflare Turnstile, which our contact and SEO audit forms and our book a call page load when you start using them.
 
 **Google's own explanation:** [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
@@ -13325,8 +13314,8 @@ Two third parties set cookies through our website. Google does, through Google A
 Other services that receive information when you use our website:
 
 - **Cloudflare** delivers this website and protects it, so it processes your IP address. It sets no cookies on our site. Its responses ask your browser to report a page that fails to load (Network Error Logging), and your browser keeps that request for up to seven days. See the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
-- **Cloudflare Turnstile** protects our contact and SEO audit forms and our book a call page from bots. It loads from challenges.cloudflare.com, in a frame of its own, only when you start filling in a form or ask to see the booking times. It sets no cookies and keeps one item, cf.turnstile.u, in that frame's local storage until you clear your browser's data. It uses your IP address and your browser's TLS fingerprint and user agent to tell people from bots, and does not read what you type. The form cannot be protected without it, so we treat it as essential and it does not wait for your consent. See the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
-- **Google Calendar** shows our booking calendar on our [book a call page](https://ndcompany.in/book-a-call), in a frame from calendar.google.com, only after you select Show available times. Google may set its own cookies in that frame, and it receives what you enter to book a call (your name, email address and any notes) and the time you pick. The page tells you this before you open the calendar. See the [Google Privacy Policy](https://policies.google.com/privacy).
+- **Cloudflare Turnstile** protects our contact and SEO audit forms and our book a call page from bots. It loads from challenges.cloudflare.com, in a frame of its own, only when you start filling in a form. It sets no cookies and keeps one item, cf.turnstile.u, in that frame's local storage until you clear your browser's data. It uses your IP address and your browser's TLS fingerprint and user agent to tell people from bots, and does not read what you type. The form cannot be protected without it, so we treat it as essential and it does not wait for your consent. See the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
+- **Google Calendar** holds the calls booked on our [book a call page](https://ndcompany.in/book-a-call). The page loads nothing from Google: it asks our own server for the free times when you select Show available times, and when you book, our server adds the call to our Google Calendar with your name, email address and the time you picked, and Google emails you the invitation with the Google Meet link. Nothing from Google runs on our page and it sets no cookies there. See the [Google Privacy Policy](https://policies.google.com/privacy).
 - **Sentry** receives a report when a page of this website breaks with an error, through our own address on Cloudflare. The code that sends it loads only after an error, from this website, and sets no cookies and stores nothing in your browser. Because a report has little or no effect on your privacy and helps us keep the website working, we send it without asking for consent. Our [privacy policy](https://ndcompany.in/privacy) says what a report holds. See the [Sentry Privacy Policy](https://sentry.io/privacy/).
 - **GitHub** hosts this website on GitHub Pages, behind Cloudflare, and logs visitors' IP addresses for security. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 - **Share buttons, our social media links and links to other websites** are plain links. Nothing loads from those sites, and they receive nothing from us, until you click one. After that, their own policies apply.

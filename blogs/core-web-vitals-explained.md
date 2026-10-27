@@ -230,7 +230,6 @@ If you would rather hand the work over, our [website design and development serv
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Core%20Web%20Vitals%20explained%20for%20business%20owners%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fcore-web-vitals-explained-16x9.png&description=Core%20Web%20Vitals%20explained%20for%20business%20owners)
 - [Share by email](mailto:?subject=Core%20Web%20Vitals%20explained%20for%20business%20owners&body=What%20LCP%2C%20INP%20and%20CLS%20measure%2C%20the%20marks%20a%20page%20must%20hit%20to%20pass%2C%20how%20websites%20score%20on%20phones%20in%20India%20and%20what%20to%20ask%20your%20developer%20to%20fix.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

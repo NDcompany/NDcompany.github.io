@@ -10,7 +10,7 @@ image: "https://ndcompany.in/assets/share/home.png"
 
 Pick a time that suits you. The times are shown in your own time zone.
 
-The calendar is Google's booking page, and Google may set its own cookies in it. It opens here after a quick check that you are not a bot.
+Pick a day and a time, then tell us your name and email. We send you a Google Meet link.
 
 ## What we can talk about
 
@@ -23,7 +23,7 @@ The call is free and you are not committing to anything. If we can help, we foll
 
 ## Prefer to write?
 
-Email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking is handled by Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
+Email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking goes into our Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
 
 ## Structured data
 

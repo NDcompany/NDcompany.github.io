@@ -141,7 +141,6 @@ A short call answers most of this. If you want to try us, you can [book a free 1
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Foutsource-web-development-india-16x9.png&description=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
 - [Share by email](mailto:?subject=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses&body=Outsource%20web%20development%20or%20digital%20marketing%20to%20India%20from%20the%20US%3A%20what%20it%20costs%2C%20how%20the%20time%20difference%20works%2C%20what%20to%20agree%20in%20writing%20and%20how%20to%20pay.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

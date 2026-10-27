@@ -151,7 +151,6 @@ Agencies that want to resell our work under their own name can see our [white la
 - [Share on Bluesky](https://bsky.app/intent/compose?text=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fsmall-business-website-cost-16x9.png&description=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F)
 - [Share by email](mailto:?subject=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F&body=What%20a%20small%20business%20website%20costs%20in%202026%3A%20the%20build%20from%20%24149%2C%20then%20domain%2C%20hosting%2C%20Shopify%2C%20card%20fees%2C%20email%20and%20the%20ADA%2C%20at%20each%20provider%27s%20own%20prices.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

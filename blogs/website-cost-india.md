@@ -153,7 +153,6 @@ If you want a figure for your own site, our [pricing page](https://ndcompany.in/
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fwebsite-cost-india-16x9.png&description=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F)
 - [Share by email](mailto:?subject=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F&body=What%20a%20website%20costs%20in%20India%20in%202026%3A%20the%20build%20from%20%E2%82%B99%2C999%2C%20then%20domain%2C%20hosting%2C%20Shopify%2C%20payment%20gateway%20fees%2C%20email%20and%20GST%2C%20at%20each%20provider%27s%20own%20prices.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

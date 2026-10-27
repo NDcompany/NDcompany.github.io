@@ -114,7 +114,7 @@ These services also receive personal data:
 
 Runs Google Analytics for us, only if you allow analytics cookies, and its advertising features, including our linked Google Ads account, only if you also allow marketing cookies. Google explains how it uses this data in [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
-Google Calendar also shows our booking calendar on our book a call page, once you ask to see the times. What you enter there (your name, email address and any notes) and the time you pick go to Google and to us, and Google may set its own cookies in that calendar. Google handles it under the [Google Privacy Policy](https://policies.google.com/privacy). We keep a booking like any other enquiry.
+Google Calendar also holds the calls booked on our book a call page. When you book, our server adds the call to our Google Calendar with your name, email address and the time you pick, and Google emails you the invitation with the Google Meet link. What you write about the call comes to us by email and is not put in the invitation. Google handles the calendar under the [Google Privacy Policy](https://policies.google.com/privacy). We keep a booking like any other enquiry.
 
 ### Microsoft
 

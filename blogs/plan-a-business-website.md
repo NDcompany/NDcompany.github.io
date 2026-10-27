@@ -299,7 +299,6 @@ There are more guides on our [websites topic page](https://ndcompany.in/blogs/to
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fplan-a-business-website-16x9.png&description=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone)
 - [Share by email](mailto:?subject=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone&body=Plan%20a%20business%20website%20before%20you%20hire%3A%20set%20its%20one%20job%2C%20sketch%20pages%20for%20phones%2C%20keep%20the%20domain%20in%20your%20name%20and%20copy%20our%20one-page%20brief%20for%20quotes.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website)
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
