@@ -103,7 +103,7 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
   23 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
+  28 Oct 2026
 
 [Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
@@ -194,7 +194,7 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
+  28 Oct 2026
 
 ## Google Search Console
 
@@ -216,7 +216,7 @@ Showing up when people nearby search for what you sell, and the relevance, dista
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
+  28 Oct 2026
 
 ## SEO audits
 
@@ -283,7 +283,7 @@ Naming brand fonts with their licences, choosing fallbacks for documents and web
 Asking customers for reviews, replying to them and reporting the ones that break Google's policies, plus the requests and rewards those policies forbid.
 
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
+  28 Oct 2026
 
 ## Trade marks
 

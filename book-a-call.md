@@ -10,7 +10,7 @@ image: "https://ndcompany.in/assets/share/home.png"
 
 Pick a time that suits you. The times are shown in your own time zone.
 
-N&D Co.
+Nakshatra Ranjan Saha Founder, N&D Co.
 
 ## Free 15-minute call
 
@@ -20,7 +20,11 @@ N&D Co.
 
 Talk to us about your website, your free SEO audit or a project. Free, and you are not committing to anything.
 
+Pick a day and time
+
 ### October 2026
+
+Prefer to write? [Send us a message](https://ndcompany.in/#contact) instead.
 
 ## What we can talk about
 

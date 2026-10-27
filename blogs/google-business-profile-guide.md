@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/google-business-profile-guide"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-23T00:00:00+05:30"
-modified: "2026-10-23T00:00:00+05:30"
+modified: "2026-10-28T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/google-business-profile-guide-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/google-business-profile-guide-16x9.png"
 
 Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 13 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 28 October 2026 13 min read
 
 A Google Business Profile (formerly Google My Business) is the listing that shows your business on Google Search and Maps, with your hours, phone number, photos and reviews, and Google [charges nothing](https://support.google.com/business/answer/2911778?hl=en) for it. To set one up, search Maps for your business, claim the listing or add a new one, verify it with the method Google offers, and fill in every field accurately. To keep it current, answer reviews and suggested edits every few days and read the Performance report once a month. Until [November 2021](https://blog.google/products/ads-commerce/connect-local-holiday-shoppers/) it was called Google My Business.
 
@@ -97,6 +97,10 @@ Google's review then [takes up to 5 business days](https://support.google.com/bu
 ### Categories
 
 Choose the most specific primary category for the whole business: Google's example is [Nail salon, not Salon](https://support.google.com/business/answer/7249669?hl=en). Add others only for distinct departments or services, [up to 9 more](https://support.google.com/business/answer/3039617?hl=en), using the test in Google's [guidelines](https://support.google.com/business/answer/3038177?hl=en): a category completes "This business IS a", not "This business HAS a". Categories affect your local ranking, and changing one can send you back through verification.
+
+![The About tab of the Business information editor for N&D Co.'s profile: business name N&D Co. and business category Branding agency](https://ndcompany.in/assets/blog/google-business-profile-guide/business-profile-name-category.webp)
+
+*Our own profile's name and category: the business's real name with nothing added, and one specific primary category.*
 
 ### Address and map pin
 
@@ -186,6 +190,10 @@ Four in five expect a reply within a week, so checking at least every few days, 
 Report a review only if it breaks the policy, [not because you disagree with it](https://support.google.com/business/answer/4596773?hl=en). Checks typically take several days, and if Google finds no violation, you get a one-time appeal covering up to 10 reviews. If someone posts fake one-star reviews and then [demands payment to remove them](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/), don't pay. Google's reporting page links to separate steps for extortion.
 
 ## Upkeep: what to check, and how often
+
+![The Your business on Google panel that a profile's managers see in Google Search: buttons for Edit profile, Read reviews, Photos, Posts, Performance, Advertise, Edit services, Ask for reviews and Profiles, with 8 customer interactions and a profile strength meter](https://ndcompany.in/assets/blog/google-business-profile-guide/business-profile-manager.webp)
+
+*The panel managers of a profile see when they search for the business on Google, here for our own profile. Everything in the routine below starts from these buttons.*
 
 **What to check on the profile, and how often**
 
@@ -350,7 +358,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-23T00:00:00+05:30",
-      "dateModified": "2026-10-23T00:00:00+05:30",
+      "dateModified": "2026-10-28T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
