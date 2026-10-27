@@ -271,7 +271,6 @@ If a website is on the list, our guide to [planning a business website](https://
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flogo-vs-brand-identity-16x9.png&description=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for)
 - [Share by email](mailto:?subject=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for&body=A%20logo%20is%20one%20mark%3B%20a%20brand%20identity%20is%20the%20system%20around%20it.%20See%20what%20each%20includes%2C%20who%20owns%20your%20logo%20in%20India%20and%20how%20to%20register%20it%20as%20a%20trademark.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -289,6 +288,16 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
 SEO
 
 Guide · 26 Oct 2026
@@ -296,16 +305,6 @@ Guide · 26 Oct 2026
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 

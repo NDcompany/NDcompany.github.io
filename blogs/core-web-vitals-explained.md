@@ -231,13 +231,22 @@ If you would rather hand the work over, our [website design and development serv
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fcore-web-vitals-explained-16x9.png&description=Core%20Web%20Vitals%20explained%20for%20business%20owners)
 - [Share by email](mailto:?subject=Core%20Web%20Vitals%20explained%20for%20business%20owners&body=What%20LCP%2C%20INP%20and%20CLS%20measure%2C%20the%20marks%20a%20page%20must%20hit%20to%20pass%2C%20how%20websites%20score%20on%20phones%20in%20India%20and%20what%20to%20ask%20your%20developer%20to%20fix.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 Websites
 
@@ -256,16 +265,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 

@@ -88,6 +88,25 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 
+## Working with an agency
+
+5 posts
+
+Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  23 Oct 2026
+
+[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+
 ## Core Web Vitals
 
 4 posts
@@ -104,23 +123,6 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
   23 Oct 2026
 
 [Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-
-## Working with an agency
-
-4 posts
-
-Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
-
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  23 Oct 2026
-
-[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
 ## Brand guidelines
 
@@ -152,6 +154,21 @@ WCAG in plain words: contrast ratios for text, alt text, labelled form fields an
   23 Oct 2026
 
 [Everything tagged Web accessibility](https://ndcompany.in/tags/web-accessibility)
+
+## Website costs
+
+3 posts
+
+What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+
+[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
 
 ## Website planning
 
@@ -222,17 +239,6 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
   25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   23 Oct 2026
-
-## Website costs
-
-2 posts
-
-What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
-
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
 
 ## Case management
 
@@ -346,14 +352,14 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Core Web Vitals",
-            "url": "https://ndcompany.in/tags/core-web-vitals"
+            "name": "Working with an agency",
+            "url": "https://ndcompany.in/tags/working-with-an-agency"
           },
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "Working with an agency",
-            "url": "https://ndcompany.in/tags/working-with-an-agency"
+            "name": "Core Web Vitals",
+            "url": "https://ndcompany.in/tags/core-web-vitals"
           },
           {
             "@type": "ListItem",
@@ -370,44 +376,44 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 8,
+            "name": "Website costs",
+            "url": "https://ndcompany.in/tags/website-costs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
             "name": "Website planning",
             "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Google Business Profile",
             "url": "https://ndcompany.in/tags#google-business-profile"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Google Search Console",
             "url": "https://ndcompany.in/tags#google-search-console"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags#local-seo"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 13,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags#seo-audits"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 14,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags#technical-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 14,
-            "name": "Website costs",
-            "url": "https://ndcompany.in/tags#website-costs"
           },
           {
             "@type": "ListItem",

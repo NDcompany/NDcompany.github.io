@@ -26,7 +26,7 @@ View profile
 
 ## What we do
 
-Our team in Kolkata handles every service below. See the results in [our projects](https://ndcompany.in/projects), read the founder's guides on [the blogs](https://ndcompany.in/blogs), or find quick answers in the [frequently asked questions](https://ndcompany.in/faq).
+Our team in Kolkata handles every service below. Read [about N&D Co.](https://ndcompany.in/about), see the results in [our projects](https://ndcompany.in/projects), read the founder's guides on [the blogs](https://ndcompany.in/blogs), or find quick answers in the [frequently asked questions](https://ndcompany.in/faq).
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 

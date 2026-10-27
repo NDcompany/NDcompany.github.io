@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (67 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (70 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -90,7 +90,7 @@ Our Work
 
 About us
 
-N&D Co. is a brand and growth agency based in Barrackpore, Kolkata, West Bengal, India, founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We design brand identities and logos, build websites, e-commerce stores and custom software, and run SEO, performance marketing, social media and video for small and mid-sized businesses across [India](https://ndcompany.in/locations/india) and [worldwide](https://ndcompany.in/locations), including [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa) and the [Netherlands](https://ndcompany.in/locations/netherlands).
+N&D Co. is a brand and growth agency based in Barrackpore, Kolkata, West Bengal, India, founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We design brand identities and logos, build websites, e-commerce stores and custom software, and run SEO, performance marketing, social media and video for small and mid-sized businesses across [India](https://ndcompany.in/locations/india) and [worldwide](https://ndcompany.in/locations), including [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa) and the [Netherlands](https://ndcompany.in/locations/netherlands). [More about how we work](https://ndcompany.in/about).
 
 ### Growth that trends upward
 
@@ -614,6 +614,16 @@ Guides on the work behind Website Design & Development.
 
 Websites
 
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
+Websites
+
 Guide · 25 Oct 2026
 
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -629,16 +639,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-SEO
-
-Guide · 25 Oct 2026
-
-### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-
-From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
 
 Read the guide
 
@@ -2038,6 +2038,16 @@ Guides on the work behind E-commerce Solutions.
 
 Websites
 
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
+Websites
+
 Guide · 25 Oct 2026
 
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -2053,16 +2063,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 
@@ -2350,6 +2350,16 @@ Wafflery's
 ## From our blogs
 
 Guides on the work behind Digital Marketing & Performance Marketing.
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 SEO
 
@@ -4571,6 +4581,61 @@ Email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455
 
 ---
 
+# About N&D Co.
+
+Source: https://ndcompany.in/about
+
+A brand and growth agency in Barrackpore, Kolkata, West Bengal, India, founded and run by Nakshatra Ranjan Saha.
+
+## Who we are
+
+N&D Co. is a brand and growth agency in Barrackpore, Kolkata. We design brand identities and logos, build websites, online stores and custom software, and run SEO, performance marketing, social media and video for small and mid-sized businesses in India and abroad. We have worked in design and digital for more than five years.
+
+## How we work
+
+- You work with the founder directly, from the brief to the launch, not with an account layer.
+- Branding, websites, SEO, marketing and video are planned together by one team, so the parts of a project fit each other.
+- Every quote is set in writing before work starts, with a timeline that runs from a few days for a logo to a few months for custom software.
+
+See our [starting prices](https://ndcompany.in/pricing), or [book a free 15-minute call](https://ndcompany.in/book-a-call) to talk it through.
+
+## What we do
+
+Our services include:
+
+- [Website Design & Development](https://ndcompany.in/services/website-design-development)
+- [SEO Services](https://ndcompany.in/services/seo-services)
+- [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
+- [Software Development](https://ndcompany.in/services/software-development)
+- [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
+- [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+- [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+- [Social Media Management](https://ndcompany.in/services/social-media-management)
+- [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
+- [Graphic Design](https://ndcompany.in/services/graphic-design)
+- [Logo Design](https://ndcompany.in/services/logo-design)
+- [Content Creation](https://ndcompany.in/services/content-creation)
+
+We take on work beyond these too. Agencies can resell any of it under their own name through our [white label service](https://ndcompany.in/white-label).
+
+## Where our clients are
+
+We work from Kolkata with businesses across [India](https://ndcompany.in/locations/india) and abroad, including [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa) and the [Netherlands](https://ndcompany.in/locations/netherlands). Our [locations page](https://ndcompany.in/locations) explains how quotes and payments work in each country.
+
+## Who runs it
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder, founded the agency and runs it, and clients work with Nakshatra directly. Nakshatra also writes our guides on SEO, websites and branding and publishes [open-source software](https://ndcompany.in/open-source).
+
+## Our work
+
+See our [projects](https://ndcompany.in/projects), the [free tools](https://ndcompany.in/tools) anyone can use, our [guides on the blog](https://ndcompany.in/blogs) and the [tools we work with](https://ndcompany.in/tools-we-use).
+
+## Contact us
+
+Email [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. You can also use the [contact form](https://ndcompany.in/#contact).
+
+---
+
 Pricing
 
 # Prices for websites, SEO, branding and marketing
@@ -5692,7 +5757,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Every quote is set in writing before work starts.
 
-These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
 
 ## How it works
 
@@ -5819,7 +5884,7 @@ We run SEO for your clients under your agency's name: the audit, on-page fixes, 
 
 Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
 
 ## What you can resell
 
@@ -5955,7 +6020,7 @@ We run Google Ads and Meta ads campaigns for your clients under your agency's na
 
 Our white-label PPC is the same work as our own digital marketing packages, with your agency's name on the reports instead of ours. Campaigns run in ad accounts that belong to your client, and ads go live only after you approve the copy and creative. Each client runs month to month on a scope set in writing, and you can end it with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
 
 ## What you can resell
 
@@ -6091,7 +6156,7 @@ We design and build websites and online stores for your clients under your agenc
 
 Our white-label web development is the same work as our own website and e-commerce projects. You send the brief and your client's brand files, we design and build to them, and you hand the site over as your own. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo) and [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
 
 ## What you can resell
 
@@ -6195,6 +6260,131 @@ WordPress and other CMSs for business sites, Shopify or WooCommerce for stores, 
 **Who hosts the site?**
 
 Hosting and the domain go in an account your agency or your client controls. Your quote says whether a package includes them and for how long.
+
+**What happens after launch?**
+
+A 7-day support window covers minor corrections and technical issues in the delivered site. Ongoing maintenance is available as a separate package, also white label.
+
+## Have a project for a client?
+
+Send the brief and your NDA, and we will reply with questions or a written quote.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+---
+
+White label WordPress
+
+# White label WordPress development for agencies
+
+Source: https://ndcompany.in/white-label/wordpress
+
+We build WordPress sites and WooCommerce stores for your clients under your agency's name, with the theme, plugins and editor roles set up. No credit in the footer, the code or the admin panel, and we never contact your client.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+[See agency prices](https://ndcompany.in/white-label/wordpress#wl-prices)
+
+## White label WordPress, the way we run it
+
+Our white-label WordPress work is the same as our own WordPress builds. You send the brief and your client's brand files, we design and build to them, and your client gets an admin login to change pages, posts and media without a developer. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
+
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+
+## What you can resell
+
+### WordPress business websites
+
+Multi-page sites where your client edits pages, posts and media from the admin panel. We set up the theme, plugins and editor roles they need.
+
+### WooCommerce stores
+
+Catalog, variants, cart, checkout and a payment gateway for your client's market, such as Stripe or PayPal for sales abroad, tested end to end with test orders.
+
+### Design to your brief
+
+Custom layouts for mobile and desktop from your brief and your client's brand, reviewed with you before development starts.
+
+### SEO setup and speed
+
+Titles, meta descriptions, headings, alt text, sitemap and robots.txt configured before launch, with speed tuning on the larger tiers.
+
+### Launch and handover
+
+Deployed to your client's domain, forms and links tested on the live server, and the logins and files named in your quote handed to you.
+
+## How it works
+
+### You send the brief
+
+Tell us what your client needs: the service, the scope, the deadline and anything already agreed with them. Send your NDA first if you want it signed before you share details.
+
+### We quote in writing
+
+You get a written quote in US dollars from the agency prices below, with the scope and the delivery time, before any work starts.
+
+### We do the work, you stay the face
+
+We work only with you. Files, drafts and reports carry your agency's name or none, and we never contact your client or appear in their tools under our own name.
+
+### You review, then hand over
+
+You see every draft and decide what goes to your client. Ownership of the final deliverables named in your quote passes to you once it is paid in full.
+
+## Your client never sees us
+
+### Your NDA, signed
+
+We sign your non-disclosure agreement before you share anything about your client.
+
+### No N&D Co. name anywhere
+
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
+
+### No contact with your client
+
+We talk to you, not to them. If you want us on a client call, we join as part of your team.
+
+## White label WordPress development pricing
+
+Starting prices for agencies, including the NDA, unbranded files and reports, and calls in US hours. Your final price is set in a written quote before work starts.
+
+**Agency starting prices per service, in US dollars**
+
+| Service | Billed | First tier | Second tier | Top tier |
+| --- | --- | --- | --- | --- |
+| [Website Design & Development](https://ndcompany.in/services/website-design-development) | per project | Starter: $229 | Business: $449 | Custom: $679 |
+| [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions) | per project | Starter: $359 | Growth: $719 | Custom: $1,439 |
+
+What each tier includes is listed on the service pages: [Website Design & Development pricing](https://ndcompany.in/services/website-design-development#pricing) and [E-commerce Solutions pricing](https://ndcompany.in/services/ecommerce-solutions#pricing).
+
+## Working with a US agency
+
+### Calls in your morning
+
+We keep part of our evening in India free for calls during US morning hours.
+
+### Written updates
+
+Between calls you get written progress updates, so nothing waits on a meeting.
+
+### Paid in US dollars
+
+Invoices are in US dollars, paid by PayPal, through Wise or by bank transfer.
+
+## Frequently asked questions
+
+**Is there any credit to N&D Co. on the site?**
+
+No. There is no credit in the footer, the theme, the code comments or the admin panel. The site is yours to present as your agency's work.
+
+**When is WordPress the right choice?**
+
+WordPress fits sites your client will edit often. For a landing page that has to be very fast, or a web application with logic no plugin covers, we recommend custom code instead, in writing, and our white label web development page covers that work.
+
+**Should the store be on WooCommerce or Shopify?**
+
+WooCommerce suits businesses already on WordPress or that want to control the hosting. Shopify suits most single-brand stores that want low maintenance and accept a monthly platform fee. We recommend one in writing after discovery.
 
 **What happens after launch?**
 
@@ -6411,7 +6601,31 @@ Choose the page size, the orientation and the margin around each image.
 
 Press Create PDF and the file downloads, one image to a page.
 
+## How to save a picture as a PDF
+
+You can save a picture as a PDF on any phone or computer with this converter, or with the print tools a computer already has. The converter is the quickest way to put several pictures into one PDF in the order you want.
+
+### On a phone or tablet
+
+Open this page in your phone's browser, tap the box to pick photos from your gallery, put them in order and tap Create PDF. The PDF downloads to your phone. Nothing is uploaded, and there is no app to install or account to create.
+
+### On a Windows computer
+
+Drop the pictures on the box above and press Create PDF. Without this page, open the picture, press Ctrl+P, choose Microsoft Print to PDF as the printer and pick where to save the file.
+
+### On a Mac
+
+Drop the pictures on the box above and press Create PDF. Without this page, open the picture, choose File, then Print, and click the PDF button, or choose Save as PDF from its menu. See [Apple's guide to saving a document as a PDF on Mac](https://support.apple.com/guide/mac-help/save-a-document-as-a-pdf-on-mac-mchlp1531/mac).
+
+### Several pictures in one PDF
+
+Add all the pictures at once, then move each one up or down to set the page order. Each picture gets a page of its own, sized to A4, Letter or the picture itself.
+
 ## Frequently asked questions
+
+**Do I need an account or an app?**
+
+No. The converter works in any current browser on a phone, tablet or computer, with no sign-up, no download and no app to install.
 
 **Are my images uploaded?**
 
@@ -6458,7 +6672,7 @@ Team
 # Nakshatra Ranjan Saha
 
 Source: https://ndcompany.in/team/nakshatra-ranjan-saha
-Updated: 2026-10-26
+Updated: 2026-10-27
 
 - CEO
 - Founder
@@ -6488,6 +6702,16 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [ceo@ndcompany.in](mailto:ceo@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 SEO
 
@@ -7811,6 +8035,16 @@ Kebabiyana
 
 Guides from our blogs on the same kind of work.
 
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
 SEO
 
 Guide · 23 Oct 2026
@@ -7947,6 +8181,16 @@ Wafflery's
 ## Related reading
 
 Guides from our blogs on the same kind of work.
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 SEO
 
@@ -9394,6 +9638,211 @@ Our [software development](https://ndcompany.in/services/software-development) s
 
 ---
 
+[Websites](https://ndcompany.in/blogs/topic/websites) · Guide
+
+# How to outsource web development to India: a guide for US businesses
+
+Source: https://ndcompany.in/blogs/outsource-web-development-india
+Updated: 2026-10-27
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 27 October 2026 7 min read
+
+To outsource web development to India from the US, pick an agency whose past work you can check, agree the scope, price and ownership in writing before any work starts, keep the domain, hosting and ad accounts in your own name, and plan around the time difference, which lets work move while your office is closed. This guide covers each step: what you can hand over, what it costs, how the hours line up, what to put in writing and how to pay. The same steps apply when you outsource digital marketing, such as SEO or ads.
+
+Key takeaways
+
+- Outsourcing a defined project means paying for that project, not for a full-time hire: a US web developer's median pay was $92,650 a year in May 2025.
+- Get the scope, the price and who owns the finished work in writing before work starts.
+- Keep the domain, hosting, analytics and ad accounts in your own name, and give the agency access to them.
+- India does not change its clocks, so the gap with the US shifts by an hour when US clocks change.
+- Check real work, public reviews and who you will actually talk to before you pay anything.
+
+## Why US businesses outsource to India
+
+The first reason is cost. The US Bureau of Labor Statistics puts the median annual wage for web developers at $92,650 and for web and digital interface designers at $104,000, both in May 2025 ([BLS Occupational Outlook Handbook, web developers and digital designers](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm)). If you need one website, a store or a few months of SEO, hiring someone full time for it rarely makes sense. Outsourcing lets you pay for the project or the month instead.
+
+The second reason is time. Because India is many hours ahead of the US, an agency there works while your office is closed. Feedback you send at the end of your day can be done by the time you start the next one.
+
+Cost alone is a poor reason to pick a team, though. A cheap quote that leaves you without the site you need, or without the logins to it, costs more in the end. The rest of this guide is about avoiding that.
+
+## What you can outsource
+
+Most of what a small or mid-sized business needs online can be done by a remote team, because it is delivered as files, code and access rather than in person:
+
+- **Websites and online stores**, from a business site to a Shopify or WooCommerce store. Our [website design and development](https://ndcompany.in/services/website-design-development) page lists what a build includes.
+- **SEO**, the technical fixes, page content and monthly reporting that bring visitors from search.
+- **Ads and social media**, run from your own ad accounts, with the ad spend paid by you directly to Google or Meta. Our [digital marketing](https://ndcompany.in/services/digital-marketing) page explains how that works.
+- **Design and video**, such as logos, brand identities, social media posts and edited video.
+
+Keep in house whatever needs someone in the room, such as filming at your premises, and anything only you can decide, such as prices and offers.
+
+## Outsourcing digital marketing
+
+Outsourced digital marketing works best when you hand over the doing and keep the deciding. The agency sets up and runs the campaigns, writes and designs the posts, fixes the site for search and reports on the results. You keep the budget, the offers, the approvals and the accounts.
+
+A few things make it work from the first month:
+
+- **Your accounts, your spend.** The ad accounts, the analytics and the social profiles stay in your name. Ad spend goes from your card to Google or Meta directly, and the agency's fee covers the work, never the spend.
+- **One goal per channel.** Calls, form leads or sales, agreed before the first campaign, so the monthly report measures something you care about.
+- **A monthly report you can read.** What was done, what it cost and what came of it, in plain words, with the numbers from your own analytics.
+- **Approvals in your hours.** With the time difference, the agency can prepare work overnight and send it for approval when your day starts.
+
+SEO takes longer to show results than ads do, so judge it over months, not weeks, and ask for the list of changes made each month as well as the traffic figures.
+
+## What it costs
+
+Prices vary by agency and by scope, so treat any figure as a starting point until you have a written quote. As an example, these are our own starting prices for US clients, set in US dollars for the US market rather than converted from rupees:
+
+**N&D Co. starting prices for US clients**
+
+| Service | Starts at | Billed |
+| --- | --- | --- |
+| Website design and development | $149 | Per project |
+| E-commerce store | $239 | Per project |
+| SEO | $129 | Per month |
+| Digital marketing and ads management | $95 | Per month, ad spend paid by you |
+
+Every service's tiers are on our [pricing page](https://ndcompany.in/pricing), and our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) breaks down the build, domain, hosting and store costs in US dollars. Whatever you are quoted, check what the price includes: the number of pages, revisions, the support after launch, and whether hosting and the domain are in it.
+
+## How the time difference works
+
+India uses one time zone, 5 hours 30 minutes ahead of UTC, and does not use daylight saving time ([Wikipedia on time in India](https://en.wikipedia.org/wiki/Time_in_India)). The gap with the US therefore changes by an hour when US clocks change.
+
+Our working day is 9:00 AM to 6:00 PM in India. On the East Coast that is 11:30 PM to 8:30 AM while US daylight saving time is on, and 10:30 PM to 7:30 AM when it is off. On the West Coast it ends at 5:30 AM in summer and 4:30 AM in winter. In practice:
+
+- Send feedback at the end of your day, and the changes can be ready at the start of your next one.
+- For a live call, early morning on the East Coast overlaps the end of our day.
+- Agree how quickly each side answers messages, so nobody waits a whole day for a reply that takes a minute.
+
+## What to agree in writing
+
+Most outsourcing problems come from things nobody wrote down. Before work starts, the quote or agreement should cover:
+
+- **Scope.** The pages, features, platforms and deliverables, and how many rounds of changes are included.
+- **Price and billing.** A fixed price or an hourly rate, the currency, and when each payment is due.
+- **Ownership.** Which finished work becomes yours and when. Under our [terms of service](https://ndcompany.in/terms), ownership of the final deliverables named in your quote passes to you once the final payment clears.
+- **Accounts.** The domain, hosting, analytics and ad accounts should be in your name or your company's, with access given to the agency, so you keep them whatever happens.
+- **Support.** What happens after launch. We include a 7-day support window for minor corrections, with ongoing maintenance as a separate package.
+- **Confidentiality.** If you are an agency reselling the work, an NDA, and a clear rule that the team never contacts your client.
+
+## Sharing access and data safely
+
+An outsourced team needs access to your systems, but it never needs your own password. Give each person a user account of their own in your website, hosting, analytics and ad accounts, with only the permissions the work needs. That way you can see who changed what, and you can remove the access the day a project ends.
+
+Share only the customer data the work needs. A website build rarely needs your customer list at all, and an ads campaign needs the audience, not the people's details. If the work does need personal data, agree in writing how it is kept and when it is deleted.
+
+## How to pay
+
+Ask to be invoiced in US dollars, so the price you agreed is the price you pay. Our US clients pay by PayPal, through Wise or by bank transfer. Each charges its own fees, so check them before the first invoice. Splitting a project into milestone payments, such as a deposit at the start and the rest on delivery, keeps both sides committed.
+
+## A freelancer or an agency?
+
+A freelancer can be the right choice for one clearly defined job, such as a landing page or a set of fixes, especially if you can review the work yourself. Ask what happens if they are ill or busy when you need a change.
+
+An agency suits work that crosses skills, such as a website that also needs a logo, SEO and ads, or anything you want looked after month after month. You get one point of contact and one quote, and the work does not stop when one person is away. Ask who will actually do the work and whether you can talk to them.
+
+## How to check an agency before you hire
+
+**Checklist for choosing an agency**
+
+| Check | What to look for |
+| --- | --- |
+| Real work | Live sites or case studies you can open, not only mockups |
+| Public reviews | Reviews on Google or another platform that the agency does not control |
+| Who you talk to | The person doing or leading the work, not only a sales contact |
+| A written quote | Scope, price, ownership and support named before you pay |
+| Your accounts | Willing to work inside accounts you own |
+| A small first step | A paid first project or milestone before a long commitment |
+
+A short call answers most of this. If you want to try us, you can [book a free 15-minute call](https://ndcompany.in/book-a-call), and our page for [US businesses](https://ndcompany.in/locations/usa) explains how we work with clients there. Agencies that want to resell the work under their own name can read about our [white label service](https://ndcompany.in/white-label).
+
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on WhatsApp](https://wa.me/?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&title=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
+- [Share on Threads](https://www.threads.net/intent/post?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Foutsource-web-development-india-16x9.png&description=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
+- [Share by email](mailto:?subject=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses&body=Outsource%20web%20development%20or%20digital%20marketing%20to%20India%20from%20the%20US%3A%20what%20it%20costs%2C%20how%20the%20time%20difference%20works%2C%20what%20to%20agree%20in%20writing%20and%20how%20to%20pay.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- 
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Websites
+
+Guide · 25 Oct 2026
+
+### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+
+The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
+
+Read the guide
+
+Websites
+
+Guide · 25 Oct 2026
+
+### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+
+The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
+
+Read the guide
+
+Websites
+
+Guide · 23 Oct 2026
+
+### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+
+Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
+
+Read the guide
+
+[More on Websites](https://ndcompany.in/blogs/topic/websites)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Responsive websites, e-commerce development, and SEO-optimized web solutions.
+
+Learn more
+
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+
+Google Ads, social media marketing, and ROI-focused campaigns.
+
+Learn more
+
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+
+Online store development with payment integration and optimization.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 [SEO](https://ndcompany.in/blogs/topic/seo) · Guide
 
 # How to run a local SEO audit: a checklist for small businesses
@@ -9550,7 +9999,6 @@ If you would rather have someone else run it, our [SEO services](https://ndcompa
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flocal-seo-audit-16x9.png&description=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses)
 - [Share by email](mailto:?subject=How%20to%20run%20a%20local%20SEO%20audit%3A%20a%20checklist%20for%20small%20businesses&body=Run%20a%20local%20SEO%20audit%20in%20an%20afternoon%3A%20your%20Google%20Business%20Profile%2C%20matching%20details%20on%20Bing%2C%20Apple%20Maps%2C%20location%20pages%2C%20reviews%2C%20links%20and%20what%20to%20measure.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flocal-seo-audit)
-- 
 - 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
@@ -9740,7 +10188,7 @@ A store adds its platform fee (Shopify Basic is ₹17,988 a year at ₹1,499 a m
 
 If you want a figure for your own site, our [pricing page](https://ndcompany.in/pricing) has every starting price, and a short brief through our contact form gets you a written quote.
 
-- [Website costs](https://ndcompany.in/tags#website-costs)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
@@ -9757,13 +10205,22 @@ If you want a figure for your own site, our [pricing page](https://ndcompany.in/
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fwebsite-cost-india-16x9.png&description=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F)
 - [Share by email](mailto:?subject=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F&body=What%20a%20website%20costs%20in%20India%20in%202026%3A%20the%20build%20from%20%E2%82%B99%2C999%2C%20then%20domain%2C%20hosting%2C%20Shopify%2C%20payment%20gateway%20fees%2C%20email%20and%20GST%2C%20at%20each%20provider%27s%20own%20prices.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 Websites
 
@@ -9782,16 +10239,6 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 
@@ -9950,7 +10397,7 @@ A store adds its platform fee (Shopify Basic is $348 a year at $29 a month paid 
 
 Agencies that want to resell our work under their own name can see our [white label web development](https://ndcompany.in/white-label/web-development) prices. For your own site, the [pricing page](https://ndcompany.in/pricing) has every starting price, and a short brief gets you a written quote.
 
-- [Website costs](https://ndcompany.in/tags#website-costs)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
 
@@ -9967,13 +10414,22 @@ Agencies that want to resell our work under their own name can see our [white la
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fsmall-business-website-cost-16x9.png&description=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F)
 - [Share by email](mailto:?subject=What%20does%20a%20small%20business%20website%20cost%20in%202026%3F&body=What%20a%20small%20business%20website%20costs%20in%202026%3A%20the%20build%20from%20%24149%2C%20then%20domain%2C%20hosting%2C%20Shopify%2C%20card%20fees%2C%20email%20and%20the%20ADA%2C%20at%20each%20provider%27s%20own%20prices.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-cost)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 Websites
 
@@ -9992,16 +10448,6 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 
@@ -10202,7 +10648,6 @@ If you want to check a single page right now, our free [RankGuru on-page checker
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20our%20free%20SEO%20audit%20works%2C%20from%20request%20to%20report%20https%3A%2F%2Fndcompany.in%2Fblogs%2Ffree-seo-audit-how-it-works)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Ffree-seo-audit-how-it-works&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Ffree-seo-audit-how-it-works-16x9.png&description=How%20our%20free%20SEO%20audit%20works%2C%20from%20request%20to%20report)
 - [Share by email](mailto:?subject=How%20our%20free%20SEO%20audit%20works%2C%20from%20request%20to%20report&body=How%20our%20free%20website%20SEO%20audit%20works%3A%20what%20the%20form%20asks%2C%20the%20safety%20checks%2C%20the%20ten%20pages%20we%20read%2C%20how%20findings%20are%20ranked%2C%20and%20a%20sample%20SEO%20audit%20report.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Ffree-seo-audit-how-it-works)
-- 
 - 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
@@ -10516,7 +10961,6 @@ This week, make the business a verified owner in Search Console, run your home p
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Technical%20SEO%20checklist%20for%20small%20business%20websites%20https%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Ftechnical-seo-checklist-16x9.png&description=Technical%20SEO%20checklist%20for%20small%20business%20websites)
 - [Share by email](mailto:?subject=Technical%20SEO%20checklist%20for%20small%20business%20websites&body=Twelve%20technical%20SEO%20checks%20for%20a%20small%20business%20website%2C%20in%20priority%20order%3A%20Search%20Console%2C%20indexing%2C%20robots.txt%2C%20sitemap%2C%20HTTPS%2C%20phones%2C%20speed%20and%20schema.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Ftechnical-seo-checklist)
-- 
 - 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
@@ -10875,13 +11319,22 @@ There are more guides on our [websites topic page](https://ndcompany.in/blogs/to
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fplan-a-business-website-16x9.png&description=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone)
 - [Share by email](mailto:?subject=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone&body=Plan%20a%20business%20website%20before%20you%20hire%3A%20set%20its%20one%20job%2C%20sketch%20pages%20for%20phones%2C%20keep%20the%20domain%20in%20your%20name%20and%20copy%20our%20one-page%20brief%20for%20quotes.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 Websites
 
@@ -10900,16 +11353,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 
@@ -11210,7 +11653,6 @@ If a website is on the list, our guide to [planning a business website](https://
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flogo-vs-brand-identity-16x9.png&description=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for)
 - [Share by email](mailto:?subject=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for&body=A%20logo%20is%20one%20mark%3B%20a%20brand%20identity%20is%20the%20system%20around%20it.%20See%20what%20each%20includes%2C%20who%20owns%20your%20logo%20in%20India%20and%20how%20to%20register%20it%20as%20a%20trademark.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -11228,6 +11670,16 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
 SEO
 
 Guide · 26 Oct 2026
@@ -11235,16 +11687,6 @@ Guide · 26 Oct 2026
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 
@@ -11505,13 +11947,22 @@ If you would rather hand the work over, our [website design and development serv
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fcore-web-vitals-explained-16x9.png&description=Core%20Web%20Vitals%20explained%20for%20business%20owners)
 - [Share by email](mailto:?subject=Core%20Web%20Vitals%20explained%20for%20business%20owners&body=What%20LCP%2C%20INP%20and%20CLS%20measure%2C%20the%20marks%20a%20page%20must%20hit%20to%20pass%2C%20how%20websites%20score%20on%20phones%20in%20India%20and%20what%20to%20ask%20your%20developer%20to%20fix.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fcore-web-vitals-explained)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 Websites
 
@@ -11530,16 +11981,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 
@@ -11820,7 +12261,6 @@ Step 1 takes one search, so start there today. If you find a listing you can't g
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fgoogle-business-profile-guide-16x9.png&description=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses)
 - [Share by email](mailto:?subject=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses&body=Set%20up%20and%20verify%20a%20Google%20Business%20Profile%20(formerly%20Google%20My%20Business)%20in%20India%2C%20ask%20for%20reviews%20within%20Google%27s%20rules%20and%20avoid%20suspensions.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
-- 
 - 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
@@ -12163,7 +12603,6 @@ If step one turns up missing logo versions, fix those first, and [talk to us abo
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fbrand-style-guide-16x9.png&description=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one)
 - [Share by email](mailto:?subject=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one&body=What%20brand%20guidelines%20need%3A%20logo%20versions%20and%20platform%20sizes%2C%20colour%20pairs%20that%20pass%20contrast%20checks%2C%20font%20licences%2C%20Indian%20scripts%2C%20voice%20rules%20and%20templates.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -12181,6 +12620,16 @@ What a logo job and a full identity should each hand over, the sizes and files a
 
 Read the guide
 
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
 SEO
 
 Guide · 26 Oct 2026
@@ -12188,16 +12637,6 @@ Guide · 26 Oct 2026
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 

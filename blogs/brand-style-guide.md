@@ -284,7 +284,6 @@ If step one turns up missing logo versions, fix those first, and [talk to us abo
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fbrand-style-guide-16x9.png&description=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one)
 - [Share by email](mailto:?subject=What%20goes%20into%20a%20brand%20style%20guide%2C%20and%20how%20to%20use%20one&body=What%20brand%20guidelines%20need%3A%20logo%20versions%20and%20platform%20sizes%2C%20colour%20pairs%20that%20pass%20contrast%20checks%2C%20font%20licences%2C%20Indian%20scripts%2C%20voice%20rules%20and%20templates.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fbrand-style-guide)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -302,6 +301,16 @@ What a logo job and a full identity should each hand over, the sizes and files a
 
 Read the guide
 
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
 SEO
 
 Guide · 26 Oct 2026
@@ -309,16 +318,6 @@ Guide · 26 Oct 2026
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 

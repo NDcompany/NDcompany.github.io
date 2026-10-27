@@ -79,6 +79,16 @@ Wafflery's
 
 Guides from our blogs on the same kind of work.
 
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
 SEO
 
 Guide · 23 Oct 2026

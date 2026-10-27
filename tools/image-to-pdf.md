@@ -1,6 +1,6 @@
 ---
-title: "Image to PDF converter: free, private, no upload | N&D Co."
-description: "Turn JPEG, PNG and WebP images into one PDF for free. Put them in order, rotate them, pick A4 or Letter pages and download the file. Nothing is uploaded."
+title: "Free image to PDF converter: no upload, no sign-up | N&D Co."
+description: "Save a picture as a PDF for free. Turn JPEG, PNG and WebP images into one PDF in your browser, in your order, on A4 or Letter. No upload, no sign-up."
 url: "https://ndcompany.in/tools/image-to-pdf"
 type: "WebPage"
 image: "https://ndcompany.in/assets/share/image-to-pdf.png"
@@ -44,7 +44,31 @@ Choose the page size, the orientation and the margin around each image.
 
 Press Create PDF and the file downloads, one image to a page.
 
+## How to save a picture as a PDF
+
+You can save a picture as a PDF on any phone or computer with this converter, or with the print tools a computer already has. The converter is the quickest way to put several pictures into one PDF in the order you want.
+
+### On a phone or tablet
+
+Open this page in your phone's browser, tap the box to pick photos from your gallery, put them in order and tap Create PDF. The PDF downloads to your phone. Nothing is uploaded, and there is no app to install or account to create.
+
+### On a Windows computer
+
+Drop the pictures on the box above and press Create PDF. Without this page, open the picture, press Ctrl+P, choose Microsoft Print to PDF as the printer and pick where to save the file.
+
+### On a Mac
+
+Drop the pictures on the box above and press Create PDF. Without this page, open the picture, choose File, then Print, and click the PDF button, or choose Save as PDF from its menu. See [Apple's guide to saving a document as a PDF on Mac](https://support.apple.com/guide/mac-help/save-a-document-as-a-pdf-on-mac-mchlp1531/mac).
+
+### Several pictures in one PDF
+
+Add all the pictures at once, then move each one up or down to set the page order. Each picture gets a page of its own, sized to A4, Letter or the picture itself.
+
 ## Frequently asked questions
+
+**Do I need an account or an app?**
+
+No. The converter works in any current browser on a phone, tablet or computer, with no sign-up, no download and no app to install.
 
 **Are my images uploaded?**
 
@@ -94,8 +118,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/tools/image-to-pdf#webpage",
       "url": "https://ndcompany.in/tools/image-to-pdf",
-      "name": "Image to PDF converter: free, private, no upload | N&D Co.",
-      "description": "Turn JPEG, PNG and WebP images into one PDF for free. Put them in order, rotate them, pick A4 or Letter pages and download the file. Nothing is uploaded.",
+      "name": "Free image to PDF converter: no upload, no sign-up | N&D Co.",
+      "description": "Save a picture as a PDF for free. Turn JPEG, PNG and WebP images into one PDF in your browser, in your order, on A4 or Letter. No upload, no sign-up.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

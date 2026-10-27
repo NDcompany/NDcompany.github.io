@@ -50,6 +50,8 @@ See the project
 
 ## Recently updated
 
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   26 Oct 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -58,21 +60,19 @@ See the project
   25 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  23 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
-- [Google Search Console](https://ndcompany.in/tags#google-search-console)
 
 [All tags](https://ndcompany.in/tags)
 

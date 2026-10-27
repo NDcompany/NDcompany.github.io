@@ -137,7 +137,7 @@ A store adds its platform fee (Shopify Basic is ₹17,988 a year at ₹1,499 a m
 
 If you want a figure for your own site, our [pricing page](https://ndcompany.in/pricing) has every starting price, and a short brief through our contact form gets you a written quote.
 
-- [Website costs](https://ndcompany.in/tags#website-costs)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
@@ -154,13 +154,22 @@ If you want a figure for your own site, our [pricing page](https://ndcompany.in/
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fwebsite-cost-india-16x9.png&description=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F)
 - [Share by email](mailto:?subject=How%20much%20does%20a%20website%20cost%20in%20India%20in%202026%3F&body=What%20a%20website%20costs%20in%20India%20in%202026%3A%20the%20build%20from%20%E2%82%B99%2C999%2C%20then%20domain%2C%20hosting%2C%20Shopify%2C%20payment%20gateway%20fees%2C%20email%20and%20GST%2C%20at%20each%20provider%27s%20own%20prices.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fwebsite-cost-india)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 Websites
 
@@ -179,16 +188,6 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 

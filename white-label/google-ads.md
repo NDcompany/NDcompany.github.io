@@ -20,7 +20,7 @@ We run Google Ads and Meta ads campaigns for your clients under your agency's na
 
 Our white-label PPC is the same work as our own digital marketing packages, with your agency's name on the reports instead of ours. Campaigns run in ad accounts that belong to your client, and ads go live only after you approve the copy and creative. Each client runs month to month on a scope set in writing, and you can end it with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
 
 ## What you can resell
 

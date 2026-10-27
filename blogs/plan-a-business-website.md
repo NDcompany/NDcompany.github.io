@@ -300,13 +300,22 @@ There are more guides on our [websites topic page](https://ndcompany.in/blogs/to
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fplan-a-business-website-16x9.png&description=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone)
 - [Share by email](mailto:?subject=How%20to%20plan%20a%20business%20website%20before%20you%20hire%20anyone&body=Plan%20a%20business%20website%20before%20you%20hire%3A%20set%20its%20one%20job%2C%20sketch%20pages%20for%20phones%2C%20keep%20the%20domain%20in%20your%20name%20and%20copy%20our%20one-page%20brief%20for%20quotes.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fplan-a-business-website)
 - 
-- 
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
 
 Websites
 
@@ -325,16 +334,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 

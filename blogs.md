@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Websites
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+
+What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+
+Read the guide
+
 SEO
 
 Guide · 26 Oct 2026
@@ -116,6 +126,8 @@ Read the guide
 
 ## Recently updated
 
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   26 Oct 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -124,21 +136,19 @@ Read the guide
   25 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  23 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
-- [Google Search Console](https://ndcompany.in/tags#google-search-console)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -210,6 +220,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/outsource-web-development-india#article",
+          "headline": "How to outsource web development to India: a guide for US businesses",
+          "description": "Outsource web development or digital marketing to India from the US: what it costs, how the time difference works, what to agree in writing and how to pay.",
+          "image": "https://ndcompany.in/assets/blog/outsource-web-development-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/outsource-web-development-india",
+          "datePublished": "2026-10-27T00:00:00+05:30",
+          "dateModified": "2026-10-27T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/local-seo-audit#article",

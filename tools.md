@@ -68,9 +68,9 @@ A browser lets one website read another website's pages only when that site allo
 
 Press Save as PDF. Your browser's print window opens: choose Save as PDF (or Microsoft Print to PDF) as the printer. On an iPhone or iPad, use the share button in the print options and pick Save to Files.
 
-**Are my images uploaded?**
+**Do I need an account or an app?**
 
-No. Your browser reads the images and builds the PDF on your device. Nothing is sent to N&D Co. or anyone else.
+No. The converter works in any current browser on a phone, tablet or computer, with no sign-up, no download and no app to install.
 
 ## Want it done for you?
 

@@ -92,7 +92,7 @@ Our Work
 
 About us
 
-N&D Co. is a brand and growth agency based in Barrackpore, Kolkata, West Bengal, India, founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We design brand identities and logos, build websites, e-commerce stores and custom software, and run SEO, performance marketing, social media and video for small and mid-sized businesses across [India](https://ndcompany.in/locations/india) and [worldwide](https://ndcompany.in/locations), including [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa) and the [Netherlands](https://ndcompany.in/locations/netherlands).
+N&D Co. is a brand and growth agency based in Barrackpore, Kolkata, West Bengal, India, founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We design brand identities and logos, build websites, e-commerce stores and custom software, and run SEO, performance marketing, social media and video for small and mid-sized businesses across [India](https://ndcompany.in/locations/india) and [worldwide](https://ndcompany.in/locations), including [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa) and the [Netherlands](https://ndcompany.in/locations/netherlands). [More about how we work](https://ndcompany.in/about).
 
 ### Growth that trends upward
 
