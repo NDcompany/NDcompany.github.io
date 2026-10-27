@@ -106,7 +106,7 @@ Services under one roof
 
 ### N&D Co.
 
-Founded and run by Nakshatra Ranjan Saha, CEO & Founder. You work with the founder directly, from the brief to the launch.
+A brand and growth agency in Barrackpore, Kolkata. One team plans your branding, website, SEO and marketing together, from the brief to the launch.
 
 ![N&D Co. logo mark](https://ndcompany.in/assets/images/about/ndco-logo-mark.webp)
 

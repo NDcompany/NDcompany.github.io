@@ -209,7 +209,7 @@ Those are separate services. SEO Services covers search rankings and organic tra
 
 ## Who you will work with
 
-N&D Co. is run by its founder, [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha) (CEO & Founder), from Barrackpore, Kolkata, West Bengal, India. You deal with the founder directly, not with an account layer.
+N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
 We deliver Digital Marketing & Performance Marketing remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
 

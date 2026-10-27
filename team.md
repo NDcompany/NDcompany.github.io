@@ -1,6 +1,6 @@
 ---
-title: "Our team and founder | N&D Co."
-description: "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, founded and run by Nakshatra Ranjan Saha: meet the founder and see what we do."
+title: "Our team | N&D Co."
+description: "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet our CEO and see what we do."
 url: "https://ndcompany.in/team"
 type: "AboutPage"
 image: "https://ndcompany.in/assets/share/blogs.png"
@@ -10,7 +10,7 @@ N&D Co.
 
 # The team behind N&D Co.
 
-N&D Co. is a brand and growth agency based in Barrackpore, Kolkata, West Bengal, India, founded and run by Nakshatra Ranjan Saha (CEO & Founder).
+N&D Co. is a brand and growth agency based in Barrackpore, Kolkata, West Bengal, India, with one team for branding, websites, SEO and marketing.
 
 ## Members
 
@@ -100,7 +100,7 @@ SEO content, blogs, and social media content.
 
 See the service
 
-## Work with the founder directly
+## Work with our team
 
 Send a few lines about your business and what you need. We will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
@@ -116,8 +116,8 @@ Send a few lines about your business and what you need. We will reply with quest
       "@type": "AboutPage",
       "@id": "https://ndcompany.in/team#webpage",
       "url": "https://ndcompany.in/team",
-      "name": "Our team and founder | N&D Co.",
-      "description": "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, founded and run by Nakshatra Ranjan Saha: meet the founder and see what we do.",
+      "name": "Our team | N&D Co.",
+      "description": "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet our CEO and see what we do.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

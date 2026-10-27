@@ -156,7 +156,7 @@ If you want a figure for your own site, our [pricing page](https://ndcompany.in/
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
-CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Clients work with the founder directly. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
 

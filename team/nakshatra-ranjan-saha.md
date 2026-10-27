@@ -21,7 +21,7 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata, Wes
 
 ## About
 
-Nakshatra Ranjan Saha founded and runs N&D Co., which offers a full range of services under one roof, among them brand identity and logos, websites, online stores and custom software, and SEO, digital marketing, social media, video and content, for businesses across India and worldwide. Clients deal with the founder directly, not with an account layer.
+Nakshatra Ranjan Saha is the founder and CEO of N&D Co., which offers a full range of services under one roof, among them brand identity and logos, websites, online stores and custom software, and SEO, digital marketing, social media, video and content, for businesses across India and worldwide.
 
 Before and alongside the agency, Nakshatra's work has been writing and code. Freelance Python work ran from January 2021 to April 2023, and freelance AI prompt engineering started in April 2022 and continues. Nakshatra founded ScriptXeno and has written for it since May 2024, as senior content writer since March 2026. Since July 2025, Nakshatra has also worked part time as a remote SEO consultant for The Vansmith. At N&D Co., graphic design is part of the job too.
 
@@ -152,7 +152,7 @@ Read the guide
 
 [Browse the blogs by topic](https://ndcompany.in/blogs)
 
-## Work with the founder directly
+## Work with our team
 
 Send a few lines about your business and what you need. We will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 

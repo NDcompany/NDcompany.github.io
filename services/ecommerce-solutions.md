@@ -216,7 +216,7 @@ Every project includes a 7-day post-delivery support window for corrections and 
 
 ## Who you will work with
 
-N&D Co. is run by its founder, [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha) (CEO & Founder), from Barrackpore, Kolkata, West Bengal, India. You deal with the founder directly, not with an account layer.
+N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
 We deliver E-commerce Solutions remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
 

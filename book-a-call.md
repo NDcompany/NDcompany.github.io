@@ -10,7 +10,7 @@ image: "https://ndcompany.in/assets/share/home.png"
 
 Pick a time that suits you. The times are shown in your own time zone.
 
-Nakshatra Ranjan Saha Founder, N&D Co.
+N&D Co. Brand and growth agency
 
 ## Free 15-minute call
 
