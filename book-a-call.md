@@ -10,7 +10,17 @@ image: "https://ndcompany.in/assets/share/home.png"
 
 Pick a time that suits you. The times are shown in your own time zone.
 
-Pick a day and a time, then tell us your name and email. We send you a Google Meet link.
+N&D Co.
+
+## Free 15-minute call
+
+- 15 minutes
+- Google Meet, link sent by email
+- India Standard Time
+
+Talk to us about your website, your free SEO audit or a project. Free, and you are not committing to anything.
+
+### October 2026
 
 ## What we can talk about
 
