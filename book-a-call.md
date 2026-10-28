@@ -37,7 +37,7 @@ The call is free and you are not committing to anything. If we can help, we foll
 
 ## Prefer to write?
 
-Email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking goes into our Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
+Email us at [hello@ndcompany.in](mailto:hello@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking goes into our Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
 
 ## Structured data
 

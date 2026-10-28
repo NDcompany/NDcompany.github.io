@@ -4,13 +4,13 @@ description: "Security policy for N&D Co.: how our static website runs, what loa
 url: "https://ndcompany.in/security-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-27"
+modified: "2026-10-28"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Security policy
 
-Effective date: 23 October 2026 · Last updated: 27 October 2026
+Effective date: 23 October 2026 · Last updated: 28 October 2026
 
 This is a public summary of our security practices. It explains how our website works, what runs only with your consent, how we handle client data and how to report a security problem. It leaves out credentials and other details that could help an attacker.
 
@@ -22,7 +22,7 @@ Cloudflare serves every page over HTTPS, with TLS 1.2 or later, so what passes b
 
 The contact form on our homepage sends your message over HTTPS to our own address on ndcompany.in, where a small program that runs on Cloudflare (a Worker) checks it before anything is saved. It accepts messages only from our own pages, sits behind a Cloudflare rule that limits how many requests one visitor can send in a short time, refuses a message without a fresh Cloudflare Turnstile check that has not been used before, and drops messages from form-filling bots. Only then does it save the message in our Cloudflare database and email it to us through Resend, without your IP address or device details, and tell you it arrived. Messages are deleted 24 months after they arrive, unless you became our client. You can also reach us by email or phone.
 
-The free SEO audit form works the same way, through a Worker of its own with the same checks and the same limit on requests, and saves each request in a separate database. Requests are deleted 24 months after they arrive, unless you became our client. The audit tool that prepares the reports runs on our own computer: it stores each request and report encrypted with a key of its own, keeps encrypted backups that its storage providers cannot read, and keeps security logs for a year.
+The free SEO audit form works the same way, through a Worker of its own with the same checks and the same limit on requests, and saves each request in a separate database. Requests are deleted 24 months after they arrive, unless you became our client. The audit tool that prepares the reports runs on a server we rent from Oracle Cloud in Mumbai, India: it stores each request and report encrypted with a key of its own, keeps encrypted backups that its storage providers cannot read, and keeps security logs for a year.
 
 Our fonts, scripts, styles, images and videos all load from ndcompany.in. Until you give consent, our pages load nothing from any other service, except Cloudflare Turnstile once you start filling in the contact form or the SEO audit form, and Google Analytics, Microsoft Clarity and PostHog stay off.
 
@@ -56,7 +56,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains what personal data w
 
 ## 4. Reporting a security problem
 
-If you think you have found a security problem on ndcompany.in, email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in). Describe what you found, the page or address it affects and the steps that show it. We reply to confirm we have your report, and we investigate it.
+If you think you have found a security problem on ndcompany.in, email us at [hello@ndcompany.in](mailto:hello@ndcompany.in). Describe what you found, the page or address it affects and the steps that show it. We reply to confirm we have your report, and we investigate it.
 
 While you look into a problem, please do not access or change any data beyond what you need to show it. Please also give us time to fix it before you tell anyone else.
 
@@ -70,7 +70,7 @@ Contact our grievance officer about anything on this page or about how we handle
 
 Grievance officer: [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -99,7 +99,7 @@ Phone: [+91 89021 09455](tel:+918902109455)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-27",
+      "dateModified": "2026-10-28",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

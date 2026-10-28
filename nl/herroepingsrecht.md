@@ -18,7 +18,7 @@ U heeft het recht om binnen een termijn van 14 dagen zonder opgave van redenen d
 
 De herroepingstermijn verstrijkt 14 dagen na de dag van de sluiting van de overeenkomst.
 
-Om het herroepingsrecht uit te oefenen, moet u ons (N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: ceo@ndcompany.in) via een ondubbelzinnige verklaring (bv. schriftelijk per post, fax of e-mail) op de hoogte stellen van uw beslissing de overeenkomst te herroepen. U kunt hiervoor gebruikmaken van het bijgevoegde modelformulier voor herroeping, maar bent hiertoe niet verplicht.
+Om het herroepingsrecht uit te oefenen, moet u ons (N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: hello@ndcompany.in) via een ondubbelzinnige verklaring (bv. schriftelijk per post, fax of e-mail) op de hoogte stellen van uw beslissing de overeenkomst te herroepen. U kunt hiervoor gebruikmaken van het bijgevoegde modelformulier voor herroeping, maar bent hiertoe niet verplicht.
 
 Om de herroepingstermijn na te leven volstaat het om uw mededeling betreffende uw uitoefening van het herroepingsrecht te verzenden voordat de herroepingstermijn is verstreken.
 
@@ -34,7 +34,7 @@ Ons volledige postadres staat op je offerte en je factuur.
 
 (dit formulier alleen invullen en terugzenden als u de overeenkomst wilt herroepen)
 
-- Aan N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: ceo@ndcompany.in:
+- Aan N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: hello@ndcompany.in:
 - Ik/Wij (*) deel/delen (*) u hierbij mede dat ik/wij (*) onze overeenkomst betreffende de verkoop van de volgende goederen/levering van de volgende dienst (*) herroep/herroepen (*)
 - Besteld op (*)/Ontvangen op (*)
 - Naam/Namen consument(en)

@@ -14,7 +14,7 @@ Everything under one roof, from the first logo sketch to the campaigns that brin
 
 [Talk to us](https://ndcompany.in/#contact)
 
-[ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+[hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 ## Everything we offer
 

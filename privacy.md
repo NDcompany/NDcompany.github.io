@@ -4,13 +4,13 @@ description: "What our contact and SEO audit forms collect, what we keep when yo
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-27"
+modified: "2026-10-28"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026 · Last updated: 27 October 2026
+Effective date: 23 October 2026 · Last updated: 28 October 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -144,7 +144,7 @@ Hosts this website on GitHub Pages. Requests reach it through Cloudflare, which 
 
 ### Our SEO audit tool
 
-Prepares the free SEO audits on our own computer in India. It copies each request from our Cloudflare database, checks that your email address can receive mail by looking up its domain's public mail records (no email is sent and your provider's mail server is not contacted), and checks your website against public lists of phishing and other unsafe sites. Google PageSpeed Insights tests its speed. If you name a competitor's website on the form, the tool checks that site's public pages the same way and shows its scores beside yours in your report; we do not contact that business. AI models, run on our own computer or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps a daily encrypted backup in a private GitHub repository. The keys that unlock your details are never stored there, so GitHub cannot read them.
+Prepares the free SEO audits on a server we rent from Oracle Cloud in Mumbai, India. It copies each request from our Cloudflare database, checks that your email address can receive mail by looking up its domain's public mail records (no email is sent and your provider's mail server is not contacted), and checks your website against public lists of phishing and other unsafe sites. Google PageSpeed Insights tests its speed. If you name a competitor's website on the form, the tool checks that site's public pages the same way and shows its scores beside yours in your report; we do not contact that business. AI models, run on that server or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps a daily encrypted backup in a private GitHub repository. The keys that unlock your details are never stored there, so GitHub cannot read them.
 
 ### Email, phone and payment providers
 
@@ -252,7 +252,7 @@ If you have questions or concerns about this privacy policy or your personal dat
 
 Grievance officer: [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -291,7 +291,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-27",
+      "dateModified": "2026-10-28",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

@@ -65,7 +65,7 @@ We may change these conditions. A request is handled under the conditions shown 
 
 Questions about the free audit, or a request you sent:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [audit@ndcompany.in](mailto:audit@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 

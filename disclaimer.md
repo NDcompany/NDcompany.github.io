@@ -58,7 +58,7 @@ We may revise this Disclaimer at any time without prior notice. Any updates beco
 
 If you have any questions regarding this Disclaimer, please contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 

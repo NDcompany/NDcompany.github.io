@@ -252,7 +252,7 @@ This version takes effect on the effective date at the top of this page. When we
 
 If you have a question about how our website uses cookies or storage, contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 

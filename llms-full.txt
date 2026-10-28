@@ -4593,7 +4593,7 @@ The call is free and you are not committing to anything. If we can help, we foll
 
 ## Prefer to write?
 
-Email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking goes into our Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
+Email us at [hello@ndcompany.in](mailto:hello@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. Your booking goes into our Google Calendar, as our [privacy policy](https://ndcompany.in/privacy) explains.
 
 ---
 
@@ -4648,7 +4648,7 @@ See our [projects](https://ndcompany.in/projects), the [free tools](https://ndco
 
 ## Contact us
 
-Email [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. You can also use the [contact form](https://ndcompany.in/#contact).
+Email [hello@ndcompany.in](mailto:hello@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. You can also use the [contact form](https://ndcompany.in/#contact).
 
 ---
 
@@ -5727,7 +5727,7 @@ U heeft het recht om binnen een termijn van 14 dagen zonder opgave van redenen d
 
 De herroepingstermijn verstrijkt 14 dagen na de dag van de sluiting van de overeenkomst.
 
-Om het herroepingsrecht uit te oefenen, moet u ons (N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: ceo@ndcompany.in) via een ondubbelzinnige verklaring (bv. schriftelijk per post, fax of e-mail) op de hoogte stellen van uw beslissing de overeenkomst te herroepen. U kunt hiervoor gebruikmaken van het bijgevoegde modelformulier voor herroeping, maar bent hiertoe niet verplicht.
+Om het herroepingsrecht uit te oefenen, moet u ons (N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: hello@ndcompany.in) via een ondubbelzinnige verklaring (bv. schriftelijk per post, fax of e-mail) op de hoogte stellen van uw beslissing de overeenkomst te herroepen. U kunt hiervoor gebruikmaken van het bijgevoegde modelformulier voor herroeping, maar bent hiertoe niet verplicht.
 
 Om de herroepingstermijn na te leven volstaat het om uw mededeling betreffende uw uitoefening van het herroepingsrecht te verzenden voordat de herroepingstermijn is verstreken.
 
@@ -5743,7 +5743,7 @@ Ons volledige postadres staat op je offerte en je factuur.
 
 (dit formulier alleen invullen en terugzenden als u de overeenkomst wilt herroepen)
 
-- Aan N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: ceo@ndcompany.in:
+- Aan N&D Co., Barrackpore, Kolkata, West Bengal, India, India. E-mail: hello@ndcompany.in:
 - Ik/Wij (*) deel/delen (*) u hierbij mede dat ik/wij (*) onze overeenkomst betreffende de verkoop van de volgende goederen/levering van de volgende dienst (*) herroep/herroepen (*)
 - Besteld op (*)/Ontvangen op (*)
 - Naam/Namen consument(en)
@@ -6715,7 +6715,7 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 - [Facebook profile](https://www.facebook.com/nakshatra.ranjan.saha)
 - [DEV profile](https://dev.to/oceanofanythingofficial)
 
-The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [ceo@ndcompany.in](mailto:ceo@ndcompany.in).
+The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
 
@@ -12900,7 +12900,7 @@ Where a signed agreement or an accepted quote says something different from thes
 
 For any terms-related queries, contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -12911,9 +12911,9 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
 # Privacy policy
 
 Source: https://ndcompany.in/privacy
-Updated: 2026-10-27
+Updated: 2026-10-28
 
-Effective date: 23 October 2026 · Last updated: 27 October 2026
+Effective date: 23 October 2026 · Last updated: 28 October 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -13047,7 +13047,7 @@ Hosts this website on GitHub Pages. Requests reach it through Cloudflare, which 
 
 ### Our SEO audit tool
 
-Prepares the free SEO audits on our own computer in India. It copies each request from our Cloudflare database, checks that your email address can receive mail by looking up its domain's public mail records (no email is sent and your provider's mail server is not contacted), and checks your website against public lists of phishing and other unsafe sites. Google PageSpeed Insights tests its speed. If you name a competitor's website on the form, the tool checks that site's public pages the same way and shows its scores beside yours in your report; we do not contact that business. AI models, run on our own computer or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps a daily encrypted backup in a private GitHub repository. The keys that unlock your details are never stored there, so GitHub cannot read them.
+Prepares the free SEO audits on a server we rent from Oracle Cloud in Mumbai, India. It copies each request from our Cloudflare database, checks that your email address can receive mail by looking up its domain's public mail records (no email is sent and your provider's mail server is not contacted), and checks your website against public lists of phishing and other unsafe sites. Google PageSpeed Insights tests its speed. If you name a competitor's website on the form, the tool checks that site's public pages the same way and shows its scores beside yours in your report; we do not contact that business. AI models, run on that server or by AI providers, help write the report and our offer from the public pages of your website, and never receive your name or email address. The tool stores each request and report encrypted with a key of its own, and keeps a daily encrypted backup in a private GitHub repository. The keys that unlock your details are never stored there, so GitHub cannot read them.
 
 ### Email, phone and payment providers
 
@@ -13155,7 +13155,7 @@ If you have questions or concerns about this privacy policy or your personal dat
 
 Grievance officer: [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -13418,7 +13418,7 @@ This version takes effect on the effective date at the top of this page. When we
 
 If you have a question about how our website uses cookies or storage, contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -13481,7 +13481,7 @@ We may revise this Disclaimer at any time without prior notice. Any updates beco
 
 If you have any questions regarding this Disclaimer, please contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -13525,7 +13525,7 @@ You can cancel a project by telling us in writing, and we can cancel one in the 
 
 If a project is cancelled after work has started, we do not refund what you have paid, including the advance. If the work completed or approved, plus any third-party costs committed for your project, is worth more than you have paid, you pay the difference.
 
-**Important:** Send cancellations in writing, for example by email to ceo@ndcompany.in, so we can confirm what work is complete, what is pending and the final charges.
+**Important:** Send cancellations in writing, for example by email to hello@ndcompany.in, so we can confirm what work is complete, what is pending and the final charges.
 
 ## 5. Monthly services
 
@@ -13555,7 +13555,7 @@ After 30 days of non-payment, we may pause or cancel the work. Completed work up
 
 If you have a question about this policy, contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -13566,9 +13566,9 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
 # Security policy
 
 Source: https://ndcompany.in/security-policy
-Updated: 2026-10-27
+Updated: 2026-10-28
 
-Effective date: 23 October 2026 · Last updated: 27 October 2026
+Effective date: 23 October 2026 · Last updated: 28 October 2026
 
 This is a public summary of our security practices. It explains how our website works, what runs only with your consent, how we handle client data and how to report a security problem. It leaves out credentials and other details that could help an attacker.
 
@@ -13580,7 +13580,7 @@ Cloudflare serves every page over HTTPS, with TLS 1.2 or later, so what passes b
 
 The contact form on our homepage sends your message over HTTPS to our own address on ndcompany.in, where a small program that runs on Cloudflare (a Worker) checks it before anything is saved. It accepts messages only from our own pages, sits behind a Cloudflare rule that limits how many requests one visitor can send in a short time, refuses a message without a fresh Cloudflare Turnstile check that has not been used before, and drops messages from form-filling bots. Only then does it save the message in our Cloudflare database and email it to us through Resend, without your IP address or device details, and tell you it arrived. Messages are deleted 24 months after they arrive, unless you became our client. You can also reach us by email or phone.
 
-The free SEO audit form works the same way, through a Worker of its own with the same checks and the same limit on requests, and saves each request in a separate database. Requests are deleted 24 months after they arrive, unless you became our client. The audit tool that prepares the reports runs on our own computer: it stores each request and report encrypted with a key of its own, keeps encrypted backups that its storage providers cannot read, and keeps security logs for a year.
+The free SEO audit form works the same way, through a Worker of its own with the same checks and the same limit on requests, and saves each request in a separate database. Requests are deleted 24 months after they arrive, unless you became our client. The audit tool that prepares the reports runs on a server we rent from Oracle Cloud in Mumbai, India: it stores each request and report encrypted with a key of its own, keeps encrypted backups that its storage providers cannot read, and keeps security logs for a year.
 
 Our fonts, scripts, styles, images and videos all load from ndcompany.in. Until you give consent, our pages load nothing from any other service, except Cloudflare Turnstile once you start filling in the contact form or the SEO audit form, and Google Analytics, Microsoft Clarity and PostHog stay off.
 
@@ -13614,7 +13614,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains what personal data w
 
 ## 4. Reporting a security problem
 
-If you think you have found a security problem on ndcompany.in, email us at [ceo@ndcompany.in](mailto:ceo@ndcompany.in). Describe what you found, the page or address it affects and the steps that show it. We reply to confirm we have your report, and we investigate it.
+If you think you have found a security problem on ndcompany.in, email us at [hello@ndcompany.in](mailto:hello@ndcompany.in). Describe what you found, the page or address it affects and the steps that show it. We reply to confirm we have your report, and we investigate it.
 
 While you look into a problem, please do not access or change any data beyond what you need to show it. Please also give us time to fix it before you tell anyone else.
 
@@ -13628,7 +13628,7 @@ Contact our grievance officer about anything on this page or about how we handle
 
 Grievance officer: [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
@@ -13694,6 +13694,6 @@ We may change these conditions. A request is handled under the conditions shown 
 
 Questions about the free audit, or a request you sent:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [audit@ndcompany.in](mailto:audit@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)

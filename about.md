@@ -55,7 +55,7 @@ See our [projects](https://ndcompany.in/projects), the [free tools](https://ndco
 
 ## Contact us
 
-Email [ceo@ndcompany.in](mailto:ceo@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. You can also use the [contact form](https://ndcompany.in/#contact).
+Email [hello@ndcompany.in](mailto:hello@ndcompany.in) or call [+91 89021 09455](tel:+918902109455), Monday to Saturday, 9:00 AM to 6:00 PM IST. You can also use the [contact form](https://ndcompany.in/#contact).
 
 ## Structured data
 

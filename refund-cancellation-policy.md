@@ -41,7 +41,7 @@ You can cancel a project by telling us in writing, and we can cancel one in the 
 
 If a project is cancelled after work has started, we do not refund what you have paid, including the advance. If the work completed or approved, plus any third-party costs committed for your project, is worth more than you have paid, you pay the difference.
 
-**Important:** Send cancellations in writing, for example by email to ceo@ndcompany.in, so we can confirm what work is complete, what is pending and the final charges.
+**Important:** Send cancellations in writing, for example by email to hello@ndcompany.in, so we can confirm what work is complete, what is pending and the final charges.
 
 ## 5. Monthly services
 
@@ -71,7 +71,7 @@ After 30 days of non-payment, we may pause or cancel the work. Completed work up
 
 If you have a question about this policy, contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 

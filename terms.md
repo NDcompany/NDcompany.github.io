@@ -188,7 +188,7 @@ Where a signed agreement or an accepted quote says something different from thes
 
 For any terms-related queries, contact us:
 
-Email: [ceo@ndcompany.in](mailto:ceo@ndcompany.in)
+Email: [hello@ndcompany.in](mailto:hello@ndcompany.in)
 
 Phone: [+91 89021 09455](tel:+918902109455)
 
