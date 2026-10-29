@@ -1,6 +1,6 @@
 ---
-title: "Graphic & Brochure Design Company in Kolkata | N&D Co."
-description: "Graphic design company in Kolkata: brochures, social media posts, posters, business cards and packaging, print-ready, for businesses in India and worldwide."
+title: "Graphic Design Services & Brochure Design, Kolkata | N&D Co."
+description: "Graphic design services from a Kolkata agency: brochures, social media posts, posters, business cards and packaging, print-ready, for businesses worldwide."
 url: "https://ndcompany.in/services/graphic-design"
 type: "Service"
 image: "https://ndcompany.in/assets/share/graphic-design.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/graphic-design.png"
 
 Print and digital design
 
-# Graphic and brochure design in Kolkata, for print and digital
+# Graphic design services and brochure design in Kolkata
 
 We design the graphics a business puts in front of people every day: social media posts, posters, business cards, brochures, ad creatives and packaging. Every piece is built on your brand assets and delivered as print-ready and editable files you keep.
 
@@ -331,8 +331,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/graphic-design#webpage",
       "url": "https://ndcompany.in/services/graphic-design",
-      "name": "Graphic & Brochure Design Company in Kolkata | N&D Co.",
-      "description": "Graphic design company in Kolkata: brochures, social media posts, posters, business cards and packaging, print-ready, for businesses in India and worldwide.",
+      "name": "Graphic Design Services & Brochure Design, Kolkata | N&D Co.",
+      "description": "Graphic design services from a Kolkata agency: brochures, social media posts, posters, business cards and packaging, print-ready, for businesses worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

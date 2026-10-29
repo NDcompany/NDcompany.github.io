@@ -1,6 +1,6 @@
 ---
-title: "White Label PPC & Google Ads Management | N&D Co."
-description: "White label Google Ads and Meta ads management for agencies: setup, tracking, weekly optimization and reports under your brand. Your NDA signed, USD prices."
+title: "White Label PPC Outsourcing & Google Ads | N&D Co."
+description: "PPC outsourcing for agencies: white label Google Ads and Meta ads management, setup, tracking, weekly optimization and reports under your brand. USD prices."
 url: "https://ndcompany.in/white-label/google-ads"
 type: "Service"
 image: "https://ndcompany.in/assets/share/digital-marketing.png"
@@ -185,8 +185,8 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/white-label/google-ads#webpage",
       "url": "https://ndcompany.in/white-label/google-ads",
-      "name": "White Label PPC & Google Ads Management | N&D Co.",
-      "description": "White label Google Ads and Meta ads management for agencies: setup, tracking, weekly optimization and reports under your brand. Your NDA signed, USD prices.",
+      "name": "White Label PPC Outsourcing & Google Ads | N&D Co.",
+      "description": "PPC outsourcing for agencies: white label Google Ads and Meta ads management, setup, tracking, weekly optimization and reports under your brand. USD prices.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

@@ -1,6 +1,6 @@
 ---
 title: "Shopify & E-commerce Website Development, Kolkata | N&D Co."
-description: "Shopify development and e-commerce websites by N&D Co., Kolkata: Shopify, WooCommerce or custom stores with payment gateways, for sellers in India and worldwide."
+description: "A Shopify development company in India, based in Kolkata: Shopify, WooCommerce or custom stores with payment gateways, for sellers in India and worldwide."
 url: "https://ndcompany.in/services/ecommerce-solutions"
 type: "Service"
 image: "https://ndcompany.in/assets/share/ecommerce-solutions.png"
@@ -317,7 +317,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/ecommerce-solutions#webpage",
       "url": "https://ndcompany.in/services/ecommerce-solutions",
       "name": "Shopify & E-commerce Website Development, Kolkata | N&D Co.",
-      "description": "Shopify development and e-commerce websites by N&D Co., Kolkata: Shopify, WooCommerce or custom stores with payment gateways, for sellers in India and worldwide.",
+      "description": "A Shopify development company in India, based in Kolkata: Shopify, WooCommerce or custom stores with payment gateways, for sellers in India and worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
