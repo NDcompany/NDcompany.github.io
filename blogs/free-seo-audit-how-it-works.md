@@ -162,7 +162,7 @@ The report describes what the checks found on the day they ran, and it has limit
 If you want to check a single page right now, our free [RankGuru on-page checker](https://ndcompany.in/tools/rankguru) runs in your browser and shows the results on screen. If the report shows more than you want to fix yourself, our [SEO services](https://ndcompany.in/services/seo-services) start from the same findings, and we put the scope and price in writing before any work begins.
 
 - [SEO audits](https://ndcompany.in/tags#seo-audits)
-- [Technical SEO](https://ndcompany.in/tags#technical-seo)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
 ## Share this post

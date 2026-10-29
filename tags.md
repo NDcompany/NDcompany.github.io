@@ -90,6 +90,25 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 
 [Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
+## Core Web Vitals
+
+5 posts
+
+How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
+
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  28 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+  28 Oct 2026
+
+[Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+
 ## Social media creatives
 
 5 projects
@@ -108,23 +127,6 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
   Design
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-
-## Core Web Vitals
-
-4 posts
-
-How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
-
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  25 Oct 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  28 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  28 Oct 2026
-
-[Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
 ## Website costs
 
@@ -158,6 +160,36 @@ Brand style guides that others can follow without asking you: logo rules, colour
   Branding
 
 [Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+
+## Local SEO
+
+3 posts
+
+Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
+
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  28 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  28 Oct 2026
+
+[Everything tagged Local SEO](https://ndcompany.in/tags/local-seo)
+
+## Technical SEO
+
+3 posts
+
+Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
+
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  28 Oct 2026
+
+[Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
 
 ## Web accessibility
 
@@ -211,17 +243,6 @@ Setting up Google's free Search Console with the business as owner, then reading
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   28 Oct 2026
 
-## Local SEO
-
-2 posts
-
-Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
-
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
-
 ## SEO audits
 
 2 posts
@@ -232,17 +253,6 @@ What an SEO audit checks on a website, how its findings are ranked and scored, a
   28 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
-
-## Technical SEO
-
-2 posts
-
-Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
-
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  25 Oct 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  28 Oct 2026
 
 ## Case management
 
@@ -356,14 +366,14 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Social media creatives",
-            "url": "https://ndcompany.in/tags/social-media-creatives"
+            "name": "Core Web Vitals",
+            "url": "https://ndcompany.in/tags/core-web-vitals"
           },
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "Core Web Vitals",
-            "url": "https://ndcompany.in/tags/core-web-vitals"
+            "name": "Social media creatives",
+            "url": "https://ndcompany.in/tags/social-media-creatives"
           },
           {
             "@type": "ListItem",
@@ -380,44 +390,44 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 8,
+            "name": "Local SEO",
+            "url": "https://ndcompany.in/tags/local-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Technical SEO",
+            "url": "https://ndcompany.in/tags/technical-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
             "name": "Web accessibility",
             "url": "https://ndcompany.in/tags/web-accessibility"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 11,
             "name": "Website planning",
             "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 12,
             "name": "Google Business Profile",
             "url": "https://ndcompany.in/tags#google-business-profile"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 13,
             "name": "Google Search Console",
             "url": "https://ndcompany.in/tags#google-search-console"
           },
           {
             "@type": "ListItem",
-            "position": 12,
-            "name": "Local SEO",
-            "url": "https://ndcompany.in/tags#local-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 13,
+            "position": 14,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags#seo-audits"
-          },
-          {
-            "@type": "ListItem",
-            "position": 14,
-            "name": "Technical SEO",
-            "url": "https://ndcompany.in/tags#technical-seo"
           },
           {
             "@type": "ListItem",

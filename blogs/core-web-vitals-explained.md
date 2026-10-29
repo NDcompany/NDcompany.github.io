@@ -73,7 +73,7 @@ Websites passing all three Core Web Vitals on phones
 
 *Websites whose real Chrome visits on mobile were good for LCP, INP and CLS at the 75th percentile, each August; a site without enough INP data is judged on LCP and CLS. Visits from India are located by IP address; worldwide figures come from the same report with Geo set to ALL. Source: [HTTP Archive Technology Report (Chrome UX Report data), September 2024 to September 2026](https://httparchive.org/reports/techreport/tech?tech=ALL&geo=India&rank=ALL).*
 
-On phones, the share of websites visited from India passing all three rose from 25% in September 2024 to 32% in September 2026. Worldwide it rose from 48% to 53%, so the gap only narrowed from 23 points to 21.
+On phones, the share of websites visited from India passing all three rose from 25% in September 2024 to 32% in September 2026. Worldwide it rose from 48% to 53%, so the gap only narrowed from 23 points to 21. In our separate [check of Kolkata business websites](https://ndcompany.in/blogs/kolkata-small-business-websites) in October 2026, 26% of those Google had real-visitor data for passed.
 
 **Share of websites rated good on phones, September 2026**
 
@@ -247,6 +247,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 30 Oct 2026
+
+### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+
+52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
+
+Read the post
+
+Websites
+
 Guide · 25 Oct 2026
 
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -262,16 +272,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 
@@ -351,7 +351,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Websites",
       "keywords": "Core Web Vitals, Google Search Console",
       "genre": "Guide",
-      "wordCount": 2831,
+      "wordCount": 2851,
       "inLanguage": "en-IN"
     },
     {

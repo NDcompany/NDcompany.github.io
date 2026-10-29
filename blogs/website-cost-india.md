@@ -162,6 +162,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 30 Oct 2026
+
+### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+
+52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
+
+Read the post
+
+Websites
+
 Guide · 25 Oct 2026
 
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
@@ -177,16 +187,6 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 

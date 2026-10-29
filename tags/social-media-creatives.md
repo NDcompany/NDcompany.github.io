@@ -64,6 +64,8 @@ See the project
 
 ## Recently updated
 
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
@@ -72,21 +74,19 @@ See the project
   28 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   28 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Local SEO](https://ndcompany.in/tags/local-seo)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
-- [Website planning](https://ndcompany.in/tags/website-planning)
-- [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 
 [All tags](https://ndcompany.in/tags)
 

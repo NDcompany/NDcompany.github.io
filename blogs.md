@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Websites
+
+Insight · 30 Oct 2026
+
+### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+
+52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
+
+Read the post
+
 Business
 
 Insight · 29 Oct 2026
@@ -136,6 +146,8 @@ Read the guide
 
 ## Recently updated
 
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
@@ -144,21 +156,19 @@ Read the guide
   28 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   28 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Local SEO](https://ndcompany.in/tags/local-seo)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
-- [Website planning](https://ndcompany.in/tags/website-planning)
-- [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -236,6 +246,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/kolkata-small-business-websites#article",
+          "headline": "How healthy are Kolkata small-business websites? We checked 901 businesses",
+          "description": "Half of 901 Kolkata businesses on Google Maps have no website. We checked the rest: dead links, missing basics, local markup and mobile speed, 30 October 2026.",
+          "image": "https://ndcompany.in/assets/blog/kolkata-small-business-websites-16x9.png",
+          "url": "https://ndcompany.in/blogs/kolkata-small-business-websites",
+          "datePublished": "2026-10-30T00:00:00+05:30",
+          "dateModified": "2026-10-30T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/agency-prices-india#article",

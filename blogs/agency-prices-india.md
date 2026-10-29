@@ -184,6 +184,16 @@ What you can hand over, what it costs, how the hours line up with the US, what t
 
 Read the guide
 
+Websites
+
+Insight · 30 Oct 2026
+
+### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+
+52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
+
+Read the post
+
 SEO
 
 Guide · 26 Oct 2026
@@ -191,16 +201,6 @@ Guide · 26 Oct 2026
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
 Read the guide
 

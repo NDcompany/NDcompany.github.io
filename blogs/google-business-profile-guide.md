@@ -249,7 +249,7 @@ To appeal, use Google's appeals tool and attach the kinds of evidence Google lis
 Step 1 takes one search, so start there today. If you find a listing you can't get into, or two listings for one business, [send us the Maps link](https://ndcompany.in/#contact) and ask what we would do. We set up and manage profiles for [businesses across India](https://ndcompany.in/locations/india).
 
 - [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
-- [Local SEO](https://ndcompany.in/tags#local-seo)
+- [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Online reviews](https://ndcompany.in/tags#online-reviews)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 

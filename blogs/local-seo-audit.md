@@ -75,7 +75,7 @@ Customers and search engines meet your business in many places. Listings that na
 
 ## Step 4: check your website's location details
 
-Your website supports your profile. Check three things.
+Your website supports your profile. First check that the website link on your profile still works: in our [check of 901 Kolkata businesses](https://ndcompany.in/blogs/kolkata-small-business-websites), more than one listed link in ten was dead. Then check three things.
 
 ### Contact details on the page
 
@@ -154,7 +154,7 @@ Run the full audit once, then repeat it whenever something about the business ch
 
 If you would rather have someone else run it, our [SEO services](https://ndcompany.in/services/seo-services) start with exactly this kind of audit, and every page of this site offers a [free SEO audit](https://ndcompany.in/free-seo-audit) of your website.
 
-- [Local SEO](https://ndcompany.in/tags#local-seo)
+- [Local SEO](https://ndcompany.in/tags/local-seo)
 - [SEO audits](https://ndcompany.in/tags#seo-audits)
 - [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 
@@ -277,7 +277,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Local SEO, SEO audits, Google Business Profile",
       "genre": "Guide",
-      "wordCount": 1937,
+      "wordCount": 1966,
       "inLanguage": "en-IN"
     },
     {

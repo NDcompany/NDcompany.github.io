@@ -255,7 +255,7 @@ Google's [guide to hiring an SEO](https://developers.google.com/search/docs/fund
 
 This week, make the business a verified owner in Search Console, run your home page through URL Inspection to confirm it is indexed and the live test finds no noindex, and submit your sitemap. Then give it time. Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) suggests waiting a few weeks before judging changes, [Page indexing validation](https://support.google.com/webmasters/answer/7440203) typically takes up to about two weeks, and the [Core Web Vitals report](https://support.google.com/webmasters/answer/9205520) tracks a fix for 28 days. If you would rather hand the list over, ask us for a free SEO audit: [how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works) explains what it checks and what the report contains. More guides are on our [SEO topic page](https://ndcompany.in/blogs/topic/seo).
 
-- [Technical SEO](https://ndcompany.in/tags#technical-seo)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Google Search Console](https://ndcompany.in/tags#google-search-console)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 

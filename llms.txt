@@ -31,6 +31,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites): Half of 901 Kolkata businesses on Google Maps have no website. We checked the rest: dead links, missing basics, local markup and mobile speed, 30 October 2026.
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india): What Indian digital agencies charge in 2026: published website, SEO, store, social and ads prices from 108 agency websites in eight cities, checked 29 October.
 - [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india): Outsource web development or digital marketing to India from the US: what it costs, how the time difference works, what to agree in writing and how to pay.
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit): Run a local SEO audit in an afternoon: your Google Business Profile, matching details on Bing, Apple Maps, location pages, reviews, links and what to measure.
@@ -88,10 +89,12 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Logos](https://ndcompany.in/tags/logos): The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
+- [Local SEO](https://ndcompany.in/tags/local-seo): Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
+- [Technical SEO](https://ndcompany.in/tags/technical-seo): Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility): WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
 - [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
