@@ -41,7 +41,7 @@ The build is the design and development work: page layouts, the content manageme
 
 A dedicated store with a large catalogue has its own [e-commerce development](https://ndcompany.in/services/ecommerce-solutions) packages, from ₹14,999 for a Shopify or WooCommerce store. The full list of what each website plan includes is on the [website design and development](https://ndcompany.in/services/website-design-development) page.
 
-Three things move the build price more than anything else: how many pages or products there are, who writes the content, and what the site has to do beyond showing information (take payments, book appointments, connect to other software). If you [plan the site before you ask for quotes](https://ndcompany.in/blogs/plan-a-business-website), every provider prices the same job and you can compare them.
+Three things move the build price more than anything else: how many pages or products there are, who writes the content, and what the site has to do beyond showing information (take payments, book appointments, connect to other software). If you [plan the site before you ask for quotes](https://ndcompany.in/blogs/plan-a-business-website), every provider prices the same job and you can compare them. For what other Indian agencies charge, see our [survey of published agency prices](https://ndcompany.in/blogs/agency-prices-india): of 13 agencies that list a website price, the median starting price was ₹15,000.
 
 ## Domain name: cheap in year one, then the renewal
 
@@ -162,16 +162,6 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
-Guide · 27 Oct 2026
-
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
-
-Read the guide
-
-Websites
-
 Guide · 25 Oct 2026
 
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
@@ -187,6 +177,16 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
+
+Read the guide
+
+Websites
+
+Guide · 23 Oct 2026
+
+### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+
+September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 
@@ -266,7 +266,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Websites",
       "keywords": "Website costs, Website planning, Working with an agency",
       "genre": "Guide",
-      "wordCount": 1694,
+      "wordCount": 1722,
       "inLanguage": "en-IN"
     },
     {

@@ -16,16 +16,6 @@ Planning, building and improving a business website: what to settle before you h
 
 Websites
 
-Guide · 27 Oct 2026
-
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
-
-Read the guide
-
-Websites
-
 Guide · 25 Oct 2026
 
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -66,6 +56,8 @@ Read the guide
 
 ## Recently updated
 
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  29 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
@@ -74,19 +66,17 @@ Read the guide
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   28 Oct 2026
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 
@@ -145,30 +135,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "How to outsource web development to India: a guide for US businesses",
-            "url": "https://ndcompany.in/blogs/outsource-web-development-india"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 2,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 3,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 4,
             "name": "Core Web Vitals explained for business owners",
             "url": "https://ndcompany.in/blogs/core-web-vitals-explained"
           }

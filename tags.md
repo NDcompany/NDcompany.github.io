@@ -69,6 +69,27 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 
 [Everything tagged Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 
+## Working with an agency
+
+6 posts
+
+Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  29 Oct 2026
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  28 Oct 2026
+
+[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+
 ## Social media creatives
 
 5 projects
@@ -88,25 +109,6 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 
-## Working with an agency
-
-5 posts
-
-Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
-
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
-
-[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
-
 ## Core Web Vitals
 
 4 posts
@@ -123,6 +125,23 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
   28 Oct 2026
 
 [Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+
+## Website costs
+
+4 posts
+
+What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  29 Oct 2026
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+
+[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
 
 ## Brand guidelines
 
@@ -154,21 +173,6 @@ WCAG in plain words: contrast ratios for text, alt text, labelled form fields an
   23 Oct 2026
 
 [Everything tagged Web accessibility](https://ndcompany.in/tags/web-accessibility)
-
-## Website costs
-
-3 posts
-
-What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
-
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-
-[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
 
 ## Website planning
 
@@ -346,14 +350,14 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "Social media creatives",
-            "url": "https://ndcompany.in/tags/social-media-creatives"
+            "name": "Working with an agency",
+            "url": "https://ndcompany.in/tags/working-with-an-agency"
           },
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Working with an agency",
-            "url": "https://ndcompany.in/tags/working-with-an-agency"
+            "name": "Social media creatives",
+            "url": "https://ndcompany.in/tags/social-media-creatives"
           },
           {
             "@type": "ListItem",
@@ -364,20 +368,20 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 6,
+            "name": "Website costs",
+            "url": "https://ndcompany.in/tags/website-costs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
             "name": "Brand guidelines",
             "url": "https://ndcompany.in/tags/brand-guidelines"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Web accessibility",
             "url": "https://ndcompany.in/tags/web-accessibility"
-          },
-          {
-            "@type": "ListItem",
-            "position": 8,
-            "name": "Website costs",
-            "url": "https://ndcompany.in/tags/website-costs"
           },
           {
             "@type": "ListItem",

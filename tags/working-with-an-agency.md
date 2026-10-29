@@ -14,7 +14,17 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 
 ## Latest posts
 
-Websites
+Business
+
+Insight · 29 Oct 2026
+
+### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+
+Only 37 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+
+Read the post
+
+Business
 
 Guide · 27 Oct 2026
 
@@ -66,6 +76,8 @@ Read the guide
 
 ## Recently updated
 
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  29 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
@@ -74,19 +86,17 @@ Read the guide
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   28 Oct 2026
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 
@@ -102,15 +112,15 @@ Responsive websites, e-commerce development, and SEO-optimized web solutions.
 
 Learn more
 
-### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+### [SEO Services](https://ndcompany.in/services/seo-services)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
 
 Learn more
 
-### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Online store development with payment integration and optimization.
+Google Ads, social media marketing, and ROI-focused campaigns.
 
 Learn more
 
@@ -145,30 +155,36 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
+            "url": "https://ndcompany.in/blogs/agency-prices-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How to outsource web development to India: a guide for US businesses",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Logo vs brand identity: what you are paying for",
             "url": "https://ndcompany.in/blogs/logo-vs-brand-identity"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }

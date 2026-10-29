@@ -9,7 +9,7 @@ modified: "2026-10-27T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/outsource-web-development-india-16x9.png"
 ---
 
-[Websites](https://ndcompany.in/blogs/topic/websites) · Guide
+[Business](https://ndcompany.in/blogs/topic/business) · Guide
 
 # How to outsource web development to India: a guide for US businesses
 
@@ -72,7 +72,7 @@ Prices vary by agency and by scope, so treat any figure as a starting point unti
 | SEO | $129 | Per month |
 | Digital marketing and ads management | $95 | Per month, ad spend paid by you |
 
-Every service's tiers are on our [pricing page](https://ndcompany.in/pricing), and our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) breaks down the build, domain, hosting and store costs in US dollars. Whatever you are quoted, check what the price includes: the number of pages, revisions, the support after launch, and whether hosting and the domain are in it.
+Other Indian agencies rarely publish prices: in our [survey of 108 agency websites](https://ndcompany.in/blogs/agency-prices-india), 37 of the 101 we could read showed any. Every service's tiers are on our [pricing page](https://ndcompany.in/pricing), and our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) breaks down the build, domain, hosting and store costs in US dollars. Whatever you are quoted, check what the price includes: the number of pages, revisions, the support after launch, and whether hosting and the domain are in it.
 
 ## How the time difference works
 
@@ -148,6 +148,26 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 ## Keep reading
 
+Business
+
+Insight · 29 Oct 2026
+
+### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+
+Only 37 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+
+Read the post
+
+SEO
+
+Guide · 26 Oct 2026
+
+### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+
+Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
+
+Read the guide
+
 Websites
 
 Guide · 25 Oct 2026
@@ -158,27 +178,7 @@ The build price, then the running costs most quotes leave out: domain and hostin
 
 Read the guide
 
-Websites
-
-Guide · 25 Oct 2026
-
-### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-
-The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
-
-Read the guide
-
-[More on Websites](https://ndcompany.in/blogs/topic/websites)
+[More on Business](https://ndcompany.in/blogs/topic/business)
 
 ## How we can help
 
@@ -257,10 +257,10 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "isPartOf": {
         "@id": "https://ndcompany.in/blogs#blog"
       },
-      "articleSection": "Websites",
+      "articleSection": "Business",
       "keywords": "Working with an agency, Website costs",
       "genre": "Guide",
-      "wordCount": 1617,
+      "wordCount": 1640,
       "inLanguage": "en-IN"
     },
     {
@@ -311,8 +311,8 @@ Send a few lines about your business and what you are trying to fix. We will rep
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Websites",
-          "item": "https://ndcompany.in/blogs/topic/websites"
+          "name": "Business",
+          "item": "https://ndcompany.in/blogs/topic/business"
         },
         {
           "@type": "ListItem",

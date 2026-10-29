@@ -250,7 +250,17 @@ Learn more
 
 Guides on the work behind Website Design & Development.
 
-Websites
+Business
+
+Insight · 29 Oct 2026
+
+### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+
+Only 37 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+
+Read the post
+
+Business
 
 Guide · 27 Oct 2026
 
@@ -267,16 +277,6 @@ Guide · 25 Oct 2026
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
 
 The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-
-The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
 
 Read the guide
 

@@ -160,16 +160,6 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
-Guide · 27 Oct 2026
-
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
-
-Read the guide
-
-Websites
-
 Guide · 25 Oct 2026
 
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -185,6 +175,16 @@ Guide · 23 Oct 2026
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
 Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
+
+Read the guide
+
+Websites
+
+Guide · 23 Oct 2026
+
+### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+
+September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
 
 Read the guide
 

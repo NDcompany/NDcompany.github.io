@@ -14,7 +14,17 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
-Websites
+Business
+
+Insight · 29 Oct 2026
+
+### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+
+Only 37 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+
+Read the post
+
+Business
 
 Guide · 27 Oct 2026
 
@@ -126,6 +136,8 @@ Read the guide
 
 ## Recently updated
 
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  29 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
@@ -134,19 +146,17 @@ Read the guide
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   28 Oct 2026
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
 
@@ -171,6 +181,12 @@ Learn more
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
 Logo design, brand guidelines, and visual identity systems.
+
+Learn more
+
+### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
+
+Complete branding including logo design, identity, and marketing materials.
 
 Learn more
 
@@ -220,6 +236,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/agency-prices-india#article",
+          "headline": "What Indian agencies charge in 2026: prices from 108 agency websites",
+          "description": "What Indian digital agencies charge in 2026: published website, SEO, store, social and ads prices from 108 agency websites in eight cities, checked 29 October.",
+          "image": "https://ndcompany.in/assets/blog/agency-prices-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/agency-prices-india",
+          "datePublished": "2026-10-29T00:00:00+05:30",
+          "dateModified": "2026-10-29T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/outsource-web-development-india#article",

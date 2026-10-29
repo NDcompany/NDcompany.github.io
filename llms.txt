@@ -31,6 +31,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india): What Indian digital agencies charge in 2026: published website, SEO, store, social and ads prices from 108 agency websites in eight cities, checked 29 October.
 - [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india): Outsource web development or digital marketing to India from the US: what it costs, how the time difference works, what to agree in writing and how to pay.
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit): Run a local SEO audit in an afternoon: your Google Business Profile, matching details on Bing, Apple Maps, location pages, reviews, links and what to measure.
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india): What a website costs in India in 2026: the build from ₹9,999, then domain, hosting, Shopify, payment gateway fees, email and GST, at each provider's own prices.
@@ -45,6 +46,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 - [SEO](https://ndcompany.in/blogs/topic/seo): SEO tips, guides and insights from N&D Co. for small businesses: technical checks, indexing and Google Business Profile, with links to Google documentation.
 - [Websites](https://ndcompany.in/blogs/topic/websites): Website tips and guides from N&D Co. for business owners: planning a site before you hire anyone, page speed and Core Web Vitals, and what to fix first.
 - [Branding](https://ndcompany.in/blogs/topic/branding): Branding tips and guides from N&D Co.: what separates a logo from a brand identity, which files you should receive, and what a brand style guide needs.
+- [Business](https://ndcompany.in/blogs/topic/business): Business insights from N&D Co. for owners and founders: working with agencies and freelancers, budgeting for marketing, choosing tools and lessons learned.
 
 ## Projects
 
@@ -85,12 +87,12 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 
 - [Logos](https://ndcompany.in/tags/logos): The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
+- [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility): WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
-- [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 - [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
 

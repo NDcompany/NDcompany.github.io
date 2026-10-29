@@ -79,7 +79,17 @@ Wafflery's
 
 Guides from our blogs on the same kind of work.
 
-Websites
+Business
+
+Insight · 29 Oct 2026
+
+### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+
+Only 37 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+
+Read the post
+
+Business
 
 Guide · 27 Oct 2026
 
@@ -96,16 +106,6 @@ Guide · 23 Oct 2026
 ### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
 
 Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
-
-Read the guide
-
-Branding
-
-Guide · 23 Oct 2026
-
-### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
 
 Read the guide
 
