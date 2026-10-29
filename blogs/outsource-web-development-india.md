@@ -72,7 +72,7 @@ Prices vary by agency and by scope, so treat any figure as a starting point unti
 | SEO | $129 | Per month |
 | Digital marketing and ads management | $95 | Per month, ad spend paid by you |
 
-Other Indian agencies rarely publish prices: in our [survey of 108 agency websites](https://ndcompany.in/blogs/agency-prices-india), 37 of the 101 we could read showed any. Every service's tiers are on our [pricing page](https://ndcompany.in/pricing), and our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) breaks down the build, domain, hosting and store costs in US dollars. Whatever you are quoted, check what the price includes: the number of pages, revisions, the support after launch, and whether hosting and the domain are in it.
+Other Indian agencies rarely publish prices: in our [survey of 108 agency websites](https://ndcompany.in/blogs/agency-prices-india), 35 of the 101 we could read showed any. Every service's tiers are on our [pricing page](https://ndcompany.in/pricing), and our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) breaks down the build, domain, hosting and store costs in US dollars. Whatever you are quoted, check what the price includes: the number of pages, revisions, the support after launch, and whether hosting and the domain are in it.
 
 ## How the time difference works
 
@@ -154,7 +154,7 @@ Insight · 29 Oct 2026
 
 ### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
 
-Only 37 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
 
