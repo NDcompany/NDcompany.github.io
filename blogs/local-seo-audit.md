@@ -156,7 +156,7 @@ If you would rather have someone else run it, our [SEO services](https://ndcompa
 
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [SEO audits](https://ndcompany.in/tags#seo-audits)
-- [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
+- [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
 ## Share this post
 
@@ -179,31 +179,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
+SEO
+
 Guide · 25 Oct 2026
 
 ### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
 
 From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
-
-Read the guide
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-
-Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
-
-Read the guide
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
 
 Read the guide
 

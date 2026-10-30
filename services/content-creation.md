@@ -240,6 +240,16 @@ Learn more
 
 Guides on the work behind Content Creation.
 
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
 Websites
 
 Guide · 23 Oct 2026

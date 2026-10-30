@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (98 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (102 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -217,6 +217,14 @@
     <lastmod>2026-10-20</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/tags/local-seo</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/technical-seo</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/tags/website-costs</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
@@ -225,11 +233,11 @@
     <lastmod>2026-10-23</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/local-seo</loc>
+    <loc>https://ndcompany.in/tags/google-business-profile</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/technical-seo</loc>
+    <loc>https://ndcompany.in/tags/google-search-console</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
   <url>
@@ -624,6 +632,14 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/optimize-content-for-llms</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/seo-for-educational-institutions</loc>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/kolkata-small-business-websites</loc>

@@ -248,7 +248,7 @@ To appeal, use Google's appeals tool and attach the kinds of evidence Google lis
 
 Step 1 takes one search, so start there today. If you find a listing you can't get into, or two listings for one business, [send us the Maps link](https://ndcompany.in/#contact) and ask what we would do. We set up and manage profiles for [businesses across India](https://ndcompany.in/locations/india).
 
-- [Google Business Profile](https://ndcompany.in/tags#google-business-profile)
+- [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Online reviews](https://ndcompany.in/tags#online-reviews)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
@@ -274,31 +274,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
+SEO
+
 Guide · 26 Oct 2026
 
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
-
-Read the guide
-
-SEO
-
-Guide · 25 Oct 2026
-
-### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-
-From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
-
-Read the guide
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-
-Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
 
 Read the guide
 

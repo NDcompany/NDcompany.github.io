@@ -14,6 +14,26 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
 Websites
 
 Insight · 30 Oct 2026
@@ -146,16 +166,16 @@ Read the guide
 
 ## Recently updated
 
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  30 Oct 2026
+- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+  30 Oct 2026
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   30 Oct 2026
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  28 Oct 2026
 
 ## Trending tags
 
@@ -164,11 +184,11 @@ Read the guide
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Web accessibility](https://ndcompany.in/tags/web-accessibility)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -246,6 +266,32 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/optimize-content-for-llms#article",
+          "headline": "How do you optimize content for LLMs?",
+          "description": "What Google, OpenAI, Anthropic and Perplexity say about their crawlers, robots.txt, llms.txt and content, and how to check your own site for AI search.",
+          "image": "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png",
+          "url": "https://ndcompany.in/blogs/optimize-content-for-llms",
+          "datePublished": "2026-10-30T00:00:00+05:30",
+          "dateModified": "2026-10-30T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/seo-for-educational-institutions#article",
+          "headline": "How do schools and colleges do SEO?",
+          "description": "How schools, colleges and coaching institutes get found on Google: admission and fee pages, a Business Profile per campus, titles, reviews and language pages.",
+          "image": "https://ndcompany.in/assets/blog/seo-for-educational-institutions-16x9.png",
+          "url": "https://ndcompany.in/blogs/seo-for-educational-institutions",
+          "datePublished": "2026-10-30T00:00:00+05:30",
+          "dateModified": "2026-10-30T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/kolkata-small-business-websites#article",

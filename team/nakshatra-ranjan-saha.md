@@ -40,6 +40,26 @@ The blogs are where N&D Co. shares what it learns: quick tips, longer guides and
 
 ## Articles by Nakshatra Ranjan Saha
 
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
 Websites
 
 Insight · 30 Oct 2026

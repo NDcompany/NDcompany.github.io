@@ -128,6 +128,40 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 
+## Local SEO
+
+4 posts
+
+Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
+
+- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+  30 Oct 2026
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  28 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  28 Oct 2026
+
+[Everything tagged Local SEO](https://ndcompany.in/tags/local-seo)
+
+## Technical SEO
+
+4 posts
+
+Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
+
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  30 Oct 2026
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  25 Oct 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  30 Oct 2026
+
+[Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
+
 ## Website costs
 
 4 posts
@@ -161,35 +195,35 @@ Brand style guides that others can follow without asking you: logo rules, colour
 
 [Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
-## Local SEO
+## Google Business Profile
 
 3 posts
 
-Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
+Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 
-- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   28 Oct 2026
 
-[Everything tagged Local SEO](https://ndcompany.in/tags/local-seo)
+[Everything tagged Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
-## Technical SEO
+## Google Search Console
 
 3 posts
 
-Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
+Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 
-- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   30 Oct 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   30 Oct 2026
+- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+  28 Oct 2026
 
-[Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
+[Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
 
 ## Web accessibility
 
@@ -221,26 +255,15 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
 
 [Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
-## Google Business Profile
+## Online reviews
 
 2 posts
 
-Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
+Asking customers for reviews, replying to them and reporting the ones that break Google's policies, plus the requests and rewards those policies forbid.
 
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
-
-## Google Search Console
-
-2 posts
-
-Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
-
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   28 Oct 2026
 
 ## SEO audits
@@ -289,15 +312,6 @@ Naming brand fonts with their licences, choosing fallbacks for documents and web
 
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
   23 Oct 2026
-
-## Online reviews
-
-1 post
-
-Asking customers for reviews, replying to them and reporting the ones that break Google's policies, plus the requests and rewards those policies forbid.
-
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
 
 ## Trade marks
 
@@ -378,86 +392,86 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 6,
-            "name": "Website costs",
-            "url": "https://ndcompany.in/tags/website-costs"
-          },
-          {
-            "@type": "ListItem",
-            "position": 7,
-            "name": "Brand guidelines",
-            "url": "https://ndcompany.in/tags/brand-guidelines"
-          },
-          {
-            "@type": "ListItem",
-            "position": 8,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags/local-seo"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 7,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags/technical-seo"
           },
           {
             "@type": "ListItem",
+            "position": 8,
+            "name": "Website costs",
+            "url": "https://ndcompany.in/tags/website-costs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Brand guidelines",
+            "url": "https://ndcompany.in/tags/brand-guidelines"
+          },
+          {
+            "@type": "ListItem",
             "position": 10,
+            "name": "Google Business Profile",
+            "url": "https://ndcompany.in/tags/google-business-profile"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "Google Search Console",
+            "url": "https://ndcompany.in/tags/google-search-console"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
             "name": "Web accessibility",
             "url": "https://ndcompany.in/tags/web-accessibility"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 13,
             "name": "Website planning",
             "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",
-            "position": 12,
-            "name": "Google Business Profile",
-            "url": "https://ndcompany.in/tags#google-business-profile"
-          },
-          {
-            "@type": "ListItem",
-            "position": 13,
-            "name": "Google Search Console",
-            "url": "https://ndcompany.in/tags#google-search-console"
-          },
-          {
-            "@type": "ListItem",
             "position": 14,
+            "name": "Online reviews",
+            "url": "https://ndcompany.in/tags#online-reviews"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags#seo-audits"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 16,
             "name": "Case management",
             "url": "https://ndcompany.in/tags#case-management"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 17,
             "name": "Community platforms",
             "url": "https://ndcompany.in/tags#community-platforms"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 18,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
-          },
-          {
-            "@type": "ListItem",
-            "position": 19,
-            "name": "Online reviews",
-            "url": "https://ndcompany.in/tags#online-reviews"
           },
           {
             "@type": "ListItem",

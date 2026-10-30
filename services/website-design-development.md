@@ -250,6 +250,16 @@ Learn more
 
 Guides on the work behind Website Design & Development.
 
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
 Websites
 
 Insight · 30 Oct 2026
@@ -269,16 +279,6 @@ Insight · 29 Oct 2026
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
-
-Business
-
-Guide · 27 Oct 2026
-
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
-
-Read the guide
 
 ## Ready to start?
 

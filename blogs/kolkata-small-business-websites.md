@@ -29,7 +29,7 @@ Key takeaways
 
 ## How many Kolkata businesses have a website?
 
-Just under half. Of the 901 businesses in our sample, 430 list a website on their Google Maps profile and 471 list none. The difference between kinds of business is large. Professional firms almost all have a site: only 15 of 70 chartered accountants and 15 of 70 real estate agents list none. Places people walk into are the opposite: 50 of 56 clinics, 51 of 70 boutiques, 50 of 70 schools and 47 of 70 restaurants list no website.
+Just under half. Of the 901 businesses in our sample, 430 list a website on their Google Maps profile and 471 list none. The difference between kinds of business is large. Professional firms almost all have a site: only 15 of 70 chartered accountants and 15 of 70 real estate agents list none. Places people walk into are the opposite: 50 of 56 clinics, 51 of 70 boutiques, 50 of 70 schools and 47 of 70 restaurants list no website. Our guide to [SEO for schools and colleges](https://ndcompany.in/blogs/seo-for-educational-institutions) covers what an institution should publish first.
 
 Kolkata businesses on Google Maps with no website listed, by kind of business
 
@@ -281,7 +281,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Websites",
       "keywords": "Local SEO, Core Web Vitals, Technical SEO",
       "genre": "Insight",
-      "wordCount": 1550,
+      "wordCount": 1565,
       "inLanguage": "en-IN"
     },
     {

@@ -118,7 +118,7 @@ Sitemap: https://www.example.com/sitemap.xml
 
 ### Decide what AI crawlers may fetch
 
-You don't need llms.txt or special AI markup for Google: its [guide to AI features in Search](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) says Google Search ignores such files. [Google-Extended](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers) controls whether Gemini models may use your content, and blocking it does not affect inclusion or ranking in Google Search. [OpenAI](https://developers.openai.com/api/docs/bots) says disallowing GPTBot tells it not to use your content for training, while sites that block OAI-SearchBot are not shown in ChatGPT search answers. So blocking GPTBot or Google-Extended is a choice about how AI models may use your content. Few sites have acted either way: in the [2025 Web Almanac](https://almanac.httparchive.org/en/2025/seo), 4.2% of mobile sites named GPTBot in robots.txt and 2.1% had a valid llms.txt file.
+You don't need llms.txt or special AI markup for Google: its [guide to AI features in Search](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) says Google Search ignores such files. [Google-Extended](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers) controls whether Gemini models may use your content, and blocking it does not affect inclusion or ranking in Google Search. [OpenAI](https://developers.openai.com/api/docs/bots) says disallowing GPTBot tells it not to use your content for training, while sites that block OAI-SearchBot are not shown in ChatGPT search answers. So blocking GPTBot or Google-Extended is a choice about how AI models may use your content. Few sites have acted either way: in the [2025 Web Almanac](https://almanac.httparchive.org/en/2025/seo), 4.2% of mobile sites named GPTBot in robots.txt and 2.1% had a valid llms.txt file. Our guide to [optimizing content for LLMs](https://ndcompany.in/blogs/optimize-content-for-llms) covers each crawler and the content side.
 
 How many sites address AI crawlers, mobile sites, 2025
 
@@ -266,7 +266,7 @@ Google's [guide to hiring an SEO](https://developers.google.com/search/docs/fund
 This week, make the business a verified owner in Search Console, run your home page through URL Inspection to confirm it is indexed and the live test finds no noindex, and submit your sitemap. Then give it time. Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) suggests waiting a few weeks before judging changes, [Page indexing validation](https://support.google.com/webmasters/answer/7440203) typically takes up to about two weeks, and the [Core Web Vitals report](https://support.google.com/webmasters/answer/9205520) tracks a fix for 28 days. If you would rather hand the list over, ask us for a free SEO audit: [how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works) explains what it checks and what the report contains. More guides are on our [SEO topic page](https://ndcompany.in/blogs/topic/seo).
 
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Google Search Console](https://ndcompany.in/tags#google-search-console)
+- [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
 ## Share this post
@@ -290,31 +290,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
+SEO
+
 Guide · 26 Oct 2026
 
 ### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
 
 Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
-
-Read the guide
-
-SEO
-
-Guide · 25 Oct 2026
-
-### [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-
-From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
-
-Read the guide
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
 
 Read the guide
 
@@ -394,7 +394,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Technical SEO, Google Search Console, Core Web Vitals",
       "genre": "Guide",
-      "wordCount": 3008,
+      "wordCount": 3022,
       "inLanguage": "en-IN"
     },
     {

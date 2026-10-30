@@ -224,7 +224,7 @@ Our reading: fix Core Web Vitals because they describe what your visitors go thr
 If you would rather hand the work over, our [website design and development service](https://ndcompany.in/services/website-design-development) checks page speed on phones and desktop browsers before a site goes live. There are [more website guides](https://ndcompany.in/blogs/topic/websites) on the blog.
 
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Google Search Console](https://ndcompany.in/tags#google-search-console)
+- [Google Search Console](https://ndcompany.in/tags/google-search-console)
 
 ## Share this post
 

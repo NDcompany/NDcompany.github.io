@@ -184,23 +184,23 @@ What you can hand over, what it costs, how the hours line up with the US, what t
 
 Read the guide
 
-Websites
+SEO
 
-Insight · 30 Oct 2026
+Guide · 30 Oct 2026
 
-### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
-52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
-Read the post
+Read the guide
 
 SEO
 
-Guide · 26 Oct 2026
+Guide · 30 Oct 2026
 
-### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
 
-Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 

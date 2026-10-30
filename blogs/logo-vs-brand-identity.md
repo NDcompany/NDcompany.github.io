@@ -287,25 +287,25 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
-Websites
+SEO
 
-Insight · 30 Oct 2026
+Guide · 30 Oct 2026
 
-### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
-52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
-Read the post
+Read the guide
 
-Business
+SEO
 
-Insight · 29 Oct 2026
+Guide · 30 Oct 2026
 
-### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
 
-Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
-Read the post
+Read the guide
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 

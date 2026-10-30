@@ -14,6 +14,16 @@ Showing up when people nearby search for what you sell, and the relevance, dista
 
 ## Latest posts
 
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
 Websites
 
 Insight · 30 Oct 2026
@@ -46,16 +56,16 @@ Read the guide
 
 ## Recently updated
 
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  30 Oct 2026
+- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+  30 Oct 2026
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   30 Oct 2026
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  28 Oct 2026
 
 ## Trending tags
 
@@ -64,11 +74,11 @@ Read the guide
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Web accessibility](https://ndcompany.in/tags/web-accessibility)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -76,15 +86,15 @@ Read the guide
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [Website Design & Development](https://ndcompany.in/services/website-design-development)
-
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
-
-Learn more
-
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
 On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+
+Learn more
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Responsive websites, e-commerce development, and SEO-optimized web solutions.
 
 Learn more
 
@@ -125,18 +135,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How do schools and colleges do SEO?",
+            "url": "https://ndcompany.in/blogs/seo-for-educational-institutions"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How healthy are Kolkata small-business websites? We checked 901 businesses",
             "url": "https://ndcompany.in/blogs/kolkata-small-business-websites"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How to run a local SEO audit: a checklist for small businesses",
             "url": "https://ndcompany.in/blogs/local-seo-audit"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }
