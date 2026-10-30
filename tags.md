@@ -99,7 +99,7 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  25 Oct 2026
+  30 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   30 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
@@ -156,7 +156,7 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  25 Oct 2026
+  30 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   30 Oct 2026
 
@@ -275,7 +275,7 @@ What an SEO audit checks on a website, how its findings are ranked and scored, a
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  25 Oct 2026
+  30 Oct 2026
 
 ## Case management
 

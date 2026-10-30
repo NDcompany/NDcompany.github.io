@@ -174,7 +174,7 @@ Read the guide
   30 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   30 Oct 2026
 
 ## Trending tags
@@ -378,7 +378,7 @@ Send a few lines about your business and what you want to fix or build. We will 
           "image": "https://ndcompany.in/assets/blog/free-seo-audit-how-it-works-16x9.png",
           "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works",
           "datePublished": "2026-10-25T00:00:00+05:30",
-          "dateModified": "2026-10-25T00:00:00+05:30",
+          "dateModified": "2026-10-30T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }

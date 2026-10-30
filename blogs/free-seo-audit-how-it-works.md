@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-25T00:00:00+05:30"
-modified: "2026-10-25T00:00:00+05:30"
+modified: "2026-10-30T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/free-seo-audit-how-it-works-16x9.png"
 ---
 
@@ -15,19 +15,20 @@ image: "https://ndcompany.in/assets/blog/free-seo-audit-how-it-works-16x9.png"
 
 From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 October 2026 10 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 October 2026 Updated 30 October 2026 14 min read
 
-Our free SEO audit works in five steps. You send a short form with your name, email address, website and preferred language. We check that your email address can receive mail and that your website is not on a list of dangerous sites. Our audit tool then reads your homepage and up to nine more pages, runs technical, on-page, link, structured data and speed checks, and ranks what it finds. You get a PDF report in English, Bengali or Hindi by email within 5 working days. It costs nothing, and asking for one does not commit you to anything.
+Our free SEO audit works in five steps. You send a short form with your name, email address, website and preferred language. We send you a short confirmation email and check that it arrives, and we check that your website is not on a list of dangerous sites. Our audit tool then opens your homepage and up to nine more pages in a real browser, runs technical, on-page, link, structured data, speed and design checks, and ranks what it finds. You get a PDF report in English, Bengali or Hindi by email within 5 working days. It costs nothing, and asking for one does not commit you to anything.
 
-We built the tool ourselves, and this post shows how it works from the day your request arrives to the day the report reaches your inbox: what it reads, what it skips, how it scores your site and what happens to your details afterwards. The screenshots use made-up websites and people, so no real request appears in them.
+We built the tool ourselves, and this post shows how it works from the day your request arrives to the day the report reaches your inbox: what it reads, what it skips, how it scores your site and what happens to your details afterwards. The dashboard screenshots come from a demo copy of the tool, and the report pages are from a report on our own website, so no one else's request appears in them.
 
 Key takeaways
 
 - The form asks for four things: your name, email address, website and the language you want the report in.
-- Before anything is read from your site, we check your email address and look your website up on public lists of phishing and other dangerous sites.
-- The audit reads only public pages: the homepage, up to nine more, and your sitemap, robots.txt and llms.txt. It follows your robots.txt rules.
-- Speed results come from Google's own PageSpeed Insights test of your homepage on a phone.
-- An AI model helps write the summary from the findings alone. It never sees your name or email address.
+- Before anything is read from your site, we send you a confirmation email and check that it was delivered, and we look your website up on public lists of phishing and other dangerous sites.
+- The audit reads only public pages: the homepage, up to nine more, and your sitemap, robots.txt and llms.txt. Each page is opened in a real browser on a phone-sized and a computer-sized screen. It follows your robots.txt rules.
+- Speed results come from Google's own PageSpeed Insights, for every page we read, on a phone and on a computer.
+- The report adds a design and conversion check with a predicted attention map, and our own Google Discover and AI search readiness scores.
+- An AI model helps write the summary and the design advice from the findings alone. It never sees your name or email address.
 
 ## What is our free SEO audit?
 
@@ -35,9 +36,9 @@ An SEO audit is a check of the things that decide whether search engines can fin
 
 It is meant for business owners who want a straight answer to "what is wrong with my site, and what should I fix first?" without a sales call first. The report is yours to keep. You can fix things yourself, hand it to your developer, or ask us for a quote.
 
-![The audit dashboard's pipeline map: the website form, then in line, email check, safety check and read website along the top row, then find issues, write report, send email, delivered and follow-ups along the second row, with needs you, declined and failed as exits below](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-pipeline.webp)
+![The pipeline page of the audit dashboard: four counters at the top, then nine numbered stages, in line, email check with its mail server lookup and delivery check, safety check, read website, find issues, write report, send email, delivered and follow-ups, with notes where a row continues on the next line, and needs you, declined and failed as exits at the bottom](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-stages.webp)
 
-*The pipeline map in our private audit dashboard. Every request moves along these stages. Sample data: the counts are made up.*
+*The pipeline in our private audit dashboard. Every request moves through these nine numbered stages, and any stage can stop it. Taken from an empty demo copy, so every count is zero.*
 
 ## How to ask for a free website SEO audit
 
@@ -56,7 +57,7 @@ A bot check runs in the background when you send the form, and requests that loo
 
 Nothing is read from your website until two checks pass.
 
-First, your email address. The tool checks that the address can receive mail: that its domain accepts email, that it is not a throwaway address and that it is not an obvious typo of a common provider. It sends you nothing while it checks. If the address cannot receive mail at all, we cannot send the report, so the request stops there.
+First, your email address. The tool checks that its domain accepts email, that it is not a throwaway address and that it is not an obvious typo of a common provider. Then it sends you a short confirmation from audit@ndcompany.in, in the language you chose, to say we have your request and when the report will arrive. It waits up to 10 minutes to hear from our email provider whether that message was delivered. If it bounced, we could never send you the report either, so the audit stops there, before a single page of your site is read, and the address is not emailed again. If no answer comes within the 10 minutes, the audit carries on.
 
 Second, your website. The tool looks the site up on public lists of phishing and other dangerous websites, which it keeps up to date every day. A listed site is declined and not visited. While the pages are being read, the tool also watches for signs that a site has been hacked or is posing as another business. If it sees any, the request is held, and one of our team looks at the site before deciding whether to carry on.
 
@@ -66,44 +67,70 @@ We may also decline a request when the website does not answer, or when the same
 
 *One request from start to finish, with the email and safety checks and the scores. Sample data: the bakery, its owner and the email address are made up.*
 
-## Which pages the audit reads
+## Which pages the audit reads, and how
 
-The audit reads your website the way a search engine's crawler does: it asks for each page, reads the HTML that comes back and follows the links in it. It starts at your homepage and picks up to nine more pages from the links there and from your sitemap. It looks first for the pages that matter most to a business, such as services, products, prices and contact, then up to three of your recent blog posts if you have a blog.
+The audit starts at your homepage and picks up to nine more pages from the links there and from your sitemap. It looks first for the pages that matter most to a business, such as services, products, prices and contact, then up to three of your recent blog posts if you have a blog. Links to files, such as images and PDFs, are never counted as pages.
+
+Each page is opened in a real browser that runs on our own server, with JavaScript switched on, once on a phone-sized screen and once on a computer-sized one. That matters because many websites build part of a page with JavaScript after it loads, and a check that reads only the raw HTML can miss a title, a link or a whole menu. The report says how many of your pages were opened this way. If the browser cannot open a page, the tool reads that page's HTML the way a search engine's crawler first fetches it, so you still get a result. The browser starts only while an audit is running and closes when it ends.
 
 It also fetches three files:
 
 - robots.txt, which tells crawlers what they may visit ([Google's introduction to robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro) explains it). The audit follows its rules: a page you block from crawlers is a page we do not read.
-- Your sitemap, the list of pages you want search engines to find.
+- Your sitemap, the list of pages you want search engines to find. A Google News sitemap is checked too.
 - llms.txt, an optional file some AI tools read, proposed at [llmstxt.org](https://llmstxt.org/). The report mentions it, but never counts it as something Google ranks on.
 
 The audit never logs in, never fills in your forms and never reads anything behind a password. It reads only those few pages and files, so your server barely notices it, and it identifies itself as an N&D Co. audit with a link to our conditions page, so it is easy to spot in your server logs.
 
 ## What the SEO audit checks
 
-The checks fall into six areas. Each area gets a score out of 100, and the overall score weighs them as the table shows.
+The checks fall into seven areas. Each area gets a score out of 100, and the overall score weighs six of them as the table shows. The seventh, design and conversion, is shown on its own and does not move the overall score, because it is about what visitors do on the page, not whether search engines can find it.
 
-**The six areas of the free SEO audit and their weight in the overall score**
+**The seven areas of the free SEO audit and their weight in the overall score**
 
 | Area | What it looks at | Weight |
 | --- | --- | --- |
-| Technical | HTTPS, redirects, error pages, compression, the page language, a favicon, robots.txt and the sitemap | 25% |
-| On-page | Page titles, meta descriptions, headings, image alt text, the mobile viewport and social sharing tags | 25% |
+| Technical | HTTPS, redirects, error pages, compression, the page language and its language versions, a favicon, robots.txt, the sitemap, tags that JavaScript changes after the page loads, and the technologies your site runs on, with a warning for a version that no longer gets updates | 25% |
+| On-page | Page titles, meta descriptions, headings, image alt text and sizes, the mobile viewport and social sharing tags | 25% |
 | Indexing | noindex tags and headers, pages blocked by robots.txt, canonical tags and errors in the sitemap | 20% |
-| Speed | Google PageSpeed Insights for your homepage on a phone, plus page size, slow responses and scripts that hold up the first paint | 15% |
+| Speed | Google PageSpeed Insights for every page we read, on a phone and on a computer, plus page size, slow responses and scripts that hold up the first paint | 15% |
 | Links | Broken internal links and internal links that redirect | 10% |
-| Structured data | Whether your pages carry structured data, whether it is valid JSON, and Organization data on the homepage | 5% |
+| Structured data | Whether your pages carry structured data, whether it is valid and complete, and Organization data on the homepage | 5% |
+| Design and conversion | A clear button to act on in the first screen and whether it stands out, buttons and links big enough to tap, text big enough to read, layouts that overflow or overlap on a phone, a way to contact you, and accessibility problems | Shown on its own |
 
 Many of these checks come straight from Google's documentation. Google asks for a title on every page and warns against [repeated or boilerplate text in titles](https://developers.google.com/search/docs/appearance/title-link), and it says that [identical or similar descriptions on every page](https://developers.google.com/search/docs/appearance/snippet) are not helpful in search results. Our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist) covers the same ground in more depth if you want to understand each check.
 
-For speed, the tool asks Google's PageSpeed Insights to test your homepage on a phone. PageSpeed Insights reports two kinds of data. [Lab data from Lighthouse](https://developers.google.com/speed/docs/insights/v5/about) comes from a test run in a controlled setting, which is useful for finding the cause of a problem. Field data comes from real Chrome visitors over the previous 28 days, measured at the 75th percentile, and appears only when Google has enough of it for your site. A page passes Core Web Vitals when LCP is 2.5 seconds or less, INP 200 milliseconds or less and CLS 0.1 or less. The report shows both kinds of data and labels them as Google's, and says so plainly when Google has no real-visitor data for your site. Our guide to [Core Web Vitals](https://ndcompany.in/blogs/core-web-vitals-explained) explains what those three measures mean.
+For speed, the tool asks Google's PageSpeed Insights to test every page it reads, once on a phone and once on a computer. PageSpeed Insights reports two kinds of data. [Lab data from Lighthouse](https://developers.google.com/speed/docs/insights/v5/about) comes from a test run in a controlled setting, which is useful for finding the cause of a problem. Field data comes from real Chrome visitors over the previous 28 days, measured at the 75th percentile, and appears only when Google has enough of it for your site. A page passes Core Web Vitals when LCP is 2.5 seconds or less, INP 200 milliseconds or less and CLS 0.1 or less. The report shows both kinds of data and labels them as Google's, and says so plainly when Google has no real-visitor data for your site. Our guide to [Core Web Vitals](https://ndcompany.in/blogs/core-web-vitals-explained) explains what those three measures mean.
+
+![The audit result for our own website in the dashboard: an overall score of 100, a findings by severity chart with two info notes, a crawl summary showing 10 pages read and 10 opened in a browser in 68 seconds, gauges for technical, on-page, indexing, speed, links, structured data and design, and two search readiness gauges for Google Discover and AI search, each marked as our own score, not a Google score](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-audit-result.webp)
+
+*The result block of an audit of our own website: the overall score, the seven area scores and the two readiness scores.*
+
+### Design and conversion, with a predicted attention map
+
+Because each page is opened on a phone-sized and a computer-sized screen, the tool can measure what a visitor sees first: where the buttons are, how much they stand out from the page, how big the text and tap targets are, and whether anything overlaps or runs off the side of a phone screen. It also runs an automatic accessibility check on each page, so problems such as low-contrast text or buttons without names show up.
+
+From the first screen of your homepage it draws a predicted attention map: warmer colours where a visitor's eye is likely to land first, judged from the size, contrast and position of each thing on the screen. It is a prediction, not data about real visitors, and the report says so beside every map. An AI model then turns the measured design findings into a few plain suggestions, such as where a button could go and what it could say. It works from the measurements alone.
+
+![The design and conversion card for our own homepage: predicted attention maps over a phone screenshot and a computer screenshot, labelled predicted attention, not real visitor data, with warm colours over the heading and the main button, followed by written advice, a short list of what to change first and two suggestions for button placement and wording](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-design.webp)
+
+*The design and conversion check on our own homepage. The colours are a prediction from the page's layout, not visitor data.*
+
+### Google Discover and AI search readiness
+
+Two more scores sit beside the area scores. Both are our own, built from a short list of checks, and neither is a Google score.
+
+- Google Discover readiness looks at what Google's [guidance for Discover](https://developers.google.com/search/docs/appearance/google-discover) asks for: permission for large image previews, large enough images, publication and update dates on articles, full publisher details, a feed, and recent dated content.
+- AI search readiness looks at whether assistants such as ChatGPT, Claude, Gemini and Perplexity can read your site and know who is behind it: whether robots.txt lets their crawlers in, whether your content is in the page without JavaScript (many AI crawlers do not run it), whether your business is linked to its profiles elsewhere, whether you have about, contact and privacy pages, and whether your articles name an author.
+
+The report also lists local search signals for businesses that serve a place: a click-to-call phone number on the homepage, business details with your address in the page code, opening hours, and a link to your Google Maps listing.
 
 ## How findings are ranked and scored
 
-Every check that fails becomes a finding with a severity: critical, high, medium or low. A homepage that tells Google not to index it is rated high; a heading that skips a level is rated low. Findings are sorted by severity first, then by how many pages they affect, so a problem on all ten pages comes before the same problem on one.
+Every check that fails becomes a finding with a severity: critical, high, medium or low. Suggestions that are worth knowing but do not count against you, such as most design advice, are marked info. A homepage that tells Google not to index it is rated high; a heading that skips a level is rated low. Findings are sorted by severity first, then by how many pages they affect, so a problem on all ten pages comes before the same problem on one.
 
 The report explains the most important findings one by one: what is wrong, why it matters, how to fix it and a few example pages where we saw it. The rest are listed more briefly. A recommended order of work closes the findings, so you know where to start.
 
-The overall score is our own measure, built from the six area scores and the weights above. It is not a Google score, and the report says so on its first page. Use it to compare your site with itself after you fix things, not with other sites.
+The overall score is our own measure, built from the six weighted area scores. It is not a Google score, and the report says so on its first page. Use it to compare your site with itself after you fix things, not with other sites.
 
 ![The findings list for a sample audit, sorted by severity: two high findings, duplicate page titles across four pages and broken internal links on two, then medium findings for render-blocking scripts, missing image alt text, missing meta descriptions and sitemap errors, then two low ones; the first is open to show why it matters, the fix and four example pages](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-findings.webp)
 
@@ -111,24 +138,30 @@ The overall score is our own measure, built from the six area scores and the wei
 
 ## What is in the SEO audit report: a sample
 
-The report is a PDF of a few pages, attached to an email from an N&D Co. address. In order, it contains:
+The report is a PDF of about ten pages, kept under 1 MB so it reaches any inbox, attached to an email from an N&D Co. address. In order, it contains:
 
-1. Your overall score and a short summary of what matters most.
-2. A score for each of the six areas.
-3. The most important fixes, each with why it matters, the fix and example pages.
-4. Your PageSpeed Insights results and the recommended order of work.
-5. A page on how we could fix these for you, with the services that match your findings. It is left out if you unsubscribed from our offers earlier.
-6. The scope and its limits: the pages we read, whether your sitemap, robots.txt and llms.txt were found, and what the report does not promise.
+1. Your homepage on a computer, a tablet and a phone, your overall score and a short summary of what matters most.
+2. A score for each area, a chart of the problems by severity, and your Google Discover and AI search readiness.
+3. How every page we read looks on a computer and a phone, with its PageSpeed Insights score on each.
+4. The design and conversion page, with the predicted attention maps and what to change first.
+5. Your local search signals and the technologies we found on your site.
+6. The most important fixes, each with why it matters, the fix and example pages, then the recommended order of work.
+7. A page on how we could fix these for you, with links to the matching services and their starting prices. If you unsubscribed from our offers earlier, this page is left out.
+8. The scope and its limits: the pages we read, how many were opened in a browser, whether your sitemap, robots.txt and llms.txt were found, and what the report does not promise.
 
-The summary at the top and the page about our services are drafted by an AI model. It works from the audit's findings and your public pages only; it never receives your name, your email address or anything else you typed into the form. The tool checks each draft against rules before it goes into the PDF: what it says must match a finding, it may name only our real services, it may not add links and it may not bring in numbers the findings do not contain. If no AI model is available, the report uses plain text built from the findings instead. Your name is added by the tool afterwards, outside the AI step.
+![The first page of a free SEO audit report on our own website, ndcompany.in: the N&D Co. logo, the homepage shown on a computer, a tablet and a phone, an overall SEO score of 100 out of 100 with a note that it is our own score and not a Google score, and a short summary of what matters most](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-cover.webp)
 
-![The first page of a sample free SEO audit report for a made-up bakery website: the N&D Co. logo, report ID and date, an overall SEO score of 68 out of 100 with a note that it is not a Google score, a short summary of what matters most, scores by area and the first of the most important fixes](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-page-1.webp)
+*Page one of a report on our own website, with the homepage on three screen sizes and the overall score. The report number is blurred.*
 
-*Page one of a sample report: the score, the summary, the area scores and the first fix. Sample data for a made-up website.*
+![The scores page of the same report: bars for technical SEO, indexability, on-page SEO, links and images, structured data, performance and design and conversion, a donut chart of problems by severity, and cards for Google Discover readiness and AI search readiness, each explaining that it is our own score](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-scores.webp)
 
-![A later page of the sample report: Google PageSpeed Insights results on mobile with Lighthouse scores for performance, accessibility, best practices and SEO, the lab measurements for LCP, CLS and TBT, a note that Google has no real-visitor Core Web Vitals for the site yet, and a numbered recommended order of work](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-page-4.webp)
+*Scores by area, problems by severity and the two readiness scores.*
 
-*The PageSpeed Insights section and the recommended order of work. Sample data for a made-up website.*
+![The speed page of the same report: a table of every page checked with its PageSpeed Insights performance score on a computer and on a phone, and a bar chart comparing the two for each page](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-speed.webp)
+
+*Every page's PageSpeed Insights score on a computer and on a phone.*
+
+The summary at the top, the design advice and the page about our services are drafted by an AI model, either Google's Gemini or a model that runs on our own server. It works from the audit's findings and your public pages only; it never receives your name, your email address or anything else you typed into the form. The tool checks each draft against rules before it goes into the PDF: what it says must match a finding, it may name only our real services, it may not add links and it may not bring in numbers the findings do not contain. If no AI model is available, the report uses plain text built from the findings instead. Your name is added by the tool afterwards, outside the AI step.
 
 ## How we keep track of your request
 
@@ -146,6 +179,7 @@ We use your name, email address, website and language to prepare and send the re
 
 - Your request is kept for 24 months after it arrives, then deleted, unless you become a client. You can ask us to delete it sooner.
 - Each request and report is stored encrypted with a key of its own. Deleting a request destroys its key, so within 30 days its backups can no longer be read either.
+- The screenshots and page copies an audit makes are deleted as soon as it ends. Only the encrypted report and the results stay.
 - The copy in the online inbox the form writes to is cut down to its number, dates and status 30 days after the request is finished.
 - Every email has a one-click unsubscribe link. After you unsubscribe, we send you no more offers, follow-ups or tips. If you ask for another audit later, you get the report without an offer.
 - AI models see your public pages and the audit's findings, never your name or email address.
@@ -156,6 +190,7 @@ The report describes what the checks found on the day they ran, and it has limit
 
 - It reads ten pages at most. A large site or online store can have problems on pages we did not read.
 - It does not research keywords, look at your competitors or check the links other sites point at yours.
+- Its attention maps are predictions from your page's layout, not recordings of real visitors.
 - It does not see inside your Google Search Console, which shows how Google itself indexes your site. Our checklist explains [how to set up Search Console](https://ndcompany.in/blogs/technical-seo-checklist) with the business as owner.
 - It is not a promise of rankings, traffic or sales, and it is not legal or security advice.
 
@@ -270,7 +305,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-25T00:00:00+05:30",
-      "dateModified": "2026-10-25T00:00:00+05:30",
+      "dateModified": "2026-10-30T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -290,7 +325,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "SEO audits, Technical SEO, Core Web Vitals",
       "genre": "Guide",
-      "wordCount": 2229,
+      "wordCount": 3107,
       "inLanguage": "en-IN"
     },
     {
