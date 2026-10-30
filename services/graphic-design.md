@@ -10,7 +10,7 @@ Print and digital design
 
 # Graphic design services and brochure design in Kolkata
 
-We design the graphics a business puts in front of people every day: social media posts, posters, business cards, brochures, ad creatives and packaging. Every piece is built on your brand assets and delivered as print-ready and editable files you keep.
+We are a graphic design agency in Kolkata. We design the graphics a business puts in front of people every day: social media posts, posters, business cards, brochures, ad creatives and packaging. Every piece is built on your brand assets and delivered as print-ready and editable files you keep.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -170,6 +170,7 @@ After the balance is paid we deliver print-ready PDFs, web-ready PNG or JPG file
 - Small businesses in Kolkata, across India and worldwide that need a steady supply of posters, social posts and print pieces without hiring a designer.
 - Startups with a logo but nothing else that need business cards, a one-page profile and social templates before launch.
 - Marketing teams with more requests than in-house capacity that want a designer who follows their brand guidelines.
+- Businesses comparing graphic design companies that want one agency for both print and social media work, instead of a different freelancer for each job.
 - Product businesses that need labels and packaging laid out correctly on the supplier dieline.
 - Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 

@@ -101,7 +101,7 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  28 Oct 2026
+  30 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
   23 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
@@ -187,7 +187,7 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   25 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  28 Oct 2026
+  30 Oct 2026
 
 [Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
 
@@ -239,7 +239,7 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
 Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  28 Oct 2026
+  30 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   28 Oct 2026
 

@@ -80,9 +80,9 @@ Read the guide
   30 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  30 Oct 2026
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
   28 Oct 2026

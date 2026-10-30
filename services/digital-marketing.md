@@ -176,7 +176,7 @@ At the end of every month you receive the report and a short call to walk throug
 ## Who this is for
 
 - Small and mid-sized businesses in Kolkata, across India and worldwide that want leads from paid search and social ads.
-- Online stores that need someone to run product campaigns and report on cost per order.
+- Online stores and D2C (direct-to-consumer) brands that need someone to run product campaigns and report on cost per order.
 - Service businesses such as clinics, coaching institutes, real estate agencies and professional firms that depend on a steady flow of leads.
 - Founders who have run ads themselves and want to hand the account to a team that reports back every month.
 - Agencies that resell this work under their own name: see our [white label Google Ads](https://ndcompany.in/white-label/google-ads) page.

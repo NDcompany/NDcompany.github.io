@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/technical-seo-checklist"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-23T00:00:00+05:30"
-modified: "2026-10-28T00:00:00+05:30"
+modified: "2026-10-30T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/technical-seo-checklist-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/technical-seo-checklist-16x9.png"
 
 Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 28 October 2026 13 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 30 October 2026 14 min read
 
 A technical SEO checklist for a small business website covers the checks that decide whether Google can find, read, index and show your pages: Search Console access, indexing, robots.txt, the sitemap, one address per page, HTTPS, phones, speed, JavaScript, errors and redirects, structured data, and page titles. Work through it in that order, because the later checks only matter once the early ones pass. Run the full list at launch or after a rebuild, then check the main Search Console reports once a month.
 
@@ -152,6 +152,16 @@ A sitemap lists the pages you want Google to find. A site of about 500 pages or 
 One page often loads at several addresses, for example [http and https versions, sorting and filtering options, or a demo copy of the site left open to crawlers](https://developers.google.com/search/docs/crawling-indexing/canonicalization). Some duplication is normal and not spam, but Google will pick one version as canonical. A redirect or a `rel="canonical"` link is a [strong signal](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls) for the version you prefer, and a sitemap entry a weak one. Don't use robots.txt or noindex for this: noindex blocks the page from Search completely. URL Inspection shows the canonical you declared next to the one Google selected.
 
 Online stores need the most care, because sorting and filters can give one category page many addresses. Clean URLs are part of our [online store builds](https://ndcompany.in/services/ecommerce-solutions).
+
+### What does a well-optimized URL look like?
+
+One a person can read. Google's [URL structure guide](https://developers.google.com/search/docs/crawling-indexing/url-structure) recommends readable words rather than long ID numbers, words in your audience's own language, and hyphens between words rather than underscores or words run together. Google treats URLs as case sensitive, so `/Services` and `/services` are two addresses: pick lowercase and redirect the other spelling.
+
+- Readable: `example.com/services/website-design` rather than `example.com/index.php?page=42&id=3a5ebc94`
+- Hyphens: `/green-dress` rather than `/green_dress` or `/greendress`
+- Parameters: `?category=dresses&sort=low-to-high`, with an equals sign between each key and value and an ampersand between pairs
+
+Keep only the parameters that change what the page shows. Session IDs, referral tags and sort orders multiply the addresses of one page, and the guide suggests cookies instead of session IDs. Don't use a `#` fragment to load different content either, because Google Search generally doesn't support fragments.
 
 ## 6. Finish the move to HTTPS
 
@@ -364,7 +374,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-23T00:00:00+05:30",
-      "dateModified": "2026-10-28T00:00:00+05:30",
+      "dateModified": "2026-10-30T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -384,7 +394,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Technical SEO, Google Search Console, Core Web Vitals",
       "genre": "Guide",
-      "wordCount": 2869,
+      "wordCount": 3008,
       "inLanguage": "en-IN"
     },
     {

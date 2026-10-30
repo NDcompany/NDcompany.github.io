@@ -187,6 +187,7 @@ At the end of each month you get the work log, ranking and traffic data, and the
 - Businesses in Kolkata, across India and worldwide whose website gets little or no traffic from Google.
 - Companies spending on ads that want organic search to carry part of the load.
 - Local service providers who want to appear in map results and "near me" searches.
+- Businesses in the US, Europe and elsewhere looking for an SEO agency in India, with monthly reports in English and prices in US dollars.
 - Site owners who have paid for SEO before and never received a clear report of what was changed.
 - Agencies that resell this work under their own name: see our [white label SEO](https://ndcompany.in/white-label/seo) page.
 

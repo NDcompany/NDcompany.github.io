@@ -10,7 +10,7 @@ SEO and social content
 
 # Content marketing and SEO copywriting in Kolkata, for websites and social media
 
-We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
+We are a content marketing agency in Kolkata. We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -176,6 +176,7 @@ You send notes in the document and we revise within the agreed rounds. Final fil
 - Businesses in Kolkata, across India and worldwide with a website but nobody with time to write for it.
 - E-commerce stores with hundreds of products that need descriptions written to one consistent format.
 - Service businesses running Google Ads or social campaigns that need landing pages and captions written to the campaign.
+- Businesses comparing content marketing companies that want research, writing and editing from one team on a fixed calendar.
 - Marketing managers who want blog output on a fixed schedule from a writer who follows their brand guidelines.
 - Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 

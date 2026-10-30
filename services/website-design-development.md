@@ -18,7 +18,7 @@ We design and build custom websites for businesses that need a site to bring in 
 
 ## What is Website Design & Development?
 
-Website Design & Development at N&D Co. is a custom web design and build service that covers responsive business websites, e-commerce stores, WordPress and CMS sites, business landing pages and custom web applications. Every site is designed from scratch rather than from a template, works on phones and desktops, and has the on-page basics search engines need. The service is for businesses and independent professionals that need a site built or rebuilt. N&D Co. is based in Barrackpore, Kolkata, West Bengal, and works remotely with clients worldwide.
+Website Design & Development at N&D Co. is a custom web design and build service that covers responsive business and corporate websites, e-commerce stores, WordPress and CMS sites, business landing pages and custom web applications. Every site is designed from scratch rather than from a template, works on phones and desktops, and has the on-page basics search engines need. The service is for businesses and independent professionals that need a site built or rebuilt. N&D Co. is based in Barrackpore, Kolkata, West Bengal, and works remotely with clients worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
 
@@ -42,9 +42,9 @@ Page titles, headings, image alt text and load speed are handled during the buil
 
 Custom page layouts designed for your content, with mobile and desktop versions reviewed with you before development begins.
 
-### Business website development
+### Business and corporate website development
 
-Hand-built front end for multi-page business sites: home, services, about, contact and any other pages in the agreed scope.
+Hand-built front end for multi-page business and corporate sites: home, services, about, contact and any other pages in the agreed scope.
 
 ### E-commerce websites
 
@@ -297,7 +297,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/website-design-development#service",
       "name": "Website Design & Development",
       "serviceType": "Website Design & Development",
-      "description": "Website Design & Development at N&D Co. is a custom web design and build service that covers responsive business websites, e-commerce stores, WordPress and CMS sites, business landing pages and custom web applications. Every site is designed from scratch rather than from a template, works on phones and desktops, and has the on-page basics search engines need. The service is for businesses and independent professionals that need a site built or rebuilt. N&D Co. is based in Barrackpore, Kolkata, West Bengal, and works remotely with clients worldwide.",
+      "description": "Website Design & Development at N&D Co. is a custom web design and build service that covers responsive business and corporate websites, e-commerce stores, WordPress and CMS sites, business landing pages and custom web applications. Every site is designed from scratch rather than from a template, works on phones and desktops, and has the on-page basics search engines need. The service is for businesses and independent professionals that need a site built or rebuilt. N&D Co. is based in Barrackpore, Kolkata, West Bengal, and works remotely with clients worldwide.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },

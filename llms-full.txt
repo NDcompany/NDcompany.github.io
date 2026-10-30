@@ -382,7 +382,7 @@ We design and build custom websites for businesses that need a site to bring in 
 
 ## What is Website Design & Development?
 
-Website Design & Development at N&D Co. is a custom web design and build service that covers responsive business websites, e-commerce stores, WordPress and CMS sites, business landing pages and custom web applications. Every site is designed from scratch rather than from a template, works on phones and desktops, and has the on-page basics search engines need. The service is for businesses and independent professionals that need a site built or rebuilt. N&D Co. is based in Barrackpore, Kolkata, West Bengal, and works remotely with clients worldwide.
+Website Design & Development at N&D Co. is a custom web design and build service that covers responsive business and corporate websites, e-commerce stores, WordPress and CMS sites, business landing pages and custom web applications. Every site is designed from scratch rather than from a template, works on phones and desktops, and has the on-page basics search engines need. The service is for businesses and independent professionals that need a site built or rebuilt. N&D Co. is based in Barrackpore, Kolkata, West Bengal, and works remotely with clients worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
 
@@ -406,9 +406,9 @@ Page titles, headings, image alt text and load speed are handled during the buil
 
 Custom page layouts designed for your content, with mobile and desktop versions reviewed with you before development begins.
 
-### Business website development
+### Business and corporate website development
 
-Hand-built front end for multi-page business sites: home, services, about, contact and any other pages in the agreed scope.
+Hand-built front end for multi-page business and corporate sites: home, services, about, contact and any other pages in the agreed scope.
 
 ### E-commerce websites
 
@@ -835,6 +835,7 @@ At the end of each month you get the work log, ranking and traffic data, and the
 - Businesses in Kolkata, across India and worldwide whose website gets little or no traffic from Google.
 - Companies spending on ads that want organic search to carry part of the load.
 - Local service providers who want to appear in map results and "near me" searches.
+- Businesses in the US, Europe and elsewhere looking for an SEO agency in India, with monthly reports in English and prices in US dollars.
 - Site owners who have paid for SEO before and never received a clear report of what was changed.
 - Agencies that resell this work under their own name: see our [white label SEO](https://ndcompany.in/white-label/seo) page.
 
@@ -2248,7 +2249,7 @@ At the end of every month you receive the report and a short call to walk throug
 ## Who this is for
 
 - Small and mid-sized businesses in Kolkata, across India and worldwide that want leads from paid search and social ads.
-- Online stores that need someone to run product campaigns and report on cost per order.
+- Online stores and D2C (direct-to-consumer) brands that need someone to run product campaigns and report on cost per order.
 - Service businesses such as clinics, coaching institutes, real estate agencies and professional firms that depend on a steady flow of leads.
 - Founders who have run ads themselves and want to hand the account to a team that reports back every month.
 - Agencies that resell this work under their own name: see our [white label Google Ads](https://ndcompany.in/white-label/google-ads) page.
@@ -2937,7 +2938,7 @@ Print and digital design
 
 Source: https://ndcompany.in/services/graphic-design
 
-We design the graphics a business puts in front of people every day: social media posts, posters, business cards, brochures, ad creatives and packaging. Every piece is built on your brand assets and delivered as print-ready and editable files you keep.
+We are a graphic design agency in Kolkata. We design the graphics a business puts in front of people every day: social media posts, posters, business cards, brochures, ad creatives and packaging. Every piece is built on your brand assets and delivered as print-ready and editable files you keep.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -3097,6 +3098,7 @@ After the balance is paid we deliver print-ready PDFs, web-ready PNG or JPG file
 - Small businesses in Kolkata, across India and worldwide that need a steady supply of posters, social posts and print pieces without hiring a designer.
 - Startups with a logo but nothing else that need business cards, a one-page profile and social templates before launch.
 - Marketing teams with more requests than in-house capacity that want a designer who follows their brand guidelines.
+- Businesses comparing graphic design companies that want one agency for both print and social media work, instead of a different freelancer for each job.
 - Product businesses that need labels and packaging laid out correctly on the supplier dieline.
 - Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
@@ -3521,7 +3523,7 @@ SEO and social content
 
 Source: https://ndcompany.in/services/content-creation
 
-We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
+We are a content marketing agency in Kolkata. We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -3687,6 +3689,7 @@ You send notes in the document and we revise within the agreed rounds. Final fil
 - Businesses in Kolkata, across India and worldwide with a website but nobody with time to write for it.
 - E-commerce stores with hundreds of products that need descriptions written to one consistent format.
 - Service businesses running Google Ads or social campaigns that need landing pages and captions written to the campaign.
+- Businesses comparing content marketing companies that want research, writing and editing from one team on a fixed calendar.
 - Marketing managers who want blog output on a fixed schedule from a writer who follows their brand guidelines.
 - Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
@@ -11221,11 +11224,11 @@ Send a few lines about your business and what you are trying to fix. We will rep
 # Technical SEO checklist for small business websites
 
 Source: https://ndcompany.in/blogs/technical-seo-checklist
-Updated: 2026-10-28
+Updated: 2026-10-30
 
 Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 28 October 2026 13 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 30 October 2026 14 min read
 
 A technical SEO checklist for a small business website covers the checks that decide whether Google can find, read, index and show your pages: Search Console access, indexing, robots.txt, the sitemap, one address per page, HTTPS, phones, speed, JavaScript, errors and redirects, structured data, and page titles. Work through it in that order, because the later checks only matter once the early ones pass. Run the full list at launch or after a rebuild, then check the main Search Console reports once a month.
 
@@ -11362,6 +11365,16 @@ A sitemap lists the pages you want Google to find. A site of about 500 pages or 
 One page often loads at several addresses, for example [http and https versions, sorting and filtering options, or a demo copy of the site left open to crawlers](https://developers.google.com/search/docs/crawling-indexing/canonicalization). Some duplication is normal and not spam, but Google will pick one version as canonical. A redirect or a `rel="canonical"` link is a [strong signal](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls) for the version you prefer, and a sitemap entry a weak one. Don't use robots.txt or noindex for this: noindex blocks the page from Search completely. URL Inspection shows the canonical you declared next to the one Google selected.
 
 Online stores need the most care, because sorting and filters can give one category page many addresses. Clean URLs are part of our [online store builds](https://ndcompany.in/services/ecommerce-solutions).
+
+### What does a well-optimized URL look like?
+
+One a person can read. Google's [URL structure guide](https://developers.google.com/search/docs/crawling-indexing/url-structure) recommends readable words rather than long ID numbers, words in your audience's own language, and hyphens between words rather than underscores or words run together. Google treats URLs as case sensitive, so `/Services` and `/services` are two addresses: pick lowercase and redirect the other spelling.
+
+- Readable: `example.com/services/website-design` rather than `example.com/index.php?page=42&id=3a5ebc94`
+- Hyphens: `/green-dress` rather than `/green_dress` or `/greendress`
+- Parameters: `?category=dresses&sort=low-to-high`, with an equals sign between each key and value and an ampersand between pairs
+
+Keep only the parameters that change what the page shows. Session IDs, referral tags and sort orders multiply the addresses of one page, and the guide suggests cookies instead of session IDs. Don't use a `#` fragment to load different content either, because Google Search generally doesn't support fragments.
 
 ## 6. Finish the move to HTTPS
 
