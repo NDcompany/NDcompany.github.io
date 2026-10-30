@@ -79,6 +79,16 @@ Wafflery's
 
 Guides from our blogs on the same kind of work.
 
+SEO
+
+Guide · 31 Oct 2026
+
+### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+
+Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
+
+Read the guide
+
 Business
 
 Insight · 29 Oct 2026
@@ -96,16 +106,6 @@ Guide · 27 Oct 2026
 ### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
 
 What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
-
-Read the guide
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
 
 Read the guide
 

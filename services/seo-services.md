@@ -257,6 +257,16 @@ Guides on the work behind SEO Services.
 
 SEO
 
+Guide · 31 Oct 2026
+
+### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+
+Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
+
+Read the guide
+
+SEO
+
 Guide · 30 Oct 2026
 
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -274,16 +284,6 @@ Guide · 30 Oct 2026
 Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
-
-Websites
-
-Insight · 30 Oct 2026
-
-### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
-
-52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
-
-Read the post
 
 ## Ready to start?
 

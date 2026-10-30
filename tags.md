@@ -71,10 +71,12 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 
 ## Working with an agency
 
-6 posts
+7 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  31 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 - [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
@@ -225,6 +227,21 @@ Setting up Google's free Search Console with the business as owner, then reading
 
 [Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
 
+## SEO audits
+
+3 posts
+
+What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
+
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  31 Oct 2026
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  28 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  30 Oct 2026
+
+[Everything tagged SEO audits](https://ndcompany.in/tags/seo-audits)
+
 ## Web accessibility
 
 3 posts
@@ -265,17 +282,6 @@ Asking customers for reviews, replying to them and reporting the ones that break
   30 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   28 Oct 2026
-
-## SEO audits
-
-2 posts
-
-What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
-
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  30 Oct 2026
 
 ## Case management
 
@@ -428,26 +434,26 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 12,
+            "name": "SEO audits",
+            "url": "https://ndcompany.in/tags/seo-audits"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
             "name": "Web accessibility",
             "url": "https://ndcompany.in/tags/web-accessibility"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 14,
             "name": "Website planning",
             "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 15,
             "name": "Online reviews",
             "url": "https://ndcompany.in/tags#online-reviews"
-          },
-          {
-            "@type": "ListItem",
-            "position": 15,
-            "name": "SEO audits",
-            "url": "https://ndcompany.in/tags#seo-audits"
           },
           {
             "@type": "ListItem",

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (102 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (104 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -118,23 +118,23 @@
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/webshop-laten-maken</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/logo-laten-ontwerpen</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/huisstijl-laten-maken</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/herroepingsrecht</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label</loc>
@@ -174,11 +174,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/websites</loc>
@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/core-web-vitals</loc>
@@ -241,6 +241,10 @@
     <lastmod>2026-10-30</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/tags/seo-audits</loc>
+    <lastmod>2026-10-31</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/tags/web-accessibility</loc>
     <lastmod>2026-10-25</lastmod>
   </url>
@@ -254,7 +258,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
@@ -632,6 +636,10 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/seo-cost-india</loc>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/optimize-content-for-llms</loc>

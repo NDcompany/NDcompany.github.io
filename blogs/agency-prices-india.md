@@ -107,7 +107,7 @@ Median starting price by service, in rupees
 
 *Starting price is each agency's cheapest published package for that service, in rupees, as shown on its own website. Ad spend is not included in ads management fees. Social media and ads figures rest on three and five agencies. Source: N&D Co. survey of agency websites, 29 October 2026.*
 
-Packages that list their contents are mostly sized by the number of target keywords, for example 5, 10, 15 or 20 a month. Five of the 16 agencies that priced SEO in rupees set a minimum term of three or six months, and seven mentioned optimising for AI search (GEO or AEO) in their packages. A cheaper package usually means fewer keywords, less content and less link building, not the same work for less. A [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) shows what a site needs before you pay for anything, and our [SEO services](https://ndcompany.in/services/seo-services) page lists what each month of work covers.
+Packages that list their contents are mostly sized by the number of target keywords, for example 5, 10, 15 or 20 a month. Five of the 16 agencies that priced SEO in rupees set a minimum term of three or six months, and seven mentioned optimising for AI search (GEO or AEO) in their packages. A cheaper package usually means fewer keywords, less content and less link building, not the same work for less. A [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) shows what a site needs before you pay for anything, and our [SEO services](https://ndcompany.in/services/seo-services) page lists what each month of work covers. Our guide to [SEO costs in India](https://ndcompany.in/blogs/seo-cost-india) goes through what a monthly fee buys, which quotes to doubt and how to compare them.
 
 ## What do social media and ads management cost?
 
@@ -186,11 +186,11 @@ Read the guide
 
 SEO
 
-Guide · 30 Oct 2026
+Guide · 31 Oct 2026
 
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
 
 Read the guide
 
@@ -198,9 +198,9 @@ SEO
 
 Guide · 30 Oct 2026
 
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 
@@ -286,7 +286,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Business",
       "keywords": "Website costs, Working with an agency",
       "genre": "Insight",
-      "wordCount": 1883,
+      "wordCount": 1906,
       "inLanguage": "en-IN"
     },
     {

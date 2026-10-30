@@ -56,6 +56,8 @@ Read the guide
 
 ## Recently updated
 
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  31 Oct 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   30 Oct 2026
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
@@ -63,8 +65,6 @@ Read the guide
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  30 Oct 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   30 Oct 2026
 
 ## Trending tags

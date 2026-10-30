@@ -31,6 +31,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india): What SEO costs in India in 2026: monthly package prices from 108 agency websites, what a fee covers, red flags, GST and how to compare quotes.
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms): What Google, OpenAI, Anthropic and Perplexity say about their crawlers, robots.txt, llms.txt and content, and how to check your own site for AI search.
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions): How schools, colleges and coaching institutes get found on Google: admission and fee pages, a Business Profile per campus, titles, reviews and language pages.
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites): Half of 901 Kolkata businesses on Google Maps have no website. We checked the rest: dead links, missing basics, local markup and mobile speed, 30 October 2026.
@@ -99,6 +100,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Google Business Profile](https://ndcompany.in/tags/google-business-profile): Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 - [Google Search Console](https://ndcompany.in/tags/google-search-console): Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
+- [SEO audits](https://ndcompany.in/tags/seo-audits): What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility): WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
 - [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
@@ -132,7 +134,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 
 ## In Dutch (Nederlands)
 
-- [Website laten maken](https://ndcompany.in/nl/website-laten-maken): Website laten maken: een eigen ontwerp vanaf € 349, een zakelijke website met CMS voor € 699, een webshop of webapp vanaf € 1.499. Met schriftelijke offerte.
+- [Website laten maken](https://ndcompany.in/nl/website-laten-maken): Maatwerkwebsite laten maken: eigen ontwerp vanaf € 349, zakelijke website met CMS voor € 699, webshop of webapp vanaf € 1.499. Met een schriftelijke offerte.
 - [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken): Webshop laten maken in Shopify of WooCommerce: vanaf € 1.299, met eigen paginaontwerpen voor € 2.299, of maatwerk vanaf € 3.499. Met schriftelijke offerte vooraf.
 - [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen): Logo laten ontwerpen: een concept met twee correctierondes voor € 149, een volledige logoset met stijlgids voor € 399, of maatwerk vanaf € 799. Inclusief vectorbestanden.
 - [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken): Huisstijl laten maken: logo, kleuren, lettertypen en een stijlgids vanaf € 449, met visitekaartjes, briefpapier en templates voor € 899, of maatwerk vanaf € 1.799.

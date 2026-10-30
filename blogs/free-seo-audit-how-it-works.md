@@ -196,7 +196,7 @@ The report describes what the checks found on the day they ran, and it has limit
 
 If you want to check a single page right now, our free [RankGuru on-page checker](https://ndcompany.in/tools/rankguru) runs in your browser and shows the results on screen. If the report shows more than you want to fix yourself, our [SEO services](https://ndcompany.in/services/seo-services) start from the same findings, and we put the scope and price in writing before any work begins.
 
-- [SEO audits](https://ndcompany.in/tags#seo-audits)
+- [SEO audits](https://ndcompany.in/tags/seo-audits)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
@@ -221,6 +221,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 31 Oct 2026
+
+### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+
+Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
+
+Read the guide
+
+SEO
+
 Guide · 30 Oct 2026
 
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -236,16 +246,6 @@ Guide · 30 Oct 2026
 ### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
 
 Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
-
-Read the guide
-
-SEO
-
-Guide · 26 Oct 2026
-
-### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-
-Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
 Read the guide
 
