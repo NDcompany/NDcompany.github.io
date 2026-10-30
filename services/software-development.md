@@ -1,6 +1,6 @@
 ---
-title: "Software & Android App Development in Kolkata | N&D Co."
-description: "Software and Android app development in Kolkata: web applications, CRM systems, Android and iOS apps and internal tools, for businesses in India and worldwide."
+title: "Custom Software & Web App Development in Kolkata | N&D Co."
+description: "Custom software and web application development in Kolkata: CRM systems, internal tools, portals and admin dashboards for businesses in India and worldwide."
 url: "https://ndcompany.in/services/software-development"
 type: "Service"
 image: "https://ndcompany.in/assets/share/software-development.png"
@@ -8,9 +8,9 @@ image: "https://ndcompany.in/assets/share/software-development.png"
 
 Built around your workflow
 
-# Software and Android app development in Kolkata
+# Custom software and web application development in Kolkata
 
-We design and build custom software: web applications, CRM systems, Android and iOS apps and internal tools that fit the way your business already works. Scope, timeline and price are set in writing before development starts, and ownership of the deliverables named in your quote passes to you once the final invoice is paid.
+We design and build custom software: web applications, CRM systems, customer portals and internal tools that fit the way your business already works. Scope, timeline and price are set in writing before development starts, and ownership of the deliverables named in your quote passes to you once the final invoice is paid.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -18,7 +18,7 @@ We design and build custom software: web applications, CRM systems, Android and 
 
 ## What is Software Development?
 
-Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, mobile apps and internal admin tools. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for small and mid-sized businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.
+Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, portals and internal admin tools. Android and iOS apps are a separate service, mobile app development. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for small and mid-sized businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
 
@@ -50,9 +50,9 @@ A browser-based application with login, user roles and the workflows from the re
 
 Contact, lead and follow-up tracking with the fields and pipeline stages your sales process uses, plus reminders and basic reporting.
 
-### Mobile app
+### Connection to a mobile app
 
-An Android or iOS app for staff or customers, connected to the same database as the web application, with help on Play Store and App Store listing at launch.
+When your system needs an Android or iOS app, we build it under our mobile app development service and connect it to the same database and API as the web application.
 
 ### Internal admin dashboard
 
@@ -142,18 +142,17 @@ From
 
 written quote before work starts · delivered in 8 to 16 weeks
 
-- Web application plus Android and iOS apps
-- Shared database and API across platforms
+- Web application that works on phones, tablets and desktops
+- Database and API ready for a mobile app built under our mobile app development service
 - Data migration from existing systems
 - Separate portals for different user types
-- App store submission support
 - Maintenance from ₹9,999 a month
 
 ---
 
 [Get a quote](https://ndcompany.in/#contact)
 
-For products with customer-facing apps or large teams, scoped from scratch.
+For products with customer portals or large teams, scoped from scratch.
 
 Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
@@ -187,7 +186,7 @@ A 7-day post-delivery support window covers minor corrections and technical issu
 
 - Business owners running operations on spreadsheets, WhatsApp groups and paper who want one system for the whole team.
 - Companies whose off-the-shelf CRM or ERP no longer fits, and who want software shaped around their own process.
-- Founders with a validated idea who need a first working version of a web or mobile product.
+- Founders with a validated idea who need a first working version of a web product.
 - Established firms in Kolkata, across India and worldwide that want a remote development team working from a written scope and quote.
 - Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
 
@@ -199,15 +198,15 @@ Every project is quoted individually after a discovery call, either fixed-price 
 
 **How long does it take to build custom software?**
 
-A Starter tool usually takes 2 to 3 weeks, a Business system 4 to 8 weeks, and a web application with Android and iOS apps 8 to 16 weeks, depending on the number of screens, user roles and integrations. The timeline is agreed in writing before we begin.
+A Starter tool usually takes 2 to 3 weeks, a Business system 4 to 8 weeks, and a Custom system 8 to 16 weeks, depending on the number of screens, user roles and integrations. The timeline is agreed in writing before we begin.
 
 **What do I need to provide before development starts?**
 
 A clear description of the problem, access to the people who will use the software, and any existing data or systems it must connect to. If you have hosting, domain or payment gateway accounts, we ask for access in your name rather than creating new ones. Everything else, from wireframes to documentation, we produce.
 
-**Do you build mobile apps as well as web applications?**
+**Do you build Android and iOS apps too?**
 
-Yes. We build Android and iOS apps and browser-based web applications, and often both for the same product with a shared database and API. Which one you need depends on where your users are and how they will use the software, and we settle that in discovery.
+Yes, as a separate service with its own tiers and prices: mobile app development. This page covers web applications, CRM systems and internal tools, and the two can share one database and API when your product needs both. We settle which you need in discovery.
 
 **Who owns the source code after the project?**
 
@@ -227,6 +226,12 @@ We deliver Software Development remotely to clients in [India](https://ndcompany
 
 Often combined with Software Development.
 
+### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+
+Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
+
+Learn more
+
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
 Responsive websites, e-commerce development, and SEO-optimized web solutions.
@@ -236,12 +241,6 @@ Learn more
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
 Online store development with payment integration and optimization.
-
-Learn more
-
-### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
-
-Logo design, brand guidelines, and visual identity systems.
 
 Learn more
 
@@ -283,6 +282,20 @@ Bangali Oikya Manch
 
 a month ago
 
+## From our blogs
+
+Guides on the work behind Software Development.
+
+Business
+
+Guide · 31 Oct 2026
+
+### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+
+Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+
+Read the guide
+
 ## Ready to start?
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
@@ -300,7 +313,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/software-development#service",
       "name": "Software Development",
       "serviceType": "Software Development",
-      "description": "Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, mobile apps and internal admin tools. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for small and mid-sized businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.",
+      "description": "Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, portals and internal admin tools. Android and iOS apps are a separate service, mobile app development. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for small and mid-sized businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -321,8 +334,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/software-development#webpage",
       "url": "https://ndcompany.in/services/software-development",
-      "name": "Software & Android App Development in Kolkata | N&D Co.",
-      "description": "Software and Android app development in Kolkata: web applications, CRM systems, Android and iOS apps and internal tools, for businesses in India and worldwide.",
+      "name": "Custom Software & Web App Development in Kolkata | N&D Co.",
+      "description": "Custom software and web application development in Kolkata: CRM systems, internal tools, portals and admin dashboards for businesses in India and worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

@@ -40,6 +40,16 @@ The blogs are where N&D Co. shares what it learns: quick tips, longer guides and
 
 ## Articles by Nakshatra Ranjan Saha
 
+Business
+
+Guide · 31 Oct 2026
+
+### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+
+Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+
+Read the guide
+
 SEO
 
 Guide · 31 Oct 2026

@@ -456,6 +456,20 @@ No. The project came to N&D Co. through a referral, and we sponsored it: we buil
 
 Yes. If your process runs on paper, in spreadsheets or across message threads, we can take the same approach: map the workflow, find the bottlenecks and build software for that process. The quote is set in writing before work starts.
 
+## Related reading
+
+Guides from our blogs on the same kind of work.
+
+Business
+
+Guide · 31 Oct 2026
+
+### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+
+Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+
+Read the guide
+
 ## More projects
 
 Branding

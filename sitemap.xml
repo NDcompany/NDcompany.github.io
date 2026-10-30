@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (104 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (106 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/growth-trust.svg</image:loc>
     </image:image>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/website-design-development</loc>
@@ -38,7 +38,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services/software-development</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-31</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/services/mobile-app-development</loc>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/brand-identity-design</loc>
@@ -94,7 +98,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/faq</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools-we-use</loc>
@@ -106,15 +110,15 @@
   </url>
   <url>
     <loc>https://ndcompany.in/about</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/pricing</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/restaurant-marketing</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken</loc>
@@ -138,23 +142,23 @@
   </url>
   <url>
     <loc>https://ndcompany.in/white-label</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/seo</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/google-ads</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/web-development</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/wordpress</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools</loc>
@@ -190,7 +194,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/business</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
@@ -636,6 +640,10 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/play-store-app-store-requirements</loc>
+    <lastmod>2026-10-31</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/seo-cost-india</loc>

@@ -1,6 +1,6 @@
 ---
 title: "White Label SEO Services for Agencies | N&D Co."
-description: "White label SEO for agencies: audits, on-page work, content, local SEO and monthly reports under your brand. Your NDA signed, no client contact, USD prices."
+description: "White label SEO for agencies: audits from $149, on-page work, content, local SEO and monthly reports under your brand. Your NDA signed, no client contact."
 url: "https://ndcompany.in/white-label/seo"
 type: "Service"
 image: "https://ndcompany.in/assets/share/seo-services.png"
@@ -18,7 +18,7 @@ We run SEO for your clients under your agency's name: the audit, on-page fixes, 
 
 ## White label SEO, the way we run it
 
-Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice.
+Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice. You can also buy audits on their own, from $149 each.
 
 Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
 
@@ -26,7 +26,7 @@ Every other service is available white label too: see [white label for agencies]
 
 ### SEO audits under your brand
 
-A full crawl of your client's site for indexing problems, broken links, redirect chains, slow templates and missing metadata, delivered as a prioritized fix list in your agency's report.
+A full crawl of your client's site for indexing problems, broken links, redirect chains, slow templates and missing metadata, delivered as a prioritized fix list in your agency's report. Bought on its own or as the first step of a monthly package.
 
 ### Keyword research and page mapping
 
@@ -51,6 +51,57 @@ Outreach for links from relevant sites and directories, plus reclaiming links th
 ### Monthly white-label reports
 
 Rankings, organic traffic, indexing status and a log of the work done, unbranded or with your agency's logo, ready to forward.
+
+## White label SEO audits, one at a time
+
+You do not need a monthly package to resell an audit. Send us the site and the audit you want, and we return a PDF report that carries your agency's logo or no branding at all. Nothing in it names N&D Co., and we sign your NDA first.
+
+**White label SEO audit prices in US dollars**
+
+| Audit | Price | Pages read | Delivery | What you get |
+| --- | --- | --- | --- | --- |
+| Standard audit | $149 | Up to 25 | 3 business days | The audit report, with a short written summary |
+| Deep audit | $349 | Up to 100 | 5 business days | The audit report, our review of the findings and a 90-day plan |
+| 5 Standard audits | $595 ($119 each) | Up to 25 each | As Standard | Five Standard audits, bought together |
+| 10 Standard audits | $990 ($99 each) | Up to 25 each | As Standard | Ten Standard audits, bought together |
+
+Prices are per audit, for one website each. Agencies based in India can ask for a quote in rupees: ₹9,999 for a Standard audit and ₹21,999 for a Deep audit. Each order is confirmed in writing before the audit starts.
+
+## What an audit covers
+
+### Technical and indexing checks
+
+HTTPS, redirects, error pages, robots.txt, the sitemap, canonical tags, noindex tags, pages blocked from crawlers, broken internal links and structured data, checked for validity and completeness.
+
+### On-page checks
+
+Page titles, meta descriptions, headings, image alt text and sizes, the mobile viewport and social sharing tags.
+
+### Speed
+
+Google PageSpeed Insights results on a phone and on a computer for the pages we read, plus page size, slow responses and scripts that hold up the first paint.
+
+### Design and conversion
+
+A clear button on the first screen, buttons and links big enough to tap, readable text, layouts that overflow on a phone and accessibility problems, with predicted attention maps that are labelled as predictions, not visitor data.
+
+### Google Discover and AI search readiness
+
+Two scores of our own, one for Google Discover and one for AI assistants such as ChatGPT, Claude, Gemini and Perplexity, each built from a short list of checks. Neither is a Google score.
+
+### Findings ranked, with fixes
+
+Every problem is rated critical, high, medium or low and sorted by severity and by the number of pages it affects, with what is wrong, why it matters and how to fix it, then a recommended order of work.
+
+### Our review and a 90-day plan on the Deep audit
+
+On a Deep audit, we review the findings ourselves and add a 90-day plan your agency can take to its client.
+
+### Your logo, or none
+
+The PDF carries your agency's logo or no branding, and nothing in it names N&D Co.
+
+An audit lists what we found and how to fix it. Fixing it is SEO work we quote separately, we do not promise rankings, traffic or sales, and a site larger than the audit's page limit is quoted separately.
 
 ## How it works
 
@@ -118,7 +169,15 @@ Yes. Reports and audits come unbranded or with your agency's logo, and nothing i
 
 **Can we resell an SEO audit on its own?**
 
-The audit is the first step of our SEO packages rather than a separate product. You get it in the first month, with a proposed monthly scope you can take to your client.
+Yes. A Standard audit is $149 (up to 25 pages, 3 business days) and a Deep audit is $349 (up to 100 pages, our review and a 90-day plan, 5 business days). Five Standard audits cost $595 and ten cost $990. The PDF carries your logo or no branding. Our monthly SEO packages start with an audit in the first month, so you only buy one on its own when your client does not need monthly work.
+
+**What is the difference between a Standard and a Deep audit?**
+
+A Standard audit reads up to 25 pages and returns the audit report with a short written summary in 3 business days. A Deep audit reads up to 100 pages, adds our own review of the findings and a 90-day plan, and takes 5 business days.
+
+**How do we order an audit?**
+
+Send a brief from this page with the website, the audit you want and whether the report carries your logo or no branding. We sign your NDA first if you ask, and we confirm the price and the delivery date in writing before we start.
 
 **Will our client see your name in their Google accounts?**
 
@@ -186,7 +245,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@id": "https://ndcompany.in/white-label/seo#webpage",
       "url": "https://ndcompany.in/white-label/seo",
       "name": "White Label SEO Services for Agencies | N&D Co.",
-      "description": "White label SEO for agencies: audits, on-page work, content, local SEO and monthly reports under your brand. Your NDA signed, no client contact, USD prices.",
+      "description": "White label SEO for agencies: audits from $149, on-page work, content, local SEO and monthly reports under your brand. Your NDA signed, no client contact.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

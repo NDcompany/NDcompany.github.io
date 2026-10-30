@@ -304,7 +304,7 @@ Every project is quoted individually after a discovery call, either fixed-price 
 
 **How long does it take to build custom software? Software Development**
 
-A Starter tool usually takes 2 to 3 weeks, a Business system 4 to 8 weeks, and a web application with Android and iOS apps 8 to 16 weeks, depending on the number of screens, user roles and integration…
+A Starter tool usually takes 2 to 3 weeks, a Business system 4 to 8 weeks, and a Custom system 8 to 16 weeks, depending on the number of screens, user roles and integrations.
 
 [Read the full answer on the Software Development page](https://ndcompany.in/services/software-development#svc-faq)
 
@@ -326,9 +326,9 @@ A clear description of the problem, access to the people who will use the softwa
 
 [Software Development](https://ndcompany.in/services/software-development#svc-faq)
 
-**Do you build mobile apps as well as web applications? Software Development**
+**Do you build Android and iOS apps too? Software Development**
 
-Yes. We build Android and iOS apps and browser-based web applications, and often both for the same product with a shared database and API.
+Yes, as a separate service with its own tiers and prices: mobile app development.
 
 [Read the full answer on the Software Development page](https://ndcompany.in/services/software-development#svc-faq)
 
@@ -361,6 +361,136 @@ Every project includes a 7-day post-delivery support window for minor correction
 [Services](https://ndcompany.in/services)
 
 [Software Development](https://ndcompany.in/services/software-development#svc-faq)
+
+**How much does it cost to build a mobile app in India? Mobile App Development**
+
+A Starter app is ₹59,999 in India and $949 elsewhere: Android and iOS from one codebase, up to 8 screens, login and a Firebase backend, with no admin panel.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**How long does it take to build an app? Mobile App Development**
+
+A Starter app usually takes 4 to 6 weeks, a restaurant ordering app 6 to 10, and a Business or e-commerce app 8 to 12. A custom app is timed in your quote.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**What do the Google Play and Apple developer accounts cost, and who pays? Mobile App Development**
+
+You do, directly, and the accounts are in your name. Google Play charges US$25 once.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Does my business need a D-U-N-S number? Mobile App Development**
+
+If you register as an organization, both stores ask for one: Google for an organization account, and Apple for an organization enrolment.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Do you build with React Native or with native code? Mobile App Development**
+
+We use React Native with Expo by default: one codebase for Android and iOS, so every tier covers both stores and you do not have to pick one.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Can you turn my website into an app? Mobile App Development**
+
+Not as a plain wrapper. Apple rejects apps that are only a repackaged website or a collection of links, so we build an app with something real to do, such as ordering, booking or an account.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Who owns the app and the source code? Mobile App Development**
+
+You do. Both developer accounts are registered to your business, every quote names the source repository, and on full payment ownership of the final deliverables named in your quote passes to you.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Does the app come with an admin panel? Mobile App Development**
+
+Business, e-commerce and custom apps include a web admin panel for orders, users and content. The restaurant package includes a basic admin for the menu and the order list. Starter has none.
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**What do I pay after the app is launched? Mobile App Development**
+
+Bug fixes are free for the first month. After that, the care plan is ₹4,999 a month in India or $79 a month elsewhere, and covers updates, operating system and API-level upgrades, bug fixes and backup…
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Do you build restaurant ordering and e-commerce apps? Mobile App Development**
+
+Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI or Razorpay payments, an order list and a basic admin, from ₹99,999 or $1,599.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Can I see an app you have built? Mobile App Development**
+
+Not yet. Mobile app development is a new service for us, and we have no app of our own to show.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
 
 **How much does brand identity design cost? Brand Identity Design**
 

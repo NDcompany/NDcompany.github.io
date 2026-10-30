@@ -30,6 +30,7 @@ Our services include:
 - [SEO Services](https://ndcompany.in/services/seo-services)
 - [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 - [Software Development](https://ndcompany.in/services/software-development)
+- [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
 - [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 - [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 - [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)

@@ -90,9 +90,21 @@ $ USD
 | --- | --- | --- | --- |
 | Starter | ₹15,999 | 2 to 3 weeks | Single internal tool or admin dashboard; Requirements document and wireframes; Login with user roles |
 | Business | from ₹49,999 | 4 to 8 weeks | Web application with several connected modules; Custom CRM or operations system; Database and documented API |
-| Custom | from ₹99,999 | 8 to 16 weeks | Web application plus Android and iOS apps; Shared database and API across platforms; Data migration from existing systems |
+| Custom | from ₹99,999 | 8 to 16 weeks | Web application that works on phones, tablets and desktops; Database and API ready for a mobile app built under our mobile app development service; Data migration from existing systems |
 
 [Everything in each Software Development plan](https://ndcompany.in/services/software-development#pricing)
+
+### Mobile App Development
+
+**Mobile App Development starting prices, per project**
+
+| Plan | Price | Delivery | Includes |
+| --- | --- | --- | --- |
+| Starter | ₹59,999 | 4 to 6 weeks | Android and iOS apps from one codebase; Up to 8 screens; Login, with account deletion in the app |
+| Business | ₹1,49,999 | 8 to 12 weeks | Android and iOS apps from one codebase; Up to 20 screens; Web admin panel for orders, users and content |
+| Custom | from ₹3,49,999 | Set in your quote | Multi-role apps: delivery, marketplace, or booking with staff roles; Screens, features and timeline set in your quote; Web admin panel |
+
+[Everything in each Mobile App Development plan](https://ndcompany.in/services/mobile-app-development#pricing)
 
 ### Brand Identity Design
 
@@ -363,6 +375,27 @@ Tell us what you need, and we will reply with questions or a written quote.
             {
               "@type": "PriceSpecification",
               "minPrice": 299,
+              "priceCurrency": "USD"
+            }
+          ]
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://ndcompany.in/services/mobile-app-development#service"
+          },
+          "seller": {
+            "@id": "https://ndcompany.in/#ndco-organization"
+          },
+          "priceSpecification": [
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 59999,
+              "priceCurrency": "INR"
+            },
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 949,
               "priceCurrency": "USD"
             }
           ]

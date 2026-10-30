@@ -148,7 +148,7 @@ Een kleine website is in 1 tot 2 weken klaar, een zakelijke website in 2 tot 4 w
 
 **Kan mijn website Nederlandstalig zijn?**
 
-Ja. We werken zelf in het Engels, maar we schrijven ook de Nederlandse teksten voor je website en laten ze controleren voordat de site live gaat. Heb je de teksten al, dan plaatsen we die.
+Ja. Onze voertaal is Engels, maar we schrijven ook de Nederlandse teksten voor je website. We zijn geen native speakers: we controleren de teksten met taaltools en AI-taalcontroles voordat de site live gaat. Heb je al eigen teksten, of laat je ze liever door een Nederlandse tekstschrijver nalezen? Dan plaatsen we die versie.
 
 **Van wie is de website als hij klaar is?**
 

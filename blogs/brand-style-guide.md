@@ -300,6 +300,16 @@ What a logo job and a full identity should each hand over, the sizes and files a
 
 Read the guide
 
+Business
+
+Guide · 31 Oct 2026
+
+### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+
+Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+
+Read the guide
+
 SEO
 
 Guide · 31 Oct 2026
@@ -307,16 +317,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 

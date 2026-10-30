@@ -10,7 +10,8 @@ Every page below is also available as Markdown: add .md to its address (https://
 - [Website Design & Development](https://ndcompany.in/services/website-design-development): Responsive websites, e-commerce development, and SEO-optimized web solutions.
 - [SEO Services](https://ndcompany.in/services/seo-services): On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
 - [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions): Complete branding including logo design, identity, and marketing materials.
-- [Software Development](https://ndcompany.in/services/software-development): Custom software, CRM systems, mobile apps, and web applications.
+- [Software Development](https://ndcompany.in/services/software-development): Custom web applications, CRM systems, and internal business software.
+- [Mobile App Development](https://ndcompany.in/services/mobile-app-development): Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
 - [Brand Identity Design](https://ndcompany.in/services/brand-identity-design): Logo design, brand guidelines, and visual identity systems.
 - [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions): Online store development with payment integration and optimization.
 - [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing): Google Ads, social media marketing, and ROI-focused campaigns.
@@ -31,6 +32,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements): What Google Play and the App Store require from a business app in 2026: developer accounts, D-U-N-S, 12-tester closed testing, privacy forms and review times.
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india): What SEO costs in India in 2026: monthly package prices from 108 agency websites, what a fee covers, red flags, GST and how to compare quotes.
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms): What Google, OpenAI, Anthropic and Perplexity say about their crawlers, robots.txt, llms.txt and content, and how to check your own site for AI search.
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions): How schools, colleges and coaching institutes get found on Google: admission and fee pages, a Business Profile per campus, titles, reviews and language pages.
@@ -117,7 +119,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Pricing](https://ndcompany.in/pricing): starting prices for every service in Indian rupees and US dollars, what changes the price, and payment and GST basics.
 - [Restaurant marketing](https://ndcompany.in/restaurant-marketing): logos, social media and reels, ads, menus and websites for restaurants, cafes, bars and cloud kitchens, with our food and drink work and its clients' reviews.
 - [White label for agencies](https://ndcompany.in/white-label): every service available white label for agencies, unbranded and under NDA, with agency starting prices in US dollars.
-- [White label SEO for agencies](https://ndcompany.in/white-label/seo): audits, on-page work, content, local SEO, link building and monthly reports under the agency's brand, with agency prices.
+- [White label SEO for agencies](https://ndcompany.in/white-label/seo): audits (also sold one at a time), on-page work, content, local SEO, link building and monthly reports under the agency's brand, with agency prices.
 - [White label Google Ads and PPC for agencies](https://ndcompany.in/white-label/google-ads): Google Ads and Meta ads campaigns run under the agency's brand, ad spend paid by its client, with agency prices.
 - [White label web development for agencies](https://ndcompany.in/white-label/web-development): WordPress, Shopify, WooCommerce and custom sites built to an agency's brief, unbranded, with agency prices.
 - [White label WordPress development for agencies](https://ndcompany.in/white-label/wordpress): WordPress sites and WooCommerce stores built to an agency's brief, unbranded, with agency prices.

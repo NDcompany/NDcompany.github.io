@@ -120,6 +120,8 @@ See the project
 
 ## Recently updated
 
+- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+  31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -127,8 +129,6 @@ See the project
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
-  30 Oct 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 
 ## Trending tags

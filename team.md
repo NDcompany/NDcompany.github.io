@@ -48,7 +48,13 @@ See the service
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom software, CRM systems, mobile apps, and web applications.
+Custom web applications, CRM systems, and internal business software.
+
+See the service
+
+### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+
+Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
 
 See the service
 

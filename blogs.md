@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Business
+
+Guide · 31 Oct 2026
+
+### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+
+Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+
+Read the guide
+
 SEO
 
 Guide · 31 Oct 2026
@@ -176,6 +186,8 @@ Read the guide
 
 ## Recently updated
 
+- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+  31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -183,8 +195,6 @@ Read the guide
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
-  30 Oct 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 
 ## Trending tags
@@ -276,6 +286,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/play-store-app-store-requirements#article",
+          "headline": "What do Google Play and the App Store require from a business app in 2026?",
+          "description": "What Google Play and the App Store require from a business app in 2026: developer accounts, D-U-N-S, 12-tester closed testing, privacy forms and review times.",
+          "image": "https://ndcompany.in/assets/blog/play-store-app-store-requirements-16x9.png",
+          "url": "https://ndcompany.in/blogs/play-store-app-store-requirements",
+          "datePublished": "2026-10-31T00:00:00+05:30",
+          "dateModified": "2026-10-31T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/seo-cost-india#article",

@@ -40,7 +40,13 @@ Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom software, CRM systems, mobile apps, and web applications.
+Custom web applications, CRM systems, and internal business software.
+
+Learn more
+
+### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+
+Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
 
 Learn more
 
@@ -170,48 +176,54 @@ Tell us what you are trying to achieve and we will suggest the smallest package 
           {
             "@type": "ListItem",
             "position": 5,
+            "name": "Mobile App Development",
+            "url": "https://ndcompany.in/services/mobile-app-development"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
             "name": "Brand Identity Design",
             "url": "https://ndcompany.in/services/brand-identity-design"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "E-commerce Solutions",
             "url": "https://ndcompany.in/services/ecommerce-solutions"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Digital Marketing & Performance Marketing",
             "url": "https://ndcompany.in/services/digital-marketing"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Social Media Management",
             "url": "https://ndcompany.in/services/social-media-management"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Video Production & Editing",
             "url": "https://ndcompany.in/services/video-production-editing"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Graphic Design",
             "url": "https://ndcompany.in/services/graphic-design"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "Logo Design",
             "url": "https://ndcompany.in/services/logo-design"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 13,
             "name": "Content Creation",
             "url": "https://ndcompany.in/services/content-creation"
           }

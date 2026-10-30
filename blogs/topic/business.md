@@ -16,6 +16,16 @@ Notes on running and growing a business: working with agencies and freelancers, 
 
 Business
 
+Guide · 31 Oct 2026
+
+### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+
+Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+
+Read the guide
+
+Business
+
 Insight · 29 Oct 2026
 
 ### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
@@ -36,6 +46,8 @@ Read the guide
 
 ## Recently updated
 
+- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+  31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -43,8 +55,6 @@ Read the guide
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
-  30 Oct 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 
 ## Trending tags
@@ -115,12 +125,18 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "What do Google Play and the App Store require from a business app in 2026?",
+            "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How to outsource web development to India: a guide for US businesses",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           }

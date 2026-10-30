@@ -240,7 +240,7 @@ Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom software, CRM systems, mobile apps, and web applications.
+Custom web applications, CRM systems, and internal business software.
 
 Learn more
 

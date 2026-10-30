@@ -1,6 +1,6 @@
 ---
 title: "White Label Web Development & SEO for Agencies | N&D Co."
-description: "White label web development, SEO, design and Android apps for agencies. Unbranded work, your NDA signed, calls in US mornings and prices in USD."
+description: "White label web development, SEO, design and mobile apps for agencies. Unbranded work, your NDA signed, calls in US mornings and prices in USD."
 url: "https://ndcompany.in/white-label"
 type: "Service"
 image: "https://ndcompany.in/assets/share/home.png"
@@ -10,7 +10,7 @@ White label for agencies
 
 # White label web development, SEO and design for agencies
 
-We do the work and you sell it under your agency's name: websites, SEO, branding and design, Android apps and software. Nothing we deliver carries our name, we sign your NDA before you share client details, and we never contact your client.
+We do the work and you sell it under your agency's name: websites, SEO, branding and design, mobile apps and software. Nothing we deliver carries our name, we sign your NDA before you share client details, and we never contact your client.
 
 [Send a brief](https://ndcompany.in/#contact)
 
@@ -18,7 +18,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 ## White label work for agencies
 
-N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Every quote is set in writing before work starts.
+N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Mobile apps are custom apps only, built for your client and published in your client's own Google Play and App Store accounts. Every quote is set in writing before work starts.
 
 These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
 
@@ -69,6 +69,7 @@ Starting prices for agencies, including the NDA, unbranded files and reports, an
 | [Social Media Management](https://ndcompany.in/services/social-media-management) | per month | Starter: $119 | Growth: $289 | Custom: $599 |
 | [Content Creation](https://ndcompany.in/services/content-creation) | per month | Starter: $79 | Growth: $179 | Custom: $319 |
 | [Software Development](https://ndcompany.in/services/software-development) | per project | Starter: $449 | Business: $1,199 | Custom: $2,399 |
+| [Mobile App Development](https://ndcompany.in/services/mobile-app-development) | per project | Starter: $1,429 | Business: $3,599 | Custom: $8,399 |
 | [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions) | per project | Identity: $479 | Launch: $709 | Custom: $899 |
 | [Brand Identity Design](https://ndcompany.in/services/brand-identity-design) | per project | Essentials: $239 | Complete: $359 | Custom: $599 |
 | [Logo Design](https://ndcompany.in/services/logo-design) | per project | Essential: $79 | Identity: $149 | Custom: $239 |
@@ -101,7 +102,11 @@ Not from us. We sign your NDA, leave our name off every file, report and site, a
 
 **Which services can we buy white label?**
 
-All of them: website design and development, e-commerce, SEO, digital marketing, social media, content writing, branding, logo and graphic design, video editing, and Android apps and software.
+All of them: website design and development, e-commerce, SEO, digital marketing, social media, content writing, branding, logo and graphic design, video editing, mobile apps and software. Mobile apps are custom apps only: see the next question.
+
+**Can you build mobile apps white label?**
+
+Yes, custom apps only: Android and iOS apps built for your client and published in your client's own Google Play and App Store accounts, never in ours or yours. Apple rejects apps made from a template or an app-generation service unless the content provider submits them, so we do not resell template apps. Your client owns both developer accounts, we work in them with a team role, and the written quote names the store fees, which your client pays.
 
 **How do agency prices work?**
 
@@ -140,7 +145,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@id": "https://ndcompany.in/white-label#service",
       "name": "White label web development, SEO and design for agencies",
       "serviceType": "White label agency services",
-      "description": "We do the work and you sell it under your agency's name: websites, SEO, branding and design, Android apps and software. Nothing we deliver carries our name, we sign your NDA before you share client details, and we never contact your client.",
+      "description": "We do the work and you sell it under your agency's name: websites, SEO, branding and design, mobile apps and software. Nothing we deliver carries our name, we sign your NDA before you share client details, and we never contact your client.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -251,6 +256,19 @@ Send the brief and your NDA, and we will reply with questions or a written quote
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
+              "name": "White label Mobile App Development",
+              "url": "https://ndcompany.in/services/mobile-app-development"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": 1429,
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
               "name": "White label Full Branding Solutions",
               "url": "https://ndcompany.in/services/full-branding-solutions"
             },
@@ -320,7 +338,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@id": "https://ndcompany.in/white-label#webpage",
       "url": "https://ndcompany.in/white-label",
       "name": "White Label Web Development & SEO for Agencies | N&D Co.",
-      "description": "White label web development, SEO, design and Android apps for agencies. Unbranded work, your NDA signed, calls in US mornings and prices in USD.",
+      "description": "White label web development, SEO, design and mobile apps for agencies. Unbranded work, your NDA signed, calls in US mornings and prices in USD.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
