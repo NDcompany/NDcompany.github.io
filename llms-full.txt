@@ -6213,7 +6213,7 @@ All of them: website design and development, e-commerce, SEO, digital marketing,
 
 **Can you build mobile apps white label?**
 
-Yes, custom apps only: Android and iOS apps built for your client and published in your client's own Google Play and App Store accounts, never in ours or yours. Apple rejects apps made from a template or an app-generation service unless the content provider submits them, so we do not resell template apps. Your client opens and owns both developer accounts, and the app is listed under your client's name. You handle that setup with your client using our step-by-step checklist, then invite us with a team role under an email address on your own domain, so our name never shows in your client's accounts. The written quote names the store fees, which your client pays.
+Yes, custom apps only: Android and iOS apps built for your client and published in your client's own Google Play and App Store accounts, never in ours or yours. Apple rejects apps made from a template or an app-generation service unless the content provider submits them, so we do not resell template apps. Your client opens and owns both developer accounts, and the app is listed under your client's name. You handle that setup with your client using our step-by-step checklist, then invite us with a team role under a name and an email address on your own domain that you choose, so our name never shows in your client's accounts. Your client, as the account holder, answers to Google and Apple for its accounts, its app's content and its privacy policy. The written quote names the store fees, which your client pays.
 
 **How do agency prices work?**
 
@@ -6304,7 +6304,7 @@ You do not need a monthly package to resell an audit. Send us the site and the a
 | 5 Standard audits | $595 ($119 each) | Up to 25 each | As Standard | Five Standard audits, bought together |
 | 10 Standard audits | $990 ($99 each) | Up to 25 each | As Standard | Ten Standard audits, bought together |
 
-Prices are per audit, for one website each. Agencies based in India can ask for a quote in rupees: ₹9,999 for a Standard audit and ₹21,999 for a Deep audit. Each order is confirmed in writing before the audit starts. Bundles are paid upfront and their audits used within 6 months of payment; unused audits are not refunded. If an audit is late or wrong, for example because we could not read the site, we redo it at no cost, and if we still cannot deliver it, we refund that audit.
+Prices are per audit, for one website each. Agencies based in India can ask for a quote in rupees: ₹9,999 for a Standard audit and ₹21,999 for a Deep audit. Each order is confirmed in writing before the audit starts. Single audits and bundles are paid in full when ordered. If you have not ordered any audit from a bundle, you can cancel it for a full refund within 14 days of payment; otherwise its audits are ordered within 6 months of payment, and unused audits lapse without a refund. If an audit arrives after the date in our order confirmation, or is wrong, for example because we could not read the site, we redo it at no cost, and if we still cannot deliver it, we refund that audit.
 
 ## What an audit covers
 
@@ -6408,7 +6408,7 @@ Yes. Reports and audits come unbranded or with your agency's logo, and nothing i
 
 **Can we resell an SEO audit on its own?**
 
-Yes. A Standard audit is $149 (up to 25 pages, 3 business days) and a Deep audit is $349 (up to 100 pages, our review and a 90-day plan, 5 business days). Five Standard audits cost $595 and ten cost $990, paid upfront and used within 6 months. The PDF carries your logo or no branding. Our monthly SEO packages start with an audit in the first month, so you only buy one on its own when your client does not need monthly work.
+Yes. A Standard audit is $149 (up to 25 pages, 3 business days) and a Deep audit is $349 (up to 100 pages, our review and a 90-day plan, 5 business days). Five Standard audits cost $595 and ten cost $990, paid upfront and ordered within 6 months (a full refund within 14 days if none has been ordered). The PDF carries your logo or no branding. Our monthly SEO packages start with an audit in the first month, so you only buy one on its own when your client does not need monthly work.
 
 **What is the difference between a Standard and a Deep audit?**
 
@@ -14764,8 +14764,8 @@ An agency can buy any of our services [white label](https://ndcompany.in/white-l
 - While we work with the agency, and for 12 months after our last project for it, we do not approach or knowingly take work from a client the agency introduced to us.
 - On full payment we assign to the agency the final deliverables named in its quote, as section 6 describes, and the agency may transfer them to its client. The licence to our own tools and code in a deliverable passes on with it.
 - The agency handles its client, complaints included, and tells us in writing about any problem with our work. We then put it right or refund as section 5 says, and the limits in section 9 apply to the fees the agency paid us.
-- An agency can prepay a bundle of SEO audits. The audits in a bundle must be used within 6 months of payment; after that, unused audits lapse, and audits not used are not refunded. If an audit is late or wrong, for example because we could not read the site, we redo it at no cost, and if we still cannot deliver it, we refund that audit's share of the price.
-- For a mobile app, the agency's client opens and owns its own Google Play and Apple developer accounts, pays their fees, and publishes the app under its own name. The agency arranges that setup with its client and adds us to the accounts with a team role, under an email address the agency gives us.
+- An agency can buy SEO audits one at a time or prepay a bundle of them. Single audits and bundles are paid in full when ordered, in place of the advance in section 5. If no audit from a bundle has been ordered, the agency can cancel the bundle for a full refund within 14 days of payment. Otherwise the audits in a bundle must be ordered within 6 months of payment; after that, unused audits lapse and are not refunded, because a bundle is priced below single audits. This replaces the refund before work begins in section 5 for bundles. If we stop offering audits, or end our work with the agency for a reason other than its breach, we refund the unused audits. If an audit is delivered after the date in our order confirmation, or is wrong, for example because we could not read the site, we redo it at no cost, and if we still cannot deliver it, we refund that audit's share of the price.
+- For a mobile app, the agency's client opens and owns its own Google Play and Apple developer accounts, pays their fees, and publishes the app under its own name. The agency arranges that setup with its client and adds us to the accounts with a team role, under a name and email address the agency chooses. As the account holder, the client is responsible to Google and Apple for its accounts, its app's content and its privacy policy. We act in the accounts only on the agency's written instructions, and we are not responsible for a store rejecting, suspending or removing an app because of the client's business, content or account.
 - The agency indemnifies us, which means it pays our losses and reasonable legal costs, for any claim by its client to the extent the claim comes from something we did not do: the agency's own promises or statements to its client, scope it agreed without us, or material it or its client gave us.
 
 ## 14. Updates to terms
@@ -15372,9 +15372,9 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
 # Refund and cancellation policy
 
 Source: https://ndcompany.in/refund-cancellation-policy
-Updated: 2026-10-23
+Updated: 2026-10-31
 
-Effective date: 23 October 2026
+Effective date: 23 October 2026 · Last updated: 31 October 2026
 
 This policy explains how we handle payments, refunds, cancellations, revisions and late payments for our one-off projects and monthly services. Read it together with our [Terms of service](https://ndcompany.in/terms).
 
@@ -15398,6 +15398,8 @@ For a monthly service, any advance applies to the start of the service, and to l
 - Once work on a project has started, we do not issue refunds, and the 50% advance is non-refundable. This does not apply if we do not deliver the agreed work or our work falls short of what we agreed in writing. In that case, tell us in writing and we will put it right or refund the part of your payment that covers the work we did not deliver as agreed.
 
 We keep the advance because it covers starting your project, planning, allocating our resources and production.
+
+Prepaid bundles of white-label SEO audits for agencies follow their own rules in section 13 of our [Terms of service](https://ndcompany.in/terms): a full refund within 14 days if no audit has been ordered, and otherwise unused audits lapse 6 months after payment.
 
 ## 4. Cancellation policy
 

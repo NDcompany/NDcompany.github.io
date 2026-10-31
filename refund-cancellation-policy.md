@@ -4,13 +4,13 @@ description: "Refund and cancellation policy for N&D Co. projects and monthly se
 url: "https://ndcompany.in/refund-cancellation-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-23"
+modified: "2026-10-31"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Refund and cancellation policy
 
-Effective date: 23 October 2026
+Effective date: 23 October 2026 · Last updated: 31 October 2026
 
 This policy explains how we handle payments, refunds, cancellations, revisions and late payments for our one-off projects and monthly services. Read it together with our [Terms of service](https://ndcompany.in/terms).
 
@@ -34,6 +34,8 @@ For a monthly service, any advance applies to the start of the service, and to l
 - Once work on a project has started, we do not issue refunds, and the 50% advance is non-refundable. This does not apply if we do not deliver the agreed work or our work falls short of what we agreed in writing. In that case, tell us in writing and we will put it right or refund the part of your payment that covers the work we did not deliver as agreed.
 
 We keep the advance because it covers starting your project, planning, allocating our resources and production.
+
+Prepaid bundles of white-label SEO audits for agencies follow their own rules in section 13 of our [Terms of service](https://ndcompany.in/terms): a full refund within 14 days if no audit has been ordered, and otherwise unused audits lapse 6 months after payment.
 
 ## 4. Cancellation policy
 
@@ -102,7 +104,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-23",
+      "dateModified": "2026-10-31",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",
