@@ -1,5 +1,5 @@
 ---
-title: "Logo laten ontwerpen vanaf € 149 | N&D Co."
+title: "Professioneel logo laten ontwerpen vanaf € 149 | N&D Co."
 description: "Logo laten ontwerpen: een concept met twee correctierondes voor € 149, een volledige logoset met stijlgids voor € 399, of maatwerk vanaf € 799. Inclusief vectorbestanden."
 url: "https://ndcompany.in/nl/logo-laten-ontwerpen"
 type: "Service"
@@ -8,9 +8,9 @@ image: "https://ndcompany.in/assets/share/logo-design.png"
 
 Logo laten ontwerpen
 
-# Logo laten ontwerpen, met alle bestanden die je nodig hebt
+# Professioneel logo laten ontwerpen, met alle bestanden die je nodig hebt
 
-Wij ontwerpen logo's voor ondernemers in Nederland, op afstand vanuit Kolkata, India. Je krijgt vectorbestanden voor drukwerk en digitaal gebruik, en zodra je volledig hebt betaald, is het logo van jou.
+Wij ontwerpen professionele logo's voor ondernemers in Nederland, op afstand vanuit Kolkata, India. Je krijgt vectorbestanden voor drukwerk en digitaal gebruik, en zodra je volledig hebt betaald, is het logo van jou.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -137,13 +137,17 @@ Elke versie van je logo als vectorbestand (AI, EPS, SVG en PDF) en als PNG, in k
 
 Van jou. Zodra je volledig hebt betaald, wordt het logo dat in je offerte staat jouw eigendom. Concepten die je niet kiest, blijven van ons.
 
+**Wat maakt een logo professioneel?**
+
+Een professioneel logo is eenvoudig genoeg om zowel klein op een telefoonscherm als groot op een gevel herkenbaar te blijven, werkt in kleur en in zwart-wit, en wordt geleverd als vectorbestand, zodat het op elk formaat scherp blijft. Daarom testen we elk logo heel klein en heel groot, en krijg je elke versie in AI, EPS, SVG, PDF en PNG.
+
 **Wat is het verschil tussen een logo en een huisstijl?**
 
 Een logo is het herkenningsteken van je bedrijf. Een huisstijl is het systeem eromheen: kleuren, lettertypen, beeld en de regels om ze te gebruiken, vaak met visitekaartjes en templates.
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -160,7 +164,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
     {
       "@type": "Service",
       "@id": "https://ndcompany.in/nl/logo-laten-ontwerpen#service",
-      "name": "Logo laten ontwerpen, met alle bestanden die je nodig hebt",
+      "name": "Professioneel logo laten ontwerpen, met alle bestanden die je nodig hebt",
       "serviceType": "Logo laten ontwerpen",
       "description": "Een logo laten ontwerpen kost bij ons € 149 voor een conceptrichting met twee correctierondes, € 399 voor twee richtingen, een volledige logoset en een korte stijlgids, en vanaf € 799 voor submerken, briefpapier en een uitgebreide stijlgids.",
       "provider": {
@@ -212,7 +216,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@type": "WebPage",
       "@id": "https://ndcompany.in/nl/logo-laten-ontwerpen#webpage",
       "url": "https://ndcompany.in/nl/logo-laten-ontwerpen",
-      "name": "Logo laten ontwerpen vanaf € 149 | N&D Co.",
+      "name": "Professioneel logo laten ontwerpen vanaf € 149 | N&D Co.",
       "description": "Logo laten ontwerpen: een concept met twee correctierondes voor € 149, een volledige logoset met stijlgids voor € 399, of maatwerk vanaf € 799. Inclusief vectorbestanden.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

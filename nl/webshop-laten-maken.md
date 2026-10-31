@@ -146,7 +146,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 

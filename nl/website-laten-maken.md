@@ -160,7 +160,7 @@ Bij het Business-pakket zitten hosting en domeinnaam het eerste jaar bij de prij
 
 ## Ook in het Nederlands
 
-[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
+[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
