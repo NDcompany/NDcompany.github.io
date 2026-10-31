@@ -106,7 +106,7 @@ All of them: website design and development, e-commerce, SEO, digital marketing,
 
 **Can you build mobile apps white label?**
 
-Yes, custom apps only: Android and iOS apps built for your client and published in your client's own Google Play and App Store accounts, never in ours or yours. Apple rejects apps made from a template or an app-generation service unless the content provider submits them, so we do not resell template apps. Your client owns both developer accounts, we work in them with a team role, and the written quote names the store fees, which your client pays.
+Yes, custom apps only: Android and iOS apps built for your client and published in your client's own Google Play and App Store accounts, never in ours or yours. Apple rejects apps made from a template or an app-generation service unless the content provider submits them, so we do not resell template apps. Your client opens and owns both developer accounts, and the app is listed under your client's name. You handle that setup with your client using our step-by-step checklist, then invite us with a team role under an email address on your own domain, so our name never shows in your client's accounts. The written quote names the store fees, which your client pays.
 
 **How do agency prices work?**
 

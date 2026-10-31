@@ -65,7 +65,7 @@ You do not need a monthly package to resell an audit. Send us the site and the a
 | 5 Standard audits | $595 ($119 each) | Up to 25 each | As Standard | Five Standard audits, bought together |
 | 10 Standard audits | $990 ($99 each) | Up to 25 each | As Standard | Ten Standard audits, bought together |
 
-Prices are per audit, for one website each. Agencies based in India can ask for a quote in rupees: ₹9,999 for a Standard audit and ₹21,999 for a Deep audit. Each order is confirmed in writing before the audit starts.
+Prices are per audit, for one website each. Agencies based in India can ask for a quote in rupees: ₹9,999 for a Standard audit and ₹21,999 for a Deep audit. Each order is confirmed in writing before the audit starts. Bundles are paid upfront and their audits used within 6 months of payment; unused audits are not refunded. If an audit is late or wrong, for example because we could not read the site, we redo it at no cost, and if we still cannot deliver it, we refund that audit.
 
 ## What an audit covers
 
@@ -169,7 +169,7 @@ Yes. Reports and audits come unbranded or with your agency's logo, and nothing i
 
 **Can we resell an SEO audit on its own?**
 
-Yes. A Standard audit is $149 (up to 25 pages, 3 business days) and a Deep audit is $349 (up to 100 pages, our review and a 90-day plan, 5 business days). Five Standard audits cost $595 and ten cost $990. The PDF carries your logo or no branding. Our monthly SEO packages start with an audit in the first month, so you only buy one on its own when your client does not need monthly work.
+Yes. A Standard audit is $149 (up to 25 pages, 3 business days) and a Deep audit is $349 (up to 100 pages, our review and a 90-day plan, 5 business days). Five Standard audits cost $595 and ten cost $990, paid upfront and used within 6 months. The PDF carries your logo or no branding. Our monthly SEO packages start with an audit in the first month, so you only buy one on its own when your client does not need monthly work.
 
 **What is the difference between a Standard and a Deep audit?**
 

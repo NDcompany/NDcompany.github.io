@@ -4,13 +4,13 @@ description: "Terms of service for N&D Co., Kolkata: working with clients and ag
 url: "https://ndcompany.in/terms"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-25"
+modified: "2026-10-31"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Terms of service
 
-Effective date: 23 October 2026 · Last updated: 25 October 2026
+Effective date: 23 October 2026 · Last updated: 31 October 2026
 
 N&D Co. is a brand and growth agency offering creative and digital services. By using our website at https://ndcompany.in, including the free tools at ndcompany.in/tools, or engaging with our services, you agree to these Terms of Service.
 
@@ -175,6 +175,8 @@ An agency can buy any of our services [white label](https://ndcompany.in/white-l
 - While we work with the agency, and for 12 months after our last project for it, we do not approach or knowingly take work from a client the agency introduced to us.
 - On full payment we assign to the agency the final deliverables named in its quote, as section 6 describes, and the agency may transfer them to its client. The licence to our own tools and code in a deliverable passes on with it.
 - The agency handles its client, complaints included, and tells us in writing about any problem with our work. We then put it right or refund as section 5 says, and the limits in section 9 apply to the fees the agency paid us.
+- An agency can prepay a bundle of SEO audits. The audits in a bundle must be used within 6 months of payment; after that, unused audits lapse, and audits not used are not refunded. If an audit is late or wrong, for example because we could not read the site, we redo it at no cost, and if we still cannot deliver it, we refund that audit's share of the price.
+- For a mobile app, the agency's client opens and owns its own Google Play and Apple developer accounts, pays their fees, and publishes the app under its own name. The agency arranges that setup with its client and adds us to the accounts with a team role, under an email address the agency gives us.
 - The agency indemnifies us, which means it pays our losses and reasonable legal costs, for any claim by its client to the extent the claim comes from something we did not do: the agency's own promises or statements to its client, scope it agreed without us, or material it or its client gave us.
 
 ## 14. Updates to terms
@@ -220,7 +222,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-25",
+      "dateModified": "2026-10-31",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",
