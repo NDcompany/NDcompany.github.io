@@ -14,10 +14,12 @@ Every subject our posts and projects cover, most used first, with the posts and 
 
 ## Logos
 
-2 posts, 8 projects
+3 posts, 8 projects
 
 The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 
+- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+  3 Nov 2026
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
   23 Oct 2026
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
@@ -132,6 +134,24 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 
+## Brand guidelines
+
+3 posts, 1 project
+
+Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
+
+- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+  3 Nov 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
+  23 Oct 2026
+
+- [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
+  Branding
+
+[Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+
 ## Local SEO
 
 4 posts
@@ -182,22 +202,6 @@ What a website costs to build and run: design and development, domains, hosting,
   25 Oct 2026
 
 [Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
-
-## Brand guidelines
-
-2 posts, 1 project
-
-Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
-
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
-
-- [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
-  Branding
-
-[Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
 ## Google Business Profile
 
@@ -400,26 +404,26 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 6,
+            "name": "Brand guidelines",
+            "url": "https://ndcompany.in/tags/brand-guidelines"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags/local-seo"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags/technical-seo"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Website costs",
             "url": "https://ndcompany.in/tags/website-costs"
-          },
-          {
-            "@type": "ListItem",
-            "position": 9,
-            "name": "Brand guidelines",
-            "url": "https://ndcompany.in/tags/brand-guidelines"
           },
           {
             "@type": "ListItem",

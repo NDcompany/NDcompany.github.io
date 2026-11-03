@@ -105,7 +105,7 @@ Stamps, embroidery and one-colour print need a single-colour version, and photos
 
 ### Files that scale
 
-Ask for vector files (SVG, EPS or PDF) as well as PNG. Mozilla's web documentation notes that [SVG images can be rendered at any size without loss of quality](https://developer.mozilla.org/en-US/docs/Web/SVG), which is what a signboard printer needs. Transparent PNGs cover uploads (Facebook suggests PNG for profile pictures [with a logo or text](https://www.facebook.com/help/125379114252045?locale=en_US)). Keep the editable source files too.
+Ask for vector files (SVG, EPS or PDF) as well as PNG. Mozilla's web documentation notes that [SVG images can be rendered at any size without loss of quality](https://developer.mozilla.org/en-US/docs/Web/SVG), which is what a signboard printer needs. Transparent PNGs cover uploads (Facebook suggests PNG for profile pictures [with a logo or text](https://www.facebook.com/help/125379114252045?locale=en_US)). Keep the editable source files too. Our guide to [logo file types](https://ndcompany.in/blogs/logo-file-types) explains each format and which one to send where.
 
 ## What a brand identity adds
 
@@ -279,6 +279,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Branding
 
+Guide · 3 Nov 2026
+
+### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+
+SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+
+Read the guide
+
+Branding
+
 Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
@@ -294,16 +304,6 @@ Guide · 31 Oct 2026
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
 
 Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
-
-Read the guide
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
 
 Read the guide
 
@@ -389,7 +389,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Branding",
       "keywords": "Logos, Brand guidelines, Trade marks, Working with an agency",
       "genre": "Guide",
-      "wordCount": 2898,
+      "wordCount": 2913,
       "inLanguage": "en-IN"
     },
     {

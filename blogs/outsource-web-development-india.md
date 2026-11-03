@@ -168,13 +168,13 @@ Only 35 of 101 agency websites we could read show any price. The rest of what we
 
 Read the post
 
-SEO
+Branding
 
-Guide · 31 Oct 2026
+Guide · 3 Nov 2026
 
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
 
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
+SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
 
 Read the guide
 

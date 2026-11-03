@@ -49,6 +49,16 @@ Guides from our blogs on the same kind of work.
 
 Branding
 
+Guide · 3 Nov 2026
+
+### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+
+SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+
+Read the guide
+
+Branding
+
 Guide · 23 Oct 2026
 
 ### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)

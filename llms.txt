@@ -32,6 +32,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types): Logo file types explained: SVG, PNG, JPG, PDF, AI and EPS, vector vs raster, logo sizes, and the files in a real package we delivered, with their sizes.
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements): What Google Play and the App Store require from a business app in 2026: developer accounts, D-U-N-S, 12-tester closed testing, privacy forms and review times.
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india): What SEO costs in India in 2026: monthly package prices from 108 agency websites, what a fee covers, red flags, GST and how to compare quotes.
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms): What Google, OpenAI, Anthropic and Perplexity say about their crawlers, robots.txt, llms.txt and content, and how to check your own site for AI search.
@@ -96,10 +97,10 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Local SEO](https://ndcompany.in/tags/local-seo): Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
 - [Technical SEO](https://ndcompany.in/tags/technical-seo): Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
 - [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Google Business Profile](https://ndcompany.in/tags/google-business-profile): Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 - [Google Search Console](https://ndcompany.in/tags/google-search-console): Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 - [SEO audits](https://ndcompany.in/tags/seo-audits): What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.

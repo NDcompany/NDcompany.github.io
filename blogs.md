@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Branding
+
+Guide · 3 Nov 2026
+
+### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+
+SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+
+Read the guide
+
 Business
 
 Guide · 31 Oct 2026
@@ -186,6 +196,8 @@ Read the guide
 
 ## Recently updated
 
+- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+  3 Nov 2026
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
   31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -193,8 +205,6 @@ Read the guide
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   30 Oct 2026
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-  30 Oct 2026
-- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 
 ## Trending tags
@@ -204,10 +214,10 @@ Read the guide
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
 [All tags](https://ndcompany.in/tags)
@@ -286,6 +296,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/logo-file-types#article",
+          "headline": "Logo file types: which format to use where",
+          "description": "Logo file types explained: SVG, PNG, JPG, PDF, AI and EPS, vector vs raster, logo sizes, and the files in a real package we delivered, with their sizes.",
+          "image": "https://ndcompany.in/assets/blog/logo-file-types-16x9.png",
+          "url": "https://ndcompany.in/blogs/logo-file-types",
+          "datePublished": "2026-11-03T00:00:00+05:30",
+          "dateModified": "2026-11-03T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/play-store-app-store-requirements#article",

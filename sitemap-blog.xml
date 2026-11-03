@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (39 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (40 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/branding</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/business</loc>
@@ -23,11 +23,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
@@ -46,6 +46,10 @@
     <lastmod>2026-10-20</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/tags/brand-guidelines</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/tags/local-seo</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
@@ -56,10 +60,6 @@
   <url>
     <loc>https://ndcompany.in/tags/website-costs</loc>
     <lastmod>2026-10-30</lastmod>
-  </url>
-  <url>
-    <loc>https://ndcompany.in/tags/brand-guidelines</loc>
-    <lastmod>2026-10-23</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/google-business-profile</loc>
@@ -87,10 +87,14 @@
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/logo-file-types</loc>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/play-store-app-store-requirements</loc>

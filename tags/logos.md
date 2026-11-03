@@ -16,6 +16,16 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 
 Branding
 
+Guide · 3 Nov 2026
+
+### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+
+SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+
+Read the guide
+
+Branding
+
 Guide · 23 Oct 2026
 
 ### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
@@ -120,6 +130,8 @@ See the project
 
 ## Recently updated
 
+- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+  3 Nov 2026
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
   31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -127,8 +139,6 @@ See the project
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   30 Oct 2026
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-  30 Oct 2026
-- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 
 ## Trending tags
@@ -138,10 +148,10 @@ See the project
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
 [All tags](https://ndcompany.in/tags)
@@ -150,15 +160,15 @@ See the project
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
-
-Logo design, brand guidelines, and visual identity systems.
-
-Learn more
-
 ### [Logo Design](https://ndcompany.in/services/logo-design)
 
 Custom logo design and brand identity creation.
+
+Learn more
+
+### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
+
+Logo design, brand guidelines, and visual identity systems.
 
 Learn more
 
@@ -199,60 +209,66 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Logo file types: which format to use where",
+            "url": "https://ndcompany.in/blogs/logo-file-types"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Logo vs brand identity: what you are paying for",
             "url": "https://ndcompany.in/blogs/logo-vs-brand-identity"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "What goes into a brand style guide, and how to use one",
             "url": "https://ndcompany.in/blogs/brand-style-guide"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Brand identity for Sea Seven Fish",
             "url": "https://ndcompany.in/projects/sea-seven-fish"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Brand identity for Innovation Texture",
             "url": "https://ndcompany.in/projects/innovation-texture"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Logo for Edli Delight",
             "url": "https://ndcompany.in/projects/edli-delight"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Logo for Koustav Kitchen",
             "url": "https://ndcompany.in/projects/koustav-kitchen"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Logo for North East, a pub and bar",
             "url": "https://ndcompany.in/projects/north-east-pub-and-bar"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Logo for Style & Co.",
             "url": "https://ndcompany.in/projects/style-and-co"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Logo for Sunfresso",
             "url": "https://ndcompany.in/projects/sunfresso"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Logo for Taste and Bite",
             "url": "https://ndcompany.in/projects/taste-and-bite"
           }

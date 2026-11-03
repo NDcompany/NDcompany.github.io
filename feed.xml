@@ -6,8 +6,21 @@
 <atom:link href="https://ndcompany.in/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Insights, quick tips and plain guides from N&amp;D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.</description>
 <language>en-in</language>
-<lastBuildDate>Fri, 30 Oct 2026 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 18:30:00 GMT</lastBuildDate>
 <image><url>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</url><title>N&amp;D Co. Blogs</title><link>https://ndcompany.in/blogs</link></image>
+<item>
+<title>Logo file types: which format to use where</title>
+<link>https://ndcompany.in/blogs/logo-file-types</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/logo-file-types</guid>
+<pubDate>Mon, 02 Nov 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Branding</category>
+<category>Logos</category>
+<category>Brand guidelines</category>
+<description>Logo file types explained: SVG, PNG, JPG, PDF, AI and EPS, vector vs raster, logo sizes, and the files in a real package we delivered, with their sizes.</description>
+<enclosure url="https://ndcompany.in/assets/pins/logo-file-types.jpg" length="64131" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/logo-file-types.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
 <item>
 <title>What do Google Play and the App Store require from a business app in 2026?</title>
 <link>https://ndcompany.in/blogs/play-store-app-store-requirements</link>
