@@ -12,7 +12,7 @@ Web design and development
 
 We design and build custom websites for businesses that need a site to bring in leads, sell products or explain what they do. Each project covers design, development, content placement, mobile testing and launch, with a 7-day support window after handover.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=website-design-development#contact)
 
 [See pricing](https://ndcompany.in/services/website-design-development#pricing)
 
@@ -101,7 +101,7 @@ written quote before work starts · delivered in 1 to 2 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=website-design-development#contact)
 
 Fits a new business or campaign that needs one clean page live quickly.
 
@@ -128,7 +128,7 @@ written quote before work starts · delivered in 2 to 4 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=website-design-development#contact)
 
 Fits an established business that needs a full site it can update in-house.
 
@@ -154,7 +154,7 @@ written quote before work starts · delivered in 4 to 6 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=website-design-development#contact)
 
 Fits stores and companies whose site has to do more than present information.
 
@@ -284,7 +284,7 @@ Read the post
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=website-design-development#contact)
 
 ## Structured data
 

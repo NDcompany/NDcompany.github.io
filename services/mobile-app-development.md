@@ -12,7 +12,7 @@ Android and iOS apps
 
 We build Android and iOS apps for restaurants, shops and growing businesses in Kolkata, across India and worldwide. One codebase serves both stores, and we prepare and submit the app to Google Play and the App Store. Scope, timeline and price are set in writing before work starts.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=mobile-app-development#contact)
 
 [See pricing](https://ndcompany.in/services/mobile-app-development#pricing)
 
@@ -111,7 +111,7 @@ written quote before work starts · delivered in 4 to 6 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=mobile-app-development#contact)
 
 For a first app with one clear job.
 
@@ -138,7 +138,7 @@ written quote before work starts · delivered in 8 to 12 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=mobile-app-development#contact)
 
 For a business that runs sales, bookings or orders through its app.
 
@@ -163,7 +163,7 @@ written quote before work starts
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=mobile-app-development#contact)
 
 For apps with several kinds of user, scoped from scratch.
 
@@ -297,7 +297,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=mobile-app-development#contact)
 
 ## Structured data
 

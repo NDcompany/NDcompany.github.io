@@ -12,7 +12,7 @@ Filming and post-production
 
 We produce corporate videos, product demos and promotional films, and edit footage you already have into reels, short ads and explainers, with motion graphics for titles and product callouts. Every project is quoted as a fixed price before a camera is switched on.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=video-production-editing#contact)
 
 [See pricing](https://ndcompany.in/services/video-production-editing#pricing)
 
@@ -95,7 +95,7 @@ written quote before work starts · delivered in 2 to 3 days
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=video-production-editing#contact)
 
 For businesses with footage that needs a professional cut for social media or ads.
 
@@ -119,7 +119,7 @@ written quote before work starts · delivered in 1 to 2 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=video-production-editing#contact)
 
 For a company profile, product demo or promotional video shot and edited by one team.
 
@@ -141,7 +141,7 @@ written quote before work starts
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=video-production-editing#contact)
 
 For campaigns, video series or ongoing editing needs that do not fit a single-project scope.
 
@@ -257,7 +257,7 @@ See the project
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=video-production-editing#contact)
 
 ## Structured data
 

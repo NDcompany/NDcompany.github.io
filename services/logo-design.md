@@ -12,7 +12,7 @@ Custom logo design
 
 We design logos from scratch for businesses starting out or replacing a mark that no longer fits. You receive a primary logo, alternate lockups, a color palette and vector source files, and the rights to the final design once the project is paid in full.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=logo-design#contact)
 
 [See pricing](https://ndcompany.in/services/logo-design#pricing)
 
@@ -94,7 +94,7 @@ written quote before work starts · delivered in 3 to 5 days
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=logo-design#contact)
 
 For a new business with a clear brief.
 
@@ -118,7 +118,7 @@ written quote before work starts · delivered in 7 to 10 days
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=logo-design#contact)
 
 For businesses using the logo across print, web and social.
 
@@ -141,7 +141,7 @@ written quote before work starts · delivered in 2 to 3 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=logo-design#contact)
 
 For multi-product businesses or a full rebrand.
 
@@ -287,7 +287,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=logo-design#contact)
 
 ## Structured data
 

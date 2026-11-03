@@ -12,7 +12,7 @@ Built around your workflow
 
 We design and build custom software: web applications, CRM systems, customer portals and internal tools that fit the way your business already works. Scope, timeline and price are set in writing before development starts, and ownership of the deliverables named in your quote passes to you once the final invoice is paid.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=software-development#contact)
 
 [See pricing](https://ndcompany.in/services/software-development#pricing)
 
@@ -100,7 +100,7 @@ written quote before work starts · delivered in 2 to 3 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=software-development#contact)
 
 For a business replacing one spreadsheet or manual process with a working tool.
 
@@ -128,7 +128,7 @@ written quote before work starts · delivered in 4 to 8 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=software-development#contact)
 
 For companies that need one system for sales, operations and reporting.
 
@@ -150,7 +150,7 @@ written quote before work starts · delivered in 8 to 16 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=software-development#contact)
 
 For products with customer portals or large teams, scoped from scratch.
 
@@ -300,7 +300,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=software-development#contact)
 
 ## Structured data
 

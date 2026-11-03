@@ -12,7 +12,7 @@ Brand identity and collateral
 
 We build complete brand systems for businesses that are starting out or replacing an identity that no longer fits. One project delivers the logo, color and type system, brand guidelines and the first set of marketing materials, so everything you print or post looks like it came from the same company.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=full-branding-solutions#contact)
 
 [See pricing](https://ndcompany.in/services/full-branding-solutions#pricing)
 
@@ -102,7 +102,7 @@ written quote before work starts · delivered in 2 to 3 weeks, with 3 months of 
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=full-branding-solutions#contact)
 
 Fits a new business that needs a working identity before anything else.
 
@@ -127,7 +127,7 @@ written quote before work starts · delivered in 2 to 3 weeks, with 3 months of 
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=full-branding-solutions#contact)
 
 Fits a business launching or rebranding that needs materials ready on day one.
 
@@ -150,7 +150,7 @@ written quote before work starts · delivered in 2 to 3 weeks, with 3 months of 
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=full-branding-solutions#contact)
 
 Fits product companies and multi-channel brands with a longer list of pieces.
 
@@ -272,7 +272,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=full-branding-solutions#contact)
 
 ## Structured data
 

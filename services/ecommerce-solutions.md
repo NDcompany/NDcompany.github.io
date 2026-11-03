@@ -12,7 +12,7 @@ Online store development
 
 We build online stores that take orders, payments and shipping details without manual work: catalog, checkout, payment gateway and order management set up and tested before launch. The store runs on Shopify, WooCommerce or a custom build, chosen for your catalog size and how you fulfill orders.
 
-[Plan your store](https://ndcompany.in/#contact)
+[Plan your store](https://ndcompany.in/?service=ecommerce-solutions#contact)
 
 [See pricing](https://ndcompany.in/services/ecommerce-solutions#pricing)
 
@@ -100,7 +100,7 @@ written quote before work starts · delivered in 2 to 3 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=ecommerce-solutions#contact)
 
 For a first store with a small catalog and one seller.
 
@@ -125,7 +125,7 @@ written quote before work starts · delivered in 3 to 5 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=ecommerce-solutions#contact)
 
 For established sellers moving off marketplaces or chat-based ordering.
 
@@ -148,7 +148,7 @@ written quote before work starts · delivered in 6 to 12 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=ecommerce-solutions#contact)
 
 For marketplaces, B2B catalogs and stores with workflows the platforms cannot handle.
 
@@ -282,7 +282,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=ecommerce-solutions#contact)
 
 ## Structured data
 

@@ -12,7 +12,7 @@ Search engine optimization
 
 We are an SEO agency in Kolkata doing technical, on-page and off-page SEO for businesses that want more visitors from Google search rather than from paid ads alone. The work runs monthly: fixing crawl and speed problems, writing and improving pages for the searches your customers make, and reporting what changed.
 
-[Request an audit](https://ndcompany.in/#contact)
+[Request an audit](https://ndcompany.in/?service=seo-services#contact)
 
 [See pricing](https://ndcompany.in/services/seo-services#pricing)
 
@@ -104,7 +104,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=seo-services#contact)
 
 Fits a small local business or a new site with a handful of pages.
 
@@ -130,7 +130,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=seo-services#contact)
 
 Fits an established business competing for search traffic in its city or category.
 
@@ -154,7 +154,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=seo-services#contact)
 
 Fits multi-location companies and online stores with large catalogs.
 
@@ -289,7 +289,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=seo-services#contact)
 
 ## Structured data
 

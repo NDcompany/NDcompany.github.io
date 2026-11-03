@@ -12,7 +12,7 @@ SEO and social content
 
 We are a content marketing agency in Kolkata. We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=content-creation#contact)
 
 [See pricing](https://ndcompany.in/services/content-creation#pricing)
 
@@ -96,7 +96,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=content-creation#contact)
 
 For a business that wants its blog updated on a schedule.
 
@@ -120,7 +120,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=content-creation#contact)
 
 For businesses publishing on the blog and social every week.
 
@@ -143,7 +143,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=content-creation#contact)
 
 For e-commerce catalogs, site rewrites or paid-campaign content.
 
@@ -264,7 +264,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=content-creation#contact)
 
 ## Structured data
 

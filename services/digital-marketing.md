@@ -12,7 +12,7 @@ Paid media and reporting
 
 We plan and run paid campaigns on Google Ads and Meta, write and send email campaigns, and report every month on what the spend produced. The service is for businesses across India and worldwide that want one team handling ads, email, tracking and reporting instead of separate vendors.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=digital-marketing#contact)
 
 [See pricing](https://ndcompany.in/services/digital-marketing#pricing)
 
@@ -97,7 +97,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=digital-marketing#contact)
 
 For a business starting paid ads on one channel with a small budget.
 
@@ -122,7 +122,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=digital-marketing#contact)
 
 For businesses running search and social ads together and adding email.
 
@@ -145,7 +145,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=digital-marketing#contact)
 
 For larger budgets, several products or locations, or reporting needs that do not fit a standard scope.
 
@@ -315,7 +315,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=digital-marketing#contact)
 
 ## Structured data
 

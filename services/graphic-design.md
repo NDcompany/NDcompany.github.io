@@ -12,7 +12,7 @@ Print and digital design
 
 We are a graphic design agency in Kolkata. We design the graphics a business puts in front of people every day: social media posts, posters, business cards, brochures, ad creatives and packaging. Every piece is built on your brand assets and delivered as print-ready and editable files you keep.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=graphic-design#contact)
 
 [See pricing](https://ndcompany.in/services/graphic-design#pricing)
 
@@ -90,7 +90,7 @@ written quote before work starts · delivered in 2 to 3 days
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=graphic-design#contact)
 
 For a business that needs one piece.
 
@@ -114,7 +114,7 @@ written quote before work starts · delivered in 1 to 2 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=graphic-design#contact)
 
 For a business that needs its everyday materials to match.
 
@@ -137,7 +137,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=graphic-design#contact)
 
 For campaigns, product launches or a recurring monthly design load.
 
@@ -298,7 +298,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=graphic-design#contact)
 
 ## Structured data
 

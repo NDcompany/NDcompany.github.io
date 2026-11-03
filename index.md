@@ -16,6 +16,8 @@ conversions, clients, sales and growth
 
 or [send us a message](https://ndcompany.in/#contact)
 
+5.0 on Google from 5 reviews. [Read them](https://ndcompany.in/#testimonials)
+
 ![Illustration of two people presenting a growth chart beside the N&D Co. logo on a large screen](https://ndcompany.in/assets/images/growth-trust.svg)
 
 Brand identities. Websites. SEO. Marketing. Video. • Made in Kolkata for businesses in India and abroad. •

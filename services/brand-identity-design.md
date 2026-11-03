@@ -12,7 +12,7 @@ Complete visual identity
 
 We design the visual system your business is recognized by: logo, color palette, typography, and the rules for using them together on everything from a business card to a website. You receive the source files and a guidelines document, so any designer or printer can reproduce the identity correctly.
 
-[Start your brand](https://ndcompany.in/#contact)
+[Start your brand](https://ndcompany.in/?service=brand-identity-design#contact)
 
 [See pricing](https://ndcompany.in/services/brand-identity-design#pricing)
 
@@ -99,7 +99,7 @@ written quote before work starts · delivered in 1 to 2 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=brand-identity-design#contact)
 
 For a new business that needs a correct, usable identity before launch.
 
@@ -122,7 +122,7 @@ written quote before work starts · delivered in 2 to 3 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=brand-identity-design#contact)
 
 For businesses that want a system their team and vendors can apply without a designer on hand.
 
@@ -145,7 +145,7 @@ written quote before work starts · delivered in 3 to 6 weeks
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=brand-identity-design#contact)
 
 For rebrands and multi-product companies, scoped from scratch.
 
@@ -295,7 +295,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=brand-identity-design#contact)
 
 ## Structured data
 

@@ -12,7 +12,7 @@ Planning and posting
 
 We plan your content calendar, design and write the posts, publish them on schedule and reply to comments and messages, so your pages stay active without you doing it at night. The service is for businesses across India and worldwide that want a consistent presence on Instagram, Facebook and LinkedIn.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=social-media-management#contact)
 
 [See pricing](https://ndcompany.in/services/social-media-management#pricing)
 
@@ -96,7 +96,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=social-media-management#contact)
 
 For a business that needs one page kept active with consistent posts.
 
@@ -120,7 +120,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=social-media-management#contact)
 
 For businesses that want reels, replies and two active channels.
 
@@ -143,7 +143,7 @@ billed monthly
 
 ---
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=social-media-management#contact)
 
 For brands with several channels, campaign launches or a high volume of customer messages.
 
@@ -283,7 +283,7 @@ Read the guide
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
 
-[Get a quote](https://ndcompany.in/#contact)
+[Get a quote](https://ndcompany.in/?service=social-media-management#contact)
 
 ## Structured data
 
