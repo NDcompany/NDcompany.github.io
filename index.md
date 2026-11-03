@@ -282,6 +282,8 @@ We use your details only to reply to you, and delete them after 24 months unless
 
 2 recommendations on Facebook · [Read them or recommend us](https://www.facebook.com/NDCo.official/reviews)
 
+Worked with us? [Review us on Trustpilot](https://www.trustpilot.com/evaluate/ndcompany.in)
+
 Google review
 
 "Amazing work, never knew the codebase can be fixed so reliably. Highly recommended"
