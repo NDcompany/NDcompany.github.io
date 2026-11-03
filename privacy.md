@@ -4,13 +4,13 @@ description: "What our contact and SEO audit forms collect, what we keep when yo
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-28"
+modified: "2026-11-04"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026 · Last updated: 28 October 2026
+Effective date: 23 October 2026 · Last updated: 4 November 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -58,11 +58,12 @@ We use the information we collect to:
 - Keep spam and automated abuse out of our contact and SEO audit forms
 - Communicate about project details and updates
 - Deliver the work you hire us for, and invoice and keep records of it
+- Ask clients, once their project is done, to review us on Trustpilot (see section 6)
 - Improve our website and service offerings, using analytics only if you allow it
 - Use Google's advertising features, such as remarketing, only if you allow marketing cookies (see section 4)
 - Handle your grievances, which may involve AI-assisted tools (see "Contact us" below)
 
-If you are in the European Economic Area (EEA), these are the legal bases we rely on under the GDPR: your consent for analytics cookies, marketing cookies, offline access and any marketing email; steps you ask us to take before a contract, and the contract itself, for inquiries, free SEO audit requests and projects; and our legitimate interests in answering messages, telling people who ask for a free SEO audit about our services in the report email and up to two follow-ups, keeping this website and its forms secure, finding and fixing errors on this website, and keeping the accounting and tax records the law requires.
+If you are in the European Economic Area (EEA), these are the legal bases we rely on under the GDPR: your consent for analytics cookies, marketing cookies, offline access and any marketing email; steps you ask us to take before a contract, and the contract itself, for inquiries, free SEO audit requests and projects; and our legitimate interests in answering messages, telling people who ask for a free SEO audit about our services in the report email and up to two follow-ups, keeping this website and its forms secure, finding and fixing errors on this website, asking clients for a review once their project is done, and keeping the accounting and tax records the law requires.
 
 ## 3. Email marketing and newsletters
 
@@ -137,6 +138,10 @@ Emails us each message and audit request sent through our forms, from our own nd
 ### Sentry
 
 Receives the error reports described in section 1. They reach it through our own address on Cloudflare, so Sentry never sees your IP address. See the [Sentry Privacy Policy](https://sentry.io/privacy/).
+
+### Trustpilot
+
+Once a project is done, we may share a client's name, email address and a project reference with Trustpilot, so it can email them an invitation to review us. We do this only for people who have hired us, never for people who only sent us a message. Trustpilot handles that data for us, and we stay responsible for it. If you would rather not be invited, tell us and we will not share your details. See the [Trustpilot Privacy Policy](https://corporate.trustpilot.com/legal/for-reviewers/privacy-policy-end-user).
 
 ### GitHub
 
@@ -291,7 +296,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-28",
+      "dateModified": "2026-11-04",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",
