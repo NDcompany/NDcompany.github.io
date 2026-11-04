@@ -4,13 +4,13 @@ description: "What our contact and SEO audit forms collect, what we keep when yo
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-11-04"
+modified: "2026-11-05"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026 · Last updated: 4 November 2026
+Effective date: 23 October 2026 · Last updated: 5 November 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -33,6 +33,8 @@ When you email us, call us or message us on social media, we receive what you se
 - Project-related information
 
 If you hire us, we also keep the project records and the payment records described in section 5.
+
+If you send us your CV and work samples, we keep them with your name and contact details to consider you for a role. They may be kept in our email, our CRM, our databases and Google Drive (see "Our business software" in section 6).
 
 If you allow analytics cookies, Google Analytics records how you use the site: the pages you view and how long you stay, how you reached us (for example from a search engine or a link), your device, browser and approximate location (such as your city), and the actions we measure, such as button clicks, shares, searches on our blog and projects pages, and plays of our service videos. Google says Google Analytics 4 does not log or store IP addresses.
 
@@ -62,8 +64,9 @@ We use the information we collect to:
 - Improve our website and service offerings, using analytics only if you allow it
 - Use Google's advertising features, such as remarketing, only if you allow marketing cookies (see section 4)
 - Handle your grievances, which may involve AI-assisted tools (see "Contact us" below)
+- Consider people who send us their CV for a role with us
 
-If you are in the European Economic Area (EEA), these are the legal bases we rely on under the GDPR: your consent for analytics cookies, marketing cookies, offline access and any marketing email; steps you ask us to take before a contract, and the contract itself, for inquiries, free SEO audit requests and projects; and our legitimate interests in answering messages, telling people who ask for a free SEO audit about our services in the report email and up to two follow-ups, keeping this website and its forms secure, finding and fixing errors on this website, asking clients for a review once their project is done, and keeping the accounting and tax records the law requires.
+If you are in the European Economic Area (EEA), these are the legal bases we rely on under the GDPR: your consent for analytics cookies, marketing cookies, offline access and any marketing email; steps you ask us to take before a contract, and the contract itself, for inquiries, free SEO audit requests, job applications and projects; and our legitimate interests in answering messages, telling people who ask for a free SEO audit about our services in the report email and up to two follow-ups, keeping this website and its forms secure, finding and fixing errors on this website, asking clients for a review once their project is done, and keeping the accounting and tax records the law requires.
 
 ## 3. Email marketing and newsletters
 
@@ -175,6 +178,8 @@ We keep personal data only as long as we need it to:
 - Comply with legal obligations
 
 **Retention period:** We keep enquiries, whether they reach us through our contact form, our free SEO audit form, email, phone or social media, for 24 months after they arrive, unless you became our client. We keep project records, deliverables and invoices for 8 years after the project ends, which covers Indian tax and GST record keeping, and then delete them. You can ask us to delete your data sooner, unless the law requires us to keep it.
+
+A CV and work samples you send us are the exception: we keep them for 12 months after they arrive, and if no role comes of it, we then delete them from every place we keep them. If you ask us to delete yours sooner, we delete it from every place and confirm by email.
 
 If you are a client and ask us to delete your project data once the project is complete, we delete it and send you a PDF confirming the deletion. We keep only what the law requires, such as accounts and tax records and, from 13 May 2027, the records of processing that the Digital Personal Data Protection Rules require us to keep for one year, and delete them when that period ends.
 
@@ -296,7 +301,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-11-04",
+      "dateModified": "2026-11-05",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

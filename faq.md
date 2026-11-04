@@ -66,6 +66,14 @@ We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients 
 
 [FAQ](https://ndcompany.in/#faq)
 
+**Are you hiring? General**
+
+Not right now. You can send your CV and a few work samples to hello@ndcompany.in, and we will keep them on file for 12 months in case a role opens.
+
+[Home](https://ndcompany.in/)
+
+[FAQ](https://ndcompany.in/#faq)
+
 **How much does a website cost in Kolkata? Website Design & Development**
 
 It depends on the number of pages, whether it needs e-commerce or a CMS, and how much custom functionality is involved.
