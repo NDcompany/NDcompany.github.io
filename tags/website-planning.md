@@ -16,6 +16,16 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
 
 Websites
 
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
+Websites
+
 Guide · 25 Oct 2026
 
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -46,6 +56,8 @@ Read the guide
 
 ## Recently updated
 
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -53,8 +65,6 @@ Read the guide
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  30 Oct 2026
-- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 
 ## Trending tags
@@ -64,11 +74,11 @@ Read the guide
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -82,15 +92,15 @@ Responsive websites, e-commerce development, and SEO-optimized web solutions.
 
 Learn more
 
-### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+### [SEO Services](https://ndcompany.in/services/seo-services)
 
-Online store development with payment integration and optimization.
+On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
 
 Learn more
 
-### [Content Creation](https://ndcompany.in/services/content-creation)
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-SEO content, blogs, and social media content.
+Online store development with payment integration and optimization.
 
 Learn more
 
@@ -125,18 +135,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
+            "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           }

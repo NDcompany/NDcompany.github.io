@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (82 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (83 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -454,6 +454,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
@@ -626,6 +628,16 @@ Learn more
 
 Guides on the work behind Website Design & Development.
 
+Websites
+
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
 SEO
 
 Guide · 30 Oct 2026
@@ -643,16 +655,6 @@ Insight · 30 Oct 2026
 ### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
 
 52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
-
-Read the post
-
-Business
-
-Insight · 29 Oct 2026
-
-### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-
-Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
 
@@ -737,6 +739,8 @@ Every monthly fee is fixed in writing after the audit and before work starts. Th
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -915,6 +919,16 @@ Learn more
 
 Guides on the work behind SEO Services.
 
+Websites
+
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
 SEO
 
 Guide · 31 Oct 2026
@@ -932,16 +946,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -1026,6 +1030,8 @@ Every quote is set in writing before work starts. The tiers below are starting p
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -1298,6 +1304,8 @@ Every quote is set in writing before work starts, based on the scope we agree in
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -1609,6 +1617,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
@@ -1895,6 +1905,8 @@ Every quote is set in writing before design begins, based on the scope agreed in
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -2201,6 +2213,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
@@ -2478,6 +2492,8 @@ Every quote is set in writing before work starts. The tiers below are starting p
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -2794,6 +2810,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
@@ -3077,6 +3095,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
@@ -3329,6 +3349,8 @@ Every quote is fixed before work starts and based on the pieces in scope. The ti
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -3632,6 +3654,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
@@ -3928,6 +3952,8 @@ Every monthly fee is fixed before work starts and covers the pieces in the calen
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -4727,7 +4753,7 @@ Our quotes and invoices are in dirhams or US dollars, whichever you prefer. You 
 
 **What do your services cost in the UAE?**
 
-Each service page shows its starting prices in US dollars. The dirham is pegged to the US dollar at 3.6725, so a dollar price converts the same way every day. Your written quote confirms the final price and its currency before any work starts.
+Each service page shows its starting prices in UAE dirhams to visitors in the UAE, and you can switch to US dollars. The dirham prices are our dollar prices at the dirham's fixed rate of 3.6725, so both show the same price. Your written quote confirms the final price and its currency before any work starts.
 
 [Browse all questions, for every service](https://ndcompany.in/faq)
 
@@ -5136,7 +5162,7 @@ Pricing
 
 Source: https://ndcompany.in/pricing
 
-Starting prices for every service we offer, in Indian rupees for clients in India and US dollars everywhere else. Each one links to its service page with the full list of what is included, and your final price is set in a written quote before work starts.
+Starting prices for every service we offer, in Indian rupees for clients in India, UAE dirhams for clients in the UAE and US dollars everywhere else. Each one links to its service page with the full list of what is included, and your final price is set in a written quote before work starts.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -5169,6 +5195,8 @@ Starting prices for clients in India, in Indian rupees. Your written quote confi
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -7704,7 +7732,7 @@ Team
 # Nakshatra Ranjan Saha
 
 Source: https://ndcompany.in/team/nakshatra-ranjan-saha
-Updated: 2026-11-03
+Updated: 2026-11-05
 
 - CEO
 - Founder
@@ -7734,6 +7762,16 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Websites
+
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
 
 Branding
 
@@ -10834,6 +10872,210 @@ Our [software development](https://ndcompany.in/services/software-development) s
 
 ---
 
+[Websites](https://ndcompany.in/blogs/topic/websites) · Insight
+
+# Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs
+
+Source: https://ndcompany.in/blogs/bilingual-websites-dubai
+Updated: 2026-11-05
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 5 November 2026 9 min read
+
+Most Dubai agencies say they can build you an Arabic website, but few have one themselves. On 5 November 2026 we checked 40 agencies that web searches returned for website design, SEO, digital marketing and branding in Dubai. Of the 37 sites we could read, 20 said they build Arabic, bilingual or right-to-left websites for clients. Only 7 of the 36 we could check had an Arabic version of their own site, and just 4 agencies did both. The two agencies that publish a price for a bilingual site charge about 1.6 to 1.9 times their price for an English-only one.
+
+Key takeaways
+
+- 20 of 37 Dubai agency websites we could read (54%) offer Arabic or bilingual websites. 7 of 36 (19%) have an Arabic version of their own site.
+- Of the 20 agencies that offer Arabic sites, 16 have no Arabic version of their own website.
+- 15 of 37 (41%) show any price. Their cheapest website package has a median of AED 4,250; monthly SEO starts at a median of AED 3,700.
+- Two agencies publish a price for a bilingual English and Arabic website: AED 15,000 to 40,000, against AED 8,000 to 25,000 for an English corporate site on the same page.
+- Only 1 of 53 agencies says whether its prices include the UAE's 5% VAT.
+
+## How we checked the agencies
+
+We ran six web searches on 5 November 2026: website design company in Dubai, web development company Dubai, SEO company in Dubai, SEO agency Dubai, digital marketing agency Dubai and branding agency Dubai. From the results we took, in order, the first 40 websites of single agencies that say they are in Dubai or the UAE. We skipped directories, "top 10" articles, marketplaces and freelancer profiles. On each site we read up to about six pages: the homepage, the website and SEO service pages, any pricing page and the FAQ.
+
+Later the same day we opened every price again and checked that the figure was still on the page, and we looked for Arabic in three ways: a language switch, Arabic pages at their own address, and hreflang tags naming an Arabic version. Three sites blocked our requests and one hid its Arabic version behind a menu with no address, so the counts below leave them out.
+
+Two more searches, for "website design packages Dubai" and "SEO packages Dubai AED", found 13 other agencies. Those searches favour agencies that publish prices, so we report them separately at the end. We name no agency. Our searches ran from outside the UAE, so someone searching in Dubai may see a different order.
+
+## How many Dubai agencies build Arabic websites?
+
+About half say they do. 20 of the 37 agency sites we could read say, on a service page, in the FAQ or on the homepage, that they build Arabic, bilingual or right-to-left (RTL) websites for clients. The other 17 do not mention it. Several of those are SEO agencies that offer Arabic SEO but say nothing about building sites.
+
+Far fewer show it on their own site. 7 of the 36 agency websites we could check have an Arabic version, with Arabic pages at their own address. The other 29 are in English only. Two of these counts need a note. One agency declares Arabic pages in its hreflang tags, but they send you back to the English pages, so we counted it as English only. Another has a full Arabic homepage that nothing on its English site links to, which we counted as an Arabic version.
+
+Dubai agencies and Arabic websites, 5 November 2026
+
+**Dubai agencies and Arabic websites, 5 November 2026**
+
+| Category | Value (%) |
+| --- | --- |
+| Say they build Arabic or bilingual sites | 54 |
+| Have an Arabic version of their own site | 19 |
+| Do both | 11 |
+
+*Share of the agency websites we could read: 37 for what they offer, 36 for their own Arabic version. 'Do both' is 4 of 37. Source: N&D Co. survey of 40 Dubai agency websites, 5 November 2026.*
+
+So 16 of the 20 agencies that offer Arabic websites do not run one themselves. That does not prove they build them badly, but it means you cannot judge their Arabic work from their own site. Ask to see live Arabic sites they built, and open the Arabic pages on your phone.
+
+## What do Dubai agencies charge for a website?
+
+15 of the 37 agencies we could read (41%) show a price for at least one service, as a fixed price, a "from" price or a range. 14 of them price in dirhams and one only in US dollars. The other 22 ask you to fill in a form, call or book a meeting.
+
+**Cheapest published package per agency, 40 Dubai agencies, 5 November 2026**
+
+| Service | Agencies showing a price | Lowest | Median | Highest |
+| --- | --- | --- | --- | --- |
+| Website | 10 | AED 999 | AED 4,250 | AED 110,000 |
+| SEO, per month | 5 | AED 2,500 | AED 3,700 | AED 7,000 |
+| Online store | 3 | AED 1,500 | AED 7,500 | AED 8,000 |
+
+For each agency we took its cheapest package for the service and then compared agencies, so one agency with many packages does not pull the figure. Half the website prices fell between about AED 1,500 and AED 8,000; one agency's cheapest listed website price was AED 110,000. Logo and brand identity prices were too rare to report: two agencies each.
+
+VAT is almost never mentioned. One agency, out of all 53 we checked, writes that its prices exclude the UAE's 5% VAT. If you are VAT-registered, or the agency is, ask whether the quote includes it. Our survey of [108 Indian agency websites](https://ndcompany.in/blogs/agency-prices-india) found the same habit with GST.
+
+## How much more does an Arabic version cost?
+
+Few agencies put a number on it, but the ones that do agree it costs more. These are every figure we found:
+
+- One agency's price table lists a bilingual English and Arabic website, with a full RTL version, hreflang and an Arabic copy review, at AED 15,000 to 40,000, delivered in three to six weeks. Its English corporate site is AED 8,999 to 25,000.
+- Another agency's published cost guide puts a corporate website with an Arabic version at AED 15,000 to 40,000, next to AED 8,000 to 25,000 for a custom English site of 5 to 15 pages.
+- One agency adds AED 1,000 to 2,000 for a bilingual logo on its two cheaper packages and includes it in its premium package, from AED 7,000.
+- One SEO agency includes Arabic only in its top plan, AED 5,500 a month; its cheaper plans are English only. Another's multilingual SEO starts at AED 2,999 a month.
+- Two more say Arabic is quoted separately, without a figure. One explains that the whole layout mirrors, not just the text direction, and calls it real additional work.
+
+The extra cost is real. An Arabic version is a second set of pages: translated copy, a mirrored layout, Arabic fonts, its own page titles and descriptions, and forms and emails that work right to left. The next section lists what has to be done.
+
+## What does a proper Arabic and English website need?
+
+### Right-to-left set in the HTML, not only in CSS
+
+The W3C's internationalization guide says to add `dir="rtl"` to the `html` tag whenever a page reads right to left, and to declare the language separately with `lang="ar"`, because a language declaration does not set the direction. It also says not to use CSS to apply the base direction, so the page still reads correctly if the stylesheet fails to load. You can check any Arabic page by viewing its source: the first tag should carry both. The guide is [Structural markup and right-to-left text in HTML](https://www.w3.org/International/questions/qa-html-dir).
+
+### A layout that mirrors
+
+In Arabic the whole page flips: the logo moves to the right, the menu runs from right to left, text aligns right and arrows point the other way. The clean way to build this is with CSS logical properties, which MDN describes as set "relative to the content's writing direction" rather than to left and right. A margin written as `margin-inline-start` sits on the left in English and on the right in Arabic, from the same stylesheet. A site built with `margin-left` everywhere needs a second set of styles for Arabic. See MDN's [guide to CSS logical properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values).
+
+### Each language at its own address
+
+Google recommends a different URL for each language version, rather than one address that changes language with a cookie or the browser's settings, and it advises against redirecting visitors to another language automatically, because that can stop people and search engines from seeing every version. Give each page a link to its other language instead. That is in Google's guide to [managing multi-regional and multilingual sites](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites).
+
+### hreflang tags in both directions
+
+hreflang tags tell Google which pages are translations of each other, so it can show an Arabic searcher the Arabic page. Google's rule is strict: each language version must list itself and every other version, and if the links do not point both ways the tags may be ignored. An `x-default` tag names the page for everyone else. The details are in [Google's page on localized versions](https://developers.google.com/search/docs/specialty/international/localized-versions). This is where we saw one agency's own site go wrong: its tags named Arabic pages that redirected to English ones.
+
+### Fonts that include Arabic letters
+
+Many web fonts have no Arabic letters at all, and sites often trim their fonts to the characters they use. Ours is an example: to keep our pages fast, our fonts are cut to the 116 characters our English pages use, so they contain no Arabic. An Arabic version needs its own font files, chosen so that headings and body text match the English design in weight and size. If the Arabic falls back to whatever font the phone has, the two languages will not look like one brand.
+
+### Arabic written or checked by a person
+
+Machine translation can get the words roughly right and the tone wrong, and a mistake in a headline or a price is the first thing an Arabic-speaking customer sees. Budget for a translator or an Arabic copywriter, or have someone who reads Arabic check every page before launch, including button labels, form errors, confirmation emails and the page titles and descriptions that appear in Google.
+
+## What to ask an agency before you order an Arabic website
+
+- Can I see three live Arabic or bilingual sites you built, and open the Arabic pages on my phone?
+- Who writes or checks the Arabic text, and is that in the price?
+- Will each language have its own address, with hreflang tags pointing both ways and a link to switch language on every page?
+- Does the whole layout mirror in Arabic, including the menu, icons, forms and the confirmation email?
+- Which Arabic font will you use, and is its licence included?
+- Does the quote include the UAE's 5% VAT, and in which currency is it?
+- If I add a page later, does it need building twice, and what does that cost?
+
+## What did the "packages" searches show?
+
+The 13 agencies found by searching for "website design packages Dubai" and "SEO packages Dubai AED" were cheaper and more open about price than the main sample: 12 of the 13 publish prices, all in dirhams. Their cheapest website package had a median of AED 1,750 (six agencies, from AED 999 to AED 2,900), and monthly SEO a median of AED 2,000 (seven agencies, from AED 199 to AED 2,500). Arabic was rarer: 6 of the 13 say they build Arabic sites, and none of the 12 we could check has an Arabic version of its own site.
+
+If you search with "packages" or "price" in your query, you will find these cheaper offers first. Compare what each package includes, the number of pages, revisions and whether Arabic is in it, before you compare the price.
+
+## Where to start
+
+Decide first whether you need Arabic at launch. If most of your customers search in Arabic, build both languages from the start: adding Arabic later to a site built only for English often means rebuilding the layout. If you are testing a market, an English site built with logical properties and room for a second language costs less now and takes Arabic later without a rebuild.
+
+We build bilingual Arabic and English websites for businesses in Dubai and across the UAE, from Kolkata, with an office day that runs 7:30 AM to 4:30 PM UAE time. Our [website packages](https://ndcompany.in/services/website-design-development) start at AED 549 for visitors in the UAE, and your written quote prices both languages before any work starts. Read how quotes, calls and payments work on our [page for Dubai and the UAE](https://ndcompany.in/locations/uae), or see our [SEO services](https://ndcompany.in/services/seo-services) for Arabic and English search.
+
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai)
+- [Share on WhatsApp](https://wa.me/?text=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai&text=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai&title=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs)
+- [Share on Threads](https://www.threads.net/intent/post?text=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fbilingual-websites-dubai-16x9.png&description=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs)
+- [Share by email](mailto:?subject=Arabic%20websites%20in%20Dubai%3A%20what%2040%20agencies%20offer%2C%20and%20what%20bilingual%20costs&body=Of%2037%20Dubai%20agency%20websites%20we%20could%20read%2C%2020%20say%20they%20build%20Arabic%20sites%20but%20only%207%20have%20an%20Arabic%20version%20themselves.%20Prices%2C%20bilingual%20costs%2C%20a%20checklist.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fbilingual-websites-dubai)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Websites
+
+Insight · 30 Oct 2026
+
+### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+
+52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
+
+Read the post
+
+Websites
+
+Guide · 25 Oct 2026
+
+### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+
+The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
+
+Read the guide
+
+Websites
+
+Guide · 25 Oct 2026
+
+### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+
+The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
+
+Read the guide
+
+[More on Websites](https://ndcompany.in/blogs/topic/websites)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Responsive websites, e-commerce development, and SEO-optimized web solutions.
+
+Learn more
+
+### [SEO Services](https://ndcompany.in/services/seo-services)
+
+On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 [Branding](https://ndcompany.in/blogs/topic/branding) · Guide
 
 # Logo file types: which format to use where
@@ -11048,15 +11290,15 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
-Business
+Websites
 
-Guide · 31 Oct 2026
+Insight · 5 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 
@@ -11270,15 +11512,15 @@ What you can hand over, what it costs, how the hours line up with the US, what t
 
 Read the guide
 
-Branding
+Websites
 
-Guide · 3 Nov 2026
+Insight · 5 Nov 2026
 
-### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
@@ -12140,6 +12382,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
+Websites
+
 Guide · 25 Oct 2026
 
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -12155,16 +12407,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 
@@ -12382,15 +12624,15 @@ What you can hand over, what it costs, how the hours line up with the US, what t
 
 Read the guide
 
-Branding
+Websites
 
-Guide · 3 Nov 2026
+Insight · 5 Nov 2026
 
-### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
@@ -12586,15 +12828,15 @@ Only 35 of 101 agency websites we could read show any price. The rest of what we
 
 Read the post
 
-Branding
+Websites
 
-Guide · 3 Nov 2026
+Insight · 5 Nov 2026
 
-### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
@@ -13005,6 +13247,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
+Websites
+
 Insight · 30 Oct 2026
 
 ### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
@@ -13020,16 +13272,6 @@ Guide · 25 Oct 2026
 ### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
 
 The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 
@@ -13213,6 +13455,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
+Websites
+
 Insight · 30 Oct 2026
 
 ### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
@@ -13228,16 +13480,6 @@ Guide · 25 Oct 2026
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
 
 The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 
@@ -14176,6 +14418,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
+Websites
+
 Insight · 30 Oct 2026
 
 ### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
@@ -14191,16 +14443,6 @@ Guide · 25 Oct 2026
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
 
 The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-
-The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
 
 Read the guide
 
@@ -14527,15 +14769,15 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
-Business
+Websites
 
-Guide · 31 Oct 2026
+Insight · 5 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 
@@ -14810,6 +15052,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
+Websites
+
 Insight · 30 Oct 2026
 
 ### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
@@ -14825,16 +15077,6 @@ Guide · 25 Oct 2026
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
 
 The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-
-The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
 
 Read the guide
 
@@ -15490,15 +15732,15 @@ What a logo job and a full identity should each hand over, the sizes and files a
 
 Read the guide
 
-Business
+Websites
 
-Guide · 31 Oct 2026
+Insight · 5 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 
@@ -15535,9 +15777,9 @@ Send a few lines about your business and what you are trying to fix. We will rep
 # Terms of service
 
 Source: https://ndcompany.in/terms
-Updated: 2026-10-31
+Updated: 2026-11-05
 
-Effective date: 23 October 2026 · Last updated: 31 October 2026
+Effective date: 23 October 2026 · Last updated: 5 November 2026
 
 N&D Co. is a brand and growth agency offering creative and digital services. By using our website at https://ndcompany.in, including the free tools at ndcompany.in/tools, or engaging with our services, you agree to these Terms of Service.
 
@@ -15585,7 +15827,7 @@ Our prices differ by region. We set them separately for each market we serve, ba
 
 The prices we show in rupees and in US dollars are starting prices for each market. They are not currency conversions of each other, and they do not mean that a service has the same monetary value in every market.
 
-Our website shows prices in Indian rupees to visitors in India and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
+Our website shows prices in Indian rupees to visitors in India, in UAE dirhams to visitors in the United Arab Emirates and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. The dirham prices are our US dollar prices at the dirham's fixed rate of 3.6725 to the dollar, rounded up. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
 
 ## 5. Payments and refunds
 
@@ -16002,9 +16244,9 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
 # Cookies policy
 
 Source: https://ndcompany.in/cookies-policy
-Updated: 2026-10-27
+Updated: 2026-11-05
 
-Effective date: 23 October 2026 · Last updated: 27 October 2026
+Effective date: 23 October 2026 · Last updated: 5 November 2026
 
 This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics, Microsoft Clarity, PostHog and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
@@ -16057,7 +16299,7 @@ Lasts: until that page's code loads or you close the tab.
 
 ### `ndco-currency`
 
-Local storage. Remembers the currency you picked for the prices on our service pages, Indian rupees or US dollars. Until you pick one, prices show in rupees if your device is set to Indian time and in US dollars otherwise. Your browser reads that time zone itself and does not send it to us.
+Local storage. Remembers the currency you picked for the prices on our service pages: Indian rupees, UAE dirhams or US dollars. Until you pick one, prices show in rupees if your device is set to Indian time, in dirhams if it is set to UAE time and in US dollars otherwise. Your browser reads that time zone itself and does not send it to us.
 
 Set: only when you pick a currency.
 

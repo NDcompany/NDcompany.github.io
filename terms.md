@@ -4,13 +4,13 @@ description: "Terms of service for N&D Co., Kolkata: working with clients and ag
 url: "https://ndcompany.in/terms"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-10-31"
+modified: "2026-11-05"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Terms of service
 
-Effective date: 23 October 2026 · Last updated: 31 October 2026
+Effective date: 23 October 2026 · Last updated: 5 November 2026
 
 N&D Co. is a brand and growth agency offering creative and digital services. By using our website at https://ndcompany.in, including the free tools at ndcompany.in/tools, or engaging with our services, you agree to these Terms of Service.
 
@@ -58,7 +58,7 @@ Our prices differ by region. We set them separately for each market we serve, ba
 
 The prices we show in rupees and in US dollars are starting prices for each market. They are not currency conversions of each other, and they do not mean that a service has the same monetary value in every market.
 
-Our website shows prices in Indian rupees to visitors in India and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
+Our website shows prices in Indian rupees to visitors in India, in UAE dirhams to visitors in the United Arab Emirates and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. The dirham prices are our US dollar prices at the dirham's fixed rate of 3.6725 to the dollar, rounded up. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
 
 ## 5. Payments and refunds
 
@@ -222,7 +222,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-10-31",
+      "dateModified": "2026-11-05",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

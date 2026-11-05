@@ -310,15 +310,15 @@ What a logo job and a full identity should each hand over, the sizes and files a
 
 Read the guide
 
-Business
+Websites
 
-Guide · 31 Oct 2026
+Insight · 5 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 

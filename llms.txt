@@ -33,6 +33,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai): Of 37 Dubai agency websites we could read, 20 say they build Arabic sites but only 7 have an Arabic version themselves. Prices, bilingual costs, a checklist.
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types): Logo file types explained: SVG, PNG, JPG, PDF, AI and EPS, vector vs raster, logo sizes, and the files in a real package we delivered, with their sizes.
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements): What Google Play and the App Store require from a business app in 2026: developer accounts, D-U-N-S, 12-tester closed testing, privacy forms and review times.
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india): What SEO costs in India in 2026: monthly package prices from 108 agency websites, what a fee covers, red flags, GST and how to compare quotes.
@@ -98,15 +99,15 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
+- [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Local SEO](https://ndcompany.in/tags/local-seo): Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
 - [Technical SEO](https://ndcompany.in/tags/technical-seo): Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
-- [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+- [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [Google Business Profile](https://ndcompany.in/tags/google-business-profile): Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 - [Google Search Console](https://ndcompany.in/tags/google-search-console): Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 - [SEO audits](https://ndcompany.in/tags/seo-audits): What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility): WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
-- [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
 
 ## Team

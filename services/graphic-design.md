@@ -70,6 +70,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.

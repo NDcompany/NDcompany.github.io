@@ -10,7 +10,7 @@ Pricing
 
 # Prices for websites, SEO, branding and marketing
 
-Starting prices for every service we offer, in Indian rupees for clients in India and US dollars everywhere else. Each one links to its service page with the full list of what is included, and your final price is set in a written quote before work starts.
+Starting prices for every service we offer, in Indian rupees for clients in India, UAE dirhams for clients in the UAE and US dollars everywhere else. Each one links to its service page with the full list of what is included, and your final price is set in a written quote before work starts.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -43,6 +43,8 @@ Starting prices for clients in India, in Indian rupees. Your written quote confi
 Currency
 
 ₹ INR
+
+AED
 
 $ USD
 
@@ -311,6 +313,11 @@ Tell us what you need, and we will reply with questions or a written quote.
             },
             {
               "@type": "PriceSpecification",
+              "minPrice": 549,
+              "priceCurrency": "AED"
+            },
+            {
+              "@type": "PriceSpecification",
               "minPrice": 149,
               "priceCurrency": "USD"
             }
@@ -329,6 +336,11 @@ Tell us what you need, and we will reply with questions or a written quote.
               "@type": "PriceSpecification",
               "minPrice": 7999,
               "priceCurrency": "INR"
+            },
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 479,
+              "priceCurrency": "AED"
             },
             {
               "@type": "PriceSpecification",
@@ -353,6 +365,11 @@ Tell us what you need, and we will reply with questions or a written quote.
             },
             {
               "@type": "PriceSpecification",
+              "minPrice": 1199,
+              "priceCurrency": "AED"
+            },
+            {
+              "@type": "PriceSpecification",
               "minPrice": 319,
               "priceCurrency": "USD"
             }
@@ -371,6 +388,11 @@ Tell us what you need, and we will reply with questions or a written quote.
               "@type": "PriceSpecification",
               "minPrice": 15999,
               "priceCurrency": "INR"
+            },
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 1099,
+              "priceCurrency": "AED"
             },
             {
               "@type": "PriceSpecification",
@@ -395,6 +417,11 @@ Tell us what you need, and we will reply with questions or a written quote.
             },
             {
               "@type": "PriceSpecification",
+              "minPrice": 3499,
+              "priceCurrency": "AED"
+            },
+            {
+              "@type": "PriceSpecification",
               "minPrice": 949,
               "priceCurrency": "USD"
             }
@@ -413,6 +440,11 @@ Tell us what you need, and we will reply with questions or a written quote.
               "@type": "PriceSpecification",
               "minPrice": 9999,
               "priceCurrency": "INR"
+            },
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 589,
+              "priceCurrency": "AED"
             },
             {
               "@type": "PriceSpecification",
@@ -437,6 +469,11 @@ Tell us what you need, and we will reply with questions or a written quote.
             },
             {
               "@type": "PriceSpecification",
+              "minPrice": 879,
+              "priceCurrency": "AED"
+            },
+            {
+              "@type": "PriceSpecification",
               "minPrice": 239,
               "priceCurrency": "USD"
             }
@@ -455,6 +492,11 @@ Tell us what you need, and we will reply with questions or a written quote.
               "@type": "PriceSpecification",
               "minPrice": 5999,
               "priceCurrency": "INR"
+            },
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 349,
+              "priceCurrency": "AED"
             },
             {
               "@type": "PriceSpecification",
@@ -479,6 +521,11 @@ Tell us what you need, and we will reply with questions or a written quote.
             },
             {
               "@type": "PriceSpecification",
+              "minPrice": 299,
+              "priceCurrency": "AED"
+            },
+            {
+              "@type": "PriceSpecification",
               "minPrice": 79,
               "priceCurrency": "USD"
             }
@@ -497,6 +544,11 @@ Tell us what you need, and we will reply with questions or a written quote.
               "@type": "PriceSpecification",
               "minPrice": 1999,
               "priceCurrency": "INR"
+            },
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 129,
+              "priceCurrency": "AED"
             },
             {
               "@type": "PriceSpecification",
@@ -521,6 +573,11 @@ Tell us what you need, and we will reply with questions or a written quote.
             },
             {
               "@type": "PriceSpecification",
+              "minPrice": 99,
+              "priceCurrency": "AED"
+            },
+            {
+              "@type": "PriceSpecification",
               "minPrice": 25,
               "priceCurrency": "USD"
             }
@@ -542,6 +599,11 @@ Tell us what you need, and we will reply with questions or a written quote.
             },
             {
               "@type": "PriceSpecification",
+              "minPrice": 189,
+              "priceCurrency": "AED"
+            },
+            {
+              "@type": "PriceSpecification",
               "minPrice": 49,
               "priceCurrency": "USD"
             }
@@ -560,6 +622,11 @@ Tell us what you need, and we will reply with questions or a written quote.
               "@type": "PriceSpecification",
               "minPrice": 2999,
               "priceCurrency": "INR"
+            },
+            {
+              "@type": "PriceSpecification",
+              "minPrice": 189,
+              "priceCurrency": "AED"
             },
             {
               "@type": "PriceSpecification",

@@ -192,15 +192,15 @@ What you can hand over, what it costs, how the hours line up with the US, what t
 
 Read the guide
 
-Branding
+Websites
 
-Guide · 3 Nov 2026
+Insight · 5 Nov 2026
 
-### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
 
-SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
-Read the guide
+Read the post
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 

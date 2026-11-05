@@ -73,10 +73,12 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 
 ## Working with an agency
 
-8 posts
+9 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
   31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -134,6 +136,25 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 
+## Website costs
+
+5 posts
+
+What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  30 Oct 2026
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+
+[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
+
 ## Brand guidelines
 
 3 posts, 1 project
@@ -186,22 +207,22 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 
 [Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
 
-## Website costs
+## Website planning
 
 4 posts
 
-What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  30 Oct 2026
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   25 Oct 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
   25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
 
-[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
+[Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
 ## Google Business Profile
 
@@ -262,21 +283,6 @@ WCAG in plain words: contrast ratios for text, alt text, labelled form fields an
   23 Oct 2026
 
 [Everything tagged Web accessibility](https://ndcompany.in/tags/web-accessibility)
-
-## Website planning
-
-3 posts
-
-Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
-
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-
-[Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
 ## Online reviews
 
@@ -404,56 +410,56 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 6,
-            "name": "Brand guidelines",
-            "url": "https://ndcompany.in/tags/brand-guidelines"
-          },
-          {
-            "@type": "ListItem",
-            "position": 7,
-            "name": "Local SEO",
-            "url": "https://ndcompany.in/tags/local-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 8,
-            "name": "Technical SEO",
-            "url": "https://ndcompany.in/tags/technical-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 9,
             "name": "Website costs",
             "url": "https://ndcompany.in/tags/website-costs"
           },
           {
             "@type": "ListItem",
+            "position": 7,
+            "name": "Brand guidelines",
+            "url": "https://ndcompany.in/tags/brand-guidelines"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Local SEO",
+            "url": "https://ndcompany.in/tags/local-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Technical SEO",
+            "url": "https://ndcompany.in/tags/technical-seo"
+          },
+          {
+            "@type": "ListItem",
             "position": 10,
+            "name": "Website planning",
+            "url": "https://ndcompany.in/tags/website-planning"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
             "name": "Google Business Profile",
             "url": "https://ndcompany.in/tags/google-business-profile"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "Google Search Console",
             "url": "https://ndcompany.in/tags/google-search-console"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 13,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags/seo-audits"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 14,
             "name": "Web accessibility",
             "url": "https://ndcompany.in/tags/web-accessibility"
-          },
-          {
-            "@type": "ListItem",
-            "position": 14,
-            "name": "Website planning",
-            "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",

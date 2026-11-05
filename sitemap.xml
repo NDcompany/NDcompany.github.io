@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (111 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (112 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -26,55 +26,55 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services/website-design-development</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/seo-services</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/full-branding-solutions</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/software-development</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/mobile-app-development</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/brand-identity-design</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/ecommerce-solutions</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/digital-marketing</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/social-media-management</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/video-production-editing</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/graphic-design</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/logo-design</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/content-creation</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/locations</loc>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/book-a-call</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/about</loc>
@@ -118,11 +118,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/pricing</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/restaurant-marketing</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken</loc>
@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
@@ -202,7 +202,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/websites</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/branding</loc>
@@ -214,7 +214,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
@@ -226,7 +226,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/core-web-vitals</loc>
@@ -235,6 +235,10 @@
   <url>
     <loc>https://ndcompany.in/tags/social-media-creatives</loc>
     <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/website-costs</loc>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/brand-guidelines</loc>
@@ -249,8 +253,8 @@
     <lastmod>2026-10-30</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/website-costs</loc>
-    <lastmod>2026-10-30</lastmod>
+    <loc>https://ndcompany.in/tags/website-planning</loc>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/google-business-profile</loc>
@@ -269,16 +273,12 @@
     <lastmod>2026-10-25</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/website-planning</loc>
-    <lastmod>2026-10-25</lastmod>
-  </url>
-  <url>
     <loc>https://ndcompany.in/team</loc>
     <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
@@ -658,6 +658,10 @@
     </image:image>
   </url>
   <url>
+    <loc>https://ndcompany.in/blogs/bilingual-websites-dubai</loc>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/blogs/logo-file-types</loc>
     <lastmod>2026-11-03</lastmod>
   </url>
@@ -788,7 +792,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/terms</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/privacy</loc>
@@ -796,7 +800,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/cookies-policy</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/disclaimer</loc>

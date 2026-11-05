@@ -14,6 +14,16 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 
 ## Latest posts
 
+Websites
+
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
 Business
 
 Guide · 31 Oct 2026
@@ -96,6 +106,8 @@ Read the guide
 
 ## Recently updated
 
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -103,8 +115,6 @@ Read the guide
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  30 Oct 2026
-- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 
 ## Trending tags
@@ -114,11 +124,11 @@ Read the guide
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -126,21 +136,21 @@ Read the guide
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
-
-Learn more
-
-### [Software Development](https://ndcompany.in/services/software-development)
-
-Custom web applications, CRM systems, and internal business software.
+Responsive websites, e-commerce development, and SEO-optimized web solutions.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
 On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+
+Learn more
+
+### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+
+Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
 
 Learn more
 
@@ -175,48 +185,54 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
+            "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How to outsource web development to India: a guide for US businesses",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Logo vs brand identity: what you are paying for",
             "url": "https://ndcompany.in/blogs/logo-vs-brand-identity"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }

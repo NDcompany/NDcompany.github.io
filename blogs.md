@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Websites
+
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
 Branding
 
 Guide · 3 Nov 2026
@@ -196,6 +206,8 @@ Read the guide
 
 ## Recently updated
 
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -203,8 +215,6 @@ Read the guide
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  30 Oct 2026
-- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 
 ## Trending tags
@@ -214,11 +224,11 @@ Read the guide
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -296,6 +306,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/bilingual-websites-dubai#article",
+          "headline": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
+          "description": "Of 37 Dubai agency websites we could read, 20 say they build Arabic sites but only 7 have an Arabic version themselves. Prices, bilingual costs, a checklist.",
+          "image": "https://ndcompany.in/assets/blog/bilingual-websites-dubai-16x9.png",
+          "url": "https://ndcompany.in/blogs/bilingual-websites-dubai",
+          "datePublished": "2026-11-05T00:00:00+05:30",
+          "dateModified": "2026-11-05T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/logo-file-types#article",

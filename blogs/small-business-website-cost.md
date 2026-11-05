@@ -160,6 +160,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
+Websites
+
 Insight · 30 Oct 2026
 
 ### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
@@ -175,16 +185,6 @@ Guide · 25 Oct 2026
 ### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
 
 The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
-
-Read the guide
-
-Websites
-
-Guide · 23 Oct 2026
-
-### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
 
 Read the guide
 

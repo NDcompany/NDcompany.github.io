@@ -78,6 +78,8 @@ Currency
 
 ₹ INR
 
+AED
+
 $ USD
 
 Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
@@ -250,6 +252,16 @@ Learn more
 
 Guides on the work behind Website Design & Development.
 
+Websites
+
+Insight · 5 Nov 2026
+
+### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+
+20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
+
+Read the post
+
 SEO
 
 Guide · 30 Oct 2026
@@ -267,16 +279,6 @@ Insight · 30 Oct 2026
 ### [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
 
 52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
-
-Read the post
-
-Business
-
-Insight · 29 Oct 2026
-
-### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-
-Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
 
