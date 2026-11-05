@@ -1,6 +1,6 @@
 ---
-title: "White Label WordPress Development for Agencies | N&D Co."
-description: "White label WordPress development for agencies: sites and WooCommerce stores built to your brief, unbranded, your NDA signed, prices in US dollars."
+title: "White Label WordPress Development in India | N&D Co."
+description: "White label WordPress development from India for agencies: sites and WooCommerce stores built to your brief, unbranded, your NDA signed, USD prices."
 url: "https://ndcompany.in/white-label/wordpress"
 type: "Service"
 image: "https://ndcompany.in/assets/share/website-design-development.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/website-design-development.png"
 
 White label WordPress
 
-# White label WordPress development for agencies
+# White label WordPress development for agencies, from India
 
 We build WordPress sites and WooCommerce stores for your clients under your agency's name, with the theme, plugins and editor roles set up. No credit in the footer, the code or the admin panel, and we never contact your client.
 
@@ -121,6 +121,10 @@ WooCommerce suits businesses already on WordPress or that want to control the ho
 
 A 7-day support window covers minor corrections and technical issues in the delivered site. Ongoing maintenance is available as a separate package, also white label.
 
+**Where is the team, and how do we work across time zones?**
+
+We are in Barrackpore, Kolkata, India. We keep part of our evening for calls in US mornings and send written updates between calls.
+
 ## Have a project for a client?
 
 Send the brief and your NDA, and we will reply with questions or a written quote.
@@ -136,7 +140,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
     {
       "@type": "Service",
       "@id": "https://ndcompany.in/white-label/wordpress#service",
-      "name": "White label WordPress development for agencies",
+      "name": "White label WordPress development for agencies, from India",
       "serviceType": "White label WordPress",
       "description": "We build WordPress sites and WooCommerce stores for your clients under your agency's name, with the theme, plugins and editor roles set up. No credit in the footer, the code or the admin panel, and we never contact your client.",
       "provider": {
@@ -187,8 +191,8 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/white-label/wordpress#webpage",
       "url": "https://ndcompany.in/white-label/wordpress",
-      "name": "White Label WordPress Development for Agencies | N&D Co.",
-      "description": "White label WordPress development for agencies: sites and WooCommerce stores built to your brief, unbranded, your NDA signed, prices in US dollars.",
+      "name": "White Label WordPress Development in India | N&D Co.",
+      "description": "White label WordPress development from India for agencies: sites and WooCommerce stores built to your brief, unbranded, your NDA signed, USD prices.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

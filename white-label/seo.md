@@ -20,7 +20,7 @@ We run SEO for your clients under your agency's name: the audit, on-page fixes, 
 
 Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice. You can also buy audits on their own, from $149 each.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development](https://ndcompany.in/white-label/wordpress).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
 
 ## What you can resell
 
