@@ -162,6 +162,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+News · 5 Nov 2026
+
+### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+
+A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+
+Read the post
+
+Websites
+
 Insight · 5 Nov 2026
 
 ### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
@@ -179,16 +189,6 @@ Insight · 30 Oct 2026
 52% of Kolkata businesses on Google Maps list no website, more than one listed link in ten is dead, and only 13% of working sites score 90 or more on mobile speed. What we found and what to fix first.
 
 Read the post
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-
-The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 

@@ -259,6 +259,16 @@ Guides on the work behind SEO Services.
 
 Websites
 
+News · 5 Nov 2026
+
+### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+
+A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+
+Read the post
+
+Websites
+
 Insight · 5 Nov 2026
 
 ### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
@@ -274,16 +284,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 

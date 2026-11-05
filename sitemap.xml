@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (112 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (113 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -221,12 +221,12 @@
     <lastmod>2026-11-03</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
-    <lastmod>2026-10-20</lastmod>
-  </url>
-  <url>
     <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
     <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
+    <lastmod>2026-10-20</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/core-web-vitals</loc>
@@ -656,6 +656,10 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/quatgio-scam-email</loc>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/bilingual-websites-dubai</loc>

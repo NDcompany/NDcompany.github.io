@@ -33,6 +33,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email): An email from quatgio.com offered us a client project, then sent a booking link that leads to a fake Google sign-in. What it looks like and what to do.
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai): Of 37 Dubai agency websites we could read, 20 say they build Arabic sites but only 7 have an Arabic version themselves. Prices, bilingual costs, a checklist.
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types): Logo file types explained: SVG, PNG, JPG, PDF, AI and EPS, vector vs raster, logo sizes, and the files in a real package we delivered, with their sizes.
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements): What Google Play and the App Store require from a business app in 2026: developer accounts, D-U-N-S, 12-tester closed testing, privacy forms and review times.
@@ -95,8 +96,8 @@ Every page below is also available as Markdown: add .md to its address (https://
 Subjects shared by the blogs and the projects; each tag page lists both.
 
 - [Logos](https://ndcompany.in/tags/logos): The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
-- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.

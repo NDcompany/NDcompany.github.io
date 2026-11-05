@@ -16,6 +16,16 @@ Planning, building and improving a business website: what to settle before you h
 
 Websites
 
+News · 5 Nov 2026
+
+### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+
+A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+
+Read the post
+
+Websites
+
 Insight · 5 Nov 2026
 
 ### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
@@ -76,6 +86,8 @@ Read the guide
 
 ## Recently updated
 
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+  5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
@@ -84,14 +96,12 @@ Read the guide
   31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  30 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
-- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
@@ -155,36 +165,42 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "The Quatgio email: a fake client brief that ends at a fake Google sign-in",
+            "url": "https://ndcompany.in/blogs/quatgio-scam-email"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How healthy are Kolkata small-business websites? We checked 901 businesses",
             "url": "https://ndcompany.in/blogs/kolkata-small-business-websites"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Core Web Vitals explained for business owners",
             "url": "https://ndcompany.in/blogs/core-web-vitals-explained"
           }

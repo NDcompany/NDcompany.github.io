@@ -44,6 +44,35 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 
 [Everything tagged Logos](https://ndcompany.in/tags/logos)
 
+## Working with an agency
+
+10 posts
+
+Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+  5 Nov 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+  31 Oct 2026
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  31 Oct 2026
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  30 Oct 2026
+- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+  27 Oct 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  28 Oct 2026
+
+[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+
 ## Food and drink branding
 
 9 projects
@@ -70,33 +99,6 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
   Branding
 
 [Everything tagged Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-
-## Working with an agency
-
-9 posts
-
-Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
-
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
-- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
-  31 Oct 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  31 Oct 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  30 Oct 2026
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
-
-[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
 ## Core Web Vitals
 
@@ -340,6 +342,15 @@ Protecting a business name or logo as a trade mark: classes and fees, searching 
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
   23 Oct 2026
 
+## Website security
+
+1 post
+
+Hacked sites, phishing pages planted on real domains, scam emails aimed at businesses, and what to check and change when something looks wrong.
+
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+  5 Nov 2026
+
 ## YouTube thumbnails
 
 1 project
@@ -386,14 +397,14 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Food and drink branding",
-            "url": "https://ndcompany.in/tags/food-and-drink-branding"
+            "name": "Working with an agency",
+            "url": "https://ndcompany.in/tags/working-with-an-agency"
           },
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "Working with an agency",
-            "url": "https://ndcompany.in/tags/working-with-an-agency"
+            "name": "Food and drink branding",
+            "url": "https://ndcompany.in/tags/food-and-drink-branding"
           },
           {
             "@type": "ListItem",
@@ -500,6 +511,12 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 21,
+            "name": "Website security",
+            "url": "https://ndcompany.in/tags#website-security"
+          },
+          {
+            "@type": "ListItem",
+            "position": 22,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

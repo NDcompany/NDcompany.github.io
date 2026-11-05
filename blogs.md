@@ -16,6 +16,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 Websites
 
+News · 5 Nov 2026
+
+### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+
+A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+
+Read the post
+
+Websites
+
 Insight · 5 Nov 2026
 
 ### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
@@ -206,6 +216,8 @@ Read the guide
 
 ## Recently updated
 
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+  5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
@@ -214,14 +226,12 @@ Read the guide
   31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  30 Oct 2026
 
 ## Trending tags
 
 - [Logos](https://ndcompany.in/tags/logos)
-- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
@@ -306,6 +316,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/quatgio-scam-email#article",
+          "headline": "The Quatgio email: a fake client brief that ends at a fake Google sign-in",
+          "description": "An email from quatgio.com offered us a client project, then sent a booking link that leads to a fake Google sign-in. What it looks like and what to do.",
+          "image": "https://ndcompany.in/assets/blog/quatgio-scam-email-16x9.png",
+          "url": "https://ndcompany.in/blogs/quatgio-scam-email",
+          "datePublished": "2026-11-05T00:00:00+05:30",
+          "dateModified": "2026-11-05T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/bilingual-websites-dubai#article",
