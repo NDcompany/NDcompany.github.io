@@ -16215,7 +16215,25 @@ For users located in the European Economic Area (EEA), we also apply the General
 
 If you are in Bangladesh, you can use the rights Bangladesh's personal data protection law gives you in the same way, by emailing us.
 
-## 12. Changes to this policy
+## 12. Business outreach
+
+We email businesses we think we can help, and this section explains how. If you received one of these emails, this is where we found you and what we keep.
+
+What we collect: the business's name, its website, the problems we checked on that website, and one email address the business publishes for contact, usually a general address such as info@ or hello@. We never guess addresses. We find businesses through public sources: OpenStreetMap, web search (Brave Search), business directories as they appear in search results, business databases (Apollo, and public Google Maps listings collected through Apify), public YouTube channel statistics, and the business's own website. We do not collect personal social media profiles, and we never take an address from YouTube.
+
+Why: to offer a service relevant to your business. Our legal basis is our legitimate interest in telling businesses about work we can do for them, balanced by short emails, an easy opt out and short retention. Every email names us, gives our postal address, says where we found you, and has an unsubscribe link. Reply "stop" or use the link and we will never email you again.
+
+Who handles it: Zoho Mail sends and receives the emails (India data centre), our own server in India (Oracle Cloud, Mumbai) runs the system, including the AI model that helps write the emails, and Cloudflare runs the unsubscribe page. The owner gets notifications on Telegram that never contain your email address.
+
+How long: we delete your contact details 12 months after our last email or reply. If you unsubscribe, we keep only a one-way code of your address so we never email it again. We keep replies for up to 12 months, and a version with names, addresses and phone numbers removed for up to 24 months to improve our emails.
+
+Concept previews: for some businesses we make a private preview of what a new homepage could look like, using only that business's own public website content. Previews are hosted at ndgrowth.tech, hidden from search engines, removed on request and deleted automatically 30 days after our last email.
+
+Elsewhere: we may also send a message by hand to a business's public Instagram or LinkedIn page linked from its website, reply publicly to posts where someone asks for help with a website, and send proposals through freelance platforms. You can ask us to stop any of these by replying or emailing us.
+
+Your rights: ask us at any time what we hold about you, or to delete it, by emailing us (see Contact us below). You can also complain to the data protection authority where you live.
+
+## 13. Changes to this policy
 
 We may update this privacy policy. When we make a material change, we post the new version on this page with a "Last updated" date under the effective date at the top. Please check this page from time to time.
 
