@@ -122,7 +122,7 @@ Yes. E-commerce development is one of our core services: product catalog, cart, 
 
 ## We also work with businesses in
 
-[India](https://ndcompany.in/locations/india) · [Bangladesh](https://ndcompany.in/locations/bangladesh) · [USA](https://ndcompany.in/locations/usa)
+[India](https://ndcompany.in/locations/india) · [Bangladesh](https://ndcompany.in/locations/bangladesh) · [USA](https://ndcompany.in/locations/usa) · [UAE](https://ndcompany.in/locations/uae)
 
 [Every country we work with, and how remote projects run](https://ndcompany.in/locations)
 

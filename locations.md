@@ -1,6 +1,6 @@
 ---
 title: "Locations: countries we work with from Kolkata | N&D Co."
-description: "We work with businesses in India, Bangladesh, the USA, the Netherlands and more, remotely from Kolkata. See how hours, calls and payment work from each."
+description: "We serve businesses in India, Bangladesh, the USA, the Netherlands, the UAE and more, remotely from Kolkata. See how hours, calls and payment work from each."
 url: "https://ndcompany.in/locations"
 type: "CollectionPage"
 image: "https://ndcompany.in/assets/share/services.png"
@@ -56,6 +56,16 @@ Our office day covers your morning and early afternoon, so calls and reviews hap
 - **Payment:** PayPal, Wise or bank transfer, in euros
 
 Working with us from the Netherlands
+
+### [United Arab Emirates](https://ndcompany.in/locations/uae)
+
+Our office day runs from 7:30 AM to 4:30 PM in the UAE, so calls and reviews happen on the same day.
+
+- **Time difference:** India is 1.5 hours ahead, all year
+- **Languages:** Websites in Arabic and English; calls in English
+- **Payment:** Bank transfer, PayPal or Wise, in dirhams or US dollars
+
+Working with us from the UAE
 
 ## How a remote project runs
 
@@ -125,11 +135,11 @@ Yes. We work with clients worldwide, remotely from Barrackpore, Kolkata, includi
 
 **What if my country is not listed here?**
 
-We can still work together. We work with clients worldwide, not only in the four countries above, and the project runs the same way: calls and email during our office hours, a written quote before work starts, and an invoice in your currency, paid by PayPal, through Wise or by bank transfer.
+We can still work together. We work with clients worldwide, not only in the countries above, and the project runs the same way: calls and email during our office hours, a written quote before work starts, and an invoice in your currency, paid by PayPal, through Wise or by bank transfer.
 
 **How do you handle the time difference?**
 
-Our office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. That is 9:30 AM to 6:30 PM in Bangladesh, and it covers the morning and early afternoon in the Netherlands. India is 9.5 to 13.5 hours ahead of the US, so we work on your feedback while you are offline, and calls happen early in the morning on the East Coast, at the end of our day.
+Our office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. That is 9:30 AM to 6:30 PM in Bangladesh, 7:30 AM to 4:30 PM in the UAE, and it covers the morning and early afternoon in the Netherlands. India is 9.5 to 13.5 hours ahead of the US, so we work on your feedback while you are offline, and calls happen early in the morning on the East Coast, at the end of our day.
 
 **Which languages do you work in?**
 
@@ -154,7 +164,7 @@ Send a few lines about your business and where you are, and we will reply with q
       "@id": "https://ndcompany.in/locations#webpage",
       "url": "https://ndcompany.in/locations",
       "name": "Locations: countries we work with from Kolkata | N&D Co.",
-      "description": "We work with businesses in India, Bangladesh, the USA, the Netherlands and more, remotely from Kolkata. See how hours, calls and payment work from each.",
+      "description": "We serve businesses in India, Bangladesh, the USA, the Netherlands, the UAE and more, remotely from Kolkata. See how hours, calls and payment work from each.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -191,6 +201,12 @@ Send a few lines about your business and where you are, and we will reply with q
             "position": 4,
             "name": "Netherlands",
             "url": "https://ndcompany.in/locations/netherlands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "United Arab Emirates",
+            "url": "https://ndcompany.in/locations/uae"
           }
         ]
       },

@@ -130,7 +130,7 @@ You do. Once the final payment clears, ownership of the final deliverables named
 
 ## We also work with businesses in
 
-[India](https://ndcompany.in/locations/india) · [Bangladesh](https://ndcompany.in/locations/bangladesh) · [Netherlands](https://ndcompany.in/locations/netherlands)
+[India](https://ndcompany.in/locations/india) · [Bangladesh](https://ndcompany.in/locations/bangladesh) · [Netherlands](https://ndcompany.in/locations/netherlands) · [UAE](https://ndcompany.in/locations/uae)
 
 [Every country we work with, and how remote projects run](https://ndcompany.in/locations)
 

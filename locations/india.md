@@ -122,7 +122,7 @@ We work remotely over calls and email during our office hours, Mon to Sat, 9:00 
 
 ## We also work with businesses in
 
-[Bangladesh](https://ndcompany.in/locations/bangladesh) · [USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands)
+[Bangladesh](https://ndcompany.in/locations/bangladesh) · [USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands) · [UAE](https://ndcompany.in/locations/uae)
 
 [Every country we work with, and how remote projects run](https://ndcompany.in/locations)
 

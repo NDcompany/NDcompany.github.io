@@ -104,7 +104,7 @@ Everything runs remotely over calls and email. Our hours are Mon to Sat, 9:00 AM
 
 ## We also work with businesses in
 
-[India](https://ndcompany.in/locations/india) · [USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands)
+[India](https://ndcompany.in/locations/india) · [USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands) · [UAE](https://ndcompany.in/locations/uae)
 
 [Every country we work with, and how remote projects run](https://ndcompany.in/locations)
 

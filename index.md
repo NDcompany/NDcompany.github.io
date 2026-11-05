@@ -372,7 +372,7 @@ Projects are billed fixed-price or hourly, with a custom quote based on scope. A
 
 **Where are you based?**
 
-We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients worldwide remotely, including India, the United States, the Netherlands, Bangladesh and more. Office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. [See the countries we work with](https://ndcompany.in/locations).
+We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients worldwide remotely, including India, the United States, the Netherlands, Bangladesh, the UAE and more. Office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. [See the countries we work with](https://ndcompany.in/locations).
 
 **Are you hiring?**
 
