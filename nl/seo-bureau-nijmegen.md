@@ -1,0 +1,273 @@
+---
+title: "SEO-bureau Nijmegen: SEO vanaf € 199 per maand | N&D Co."
+description: "SEO-bureau en SEO-specialist voor bedrijven in Nijmegen: audit, on-page SEO, Nederlandse content en een maandrapport, op afstand, vanaf € 199 per maand."
+url: "https://ndcompany.in/nl/seo-bureau-nijmegen"
+type: "Service"
+image: "https://ndcompany.in/assets/share/seo-services.png"
+---
+
+SEO voor Nijmegen
+
+# SEO-bureau en SEO-specialist voor Nijmegen
+
+We hebben geen kantoor in Nijmegen: we doen SEO volledig op afstand vanuit Kolkata, India, voor bedrijven in heel Nederland. Je werkt met één vast team, van de audit tot het maandrapport, en betaalt een vast bedrag per maand.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+[Bekijk de prijzen](https://ndcompany.in/nl/seo-bureau-nijmegen#pricing)
+
+## Wat kost het?
+
+SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+
+## Pakketten en prijzen
+
+Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+Starter
+
+€ 199
+
+per maand
+
+schriftelijke offerte vooraf · maandelijks
+
+- Technische SEO-audit bij de start
+- On-page optimalisatie van je belangrijkste pagina's
+- Google Bedrijfsprofiel aanmaken of opschonen
+- Search Console en Analytics gekoppeld
+- Maandrapport met posities en verkeer
+- 3 SEO-blogartikelen per maand (1.500 tot 1.700 woorden)
+- Eenvoudige linkbuilding en vermeldingen in bedrijvengidsen
+- Eenvoudig concurrentieonderzoek en zoekwoorden per pagina
+- Optimalisatie voor lokale zoekopdrachten en AI-zoekmachines
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Growth
+
+€ 349
+
+per maand
+
+schriftelijke offerte vooraf · maandelijks
+
+- Alles uit Starter
+- Maandelijks zoekwoordonderzoek, gekoppeld aan je pagina's
+- Elke maand nieuwe of herschreven content
+- 8 SEO-blogartikelen per maand, 2 per week (1.500 tot 1.700 woorden, of zoals afgesproken)
+- Doorlopende technische verbeteringen en snelheid
+- Vermeldingen in bedrijvengidsen en linkbuilding via outreach
+- Schema-markup en interne links
+- Maandrapport en overzicht van het werk
+- Lokale SEO voor bedrijven met meerdere vestigingen
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Custom
+
+Vanaf
+
+€ 599
+
+per maand
+
+schriftelijke offerte vooraf · maandelijks
+
+- Alles uit Growth
+- Crawlen van grote sites of webshops
+- Meerdere vestigingen of werkgebieden
+- Contentplan volgens jouw planning
+- Afstemming met je ontwikkelaars
+- Rapportagedashboard op maat
+- SEO-groeistrategie en uitvoeringsplan op maat
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Zo werken we
+
+### Audit
+
+We crawlen je site, bekijken je Search Console-gegevens als je die hebt en kijken hoe je concurrenten scoren. Je krijgt een schriftelijke audit en een voorstel voor de maandelijkse werkzaamheden tegen een vast maandbedrag.
+
+### Plan
+
+We spreken de zoekwoorden af en koppelen ze aan pagina's. Technische problemen pakken we aan in volgorde van impact, dus in de eerste maand pakken we aan wat de indexering blokkeert.
+
+### Verbeteren
+
+We lossen technische problemen op, passen pagina's aan en publiceren nieuwe content per maand. Wat je ontwikkelaar moet doen of waarvoor we jouw akkoord nodig hebben, melden we op tijd.
+
+### Autoriteit opbouwen
+
+Daarnaast werken we buiten je site: vermeldingen in bedrijvengidsen, je Google Bedrijfsprofiel en outreach voor relevante links.
+
+### Rapport
+
+Elke maand krijg je een overzicht van het uitgevoerde werk, je posities en je verkeer, en de prioriteiten voor de volgende maand. De werkzaamheden stellen we per maand bij.
+
+## Goed om te weten
+
+### Prijzen en btw
+
+Alle prijzen zijn startprijzen in euro. Wij zijn gevestigd in India en rekenen geen btw. Bij zakelijke klanten is de btw verlegd: zij geven die zelf aan. Voor particulieren is de getoonde prijs de totaalprijs. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+### Betalen
+
+Je betaalt in euro via PayPal, Wise of een bankoverschrijving. We beginnen na een aanbetaling van 50%; de rest betaal je voor de oplevering.
+
+### Taal en voorwaarden
+
+We werken in het Engels: offertes, gesprekken en oplevering. Onze algemene voorwaarden zijn ook in het Engels.
+
+### Bedenktijd voor particulieren
+
+Sluit je als particulier een overeenkomst met ons, dan heb je 14 dagen bedenktijd. Hoe je de overeenkomst herroept, staat op onze pagina over het herroepingsrecht, met het modelformulier.
+
+### Eigendom
+
+Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+Lees ook de [informatie over het herroepingsrecht en het modelformulier](https://ndcompany.in/nl/herroepingsrecht), onze [algemene voorwaarden](https://ndcompany.in/terms) (Engels) en meer over deze dienst [in het Engels](https://ndcompany.in/services/seo-services).
+
+## Veelgestelde vragen
+
+**Wat kost een SEO-specialist in Nijmegen?**
+
+Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
+
+**Kan ik eerst alleen een SEO-audit laten doen?**
+
+De audit is de eerste stap van elk pakket. Wil je eerst zelf kijken voordat je beslist, vraag dan onze gratis SEO-audit aan via de knop op deze pagina: die laat de basis van je site zien.
+
+**Moet een SEO-bureau in Nijmegen zitten?**
+
+Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet naar waar je SEO-bureau zit. Wij werken op afstand, met gesprekken via videobellen en een maandrapport per e-mail.
+
+**Hoe snel zie ik resultaat?**
+
+Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere posities voor zoekwoorden met veel concurrentie vragen enkele maanden. Daarom is SEO doorlopend werk. We garanderen geen posities, want die bepaalt Google, maar je ziet elke maand wat er is veranderd.
+
+**In welke taal schrijven jullie?**
+
+De content voor je site schrijven we in het Nederlands. We zijn geen moedertaalsprekers: we controleren alles met taaltools en AI-taalcontroles, en je kunt elk artikel zelf nalezen of door een Nederlandse tekstschrijver laten nalezen voordat het live gaat.
+
+## Ook in het Nederlands
+
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+
+## Benieuwd wat het voor jou kost?
+
+Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een schriftelijke offerte.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Structured data
+
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#service",
+      "name": "SEO-bureau en SEO-specialist voor Nijmegen",
+      "serviceType": "SEO-bureau Nijmegen",
+      "description": "SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.",
+      "provider": {
+        "@id": "https://ndcompany.in/#ndco-organization"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Nijmegen, Netherlands"
+      },
+      "url": "https://ndcompany.in/nl/seo-bureau-nijmegen",
+      "mainEntityOfPage": {
+        "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#webpage"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "SEO-bureau Nijmegen: startprijzen",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Starter",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 199,
+              "priceCurrency": "EUR",
+              "unitCode": "MON"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Growth",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 349,
+              "priceCurrency": "EUR",
+              "unitCode": "MON"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Custom",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "minPrice": 599,
+              "priceCurrency": "EUR",
+              "unitCode": "MON"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#webpage",
+      "url": "https://ndcompany.in/nl/seo-bureau-nijmegen",
+      "name": "SEO-bureau Nijmegen: SEO vanaf € 199 per maand | N&D Co.",
+      "description": "SEO-bureau en SEO-specialist voor bedrijven in Nijmegen: audit, on-page SEO, Nederlandse content en een maandrapport, op afstand, vanaf € 199 per maand.",
+      "isPartOf": {
+        "@id": "https://ndcompany.in/#website"
+      },
+      "about": {
+        "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#service"
+      },
+      "breadcrumb": {
+        "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#breadcrumb"
+      },
+      "inLanguage": "nl-NL",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://ndcompany.in/assets/share/seo-services.png",
+        "width": 1200,
+        "height": 675
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ndcompany.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "SEO-bureau Nijmegen"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (115 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (123 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -154,6 +154,38 @@
   </url>
   <url>
     <loc>https://ndcompany.in/nl/brandbook-laten-maken</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/software-op-maat-laten-maken</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/social-media-video-laten-maken</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/aannemer-website-laten-maken</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/website-laten-maken-friesland</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/website-laten-maken-zoetermeer</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/seo-bureau-zoetermeer</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/seo-bureau-nijmegen</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/seo-roosendaal</loc>
     <lastmod>2026-11-06</lastmod>
   </url>
   <url>
