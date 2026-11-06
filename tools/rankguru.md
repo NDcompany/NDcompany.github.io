@@ -52,6 +52,8 @@ No. Your browser fetches the pages and RankGuru checks them on your device. We n
 
 RankGuru checks one page at a time against a fixed list of on-page basics. It does not crawl a whole site, measure speed or look at links from other sites. The technical audit in our SEO services starts with a full crawl of the site.
 
+[![Featured on LaunchBuff](https://launchbuff.com/badge-featured-light.svg)](https://launchbuff.com/products/rankguru-mmnibe)[![Launched with Favors.dev](https://ndcompany.in/assets/badges/favors-dev-light.svg)](https://favors.dev/b/n-d-co)
+
 ## More free tools
 
 ### [Invoice generator](https://ndcompany.in/tools/invoice-generator)
