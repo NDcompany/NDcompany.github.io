@@ -3,7 +3,7 @@ title: "Tools & Software We Use: Design, Web, SEO & Ads | N&D Co."
 description: "The tools N&D Co. uses and how: Figma and Adobe for design, WordPress and Webflow for sites, Ahrefs and GA4 for SEO, Meta and Google Ads, Claude and n8n."
 url: "https://ndcompany.in/tools-we-use"
 type: "WebPage"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/tools-we-use.png"
 ---
 
 Our stack
@@ -620,7 +620,7 @@ Send a few lines about your business and we will reply with questions or a quote
       ],
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/tools-we-use.png",
         "width": 1200,
         "height": 675
       }

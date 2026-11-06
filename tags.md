@@ -3,7 +3,7 @@ title: "Tags: every subject on the blogs and projects | N&D Co."
 description: "Every tag on the N&D Co. blogs and projects, with the posts and the work that cover it, so one subject, from search to branding, is in one place."
 url: "https://ndcompany.in/tags"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/share/tags.png"
 ---
 
 Blogs and projects
@@ -524,7 +524,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/share/tags.png",
         "width": 1200,
         "height": 675
       }

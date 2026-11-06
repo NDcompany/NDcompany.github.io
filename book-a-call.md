@@ -3,7 +3,7 @@ title: "Book a free 15-minute call | N&D Co."
 description: "Pick a time for a free 15-minute call with N&D Co. about your website, your free SEO audit or a project you have in mind."
 url: "https://ndcompany.in/book-a-call"
 type: "WebPage"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/book-a-call.png"
 ---
 
 # Book a free 15-minute call
@@ -65,7 +65,7 @@ Email us at [hello@ndcompany.in](mailto:hello@ndcompany.in) or call [+91 89021 0
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/book-a-call.png",
         "width": 1200,
         "height": 675
       }

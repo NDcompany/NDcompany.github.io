@@ -3,7 +3,7 @@ title: "SEO audits: posts and guides | N&D Co."
 description: "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 3 posts from N&D Co."
 url: "https://ndcompany.in/tags/seo-audits"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png"
 ---
 
 Tag
@@ -144,7 +144,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png",
         "width": 1200,
         "height": 675
       }

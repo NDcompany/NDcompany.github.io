@@ -3,7 +3,7 @@ title: "Local SEO: posts and guides | N&D Co."
 description: "Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results."
 url: "https://ndcompany.in/tags/local-seo"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/seo-for-educational-institutions-16x9.png"
 ---
 
 Tag
@@ -160,7 +160,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/seo-for-educational-institutions-16x9.png",
         "width": 1200,
         "height": 675
       }

@@ -3,7 +3,7 @@ title: "Website planning: posts and guides | N&D Co."
 description: "Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief."
 url: "https://ndcompany.in/tags/website-planning"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/bilingual-websites-dubai-16x9.png"
 ---
 
 Tag
@@ -160,7 +160,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/bilingual-websites-dubai-16x9.png",
         "width": 1200,
         "height": 675
       }

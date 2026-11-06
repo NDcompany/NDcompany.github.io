@@ -3,7 +3,7 @@ title: "Google Business Profile: posts and guides | N&D Co."
 description: "Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals."
 url: "https://ndcompany.in/tags/google-business-profile"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/seo-for-educational-institutions-16x9.png"
 ---
 
 Tag
@@ -144,7 +144,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/seo-for-educational-institutions-16x9.png",
         "width": 1200,
         "height": 675
       }

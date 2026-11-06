@@ -3,7 +3,7 @@ title: "Outsource Web Development to India from the US | N&D Co."
 description: "Outsource web development, e-commerce, SEO and design to N&D Co. in Kolkata, India: prices in US dollars, overnight turnaround, and white label for agencies."
 url: "https://ndcompany.in/locations/usa"
 type: "Service"
-image: "https://ndcompany.in/assets/share/services.png"
+image: "https://ndcompany.in/assets/share/locations.png"
 ---
 
 Outsourcing for US businesses and agencies
@@ -194,7 +194,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/services.png",
+        "url": "https://ndcompany.in/assets/share/locations.png",
         "width": 1200,
         "height": 675
       }

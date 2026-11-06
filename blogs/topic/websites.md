@@ -3,7 +3,7 @@ title: "Website tips and guides for businesses | N&D Co."
 description: "Website tips and guides from N&D Co. for business owners: planning a site before you hire anyone, page speed and Core Web Vitals, and what to fix first."
 url: "https://ndcompany.in/blogs/topic/websites"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/quatgio-scam-email-16x9.png"
 ---
 
 Topic
@@ -208,7 +208,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/quatgio-scam-email-16x9.png",
         "width": 1200,
         "height": 675
       }

@@ -3,7 +3,7 @@ title: "Locations: countries we work with from Kolkata | N&D Co."
 description: "We serve businesses in India, Bangladesh, the USA, the Netherlands, the UAE and more, remotely from Kolkata. See how hours, calls and payment work from each."
 url: "https://ndcompany.in/locations"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/services.png"
+image: "https://ndcompany.in/assets/share/locations.png"
 ---
 
 Where we work
@@ -212,7 +212,7 @@ Send a few lines about your business and where you are, and we will reply with q
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/services.png",
+        "url": "https://ndcompany.in/assets/share/locations.png",
         "width": 1200,
         "height": 675
       }

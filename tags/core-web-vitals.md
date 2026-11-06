@@ -3,7 +3,7 @@ title: "Core Web Vitals: posts and guides | N&D Co."
 description: "How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages."
 url: "https://ndcompany.in/tags/core-web-vitals"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/kolkata-small-business-websites-16x9.png"
 ---
 
 Tag
@@ -176,7 +176,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/kolkata-small-business-websites-16x9.png",
         "width": 1200,
         "height": 675
       }

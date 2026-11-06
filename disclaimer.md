@@ -5,7 +5,7 @@ url: "https://ndcompany.in/disclaimer"
 type: "WebPage"
 published: "2026-10-23"
 modified: "2026-10-23"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/terms.png"
 ---
 
 # Disclaimer
@@ -92,7 +92,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       "dateModified": "2026-10-23",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/terms.png",
         "width": 1200,
         "height": 675
       }

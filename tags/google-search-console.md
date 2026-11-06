@@ -3,7 +3,7 @@ title: "Google Search Console: posts and guides | N&D Co."
 description: "Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work."
 url: "https://ndcompany.in/tags/google-search-console"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png"
 ---
 
 Tag
@@ -144,7 +144,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png",
         "width": 1200,
         "height": 675
       }

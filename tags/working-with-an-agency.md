@@ -3,7 +3,7 @@ title: "Working with an agency: posts and guides | N&D Co."
 description: "Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files."
 url: "https://ndcompany.in/tags/working-with-an-agency"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/quatgio-scam-email-16x9.png"
 ---
 
 Tag
@@ -256,7 +256,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/quatgio-scam-email-16x9.png",
         "width": 1200,
         "height": 675
       }

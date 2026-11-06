@@ -5,7 +5,7 @@ url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
 modified: "2026-11-06"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/privacy.png"
 ---
 
 # Privacy policy
@@ -322,7 +322,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       "dateModified": "2026-11-06",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/privacy.png",
         "width": 1200,
         "height": 675
       }

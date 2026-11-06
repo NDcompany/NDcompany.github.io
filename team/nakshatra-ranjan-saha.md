@@ -4,7 +4,7 @@ description: "Nakshatra Ranjan Saha is the CEO & Founder of N&D Co., a brand and
 url: "https://ndcompany.in/team/nakshatra-ranjan-saha"
 type: "ProfilePage"
 modified: "2026-11-06T00:00:00+05:30"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/share/team.png"
 ---
 
 Team
@@ -316,7 +316,7 @@ Send a few lines about your business and what you need. We will reply with quest
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/share/team.png",
         "width": 1200,
         "height": 675
       }

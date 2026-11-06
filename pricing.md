@@ -3,7 +3,7 @@ title: "Website Development & SEO Cost in India: Our Prices | N&D Co."
 description: "What our services cost: websites from ₹9,999, SEO from ₹7,999 a month, logos from ₹2,999. Rupees in India, US dollars elsewhere."
 url: "https://ndcompany.in/pricing"
 type: "WebPage"
-image: "https://ndcompany.in/assets/share/services.png"
+image: "https://ndcompany.in/assets/share/pricing.png"
 ---
 
 Pricing
@@ -287,7 +287,7 @@ Tell us what you need, and we will reply with questions or a written quote.
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/services.png",
+        "url": "https://ndcompany.in/assets/share/pricing.png",
         "width": 1200,
         "height": 675
       }

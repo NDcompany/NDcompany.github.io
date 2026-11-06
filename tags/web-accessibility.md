@@ -3,7 +3,7 @@ title: "Web accessibility: posts and guides | N&D Co."
 description: "WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide."
 url: "https://ndcompany.in/tags/web-accessibility"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/small-business-website-cost-16x9.png"
 ---
 
 Tag
@@ -144,7 +144,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/small-business-website-cost-16x9.png",
         "width": 1200,
         "height": 675
       }

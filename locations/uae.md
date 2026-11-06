@@ -3,7 +3,7 @@ title: "Web Design & Digital Marketing in Dubai and the UAE | N&D Co."
 description: "N&D Co. builds websites in Arabic and English, online stores, brand identities and SEO for businesses in Dubai and the UAE, remotely from Kolkata."
 url: "https://ndcompany.in/locations/uae"
 type: "Service"
-image: "https://ndcompany.in/assets/share/services.png"
+image: "https://ndcompany.in/assets/share/locations.png"
 ---
 
 Serving Dubai and the UAE from Kolkata
@@ -156,7 +156,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/services.png",
+        "url": "https://ndcompany.in/assets/share/locations.png",
         "width": 1200,
         "height": 675
       }

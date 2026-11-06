@@ -3,7 +3,7 @@ title: "Business insights for owners and founders | N&D Co."
 description: "Business insights from N&D Co. for owners and founders: working with agencies and freelancers, budgeting for marketing, choosing tools and lessons learned."
 url: "https://ndcompany.in/blogs/topic/business"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/play-store-app-store-requirements-16x9.png"
 ---
 
 Topic
@@ -144,7 +144,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/play-store-app-store-requirements-16x9.png",
         "width": 1200,
         "height": 675
       }

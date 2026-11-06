@@ -3,7 +3,7 @@ title: "Web Design & Digital Marketing in Bangladesh | N&D Co."
 description: "N&D Co. serves businesses in Bangladesh remotely from Kolkata: websites, e-commerce, branding, SEO and marketing, in Bengali and English, in your timezone."
 url: "https://ndcompany.in/locations/bangladesh"
 type: "Service"
-image: "https://ndcompany.in/assets/share/services.png"
+image: "https://ndcompany.in/assets/share/locations.png"
 ---
 
 Serving Bangladesh from Kolkata
@@ -156,7 +156,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/services.png",
+        "url": "https://ndcompany.in/assets/share/locations.png",
         "width": 1200,
         "height": 675
       }

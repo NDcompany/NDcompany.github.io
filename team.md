@@ -3,7 +3,7 @@ title: "Our team | N&D Co."
 description: "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet our CEO and see what we do."
 url: "https://ndcompany.in/team"
 type: "AboutPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/share/team.png"
 ---
 
 N&D Co.
@@ -191,7 +191,7 @@ Send a few lines about your business and what you need. We will reply with quest
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/share/team.png",
         "width": 1200,
         "height": 675
       }

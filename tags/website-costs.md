@@ -3,7 +3,7 @@ title: "Website costs: posts and guides | N&D Co."
 description: "What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure."
 url: "https://ndcompany.in/tags/website-costs"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/bilingual-websites-dubai-16x9.png"
 ---
 
 Tag
@@ -176,7 +176,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/bilingual-websites-dubai-16x9.png",
         "width": 1200,
         "height": 675
       }

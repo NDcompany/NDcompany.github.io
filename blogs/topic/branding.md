@@ -3,7 +3,7 @@ title: "Branding tips and guides: logos and identity | N&D Co."
 description: "Branding tips and guides from N&D Co.: what separates a logo from a brand identity, which files you should receive, and what a brand style guide needs."
 url: "https://ndcompany.in/blogs/topic/branding"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/logo-file-types-16x9.png"
 ---
 
 Topic
@@ -144,7 +144,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/logo-file-types-16x9.png",
         "width": 1200,
         "height": 675
       }

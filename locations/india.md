@@ -3,7 +3,7 @@ title: "Web Design & Digital Marketing Agency in India | N&D Co."
 description: "Brand and growth agency in Kolkata serving businesses across India, from West Bengal to the Seven Sisters: websites, e-commerce, SEO, branding and marketing."
 url: "https://ndcompany.in/locations/india"
 type: "Service"
-image: "https://ndcompany.in/assets/share/services.png"
+image: "https://ndcompany.in/assets/share/locations.png"
 ---
 
 From Kolkata, across India
@@ -174,7 +174,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/services.png",
+        "url": "https://ndcompany.in/assets/share/locations.png",
         "width": 1200,
         "height": 675
       }

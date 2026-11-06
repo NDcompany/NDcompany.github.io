@@ -3,7 +3,7 @@ title: "Web Design & Marketing in the Netherlands | N&D Co."
 description: "N&D Co. works remotely with businesses in the Netherlands: websites, webshops, branding, SEO and marketing, with hours overlapping most of the Dutch workday."
 url: "https://ndcompany.in/locations/netherlands"
 type: "Service"
-image: "https://ndcompany.in/assets/share/services.png"
+image: "https://ndcompany.in/assets/share/locations.png"
 ---
 
 Serving the Netherlands from Kolkata
@@ -174,7 +174,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/services.png",
+        "url": "https://ndcompany.in/assets/share/locations.png",
         "width": 1200,
         "height": 675
       }

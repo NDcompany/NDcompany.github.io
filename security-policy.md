@@ -5,7 +5,7 @@ url: "https://ndcompany.in/security-policy"
 type: "WebPage"
 published: "2026-10-23"
 modified: "2026-10-28"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/security.png"
 ---
 
 # Security policy
@@ -102,7 +102,7 @@ Phone: [+91 89021 09455](tel:+918902109455)
       "dateModified": "2026-10-28",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/security.png",
         "width": 1200,
         "height": 675
       }

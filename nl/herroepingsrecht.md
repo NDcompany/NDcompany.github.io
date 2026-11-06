@@ -3,7 +3,7 @@ title: "Herroepingsrecht en modelformulier | N&D Co."
 description: "Herroepingsrecht voor consumenten bij N&D Co.: 14 dagen bedenktijd na het sluiten van de overeenkomst, hoe je herroept en het modelformulier voor herroeping."
 url: "https://ndcompany.in/nl/herroepingsrecht"
 type: "WebPage"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/withdrawal.png"
 ---
 
 Voor consumenten
@@ -67,7 +67,7 @@ Bron: [Richtlijn 2011/83/EU betreffende consumentenrechten, bijlage I (EUR-Lex)]
       "inLanguage": "nl-NL",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/withdrawal.png",
         "width": 1200,
         "height": 675
       }

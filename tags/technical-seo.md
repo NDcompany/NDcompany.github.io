@@ -3,7 +3,7 @@ title: "Technical SEO: posts and guides | N&D Co."
 description: "Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages."
 url: "https://ndcompany.in/tags/technical-seo"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png"
 ---
 
 Tag
@@ -160,7 +160,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png",
         "width": 1200,
         "height": 675
       }

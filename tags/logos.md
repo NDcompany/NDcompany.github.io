@@ -3,7 +3,7 @@ title: "Logos: posts and projects | N&D Co."
 description: "The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print."
 url: "https://ndcompany.in/tags/logos"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/blog/logo-file-types-16x9.png"
 ---
 
 Tag
@@ -276,7 +276,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/blog/logo-file-types-16x9.png",
         "width": 1200,
         "height": 675
       }

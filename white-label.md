@@ -3,7 +3,7 @@ title: "White Label Web Development & SEO for Agencies | N&D Co."
 description: "White label web development, SEO, design and mobile apps for agencies. Unbranded work, your NDA signed, calls in US mornings and prices in USD."
 url: "https://ndcompany.in/white-label"
 type: "Service"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/white-label.png"
 ---
 
 White label for agencies
@@ -351,7 +351,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/white-label.png",
         "width": 1200,
         "height": 675
       }

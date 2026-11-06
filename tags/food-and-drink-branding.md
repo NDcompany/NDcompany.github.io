@@ -3,7 +3,7 @@ title: "Food and drink branding: projects | N&D Co."
 description: "Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars. Everything N&D Co. has written and made on the subject: 9 projects."
 url: "https://ndcompany.in/tags/food-and-drink-branding"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/blogs.png"
+image: "https://ndcompany.in/assets/projects/kebabiyana-16x9.png"
 ---
 
 Tag
@@ -238,7 +238,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/blogs.png",
+        "url": "https://ndcompany.in/assets/projects/kebabiyana-16x9.png",
         "width": 1200,
         "height": 675
       }

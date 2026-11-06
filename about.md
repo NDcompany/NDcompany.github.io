@@ -3,7 +3,7 @@ title: "About N&D Co. | Brand and growth agency in Kolkata, India"
 description: "N&D Co. is a brand and growth agency in Barrackpore, Kolkata: branding, websites, SEO and marketing for businesses in India and abroad."
 url: "https://ndcompany.in/about"
 type: "AboutPage"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/about.png"
 ---
 
 # About N&D Co.
@@ -86,7 +86,7 @@ Email [hello@ndcompany.in](mailto:hello@ndcompany.in) or call [+91 89021 09455](
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/about.png",
         "width": 1200,
         "height": 675
       }
