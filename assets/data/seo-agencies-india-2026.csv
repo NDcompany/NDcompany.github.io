@@ -1,0 +1,38 @@
+agency,serves_clients_abroad,publishes_monthly_seo_price,lowest_usd_package,promises_ranking_position,promises_guaranteed_results,says_rankings_cannot_be_guaranteed,sells_links_by_count_or_score,named_case_studies,contract,client_owns_google_accounts,offers_ai_search
+1,True,False,,False,False,False,False,True,not stated or other,False,True
+2,True,True,225,False,False,True,True,True,recommends 3-6 months,False,True
+3,True,True,250,True,False,True,True,True,month to month,False,True
+4,True,False,,False,False,False,False,True,not stated or other,False,True
+5,True,True,150,False,True,False,True,True,recommends 3-6 months,False,True
+6,True,False,,False,False,True,False,True,not stated or other,False,True
+7,True,True,199,False,False,True,False,False,month to month,False,False
+8,True,False,,False,False,False,False,True,not stated or other,False,True
+9,True,True,199,True,False,False,True,True,recommends 3-6 months,False,True
+10,True,True,200,False,False,False,True,True,not stated or other,False,True
+11,True,True,,False,False,False,False,True,not stated or other,False,True
+12,True,False,,False,False,True,False,True,not stated or other,False,True
+13,True,False,,False,False,True,False,True,not stated or other,False,True
+14,True,True,300,False,False,True,False,True,month to month,True,True
+15,True,False,,False,False,False,False,True,month to month,False,False
+16,True,False,,False,False,True,False,True,12-month minimum,False,True
+17,True,False,,False,True,False,False,True,not stated or other,False,True
+18,True,False,,False,False,True,True,True,6-month minimum,False,True
+19,True,False,,False,True,True,False,False,not stated or other,False,False
+20,True,True,250,False,False,True,False,False,month to month,False,True
+21,True,True,525,False,False,False,False,False,3-month minimum,False,True
+22,False,False,,False,False,False,False,True,not stated or other,False,True
+23,True,False,,False,False,False,False,True,not stated or other,False,True
+24,True,True,200,False,False,False,True,True,6-month minimum,False,True
+25,True,False,,False,False,False,False,True,not stated or other,False,False
+26,True,False,,True,False,True,False,True,not stated or other,False,False
+27,True,False,,True,False,False,True,True,month to month,False,True
+28,True,False,,False,False,True,False,True,not stated or other,False,True
+29,True,False,,False,False,False,False,True,not stated or other,False,True
+30,True,False,,False,True,True,False,False,month to month,False,False
+31,True,False,,False,False,True,True,True,month to month,False,True
+32,True,False,,False,False,False,False,True,not stated or other,False,True
+33,True,False,,False,False,True,False,False,not stated or other,False,True
+34,True,False,,False,False,True,True,False,not stated or other,False,True
+35,True,False,,False,False,True,False,True,month to month,False,True
+36,False,False,,False,False,False,False,False,not stated or other,False,False
+37,True,False,,False,False,True,False,False,not stated or other,False,True
