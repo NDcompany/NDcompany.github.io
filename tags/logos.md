@@ -130,6 +130,8 @@ See the project
 
 ## Recently updated
 
+- [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   6 Nov 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -138,8 +140,6 @@ See the project
   5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
-- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
-  3 Nov 2026
 
 ## Trending tags
 
@@ -150,9 +150,9 @@ See the project
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Website planning](https://ndcompany.in/tags/website-planning)
 
 [All tags](https://ndcompany.in/tags)
 

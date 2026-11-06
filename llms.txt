@@ -33,6 +33,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india): How to choose an SEO agency in India from the US, UK or Europe: the questions Google suggests, red flags, keeping your accounts, prices and time zones.
 - [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email): An email from quatgio.com offered us a client project, then sent a booking link that leads to a fake Google sign-in. What it looks like and what to do.
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai): Of 37 Dubai agency websites we could read, 20 say they build Arabic sites but only 7 have an Arabic version themselves. Prices, bilingual costs, a checklist.
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types): Logo file types explained: SVG, PNG, JPG, PDF, AI and EPS, vector vs raster, logo sizes, and the files in a real package we delivered, with their sizes.
@@ -86,7 +87,8 @@ Every page below is also available as Markdown: add .md to its address (https://
 
 ## Free tools
 
-- [Free tools](https://ndcompany.in/tools): Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus an invoice generator and an image to PDF converter.
+- [Free tools](https://ndcompany.in/tools): Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus a website cost calculator, invoices and image to PDF.
+- [Website cost calculator](https://ndcompany.in/tools/website-cost-calculator): Answer a few questions about the website or online store you need and see which of our plans it fits, its starting price in your currency and what it includes.
 - [RankGuru](https://ndcompany.in/tools/rankguru): Checks a web page's title, description, headings, links, images and structured data, and compares its words with up to three competitor pages.
 - [Invoice generator](https://ndcompany.in/tools/invoice-generator): Makes an invoice, proforma invoice or quote with GST or other taxes, discounts and a UPI QR code, with a live preview, then prints it or saves it as a PDF.
 - [Image to PDF](https://ndcompany.in/tools/image-to-pdf): Turns JPEG, PNG, WebP and other images into one PDF, in the order you choose, on A4, Letter or image-sized pages. Your images never leave your device.
@@ -102,11 +104,11 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
+- [Google Search Console](https://ndcompany.in/tags/google-search-console): Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 - [Local SEO](https://ndcompany.in/tags/local-seo): Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
 - [Technical SEO](https://ndcompany.in/tags/technical-seo): Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
 - [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [Google Business Profile](https://ndcompany.in/tags/google-business-profile): Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
-- [Google Search Console](https://ndcompany.in/tags/google-search-console): Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 - [SEO audits](https://ndcompany.in/tags/seo-audits): What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility): WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.

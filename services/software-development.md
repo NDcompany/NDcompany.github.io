@@ -156,7 +156,7 @@ written quote before work starts · delivered in 8 to 16 weeks
 
 For products with customer portals or large teams, scoped from scratch.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken).
 
 ## How we work
 
@@ -282,7 +282,7 @@ Google review
 
 Bangali Oikya Manch
 
-a month ago
+2 months ago
 
 ## From our blogs
 

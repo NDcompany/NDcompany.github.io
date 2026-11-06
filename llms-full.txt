@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (94 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (96 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -296,7 +296,7 @@ Google review
 
 Bangali Oikya Manch
 
-a month ago
+2 months ago
 
 Recommends
 
@@ -919,6 +919,16 @@ Learn more
 
 Guides on the work behind SEO Services.
 
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
 Websites
 
 News · 5 Nov 2026
@@ -938,16 +948,6 @@ Insight · 5 Nov 2026
 20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
 Read the post
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
 
 ## Ready to start?
 
@@ -1383,7 +1383,7 @@ written quote before work starts · delivered in 8 to 16 weeks
 
 For products with customer portals or large teams, scoped from scratch.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken).
 
 ## How we work
 
@@ -1509,7 +1509,7 @@ Google review
 
 Bangali Oikya Manch
 
-a month ago
+2 months ago
 
 ## From our blogs
 
@@ -3168,7 +3168,7 @@ written quote before work starts
 
 For campaigns, video series or ongoing editing needs that do not fit a single-project scope.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken).
 
 ## How we work
 
@@ -4592,6 +4592,30 @@ Logos from € 149, with every file you need.
 ### [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken)
 
 Brand identities from € 449, with guidelines your team can follow.
+
+### [WordPress-maatwerk](https://ndcompany.in/nl/wordpress-website-laten-maken)
+
+Custom WordPress websites for € 699, with admin access and a year of hosting.
+
+### [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen)
+
+A new design for an existing site, at the same prices as a new website.
+
+### [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken)
+
+Internal tools and business systems from € 699.
+
+### [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken)
+
+Dashboards with your own figures from € 499.
+
+### [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+
+Brand guidelines for an existing logo from € 299.
+
+### [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken)
+
+Reels and short videos from your own footage, from € 79.
 
 ## What we can build for you
 
@@ -7821,7 +7845,7 @@ Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet
 
 **Doen jullie ook linkbuilding?**
 
-Ja, als onderdeel van elk pakket: vermeldingen in bedrijvengidsen en outreach naar relevante sites. We kopen geen links, want Google ziet betaalde links als manipulatie.
+Ja, als onderdeel van elk pakket: vermeldingen in bedrijvengidsen en outreach naar relevante sites.
 
 **Hoe snel zie ik resultaat?**
 
@@ -9088,6 +9112,133 @@ Send the brief and your NDA, and we will reply with questions or a written quote
 
 Free tool
 
+# Website cost calculator
+
+Source: https://ndcompany.in/tools/website-cost-calculator
+
+Choose what you need, a small site, a business website, an online store or a web app, and tick the features you want. The calculator shows which of our plans your project fits, its published starting price in rupees, dirhams or US dollars, how long it takes and everything the plan includes.
+
+What do you need?
+
+Currency
+
+What the site should do
+
+A blog or news section
+
+Take payments online
+
+User accounts, dashboards or bookings
+
+Connect to other software (CRM, accounting, booking)
+
+More than one language
+
+I need the page text written
+
+## Your project fits our Website Design & Development Business plan
+
+Starting price **₹19,999** · ready in 2 to 4 weeks
+
+It lands here because you want several pages, editing the content yourself.
+
+### What the plan includes
+
+- Multi-page business website
+- WordPress, Shopify or another CMS with admin access
+- 3 months of our Growth SEO package, free
+- Custom design with two to three revision rounds
+- Blog or news section
+- Contact and inquiry forms
+- On-page SEO setup and sitemap
+- Technical SEO audit and speed optimization
+- 7-day post-delivery support
+- One year of hosting and domain included (Hostinger), renewed at cost
+
+This is our published starting price for the plan, not a quote. Your final price depends on the pages, features and content, and is set in a written quote before any work starts. In the Netherlands? See our [prices in euros](https://ndcompany.in/nl/website-laten-maken).
+
+[Get a written quote](https://ndcompany.in/#contact)
+
+[See the full plan](https://ndcompany.in/services/website-design-development)
+
+## How to use it
+
+### Pick the kind of site
+
+A landing page, a business website, an online store or a web app with accounts or bookings.
+
+### Tick the features
+
+Editing the content yourself, a blog, online payments, accounts, links to other software, more languages or written page text.
+
+### Read the result
+
+See the plan your project fits, its starting price in your currency, the delivery time and what it includes.
+
+### Ask for a quote
+
+Send us your brief. Your final price is set in a written quote before any work starts.
+
+## Frequently asked questions
+
+**How much does a website cost?**
+
+With us, a landing page or small site starts at ₹9,999 or $149, a business website with a content management system at ₹19,999 or $299, and an online store at ₹14,999 or $239. The calculator picks the plan that fits what you need and shows its starting price in your currency, and a written quote sets the final price.
+
+**Is the result a quote?**
+
+No. It shows the published starting price of the plan your project fits. The final price depends on the number of pages, the features and the content, and is set in a written quote before any work starts.
+
+**Why does a store with custom designs cost more?**
+
+Custom page designs, a large catalog import, discount codes and abandoned cart emails each add setup and testing work, so they move a store from our Starter plan to Growth.
+
+**What is not included in the price?**
+
+Each plan lists it: hosting and the domain on the smallest website plan, and the Shopify subscription, paid apps and payment gateway fees on a store. A second language and written page text are quoted separately.
+
+**What do other agencies charge?**
+
+Our guides compare published prices: how much a website costs in India in 2026, from the websites of Indian agencies, and what a small business website costs in 2026.
+
+## More free tools
+
+### [RankGuru](https://ndcompany.in/tools/rankguru)
+
+Checks a web page's title, description, headings, links, images and structured data, and compares its words with up to three competitor pages.
+
+Open the tool
+
+### [Invoice generator](https://ndcompany.in/tools/invoice-generator)
+
+Makes an invoice, proforma invoice or quote with GST or other taxes, discounts and a UPI QR code, with a live preview, then prints it or saves it as a PDF.
+
+Open the tool
+
+### [Image to PDF](https://ndcompany.in/tools/image-to-pdf)
+
+Turns JPEG, PNG, WebP and other images into one PDF, in the order you choose, on A4, Letter or image-sized pages. Your images never leave your device.
+
+Open the tool
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Responsive websites, e-commerce development, and SEO-optimized web solutions.
+
+See the service
+
+[Every free tool, and how they handle your data](https://ndcompany.in/tools)
+
+## Need more than a tool?
+
+Send a few lines about your business and we will reply with questions or a quote.
+
+[Get a quote](https://ndcompany.in/#contact)
+
+---
+
+Free tool
+
 # RankGuru, a free on-page SEO checker
 
 Source: https://ndcompany.in/tools/rankguru
@@ -9137,6 +9288,12 @@ RankGuru checks one page at a time against a fixed list of on-page basics. It do
 [![Featured on LaunchBuff](https://launchbuff.com/badge-featured-light.svg)](https://launchbuff.com/products/rankguru-mmnibe)[![Launched with Favors.dev](https://favors.dev/api/badge/n-d-co?theme=light)](https://favors.dev/b/n-d-co)[![RankGuru on Nick Launches](https://nicklaunches.com/badges/featured.png)](https://nicklaunches.com/products/rankguru/)
 
 ## More free tools
+
+### [Website cost calculator](https://ndcompany.in/tools/website-cost-calculator)
+
+Answer a few questions about the website or online store you need and see which of our plans it fits, its starting price in your currency and what it includes.
+
+Open the tool
 
 ### [Invoice generator](https://ndcompany.in/tools/invoice-generator)
 
@@ -9228,6 +9385,12 @@ Choose Indian rupees and type your UPI ID, such as name@bank. The invoice then s
 Indian rupees, US dollars, euros, British pounds, Bangladeshi taka, UAE dirhams, Singapore dollars, Australian dollars and Canadian dollars. Amounts are formatted the way each currency is usually written.
 
 ## More free tools
+
+### [Website cost calculator](https://ndcompany.in/tools/website-cost-calculator)
+
+Answer a few questions about the website or online store you need and see which of our plans it fits, its starting price in your currency and what it includes.
+
+Open the tool
 
 ### [RankGuru](https://ndcompany.in/tools/rankguru)
 
@@ -9335,6 +9498,12 @@ There is no set limit. Large photos take memory, so a phone can slow down with d
 
 ## More free tools
 
+### [Website cost calculator](https://ndcompany.in/tools/website-cost-calculator)
+
+Answer a few questions about the website or online store you need and see which of our plans it fits, its starting price in your currency and what it includes.
+
+Open the tool
+
 ### [RankGuru](https://ndcompany.in/tools/rankguru)
 
 Checks a web page's title, description, headings, links, images and structured data, and compares its words with up to three competitor pages.
@@ -9392,6 +9561,16 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
 
 Websites
 
@@ -10007,7 +10186,7 @@ Google review
 
 Bangali Oikya Manch
 
-a month ago
+2 months ago
 
 ## Frequently asked questions
 
@@ -12512,6 +12691,166 @@ Our [software development](https://ndcompany.in/services/software-development) s
 
 ---
 
+[SEO](https://ndcompany.in/blogs/topic/seo) · Guide
+
+# How to choose an SEO agency in India: a checklist for businesses abroad
+
+Source: https://ndcompany.in/blogs/choose-seo-agency-india
+Updated: 2026-11-06
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 6 November 2026 6 min read
+
+To choose an SEO agency in India, start with the questions Google itself tells site owners to ask an SEO: examples of past work, whether they follow Google Search Essentials, what results they expect and by when, and how they will tell you about every change. Then rule out anyone who guarantees rankings or sells links, keep your Google accounts in your own name, and get the monthly scope and the report in writing. Price and time zones matter too, but they come after those checks.
+
+Key takeaways
+
+- Google publishes [a list of questions to ask before you hire an SEO](https://developers.google.com/search/docs/fundamentals/do-i-need-seo). Use it as your interview script.
+- Google says no one can guarantee a number one ranking. A guarantee, a "special relationship" with Google or a "priority submit" offer is a reason to walk away.
+- Buying links for ranking purposes is link spam under [Google's spam policies](https://developers.google.com/search/docs/essentials/spam-policies). Ask every agency how it builds links.
+- Stay the owner of your Search Console property and add the agency as a user, which you can remove at any time.
+- Indian agencies that publish SEO prices charged a median of ₹25,000 a month across their packages in our October 2026 study.
+
+## Why businesses abroad hire an SEO agency in India
+
+The usual reasons are cost and coverage. Monthly SEO is mostly skilled hours: audits, fixes, research, writing and reporting. Agencies in India price those hours for their own market, and many work in English all day. The time difference also means work can move while your office is closed.
+
+None of that says anything about quality, which varies as much in India as anywhere else. The rest of this guide is about telling a careful agency from a careless one, wherever it is based. If you are weighing outsourcing more broadly, our [guide to outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india) covers contracts, payments and access in more detail.
+
+## What should an SEO agency do for you?
+
+Google's page on hiring an SEO lists the services a good one can provide: a review of your site's content or structure, technical advice on website development, content development, keyword research, SEO training, expertise in specific markets and geographies, and optimizing for generative AI. A monthly package usually mixes several of these.
+
+In practice, the first month should produce an audit: a crawl of your site, a list of problems ranked by impact, and a plan. If an agency cannot show you an audit before it starts monthly work, you have no baseline to judge it against. You can see what a basic audit checks in our post on [how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works), and our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist) covers the fixes most sites need first.
+
+## Which questions should you ask before you hire?
+
+Google suggests asking a potential SEO these questions, and they work well as an interview script for an agency in any country:
+
+1. Can you show me examples of your previous work and share some success stories?
+2. Do you follow the Google Search Essentials?
+3. What kind of results do you expect to see, and in what timeframe? How do you measure your success?
+4. What is your experience in my industry?
+5. What is your experience in my country or city?
+6. What is your experience developing international sites?
+7. How long have you been in business?
+8. How can I expect to communicate with you? Will you share with me all the changes you make to my site?
+
+Google also suggests checking business references with past clients, and seeing whether the SEO is interested in you and your business. For a buyer abroad, question five matters most. An agency that has only ranked local businesses in Indian cities may not know your market, your competitors or how people in your country search.
+
+## What are the red flags?
+
+Google's own warnings cover most of them. It says that no one can guarantee a number one ranking on Google, and to beware of SEOs that claim to guarantee rankings, allege a special relationship with Google or advertise a priority submit to Google. Google also says it never accepts money to include or rank sites in its results.
+
+- **Guaranteed positions.** Rankings depend on Google and on your competitors, so a guarantee is either untrue or tied to a phrase nobody searches.
+- **Bought links.** Google's spam policies list buying or selling links for ranking purposes as link spam. Paid links are fine only when they are marked with `rel="sponsored"` or `rel="nofollow"`, which means they pass no ranking credit. Ask how the agency builds links, and ask to see some.
+- **Links to the agency.** Google says you should never have to link to an SEO. A footer credit or a hidden link on your site should not be part of the deal.
+- **Cold emails.** Google says to be wary of SEO firms that email you out of the blue. An unsolicited offer is not proof of a bad agency, but check it the same way you would check any other.
+- **No written scope.** If nobody can say what gets done each month, you cannot tell whether it was done.
+
+## Keep your accounts in your name
+
+Your Search Console property, your analytics, your Google Business Profile and your website hosting should stay registered to your business. The agency gets access; it does not get ownership. If the work ends, you keep the data and the history.
+
+Search Console makes this simple. [Google's help page on owners and users](https://support.google.com/webmasters/answer/7687615) explains that a property owner adds people under Settings, Users and permissions, as a full user, who can view all data and take some actions, or a restricted user, who has view rights to most data. Only owners can add or remove users. Google's hiring page goes further for the early stage: give a new SEO read access only, not write access. If you ever remove an owner, also remove their verification token from your site, or they can verify again.
+
+## What does an SEO agency in India cost?
+
+On 29 October 2026 we read the websites of 108 Indian agencies. Fifteen of them published monthly SEO prices in rupees, 37 packages in all, with a median of ₹25,000 a month across the packages and ₹15,000 a month at each agency's cheapest tier. Our [study of SEO prices in India](https://ndcompany.in/blogs/seo-cost-india) has the full table and what drives a quote up or down.
+
+Agencies that work with clients abroad often quote in US dollars, pounds or euros instead, at prices set for those markets. Compare quotes on scope rather than on the headline figure: how many pages get optimized, how many articles a month, what link building means in practice, and what the report shows.
+
+## How does the time difference work?
+
+India runs on India Standard Time all year, five and a half hours ahead of UTC. That puts it four and a half to five and a half hours ahead of the UK, depending on summer time, and nine and a half to thirteen and a half hours ahead of the US, depending on your coast and the season. For SEO that gap is rarely a problem, because most of the work does not need a call. A weekly or monthly call can sit in the overlap: early morning in the US, or late morning in the UK.
+
+What matters more is how the agency reports. Ask for a written monthly report with rankings, organic traffic, indexing status and a log of the work done, so you can check progress without a meeting.
+
+## What to put in writing
+
+- The monthly scope: pages optimized, articles written, technical fixes and link building, in numbers where possible.
+- What the monthly report contains and when it arrives.
+- Who owns the content and the accounts, and how access is handed back if the work ends.
+- The notice period and what happens to work in progress.
+- The currency, the payment method and when invoices are due.
+
+## How we work with clients abroad
+
+We are a brand and growth agency in Kolkata, and our [SEO services](https://ndcompany.in/services/seo-services) follow the checks above: an audit first, a monthly scope set in writing, access through your own accounts, and a monthly report. We do not guarantee rankings. Prices for clients in the US and most other countries are set in US dollars; our [page for US businesses](https://ndcompany.in/locations/usa) explains how the time difference and payments work, and agencies that want to resell SEO under their own name can see our [white label SEO](https://ndcompany.in/white-label/seo) page. Before you talk to anyone, you can run a page through [RankGuru](https://ndcompany.in/tools/rankguru), our free on-page checker, to see where you stand.
+
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Google Search Console](https://ndcompany.in/tags/google-search-console)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india)
+- [Share on WhatsApp](https://wa.me/?text=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india&text=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india&title=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad)
+- [Share on Threads](https://www.threads.net/intent/post?text=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fchoose-seo-agency-india-16x9.png&description=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad)
+- [Share by email](mailto:?subject=How%20to%20choose%20an%20SEO%20agency%20in%20India%3A%20a%20checklist%20for%20businesses%20abroad&body=How%20to%20choose%20an%20SEO%20agency%20in%20India%20from%20the%20US%2C%20UK%20or%20Europe%3A%20the%20questions%20Google%20suggests%2C%20red%20flags%2C%20keeping%20your%20accounts%2C%20prices%20and%20time%20zones.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fchoose-seo-agency-india)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+SEO
+
+Guide · 31 Oct 2026
+
+### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+
+Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+
+Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
+
+Read the guide
+
+[More on SEO](https://ndcompany.in/blogs/topic/seo)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [SEO Services](https://ndcompany.in/services/seo-services)
+
+On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 [Websites](https://ndcompany.in/blogs/topic/websites) · News
 
 # The Quatgio email: a fake client brief that ends at a fake Google sign-in
@@ -13104,15 +13443,15 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
-Websites
+SEO
 
-News · 5 Nov 2026
+Guide · 6 Nov 2026
 
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
 
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
 
-Read the post
+Read the guide
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 
@@ -13326,15 +13665,15 @@ What you can hand over, what it costs, how the hours line up with the US, what t
 
 Read the guide
 
-Websites
+SEO
 
-News · 5 Nov 2026
+Guide · 6 Nov 2026
 
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
 
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
 
-Read the post
+Read the guide
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
@@ -13544,6 +13883,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 30 Oct 2026
 
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -13559,16 +13908,6 @@ Guide · 30 Oct 2026
 ### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
 
 Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
-
-Read the guide
-
-SEO
-
-Guide · 26 Oct 2026
-
-### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-
-Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
 Read the guide
 
@@ -13765,6 +14104,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 31 Oct 2026
 
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -13780,16 +14129,6 @@ Guide · 30 Oct 2026
 ### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
 
 Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
-
-Read the guide
-
-SEO
-
-Guide · 26 Oct 2026
-
-### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-
-Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
 Read the guide
 
@@ -13979,6 +14318,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 31 Oct 2026
 
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -13994,16 +14343,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 26 Oct 2026
-
-### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-
-Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
 Read the guide
 
@@ -14446,15 +14785,15 @@ What you can hand over, what it costs, how the hours line up with the US, what t
 
 Read the guide
 
-Websites
+SEO
 
-News · 5 Nov 2026
+Guide · 6 Nov 2026
 
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
 
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
 
-Read the post
+Read the guide
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
@@ -14650,15 +14989,15 @@ Only 35 of 101 agency websites we could read show any price. The rest of what we
 
 Read the post
 
-Websites
+SEO
 
-News · 5 Nov 2026
+Guide · 6 Nov 2026
 
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
 
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
 
-Read the post
+Read the guide
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
@@ -14865,6 +15204,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 31 Oct 2026
 
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -14880,16 +15229,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -15546,6 +15885,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 31 Oct 2026
 
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -15561,16 +15910,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -15884,6 +16223,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 31 Oct 2026
 
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -15899,16 +16248,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -16591,15 +16930,15 @@ Logo sizes for each platform, colour pairs that pass WCAG, font licences and Ind
 
 Read the guide
 
-Websites
+SEO
 
-News · 5 Nov 2026
+Guide · 6 Nov 2026
 
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
 
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
 
-Read the post
+Read the guide
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 
@@ -17196,6 +17535,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 31 Oct 2026
 
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -17211,16 +17560,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -17554,15 +17893,15 @@ What a logo job and a full identity should each hand over, the sizes and files a
 
 Read the guide
 
-Websites
+SEO
 
-News · 5 Nov 2026
+Guide · 6 Nov 2026
 
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
 
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
 
-Read the post
+Read the guide
 
 [More on Branding](https://ndcompany.in/blogs/topic/branding)
 

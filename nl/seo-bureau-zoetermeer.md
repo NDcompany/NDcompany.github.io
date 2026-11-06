@@ -148,7 +148,7 @@ Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet
 
 **Doen jullie ook linkbuilding?**
 
-Ja, als onderdeel van elk pakket: vermeldingen in bedrijvengidsen en outreach naar relevante sites. We kopen geen links, want Google ziet betaalde links als manipulatie.
+Ja, als onderdeel van elk pakket: vermeldingen in bedrijvengidsen en outreach naar relevante sites.
 
 **Hoe snel zie ik resultaat?**
 

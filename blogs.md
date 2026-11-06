@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
 Websites
 
 News · 5 Nov 2026
@@ -216,6 +226,8 @@ Read the guide
 
 ## Recently updated
 
+- [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   6 Nov 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -224,8 +236,6 @@ Read the guide
   5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
-- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
-  3 Nov 2026
 
 ## Trending tags
 
@@ -236,9 +246,9 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Website planning](https://ndcompany.in/tags/website-planning)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -316,6 +326,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/choose-seo-agency-india#article",
+          "headline": "How to choose an SEO agency in India: a checklist for businesses abroad",
+          "description": "How to choose an SEO agency in India from the US, UK or Europe: the questions Google suggests, red flags, keeping your accounts, prices and time zones.",
+          "image": "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/choose-seo-agency-india",
+          "datePublished": "2026-11-06T00:00:00+05:30",
+          "dateModified": "2026-11-06T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/quatgio-scam-email#article",

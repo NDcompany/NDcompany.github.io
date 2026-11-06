@@ -147,7 +147,7 @@ written quote before work starts
 
 For campaigns, video series or ongoing editing needs that do not fit a single-project scope.
 
-Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Every quote is set in writing before work starts. Prefer to talk first? +91 89021 09455, Monday to Saturday, 9:00 AM to 6:00 PM IST. In the Netherlands? Our Dutch page has prices in euro: [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken).
 
 ## How we work
 

@@ -188,6 +188,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
+SEO
+
 Guide · 30 Oct 2026
 
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -203,16 +213,6 @@ Guide · 30 Oct 2026
 ### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
 
 Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
-
-Read the guide
-
-SEO
-
-Guide · 26 Oct 2026
-
-### [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-
-Seven checks in order, each with the Google or Bing rule behind it: search like a customer and size up competitors, the profile, matching details everywhere, your site, reviews, links and a baseline to measure against.
 
 Read the guide
 

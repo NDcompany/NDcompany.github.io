@@ -257,6 +257,16 @@ Learn more
 
 Guides on the work behind SEO Services.
 
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
 Websites
 
 News · 5 Nov 2026
@@ -276,16 +286,6 @@ Insight · 5 Nov 2026
 20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
 Read the post
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
 
 ## Ready to start?
 

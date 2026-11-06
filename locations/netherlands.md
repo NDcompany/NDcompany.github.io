@@ -56,6 +56,30 @@ Logos from € 149, with every file you need.
 
 Brand identities from € 449, with guidelines your team can follow.
 
+### [WordPress-maatwerk](https://ndcompany.in/nl/wordpress-website-laten-maken)
+
+Custom WordPress websites for € 699, with admin access and a year of hosting.
+
+### [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen)
+
+A new design for an existing site, at the same prices as a new website.
+
+### [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken)
+
+Internal tools and business systems from € 699.
+
+### [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken)
+
+Dashboards with your own figures from € 499.
+
+### [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+
+Brand guidelines for an existing logo from € 299.
+
+### [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken)
+
+Reels and short videos from your own footage, from € 79.
+
 ## What we can build for you
 
 Every service is delivered remotely to businesses in the Netherlands.

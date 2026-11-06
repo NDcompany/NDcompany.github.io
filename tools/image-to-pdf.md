@@ -88,6 +88,12 @@ There is no set limit. Large photos take memory, so a phone can slow down with d
 
 ## More free tools
 
+### [Website cost calculator](https://ndcompany.in/tools/website-cost-calculator)
+
+Answer a few questions about the website or online store you need and see which of our plans it fits, its starting price in your currency and what it includes.
+
+Open the tool
+
 ### [RankGuru](https://ndcompany.in/tools/rankguru)
 
 Checks a web page's title, description, headings, links, images and structured data, and compares its words with up to three competitor pages.

@@ -56,6 +56,12 @@ RankGuru checks one page at a time against a fixed list of on-page basics. It do
 
 ## More free tools
 
+### [Website cost calculator](https://ndcompany.in/tools/website-cost-calculator)
+
+Answer a few questions about the website or online store you need and see which of our plans it fits, its starting price in your currency and what it includes.
+
+Open the tool
+
 ### [Invoice generator](https://ndcompany.in/tools/invoice-generator)
 
 Makes an invoice, proforma invoice or quote with GST or other taxes, discounts and a UPI QR code, with a live preview, then prints it or saves it as a PDF.

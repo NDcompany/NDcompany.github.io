@@ -168,15 +168,15 @@ Only 35 of 101 agency websites we could read show any price. The rest of what we
 
 Read the post
 
-Websites
+SEO
 
-News · 5 Nov 2026
+Guide · 6 Nov 2026
 
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
 
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
 
-Read the post
+Read the guide
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 

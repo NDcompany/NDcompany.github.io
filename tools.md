@@ -1,6 +1,6 @@
 ---
-title: "Free tools: SEO checker, invoices, image to PDF | N&D Co."
-description: "Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus an invoice generator and an image to PDF converter."
+title: "Free tools: SEO checker, website cost, invoices | N&D Co."
+description: "Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus a website cost calculator, invoices and image to PDF."
 url: "https://ndcompany.in/tools"
 type: "CollectionPage"
 image: "https://ndcompany.in/assets/share/tools.png"
@@ -10,13 +10,19 @@ Free tools
 
 # Free tools for everyday business jobs
 
-Check a web page for on-page SEO, make an invoice or turn a set of images into one PDF. The tools are free, need no account and run in your browser.
+Check a web page for on-page SEO, estimate what a website costs, make an invoice or turn a set of images into one PDF. The tools are free, need no account and run in your browser.
 
 [See the tools](https://ndcompany.in/tools#tools-all)
 
 [Or hire us for the whole job](https://ndcompany.in/services)
 
 ## Our free tools
+
+### [Website cost calculator](https://ndcompany.in/tools/website-cost-calculator)
+
+Answer a few questions about the website or online store you need and see which of our plans it fits, its starting price in your currency and what it includes.
+
+Open the tool
 
 ### [RankGuru](https://ndcompany.in/tools/rankguru)
 
@@ -60,6 +66,10 @@ No. The tools are web pages that run in any current browser on a computer or a p
 
 We did. N&D Co. is a brand and growth agency in Barrackpore, Kolkata.
 
+**How much does a website cost?**
+
+With us, a landing page or small site starts at ₹9,999 or $149, a business website with a content management system at ₹19,999 or $299, and an online store at ₹14,999 or $239. The calculator picks the plan that fits what you need and shows its starting price in your currency, and a written quote sets the final price.
+
 **Why does RankGuru say it cannot read a site?**
 
 A browser lets one website read another website's pages only when that site allows it (a rule called CORS), and most sites do not. RankGuru has no server to fetch pages for it, so it says so instead of showing a made-up result. Open the page, view its source (Ctrl+U in Chrome, Edge or Firefox on Windows), copy all of it and paste it into Paste HTML.
@@ -88,8 +98,8 @@ Our team handles SEO, websites, design and marketing for businesses in India and
       "@type": "CollectionPage",
       "@id": "https://ndcompany.in/tools#webpage",
       "url": "https://ndcompany.in/tools",
-      "name": "Free tools: SEO checker, invoices, image to PDF | N&D Co.",
-      "description": "Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus an invoice generator and an image to PDF converter.",
+      "name": "Free tools: SEO checker, website cost, invoices | N&D Co.",
+      "description": "Free tools from N&D Co. that run in your browser: RankGuru checks a page for on-page SEO, plus a website cost calculator, invoices and image to PDF.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -107,18 +117,24 @@ Our team handles SEO, websites, design and marketing for businesses in India and
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Website cost calculator",
+            "url": "https://ndcompany.in/tools/website-cost-calculator"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "RankGuru",
             "url": "https://ndcompany.in/tools/rankguru"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Invoice generator",
             "url": "https://ndcompany.in/tools/invoice-generator"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Image to PDF",
             "url": "https://ndcompany.in/tools/image-to-pdf"
           }

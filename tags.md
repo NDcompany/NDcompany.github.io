@@ -46,10 +46,12 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 
 ## Working with an agency
 
-10 posts
+11 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+- [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
 - [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
   5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
@@ -175,6 +177,23 @@ Brand style guides that others can follow without asking you: logo rules, colour
 
 [Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
+## Google Search Console
+
+4 posts
+
+Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
+
+- [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  6 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  30 Oct 2026
+- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+  28 Oct 2026
+
+[Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
+
 ## Local SEO
 
 4 posts
@@ -240,21 +259,6 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
   28 Oct 2026
 
 [Everything tagged Google Business Profile](https://ndcompany.in/tags/google-business-profile)
-
-## Google Search Console
-
-3 posts
-
-Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
-
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  30 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  28 Oct 2026
-
-[Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
 
 ## SEO audits
 
@@ -433,32 +437,32 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 8,
+            "name": "Google Search Console",
+            "url": "https://ndcompany.in/tags/google-search-console"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags/local-seo"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags/technical-seo"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Website planning",
             "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "Google Business Profile",
             "url": "https://ndcompany.in/tags/google-business-profile"
-          },
-          {
-            "@type": "ListItem",
-            "position": 12,
-            "name": "Google Search Console",
-            "url": "https://ndcompany.in/tags/google-search-console"
           },
           {
             "@type": "ListItem",

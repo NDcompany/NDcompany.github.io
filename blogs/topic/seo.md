@@ -3,7 +3,7 @@ title: "SEO tips and guides for small businesses | N&D Co."
 description: "SEO tips, guides and insights from N&D Co. for small businesses: technical checks, indexing and Google Business Profile, with links to Google documentation."
 url: "https://ndcompany.in/blogs/topic/seo"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png"
+image: "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Getting a business found in Google search, from the technical basics that keep a site crawlable to the local listing that puts you on the map. Technical claims link to the Google documentation they come from.
 
 ## Latest posts
+
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
 
 SEO
 
@@ -86,6 +96,8 @@ Read the guide
 
 ## Recently updated
 
+- [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   6 Nov 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -94,8 +106,6 @@ Read the guide
   5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
-- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
-  3 Nov 2026
 
 ## Trending tags
 
@@ -106,9 +116,9 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Website planning](https://ndcompany.in/tags/website-planning)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -165,42 +175,48 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How to choose an SEO agency in India: a checklist for businesses abroad",
+            "url": "https://ndcompany.in/blogs/choose-seo-agency-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How do you optimize content for LLMs?",
             "url": "https://ndcompany.in/blogs/optimize-content-for-llms"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How do schools and colleges do SEO?",
             "url": "https://ndcompany.in/blogs/seo-for-educational-institutions"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How to run a local SEO audit: a checklist for small businesses",
             "url": "https://ndcompany.in/blogs/local-seo-audit"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How our free SEO audit works, from request to report",
             "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }
@@ -208,7 +224,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png",
         "width": 1200,
         "height": 675
       }

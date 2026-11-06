@@ -40,6 +40,16 @@ The blogs are where N&D Co. shares what it learns: quick tips, longer guides and
 
 ## Articles by Nakshatra Ranjan Saha
 
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
+
 Websites
 
 News · 5 Nov 2026

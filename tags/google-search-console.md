@@ -3,7 +3,7 @@ title: "Google Search Console: posts and guides | N&D Co."
 description: "Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work."
 url: "https://ndcompany.in/tags/google-search-console"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png"
+image: "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png"
 ---
 
 Tag
@@ -13,6 +13,16 @@ Tag
 Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 
 ## Latest posts
+
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+The questions Google tells you to ask an SEO, the red flags it warns about, how to keep your Search Console in your name, and what Indian agencies charge.
+
+Read the guide
 
 SEO
 
@@ -46,6 +56,8 @@ Read the guide
 
 ## Recently updated
 
+- [How to choose an SEO agency in India: a checklist for businesses abroad](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   6 Nov 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
@@ -54,8 +66,6 @@ Read the guide
   5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
-- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
-  3 Nov 2026
 
 ## Trending tags
 
@@ -66,9 +76,9 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Website costs](https://ndcompany.in/tags/website-costs)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 - [Technical SEO](https://ndcompany.in/tags/technical-seo)
-- [Website planning](https://ndcompany.in/tags/website-planning)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -125,18 +135,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How to choose an SEO agency in India: a checklist for businesses abroad",
+            "url": "https://ndcompany.in/blogs/choose-seo-agency-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How do you optimize content for LLMs?",
             "url": "https://ndcompany.in/blogs/optimize-content-for-llms"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Core Web Vitals explained for business owners",
             "url": "https://ndcompany.in/blogs/core-web-vitals-explained"
           }
@@ -144,7 +160,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png",
         "width": 1200,
         "height": 675
       }

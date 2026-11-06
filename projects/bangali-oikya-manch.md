@@ -408,7 +408,7 @@ Google review
 
 Bangali Oikya Manch
 
-a month ago
+2 months ago
 
 ## Frequently asked questions
 
