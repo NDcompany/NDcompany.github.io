@@ -132,6 +132,10 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Bij ons € 1.299 voor een webshop in Shopify of WooCommerce, € 2.299 met eigen paginaontwerpen en een grote catalogus, en vanaf € 3.499 voor een webshop op maat. Je definitieve prijs staat in een schriftelijke offerte.
 
+**Wat kost een Shopify-webshop laten bouwen?**
+
+Een Shopify-webshop laten bouwen kost bij ons € 1.299 met een thema in jouw huisstijl, of € 2.299 met eigen paginaontwerpen en een grote catalogus. Het Shopify-abonnement, betaalde apps en de kosten van je betaalprovider betaal je zelf.
+
 **Shopify of WooCommerce?**
 
 Dat hangt af van je catalogus, je budget en hoe je verzendt. Voordat we beginnen, krijg je een kort schriftelijk advies met de reden voor onze keuze.

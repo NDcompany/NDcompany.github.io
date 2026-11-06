@@ -1,6 +1,6 @@
 ---
-title: "Brand Identity Design Services in Kolkata | N&D Co."
-description: "Brand identity design for startups and established businesses in India and worldwide: logo, colour palette, typography and brand guidelines by N&D Co., Kolkata."
+title: "Brand Identity & Corporate Identity Design, Kolkata | N&D Co."
+description: "Brand and corporate identity design for startups and established businesses in India and worldwide: logo, colour palette, typography and brand guidelines by N&D Co., Kolkata."
 url: "https://ndcompany.in/services/brand-identity-design"
 type: "Service"
 image: "https://ndcompany.in/assets/share/brand-identity-design.png"
@@ -341,8 +341,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/brand-identity-design#webpage",
       "url": "https://ndcompany.in/services/brand-identity-design",
-      "name": "Brand Identity Design Services in Kolkata | N&D Co.",
-      "description": "Brand identity design for startups and established businesses in India and worldwide: logo, colour palette, typography and brand guidelines by N&D Co., Kolkata.",
+      "name": "Brand Identity & Corporate Identity Design, Kolkata | N&D Co.",
+      "description": "Brand and corporate identity design for startups and established businesses in India and worldwide: logo, colour palette, typography and brand guidelines by N&D Co., Kolkata.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

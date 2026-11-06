@@ -959,7 +959,7 @@ Send a few lines about your business and we will reply with questions or a quote
 
 Brand identity and collateral
 
-# Full branding solutions for new businesses and rebrands
+# Full company branding for new businesses and rebrands
 
 Source: https://ndcompany.in/services/full-branding-solutions
 
@@ -5428,7 +5428,7 @@ Tell us what you need, and we will reply with questions or a written quote.
 
 For restaurants, cafes, bars and cloud kitchens
 
-# Restaurant marketing and branding
+# Restaurant marketing and branding agency
 
 Source: https://ndcompany.in/restaurant-marketing
 
@@ -5602,6 +5602,10 @@ The first tier of each service, in rupees for India and US dollars elsewhere. Yo
 Every price is on our [pricing page](https://ndcompany.in/pricing).
 
 ## Frequently asked questions
+
+**Are you a restaurant branding agency?**
+
+Yes. We design logos and brand identities for restaurants, cafes, bars and cloud kitchens, with the colours, fonts and files a printer and a delivery app need, then carry the brand into menus, posters, social media posts and the website. The food and drink projects on this page show that work.
 
 **Do you work with restaurants outside Kolkata?**
 
@@ -5932,6 +5936,10 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 **Wat kost een webshop laten maken?**
 
 Bij ons € 1.299 voor een webshop in Shopify of WooCommerce, € 2.299 met eigen paginaontwerpen en een grote catalogus, en vanaf € 3.499 voor een webshop op maat. Je definitieve prijs staat in een schriftelijke offerte.
+
+**Wat kost een Shopify-webshop laten bouwen?**
+
+Een Shopify-webshop laten bouwen kost bij ons € 1.299 met een thema in jouw huisstijl, of € 2.299 met eigen paginaontwerpen en een grote catalogus. Het Shopify-abonnement, betaalde apps en de kosten van je betaalprovider betaal je zelf.
 
 **Shopify of WooCommerce?**
 
@@ -6593,7 +6601,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
 
 Dashboard laten maken
 
-# Dashboard laten maken: je cijfers op één plek
+# Dashboard op maat laten maken: je cijfers op één plek
 
 Source: https://ndcompany.in/nl/dashboard-laten-maken
 
@@ -6858,6 +6866,10 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 **Wat kost een brandbook laten maken?**
 
 Bij ons € 299 voor een merkgids bij je bestaande logo, € 599 voor een volledig brandbook met tone of voice en voorbeelden, en vanaf € 1.199 voor maatwerk met templates.
+
+**Wat kost het om een brandbook te laten ontwikkelen?**
+
+Een brandbook laten ontwikkelen kost bij ons € 299 voor een merkgids, € 599 voor een brandbook met tone of voice en voorbeelden, en vanaf € 1.199 voor maatwerk. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
 
 **Wat is het verschil tussen een brandbook en een huisstijl?**
 
@@ -12075,13 +12087,13 @@ Send a few lines about your business and what you are trying to fix. We will rep
 # How much does SEO cost in India in 2026?
 
 Source: https://ndcompany.in/blogs/seo-cost-india
-Updated: 2026-10-31
+Updated: 2026-11-06
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 31 October 2026 11 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 31 October 2026 Updated 6 November 2026 11 min read
 
-A monthly SEO retainer in India costs a median of ₹25,000 across published packages, and ₹15,000 at the cheapest tier of the agencies that publish prices. On 29 October 2026 we read the websites of 108 Indian agencies, and 15 of them showed monthly SEO prices in rupees, 37 packages in all. The cheapest package was ₹5,000 a month and the dearest ₹2,00,000, with the middle half between ₹15,000 and ₹45,000. Almost all of it is sold by the month: 37 of the 38 SEO prices we recorded were monthly. Our own SEO packages start at ₹7,999 a month.
+The SEO price in India is usually a monthly charge: a retainer costs a median of ₹25,000 across published packages, and ₹15,000 at the cheapest tier of the agencies that publish prices. On 29 October 2026 we read the websites of 108 Indian agencies, and 15 of them showed monthly SEO prices in rupees, 37 packages in all. The cheapest package was ₹5,000 a month and the dearest ₹2,00,000, with the middle half between ₹15,000 and ₹45,000. Almost all of it is sold by the month: 37 of the 38 SEO prices we recorded were monthly. Our own SEO packages start at ₹7,999 a month.
 
 Key takeaways
 
@@ -12106,7 +12118,7 @@ There are four models. Our survey found one of them in real use.
 
 Retainers dominate because SEO work pays off slowly. Google's SEO starter guide says "some changes might take effect in a few hours, others could take several months" ([Google's SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)). Work that never ends is sold by the month. If you want a price for a single audit or a few hours of advice, you will have to ask for a quote, because you will not find a benchmark on most agency sites. At N&D Co. the audit is the first step of every monthly package, and our [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) gives you a first look before you decide.
 
-## How much does monthly SEO cost in India?
+## What are SEO charges per month in India?
 
 Of the 101 agency websites we could read, 15 showed monthly SEO prices in rupees. Each agency's cheapest package ran from ₹5,000 to ₹40,000 a month, with a median of ₹15,000. Across all 37 packages the median was ₹25,000 a month. Fifteen were "from" prices, 15 were fixed figures and 7 were ranges, so a good share of the published numbers tell you the floor, not the quote.
 
@@ -12242,7 +12254,7 @@ We are an agency, so here are our own published prices, in rupees and dollars a 
 - [Share on Threads](https://www.threads.net/intent/post?text=How%20much%20does%20SEO%20cost%20in%20India%20in%202026%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fseo-cost-india)
 - [Share on Bluesky](https://bsky.app/intent/compose?text=How%20much%20does%20SEO%20cost%20in%20India%20in%202026%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fseo-cost-india)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fseo-cost-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fseo-cost-india-16x9.png&description=How%20much%20does%20SEO%20cost%20in%20India%20in%202026%3F)
-- [Share by email](mailto:?subject=How%20much%20does%20SEO%20cost%20in%20India%20in%202026%3F&body=What%20SEO%20costs%20in%20India%20in%202026%3A%20monthly%20package%20prices%20from%20108%20agency%20websites%2C%20what%20a%20fee%20covers%2C%20red%20flags%2C%20GST%20and%20how%20to%20compare%20quotes.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fseo-cost-india)
+- [Share by email](mailto:?subject=How%20much%20does%20SEO%20cost%20in%20India%20in%202026%3F&body=SEO%20cost%20and%20price%20in%20India%20in%202026%3A%20monthly%20charges%20from%20108%20agency%20websites%2C%20what%20a%20fee%20covers%2C%20red%20flags%2C%20GST%20and%20how%20to%20compare%20quotes.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fseo-cost-india)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 

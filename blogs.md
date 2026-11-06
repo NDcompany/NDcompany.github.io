@@ -216,6 +216,8 @@ Read the guide
 
 ## Recently updated
 
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  6 Nov 2026
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   6 Nov 2026
 - [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
@@ -224,8 +226,6 @@ Read the guide
   5 Nov 2026
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
-- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
-  31 Oct 2026
 
 ## Trending tags
 
@@ -372,11 +372,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/seo-cost-india#article",
           "headline": "How much does SEO cost in India in 2026?",
-          "description": "What SEO costs in India in 2026: monthly package prices from 108 agency websites, what a fee covers, red flags, GST and how to compare quotes.",
+          "description": "SEO cost and price in India in 2026: monthly charges from 108 agency websites, what a fee covers, red flags, GST and how to compare quotes.",
           "image": "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png",
           "url": "https://ndcompany.in/blogs/seo-cost-india",
           "datePublished": "2026-10-31T00:00:00+05:30",
-          "dateModified": "2026-10-31T00:00:00+05:30",
+          "dateModified": "2026-11-06T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }

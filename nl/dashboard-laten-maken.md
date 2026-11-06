@@ -1,5 +1,5 @@
 ---
-title: "Dashboard laten maken vanaf € 499 | N&D Co."
+title: "Dashboard op maat laten maken vanaf € 499 | N&D Co."
 description: "Dashboard laten maken op maat: één dashboard vanaf € 499, een systeem met rapporten en koppelingen voor € 1.199, of maatwerk vanaf € 2.499."
 url: "https://ndcompany.in/nl/dashboard-laten-maken"
 type: "Service"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/software-development.png"
 
 Dashboard laten maken
 
-# Dashboard laten maken: je cijfers op één plek
+# Dashboard op maat laten maken: je cijfers op één plek
 
 Wij bouwen dashboards en interne tools op maat voor bedrijven in Nederland, op afstand vanuit Kolkata, India: een webapplicatie met eigen accounts die je spreadsheets en handmatig werk vervangt door overzichten die je team elke dag gebruikt.
 
@@ -158,7 +158,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
     {
       "@type": "Service",
       "@id": "https://ndcompany.in/nl/dashboard-laten-maken#service",
-      "name": "Dashboard laten maken: je cijfers op één plek",
+      "name": "Dashboard op maat laten maken: je cijfers op één plek",
       "serviceType": "Dashboard laten maken",
       "description": "Een dashboard laten maken kost bij ons € 499 voor één intern dashboard of één tool op je eigen gegevens, € 1.199 voor een systeem met meerdere onderdelen, een database, koppelingen en rapporten, en vanaf € 2.499 voor maatwerk met aparte omgevingen voor verschillende gebruikers. Je gebruikt het dashboard in de browser, op je telefoon en je computer.",
       "provider": {
@@ -210,7 +210,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@type": "WebPage",
       "@id": "https://ndcompany.in/nl/dashboard-laten-maken#webpage",
       "url": "https://ndcompany.in/nl/dashboard-laten-maken",
-      "name": "Dashboard laten maken vanaf € 499 | N&D Co.",
+      "name": "Dashboard op maat laten maken vanaf € 499 | N&D Co.",
       "description": "Dashboard laten maken op maat: één dashboard vanaf € 499, een systeem met rapporten en koppelingen voor € 1.199, of maatwerk vanaf € 2.499.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

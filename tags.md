@@ -57,7 +57,7 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
   31 Oct 2026
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  31 Oct 2026
+  6 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   30 Oct 2026
 - [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
@@ -263,7 +263,7 @@ Setting up Google's free Search Console with the business as owner, then reading
 What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
 
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  31 Oct 2026
+  6 Nov 2026
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)

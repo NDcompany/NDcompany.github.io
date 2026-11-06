@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/social-media-management.png"
 
 For restaurants, cafes, bars and cloud kitchens
 
-# Restaurant marketing and branding
+# Restaurant marketing and branding agency
 
 We design logos and brand identities, run social media and ads, and make offer creatives, menus and websites for food businesses: restaurants, cafes, bars, cloud kitchens and food brands, from Kolkata to Jaipur and Bhopal.
 
@@ -181,6 +181,10 @@ Every price is on our [pricing page](https://ndcompany.in/pricing).
 
 ## Frequently asked questions
 
+**Are you a restaurant branding agency?**
+
+Yes. We design logos and brand identities for restaurants, cafes, bars and cloud kitchens, with the colours, fonts and files a printer and a delivery app need, then carry the brand into menus, posters, social media posts and the website. The food and drink projects on this page show that work.
+
 **Do you work with restaurants outside Kolkata?**
 
 Yes. Our food work includes a pub and bar in Jaipur and a restaurant in Bhopal, and we work fully remotely with businesses across India and abroad.
@@ -216,7 +220,7 @@ Tell us about your restaurant and what you need, and we will reply with question
     {
       "@type": "Service",
       "@id": "https://ndcompany.in/restaurant-marketing#service",
-      "name": "Restaurant marketing and branding",
+      "name": "Restaurant marketing and branding agency",
       "serviceType": "Restaurant marketing and branding",
       "description": "We design logos and brand identities, run social media and ads, and make offer creatives, menus and websites for food businesses: restaurants, cafes, bars, cloud kitchens and food brands, from Kolkata to Jaipur and Bhopal.",
       "provider": {

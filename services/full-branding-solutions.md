@@ -1,6 +1,6 @@
 ---
-title: "Full Branding Solutions for Businesses in Kolkata | N&D Co."
-description: "Full branding for new businesses and rebrands in Kolkata, India and worldwide: logo, visual identity, brand guidelines and marketing materials by N&D Co."
+title: "Company Branding & Full Branding Services, Kolkata | N&D Co."
+description: "Company branding for new businesses and rebrands in Kolkata, India and worldwide: logo, visual identity, brand guidelines and marketing materials by N&D Co."
 url: "https://ndcompany.in/services/full-branding-solutions"
 type: "Service"
 image: "https://ndcompany.in/assets/share/full-branding-solutions.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/full-branding-solutions.png"
 
 Brand identity and collateral
 
-# Full branding solutions for new businesses and rebrands
+# Full company branding for new businesses and rebrands
 
 We build complete brand systems for businesses that are starting out or replacing an identity that no longer fits. One project delivers the logo, color and type system, brand guidelines and the first set of marketing materials, so everything you print or post looks like it came from the same company.
 
@@ -308,8 +308,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/full-branding-solutions#webpage",
       "url": "https://ndcompany.in/services/full-branding-solutions",
-      "name": "Full Branding Solutions for Businesses in Kolkata | N&D Co.",
-      "description": "Full branding for new businesses and rebrands in Kolkata, India and worldwide: logo, visual identity, brand guidelines and marketing materials by N&D Co.",
+      "name": "Company Branding & Full Branding Services, Kolkata | N&D Co.",
+      "description": "Company branding for new businesses and rebrands in Kolkata, India and worldwide: logo, visual identity, brand guidelines and marketing materials by N&D Co.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

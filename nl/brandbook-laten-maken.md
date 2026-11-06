@@ -1,6 +1,6 @@
 ---
 title: "Brandbook laten maken vanaf € 299 | N&D Co."
-description: "Brandbook laten maken bij je logo: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199."
+description: "Brandbook laten maken passend bij je logo, met een heldere prijs: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199."
 url: "https://ndcompany.in/nl/brandbook-laten-maken"
 type: "Service"
 image: "https://ndcompany.in/assets/share/brand-identity-design.png"
@@ -125,6 +125,10 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Bij ons € 299 voor een merkgids bij je bestaande logo, € 599 voor een volledig brandbook met tone of voice en voorbeelden, en vanaf € 1.199 voor maatwerk met templates.
 
+**Wat kost het om een brandbook te laten ontwikkelen?**
+
+Een brandbook laten ontwikkelen kost bij ons € 299 voor een merkgids, € 599 voor een brandbook met tone of voice en voorbeelden, en vanaf € 1.199 voor maatwerk. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
 **Wat is het verschil tussen een brandbook en een huisstijl?**
 
 Een huisstijl is het complete systeem: logo, kleuren, lettertypen en beeld. Een brandbook legt de regels vast waarmee iedereen die huisstijl hetzelfde gebruikt. Heb je al een logo, dan is een brandbook genoeg; heb je nog niets, dan maken we een huisstijl, met brandbook.
@@ -209,7 +213,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/brandbook-laten-maken#webpage",
       "url": "https://ndcompany.in/nl/brandbook-laten-maken",
       "name": "Brandbook laten maken vanaf € 299 | N&D Co.",
-      "description": "Brandbook laten maken bij je logo: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199.",
+      "description": "Brandbook laten maken passend bij je logo, met een heldere prijs: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
