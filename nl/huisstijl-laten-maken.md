@@ -129,6 +129,10 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Bij ons € 449 voor een logo, kleuren, lettertypen en een korte stijlgids, € 899 met een volledig huisstijlhandboek, drukwerk en templates, en vanaf € 1.799 voor maatwerk.
 
+**Is een huisstijl hetzelfde als een merkidentiteit?**
+
+Bijna. Je merkidentiteit is hoe je bedrijf zich in alles presenteert; de huisstijl is het zichtbare deel daarvan: logo, kleuren, lettertypen en beeld. Laat je bij ons je merkidentiteit ontwikkelen, dan begint dat met een merkbriefing en een moodboard en eindigt het met een huisstijlhandboek. Wil je ook de tone of voice van je merk vastleggen, dan kan dat in een brandbook.
+
 **Wat staat er in een huisstijlhandboek?**
 
 Hoe je het logo gebruikt, de kleurcodes voor drukwerk en digitaal gebruik, de lettertypen en hoe je ze combineert, en voorbeelden van toepassingen, zodat anderen je huisstijl kunnen toepassen zonder dat steeds bij ons te hoeven navragen.
@@ -143,7 +147,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 

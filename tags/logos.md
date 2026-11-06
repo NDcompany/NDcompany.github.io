@@ -130,6 +130,8 @@ See the project
 
 ## Recently updated
 
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  6 Nov 2026
 - [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
   5 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
@@ -137,8 +139,6 @@ See the project
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
 - [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
-  31 Oct 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   31 Oct 2026
 
 ## Trending tags

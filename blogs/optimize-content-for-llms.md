@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/optimize-content-for-llms"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-30T00:00:00+05:30"
-modified: "2026-10-30T00:00:00+05:30"
+modified: "2026-11-06T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png"
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 30 October 2026 11 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 30 October 2026 Updated 6 November 2026 12 min read
 
 To optimize content for LLMs, do what you would do for search, then check three things the AI products add. Make sure the search crawler behind each product can fetch your pages, answer the question near the top of the page in text that sits in the HTML, and say something other pages don't, under a named author and with real dates. Google states that [optimizing for generative AI search is still SEO](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide). Nobody outside these companies knows exactly how an answer picks its sources, so this guide sticks to what each one says in its own documentation.
 
@@ -90,6 +90,14 @@ Neither Google nor the other companies we cite give a rule for page layout. We w
 ### Show who wrote it and when
 
 Google's helpful content page says it is helpful to make it obvious to visitors who wrote a page, and it encourages accurate bylines. It also warns against changing the date of a page to look fresh when the content has not substantially changed, and against inventing author profiles. Put a real author, a published date and an updated date on guides, and change the updated date only when the page changed.
+
+## Can you get your business recommended by ChatGPT?
+
+Not by asking for it, as far as OpenAI's documentation goes. OpenAI does not publish how ChatGPT decides which businesses to name in an answer, and we found no program that lets a business request a recommendation. What it does document is who is eligible. Its [bots page](https://developers.openai.com/api/docs/bots) recommends allowing OAI-SearchBot so your site can appear in search results, says sites that opt out will not be shown in ChatGPT search answers, and says a robots.txt change takes about 24 hours to reach its systems.
+
+If you sell products, there is a second route. OpenAI's [merchants page](https://chatgpt.com/merchants) invites shops to apply to share a product feed so their products can appear in shopping results. It says shopping is live for ChatGPT users in the US, that stores selling through Shopify or Etsy are already integrated with no application needed, and that there are no fees on purchases that start in ChatGPT. It does not say how products are ranked.
+
+Past that, the advice is the rest of this guide: a page OAI-SearchBot can fetch, which says plainly what you do, where, for whom and at what price, with facts no other page has. Google's AI guide asks for accurate local business and shop details, and the same habit serves any assistant. Treat a promise to get you recommended by ChatGPT the way you would treat a promise of the top spot on Google.
 
 ## Does structured data help with AI answers?
 
@@ -249,7 +257,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-30T00:00:00+05:30",
-      "dateModified": "2026-10-30T00:00:00+05:30",
+      "dateModified": "2026-11-06T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -269,7 +277,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Technical SEO, Google Search Console",
       "genre": "Guide",
-      "wordCount": 2470,
+      "wordCount": 2711,
       "inLanguage": "en-IN"
     },
     {

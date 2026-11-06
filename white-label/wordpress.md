@@ -20,7 +20,7 @@ We build WordPress sites and WooCommerce stores for your clients under your agen
 
 Our white-label WordPress work is the same as our own WordPress builds. You send the brief and your client's brand files, we design and build to them, and your client gets an admin login to change pages, posts and media without a developer. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 

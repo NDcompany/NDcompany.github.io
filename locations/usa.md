@@ -48,6 +48,10 @@ A website, online store, brand identity or SEO for your own business. Starting p
 
 Resell any of our services under your agency's name, with your NDA signed, nothing carrying our name and no contact with your client.
 
+### [SEO from India](https://ndcompany.in/services/seo-services)
+
+An SEO agency in India working on your own site: an audit first, then keyword research, on-page fixes, content and a monthly report, billed in US dollars.
+
 ### [White label SEO](https://ndcompany.in/white-label/seo)
 
 Audits, on-page work, content, local SEO and monthly reports under your agency's brand.
@@ -113,6 +117,14 @@ You get prices in US dollars set for the US market, work that moves while you ar
 **Do you work with US agencies white label?**
 
 Yes. Agencies can resell any of our services under their own name: we sign the agency's NDA, deliver unbranded files and reports, and never contact its client. Agency prices in US dollars are on our white label page.
+
+**Can an SEO agency in India do SEO for a US business?**
+
+Yes. Google ranks pages for the searcher, wherever the people who worked on them sit. We run SEO for US businesses from Kolkata: an audit first, then keyword research, on-page fixes, content and a monthly report, month to month on a scope set in writing and billed in US dollars. We do not promise rankings, because Google controls them.
+
+**What should we check before hiring an Indian SEO company?**
+
+Ask for the scope in writing: what gets done each month and what the report shows. Keep your Search Console, Analytics and website accounts in your own name and give the agency access, so you keep them if the work ends. Be wary of guaranteed rankings or a fixed number of links a month. And ask who does the work and when they are reachable in your hours.
 
 **How do we work across the time difference?**
 

@@ -206,7 +206,7 @@ Watch out
 
 You may read 2026 articles claiming that Google cut the good LCP threshold to 2 seconds, added new Core Web Vitals or marks down a whole domain when a quarter of its pages are slow. Google's documentation says none of this. Search Central's Core Web Vitals page still gives [2.5 seconds, 200 milliseconds and 0.1](https://developers.google.com/search/docs/appearance/core-web-vitals). The web.dev guide says stable metrics ["won't change more than once per year"](https://web.dev/articles/vitals) and that changes are announced in the documentation. Google's notice for the March 2026 core update says only that it rolled out and [was complete as of 8 April 2026](https://status.search.google.com/incidents/7eTbAa2jWdToLkraZj5y). If someone quotes a new rule, ask for the Google page that states it.
 
-## Do Core Web Vitals affect Google rankings and sales?
+## Does website speed affect SEO and sales?
 
 Google's page experience documentation says ["Core Web Vitals are used by our ranking systems"](https://developers.google.com/search/docs/appearance/page-experience), but also that good reports do not guarantee top rankings, and that Google "always seeks to show the most relevant content, even if the page experience is sub-par". Where many helpful pages compete for a search, a great page experience "can contribute to success in Search". Google's ranking systems generally judge pages one by one, with "some site-wide assessments".
 
@@ -351,7 +351,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Websites",
       "keywords": "Core Web Vitals, Google Search Console",
       "genre": "Guide",
-      "wordCount": 2851,
+      "wordCount": 2849,
       "inLanguage": "en-IN"
     },
     {

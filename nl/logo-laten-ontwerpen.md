@@ -125,9 +125,9 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 ## Veelgestelde vragen
 
-**Wat kost een logo laten ontwerpen?**
+**Wat kost een logo?**
 
-Bij ons € 149 voor een conceptrichting met twee correctierondes, € 399 voor een volledige logoset met stijlgids en vanaf € 799 voor maatwerk met submerken en briefpapier.
+Een logo laten ontwerpen kost bij ons € 149 voor een conceptrichting met twee correctierondes, € 399 voor een volledige logoset met stijlgids en vanaf € 799 voor maatwerk met submerken en briefpapier.
 
 **Welke bestanden krijg ik?**
 
@@ -147,7 +147,7 @@ Een logo is het herkenningsteken van je bedrijf. Een huisstijl is het systeem er
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 

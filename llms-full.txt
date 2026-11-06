@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (84 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (86 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -4435,6 +4435,10 @@ A website, online store, brand identity or SEO for your own business. Starting p
 
 Resell any of our services under your agency's name, with your NDA signed, nothing carrying our name and no contact with your client.
 
+### [SEO from India](https://ndcompany.in/services/seo-services)
+
+An SEO agency in India working on your own site: an audit first, then keyword research, on-page fixes, content and a monthly report, billed in US dollars.
+
 ### [White label SEO](https://ndcompany.in/white-label/seo)
 
 Audits, on-page work, content, local SEO and monthly reports under your agency's brand.
@@ -4500,6 +4504,14 @@ You get prices in US dollars set for the US market, work that moves while you ar
 **Do you work with US agencies white label?**
 
 Yes. Agencies can resell any of our services under their own name: we sign the agency's NDA, deliver unbranded files and reports, and never contact its client. Agency prices in US dollars are on our white label page.
+
+**Can an SEO agency in India do SEO for a US business?**
+
+Yes. Google ranks pages for the searcher, wherever the people who worked on them sit. We run SEO for US businesses from Kolkata: an audit first, then keyword research, on-page fixes, content and a monthly report, month to month on a scope set in writing and billed in US dollars. We do not promise rankings, because Google controls them.
+
+**What should we check before hiring an Indian SEO company?**
+
+Ask for the scope in writing: what gets done each month and what the report shows. Keep your Search Console, Analytics and website accounts in your own name and give the agency access, so you keep them if the work ends. Be wary of guaranteed rankings or a fixed number of links a month. And ask who does the work and when they are reachable in your hours.
 
 **How do we work across the time difference?**
 
@@ -5633,7 +5645,7 @@ Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We
 
 ## Wat kost het?
 
-Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.
+Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk, ook wel een custom website genoemd: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.
 
 ## Pakketten en prijzen
 
@@ -5757,6 +5769,14 @@ Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zake
 
 Ja. Elke website krijgt een eigen ontwerp, gemaakt voor jouw bedrijf en je bezoekers. Kies je voor WordPress? Ook dan is het ontwerp volledig op maat en krijg je beheerderstoegang, zodat je zelf teksten en pagina's kunt aanpassen.
 
+**Kan ik bij jullie ook een mobiele website laten maken?**
+
+Elke website die we maken is ontworpen voor mobiele apparaten en werkt ook goed op desktop. Een aparte mobiele website is dus niet nodig: dezelfde site past zich aan elk scherm aan, en we testen hem op telefoon en computer voordat hij live gaat.
+
+**Maken jullie ook een b2b-website op maat?**
+
+Ja. Een b2b-website is meestal een zakelijke website met meerdere pagina's en aanvraagformulieren, voor € 699. Heb je klantaccounts of koppelingen met je eigen software nodig, dan valt dat onder Custom, vanaf € 1.499.
+
 **Hoelang duurt het?**
 
 Een kleine website is in 1 tot 2 weken klaar, een zakelijke website in 2 tot 4 weken en een project op maat in 4 tot 6 weken. De datum spreken we schriftelijk af.
@@ -5775,7 +5795,7 @@ Bij het Business-pakket zitten hosting en domeinnaam het eerste jaar bij de prij
 
 ## Ook in het Nederlands
 
-[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -5927,7 +5947,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6058,9 +6078,9 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 ## Veelgestelde vragen
 
-**Wat kost een logo laten ontwerpen?**
+**Wat kost een logo?**
 
-Bij ons € 149 voor een conceptrichting met twee correctierondes, € 399 voor een volledige logoset met stijlgids en vanaf € 799 voor maatwerk met submerken en briefpapier.
+Een logo laten ontwerpen kost bij ons € 149 voor een conceptrichting met twee correctierondes, € 399 voor een volledige logoset met stijlgids en vanaf € 799 voor maatwerk met submerken en briefpapier.
 
 **Welke bestanden krijg ik?**
 
@@ -6080,7 +6100,7 @@ Een logo is het herkenningsteken van je bedrijf. Een huisstijl is het systeem er
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6215,6 +6235,10 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Bij ons € 449 voor een logo, kleuren, lettertypen en een korte stijlgids, € 899 met een volledig huisstijlhandboek, drukwerk en templates, en vanaf € 1.799 voor maatwerk.
 
+**Is een huisstijl hetzelfde als een merkidentiteit?**
+
+Bijna. Je merkidentiteit is hoe je bedrijf zich in alles presenteert; de huisstijl is het zichtbare deel daarvan: logo, kleuren, lettertypen en beeld. Laat je bij ons je merkidentiteit ontwikkelen, dan begint dat met een merkbriefing en een moodboard en eindigt het met een huisstijlhandboek. Wil je ook de tone of voice van je merk vastleggen, dan kan dat in een brandbook.
+
 **Wat staat er in een huisstijlhandboek?**
 
 Hoe je het logo gebruikt, de kleurcodes voor drukwerk en digitaal gebruik, de lettertypen en hoe je ze combineert, en voorbeelden van toepassingen, zodat anderen je huisstijl kunnen toepassen zonder dat steeds bij ons te hoeven navragen.
@@ -6229,7 +6253,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6391,7 +6415,173 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+
+## Benieuwd wat het voor jou kost?
+
+Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een schriftelijke offerte.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+---
+
+WordPress-maatwerk
+
+# WordPress-website op maat laten maken
+
+Source: https://ndcompany.in/nl/wordpress-website-laten-maken
+
+Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We ontwerpen en bouwen WordPress-websites op maat voor bedrijven in Nederland, volledig op afstand: een eigen ontwerp, gebouwd in WordPress, zodat je zelf je pagina's en berichten beheert.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+[Bekijk de prijzen](https://ndcompany.in/nl/wordpress-website-laten-maken#pricing)
+
+## Wat kost het?
+
+Een WordPress-website op maat kost bij ons € 699: een zakelijke website met meerdere pagina's, een eigen ontwerp, een blog of nieuwssectie en beheerderstoegang, met het eerste jaar hosting en domeinnaam inbegrepen. Voor één landingspagina die heel snel moet laden, raden we meestal een site zonder WordPress aan, direct in code gebouwd, vanaf € 349. Een webshop of webapplicatie op maat begint bij € 1.499. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+## Pakketten en prijzen
+
+Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+Starter
+
+€ 349
+
+schriftelijke offerte vooraf · klaar in 1 tot 2 weken
+
+- Een landingspagina of kleine website
+- Eigen ontwerp, geen templates
+- 3 maanden ons Starter-SEO-pakket gratis
+- Ontworpen voor mobiel, ook goed op desktop
+- Contactformulier gekoppeld aan je inbox
+- Basis on-page SEO en een sitemap
+- 7 dagen ondersteuning na oplevering
+- Hosting en domeinnaam niet inbegrepen; kopen wij ze voor je, dan betaal je ze vooraf
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Business
+
+€ 699
+
+schriftelijke offerte vooraf · klaar in 2 tot 4 weken
+
+- Zakelijke website met meerdere pagina's
+- WordPress, Shopify of een ander CMS, met beheerderstoegang
+- 3 maanden ons Growth-SEO-pakket gratis
+- Eigen ontwerp met twee tot drie correctierondes
+- Blog of nieuwssectie
+- Contact- en aanvraagformulieren
+- On-page SEO en een sitemap
+- Technische SEO-controle en snelheidsoptimalisatie
+- 7 dagen ondersteuning na oplevering
+- Een jaar hosting en domeinnaam inbegrepen (Hostinger), daarna te verlengen tegen kostprijs
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Custom
+
+Vanaf
+
+€ 1.499
+
+schriftelijke offerte vooraf · klaar in 4 tot 6 weken
+
+- Webshop of webapplicatie op maat
+- Betaalprovider en orderbeheer
+- Gebruikersaccounts, dashboards of boekingssystemen
+- Koppelingen met andere software, zoals afgesproken
+- Testomgeving en een volledige testronde
+- 3 maanden ons Growth-SEO-pakket gratis
+- Overdracht van de broncode en documentatie
+- Onderhoudspakket los verkrijgbaar
+- Hosting op AWS of een VPS los verkrijgbaar
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Zo werken we
+
+### Kennismaking
+
+Een gesprek of e-mail over wat de website moet doen, wie hem bezoekt en welke inhoud er al is. Daarna sturen we een schriftelijke offerte met planning.
+
+### Ontwerp
+
+Paginaontwerpen en een visuele richting, ter beoordeling. Reken op twee tot drie correctierondes.
+
+### Bouw
+
+We bouwen het goedgekeurde ontwerp, koppelen het CMS en plaatsen je content. Via een testlink zie je de pagina's ontstaan.
+
+### Testen
+
+Formulieren, links en laadsnelheid controleren we op mobiel en desktop voordat er iets live gaat.
+
+### Livegang en ondersteuning
+
+De website gaat live op je domeinnaam. Tot zeven dagen na oplevering voeren we kleine correcties door en lossen we technische problemen op; daarna is onderhoud los verkrijgbaar.
+
+## Goed om te weten
+
+### Prijzen en btw
+
+Alle prijzen zijn startprijzen in euro. Wij zijn gevestigd in India en rekenen geen btw. Bij zakelijke klanten is de btw verlegd: zij geven die zelf aan. Voor particulieren is de getoonde prijs de totaalprijs. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+### Betalen
+
+Je betaalt in euro via PayPal, Wise of een bankoverschrijving. We beginnen na een aanbetaling van 50%; de rest betaal je voor de oplevering.
+
+### Taal en voorwaarden
+
+We werken in het Engels: offertes, gesprekken en oplevering. Onze algemene voorwaarden zijn ook in het Engels.
+
+### Bedenktijd voor particulieren
+
+Sluit je als particulier een overeenkomst met ons, dan heb je 14 dagen bedenktijd. Hoe je de overeenkomst herroept, staat op onze pagina over het herroepingsrecht, met het modelformulier.
+
+### Eigendom
+
+Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+Lees ook de [informatie over het herroepingsrecht en het modelformulier](https://ndcompany.in/nl/herroepingsrecht), onze [algemene voorwaarden](https://ndcompany.in/terms) (Engels) en meer over deze dienst [in het Engels](https://ndcompany.in/services/website-design-development).
+
+## Veelgestelde vragen
+
+**Wat kost een WordPress-website op maat?**
+
+Een zakelijke WordPress-website met meerdere pagina's, een eigen ontwerp en beheerderstoegang kost bij ons € 699, met het eerste jaar hosting en domeinnaam inbegrepen. Een webshop in WooCommerce begint bij € 1.299: zie onze pagina over een webshop laten maken. Je definitieve prijs staat in een schriftelijke offerte.
+
+**Wat betekent WordPress-maatwerk bij jullie?**
+
+Een eigen ontwerp voor jouw bedrijf, geen kant-en-klaar thema met jouw logo erin. We bouwen dat ontwerp in WordPress en stellen het thema, de plug-ins en de gebruikersrollen in die je nodig hebt. Je krijgt beheerderstoegang, zodat je zelf pagina's, berichten en afbeeldingen aanpast, zonder dat je een ontwikkelaar nodig hebt.
+
+**Wanneer is WordPress de juiste keuze?**
+
+Als je de website vaak zelf aanpast, met nieuwe pagina's, blogberichten en foto's. Voor een landingspagina die heel snel moet laden, of een webapplicatie met functies die geen plug-in biedt, raden we een site zonder WordPress aan, direct in code gebouwd. Die keuze leggen we schriftelijk vast, met uitleg.
+
+**Kan ik mijn bestaande WordPress-website laten vernieuwen?**
+
+Ja, tegen dezelfde prijzen. We beginnen dan met je bestaande teksten en beelden; hoe dat werkt, staat op onze pagina Website vernieuwen.
+
+**Wie onderhoudt de website na de oplevering?**
+
+Tot zeven dagen na oplevering voeren we kleine correcties door en lossen we technische problemen op. Daarna doe je de updates zelf in WordPress, of neem je onderhoud apart bij ons af.
+
+**Van wie is de website als hij klaar is?**
+
+Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+## Ook in het Nederlands
+
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6538,7 +6728,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6683,7 +6873,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6753,7 +6943,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Mobile apps are custom apps only, built for your client and published in your client's own Google Play and App Store accounts. Every quote is set in writing before work starts.
 
-These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
+These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## How it works
 
@@ -6885,7 +7075,7 @@ We run SEO for your clients under your agency's name: the audit, on-page fixes, 
 
 Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice. You can also buy audits on their own, from $149 each.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -7080,7 +7270,7 @@ We run Google Ads and Meta ads campaigns for your clients under your agency's na
 
 Our white-label PPC is the same work as our own digital marketing packages, with your agency's name on the reports instead of ours. Campaigns run in ad accounts that belong to your client, and ads go live only after you approve the copy and creative. Each client runs month to month on a scope set in writing, and you can end it with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -7216,7 +7406,7 @@ We design and build websites and online stores for your clients under your agenc
 
 Our white-label web development is the same work as our own website and e-commerce projects. You send the brief and your client's brand files, we design and build to them, and you hand the site over as your own. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -7349,7 +7539,7 @@ We build WordPress sites and WooCommerce stores for your clients under your agen
 
 Our white-label WordPress work is the same as our own WordPress builds. You send the brief and your client's brand files, we design and build to them, and your client gets an admin login to change pages, posts and media without a developer. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads) and [white label web development and design](https://ndcompany.in/white-label/web-development).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -7449,6 +7639,148 @@ WooCommerce suits businesses already on WordPress or that want to control the ho
 **What happens after launch?**
 
 A 7-day support window covers minor corrections and technical issues in the delivered site. Ongoing maintenance is available as a separate package, also white label.
+
+**Where is the team, and how do we work across time zones?**
+
+We are in Barrackpore, Kolkata, India. We keep part of our evening for calls in US mornings and send written updates between calls.
+
+## Have a project for a client?
+
+Send the brief and your NDA, and we will reply with questions or a written quote.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+---
+
+White label Shopify
+
+# White label Shopify development and marketing for agencies, from India
+
+Source: https://ndcompany.in/white-label/shopify
+
+We build Shopify stores for your clients under your agency's name, then run their SEO and ads if you want us to. No credit in the theme, the footer or the admin, and we never contact your client.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+[See agency prices](https://ndcompany.in/white-label/shopify#wl-prices)
+
+## White label Shopify, the way we run it
+
+Our white-label Shopify work is the same as our own e-commerce, SEO and digital marketing work, with your agency's name on everything instead of ours. You send the brief and your client's brand files, we build and test the store, and you hand it over as your own. Store builds are quoted per project with a 7-day support window after delivery; SEO and ads run month to month on a scope set in writing, and you can end them with 30 days' notice.
+
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
+
+## What you can resell
+
+### Shopify stores to your brief
+
+A theme styled to your client's brand, or custom designs for the home, category and product pages, reviewed with you on desktop and phone before the build.
+
+### Catalog setup
+
+Categories, product pages and variants such as size and color, entered from your client's product sheet, including large catalog imports.
+
+### Payments, shipping and tax
+
+A payment gateway for your client's market, such as Stripe or PayPal for sales abroad, plus shipping zones, rates and tax settings, tested with test orders through every payment method.
+
+### Discounts and abandoned cart emails
+
+Discount codes and abandoned cart emails set up on the Growth tier.
+
+### Shopify SEO
+
+Product schema, clean URLs, titles and meta descriptions at launch, then monthly SEO if you want it: an audit, keyword research, on-page fixes, content and a report with your agency's logo or none.
+
+### Shopify store ads
+
+Google Ads and Meta ads for the store, run in your client's own ad accounts with conversion tracking, weekly optimization and a monthly white-label report. Ads go live only after you approve them.
+
+### Launch and handover
+
+Domain and SSL set up, live payments switched on and a first live order confirmed, then the logins and files named in your quote handed to you.
+
+## How it works
+
+### You send the brief
+
+Tell us what your client needs: the service, the scope, the deadline and anything already agreed with them. Send your NDA first if you want it signed before you share details.
+
+### We quote in writing
+
+You get a written quote in US dollars from the agency prices below, with the scope and the delivery time, before any work starts.
+
+### We do the work, you stay the face
+
+We work only with you. Files, drafts and reports carry your agency's name or none, and we never contact your client or appear in their tools under our own name.
+
+### You review, then hand over
+
+You see every draft and decide what goes to your client. Ownership of the final deliverables named in your quote passes to you once it is paid in full.
+
+## Your client never sees us
+
+### Your NDA, signed
+
+We sign your non-disclosure agreement before you share anything about your client.
+
+### No N&D Co. name anywhere
+
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
+
+### No contact with your client
+
+We talk to you, not to them. If you want us on a client call, we join as part of your team.
+
+## White label Shopify pricing
+
+Starting prices for agencies, including the NDA, unbranded files and reports, and calls in US hours. Your final price is set in a written quote before work starts.
+
+**Agency starting prices per service, in US dollars**
+
+| Service | Billed | First tier | Second tier | Top tier |
+| --- | --- | --- | --- | --- |
+| [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions) | per project | Starter: $359 | Growth: $719 | Custom: $1,439 |
+| [SEO Services](https://ndcompany.in/services/seo-services) | per month | Starter: $199 | Growth: $359 | Custom: $599 |
+| [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing) | per month | Starter: $149 | Growth: $289 | Custom: $599 |
+
+What each tier includes is listed on the service pages: [E-commerce Solutions pricing](https://ndcompany.in/services/ecommerce-solutions#pricing) and [SEO Services pricing](https://ndcompany.in/services/seo-services#pricing) and [Digital Marketing & Performance Marketing pricing](https://ndcompany.in/services/digital-marketing#pricing).
+
+## Working with a US agency
+
+### Calls in your morning
+
+We keep part of our evening in India free for calls during US morning hours.
+
+### Written updates
+
+Between calls you get written progress updates, so nothing waits on a meeting.
+
+### Paid in US dollars
+
+Invoices are in US dollars, paid by PayPal, through Wise or by bank transfer.
+
+## Frequently asked questions
+
+**Is there any credit to N&D Co. in the store?**
+
+No. There is no credit in the theme, the footer, the code comments or the admin. We work through the access you arrange for us and can use an email address you choose, so nothing in your client's Shopify admin shows our name.
+
+**Who pays for the Shopify plan and apps?**
+
+Your client, directly to Shopify, the app developers and the payment provider. Those fees are never part of our price.
+
+**Should the store be on Shopify or WooCommerce?**
+
+Shopify suits most single-brand stores that want low maintenance and accept a monthly platform fee. WooCommerce suits businesses already on WordPress or that want to control the hosting, and our white label WordPress page covers it. We recommend one in writing after discovery.
+
+**Can you run SEO and ads for the store after launch?**
+
+Yes, under your agency's name. Both run month to month on a scope set in writing, ended with 30 days' notice. Your client pays the ad spend directly to Google or Meta, and we do not promise rankings or a cost per sale.
+
+**What happens after launch?**
+
+A 7-day support window covers minor corrections and technical issues in the delivered store. Ongoing maintenance is available as a separate package, also white label.
 
 **Where is the team, and how do we work across time zones?**
 
@@ -7736,7 +8068,7 @@ Team
 # Nakshatra Ranjan Saha
 
 Source: https://ndcompany.in/team/nakshatra-ranjan-saha
-Updated: 2026-11-05
+Updated: 2026-11-06
 
 - CEO
 - Founder
@@ -11977,11 +12309,11 @@ Send a few lines about your business and what you are trying to fix. We will rep
 # How do you optimize content for LLMs?
 
 Source: https://ndcompany.in/blogs/optimize-content-for-llms
-Updated: 2026-10-30
+Updated: 2026-11-06
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 30 October 2026 11 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 30 October 2026 Updated 6 November 2026 12 min read
 
 To optimize content for LLMs, do what you would do for search, then check three things the AI products add. Make sure the search crawler behind each product can fetch your pages, answer the question near the top of the page in text that sits in the HTML, and say something other pages don't, under a named author and with real dates. Google states that [optimizing for generative AI search is still SEO](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide). Nobody outside these companies knows exactly how an answer picks its sources, so this guide sticks to what each one says in its own documentation.
 
@@ -12056,6 +12388,14 @@ Neither Google nor the other companies we cite give a rule for page layout. We w
 ### Show who wrote it and when
 
 Google's helpful content page says it is helpful to make it obvious to visitors who wrote a page, and it encourages accurate bylines. It also warns against changing the date of a page to look fresh when the content has not substantially changed, and against inventing author profiles. Put a real author, a published date and an updated date on guides, and change the updated date only when the page changed.
+
+## Can you get your business recommended by ChatGPT?
+
+Not by asking for it, as far as OpenAI's documentation goes. OpenAI does not publish how ChatGPT decides which businesses to name in an answer, and we found no program that lets a business request a recommendation. What it does document is who is eligible. Its [bots page](https://developers.openai.com/api/docs/bots) recommends allowing OAI-SearchBot so your site can appear in search results, says sites that opt out will not be shown in ChatGPT search answers, and says a robots.txt change takes about 24 hours to reach its systems.
+
+If you sell products, there is a second route. OpenAI's [merchants page](https://chatgpt.com/merchants) invites shops to apply to share a product feed so their products can appear in shopping results. It says shopping is live for ChatGPT users in the US, that stores selling through Shopify or Etsy are already integrated with no application needed, and that there are no fees on purchases that start in ChatGPT. It does not say how products are ranked.
+
+Past that, the advice is the rest of this guide: a page OAI-SearchBot can fetch, which says plainly what you do, where, for whom and at what price, with facts no other page has. Google's AI guide asks for accurate local business and shop details, and the same habit serves any assistant. Treat a promise to get you recommended by ChatGPT the way you would treat a promise of the top spot on Google.
 
 ## Does structured data help with AI answers?
 
@@ -15199,7 +15539,7 @@ Watch out
 
 You may read 2026 articles claiming that Google cut the good LCP threshold to 2 seconds, added new Core Web Vitals or marks down a whole domain when a quarter of its pages are slow. Google's documentation says none of this. Search Central's Core Web Vitals page still gives [2.5 seconds, 200 milliseconds and 0.1](https://developers.google.com/search/docs/appearance/core-web-vitals). The web.dev guide says stable metrics ["won't change more than once per year"](https://web.dev/articles/vitals) and that changes are announced in the documentation. Google's notice for the March 2026 core update says only that it rolled out and [was complete as of 8 April 2026](https://status.search.google.com/incidents/7eTbAa2jWdToLkraZj5y). If someone quotes a new rule, ask for the Google page that states it.
 
-## Do Core Web Vitals affect Google rankings and sales?
+## Does website speed affect SEO and sales?
 
 Google's page experience documentation says ["Core Web Vitals are used by our ranking systems"](https://developers.google.com/search/docs/appearance/page-experience), but also that good reports do not guarantee top rankings, and that Google "always seeks to show the most relevant content, even if the page experience is sub-par". Where many helpful pages compete for a search, a great page experience "can contribute to success in Search". Google's ranking systems generally judge pages one by one, with "some site-wide assessments".
 
@@ -16159,9 +16499,9 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
 # Privacy policy
 
 Source: https://ndcompany.in/privacy
-Updated: 2026-11-05
+Updated: 2026-11-06
 
-Effective date: 23 October 2026 · Last updated: 5 November 2026
+Effective date: 23 October 2026 · Last updated: 6 November 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -16407,7 +16747,7 @@ If you are in Bangladesh, you can use the rights Bangladesh's personal data prot
 
 We email businesses we think we can help, and this section explains how. If you received one of these emails, this is where we found you and what we keep.
 
-What we collect: the business's name, its website, the problems we checked on that website, and one email address the business publishes for contact, usually a general address such as info@ or hello@. We never guess addresses. We find businesses through public sources: OpenStreetMap, web search (Brave Search), business directories as they appear in search results, business databases (Apollo, and public Google Maps listings collected through Apify), public YouTube channel statistics, and the business's own website. We do not collect personal social media profiles, and we never take an address from YouTube.
+What we collect: the business's name, its website, the problems we checked on that website, and one email address the business publishes for contact, usually a general address such as info@ or hello@. We never guess addresses. We find businesses through public sources: OpenStreetMap, web search (Brave Search), business directories as they appear in search results, business databases (Apollo, and public Google Maps listings collected through Apify), public YouTube channel statistics, official company and licence records (Companies House, including its list of newly registered companies, and city business licence data in the US), job and tender alerts that job boards and public tender portals email to us, and the business's own website. We do not collect personal social media profiles, and we never take an address from YouTube.
 
 Why: to offer a service relevant to your business. Our legal basis is our legitimate interest in telling businesses about work we can do for them, balanced by short emails, an easy opt out and short retention. Every email names us, gives our postal address, says where we found you, and has an unsubscribe link. Reply "stop" or use the link and we will never email you again.
 

@@ -127,6 +127,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [White label Google Ads and PPC for agencies](https://ndcompany.in/white-label/google-ads): Google Ads and Meta ads campaigns run under the agency's brand, ad spend paid by its client, with agency prices.
 - [White label web development for agencies](https://ndcompany.in/white-label/web-development): WordPress, Shopify, WooCommerce and custom sites built to an agency's brief, unbranded, with agency prices.
 - [White label WordPress development for agencies](https://ndcompany.in/white-label/wordpress): WordPress sites and WooCommerce stores built to an agency's brief, unbranded, with agency prices.
+- [White label Shopify development for agencies](https://ndcompany.in/white-label/shopify): Shopify stores built to an agency's brief, plus Shopify SEO and ads, unbranded, with agency prices.
 - [Tools we use](https://ndcompany.in/tools-we-use): the design, video, development, SEO and AI tools behind the work, and how each is used.
 - [Terms of service](https://ndcompany.in/terms): how we quote, bill, revise and hand over work, and what you own after full payment.
 - [Privacy policy](https://ndcompany.in/privacy): what personal data the site and our work collect, why, who else handles it and your rights.
@@ -145,6 +146,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen): Logo laten ontwerpen: een concept met twee correctierondes voor € 149, een volledige logoset met stijlgids voor € 399, of maatwerk vanaf € 799. Inclusief vectorbestanden.
 - [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken): Huisstijl laten maken: logo, kleuren, lettertypen en een stijlgids vanaf € 449, met visitekaartjes, briefpapier en templates voor € 899, of maatwerk vanaf € 1.799.
 - [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen): Je website laten vernieuwen: een nieuw ontwerp vanaf € 349, een vernieuwde zakelijke website met CMS voor € 699, of een webshop of webapp vanaf € 1.499.
+- [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken): WordPress-maatwerk: een WordPress-website op maat met eigen ontwerp en beheerderstoegang voor € 699, inclusief een jaar hosting. Met schriftelijke offerte.
 - [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken): Dashboard laten maken op maat: één dashboard vanaf € 499, een systeem met rapporten en koppelingen voor € 1.199, of maatwerk vanaf € 2.499.
 - [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken): Brandbook laten maken bij je logo: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199.
 - [Herroepingsrecht](https://ndcompany.in/nl/herroepingsrecht): bedenktijd van 14 dagen voor particulieren en het modelformulier voor herroeping.

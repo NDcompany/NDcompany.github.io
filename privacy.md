@@ -4,13 +4,13 @@ description: "What our contact and SEO audit forms collect, what we keep when yo
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-11-05"
+modified: "2026-11-06"
 image: "https://ndcompany.in/assets/share/home.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026 · Last updated: 5 November 2026
+Effective date: 23 October 2026 · Last updated: 6 November 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -256,7 +256,7 @@ If you are in Bangladesh, you can use the rights Bangladesh's personal data prot
 
 We email businesses we think we can help, and this section explains how. If you received one of these emails, this is where we found you and what we keep.
 
-What we collect: the business's name, its website, the problems we checked on that website, and one email address the business publishes for contact, usually a general address such as info@ or hello@. We never guess addresses. We find businesses through public sources: OpenStreetMap, web search (Brave Search), business directories as they appear in search results, business databases (Apollo, and public Google Maps listings collected through Apify), public YouTube channel statistics, and the business's own website. We do not collect personal social media profiles, and we never take an address from YouTube.
+What we collect: the business's name, its website, the problems we checked on that website, and one email address the business publishes for contact, usually a general address such as info@ or hello@. We never guess addresses. We find businesses through public sources: OpenStreetMap, web search (Brave Search), business directories as they appear in search results, business databases (Apollo, and public Google Maps listings collected through Apify), public YouTube channel statistics, official company and licence records (Companies House, including its list of newly registered companies, and city business licence data in the US), job and tender alerts that job boards and public tender portals email to us, and the business's own website. We do not collect personal social media profiles, and we never take an address from YouTube.
 
 Why: to offer a service relevant to your business. Our legal basis is our legitimate interest in telling businesses about work we can do for them, balanced by short emails, an easy opt out and short retention. Every email names us, gives our postal address, says where we found you, and has an unsubscribe link. Reply "stop" or use the link and we will never email you again.
 
@@ -319,7 +319,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-11-05",
+      "dateModified": "2026-11-06",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/home.png",

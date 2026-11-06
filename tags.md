@@ -199,7 +199,7 @@ Showing up when people nearby search for what you sell, and the relevance, dista
 Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
 
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  30 Oct 2026
+  6 Nov 2026
 - [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
   30 Oct 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
@@ -248,7 +248,7 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
 Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  30 Oct 2026
+  6 Nov 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   30 Oct 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)

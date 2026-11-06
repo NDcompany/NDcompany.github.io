@@ -18,7 +18,7 @@ Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We
 
 ## Wat kost het?
 
-Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.
+Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk, ook wel een custom website genoemd: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.
 
 ## Pakketten en prijzen
 
@@ -142,6 +142,14 @@ Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zake
 
 Ja. Elke website krijgt een eigen ontwerp, gemaakt voor jouw bedrijf en je bezoekers. Kies je voor WordPress? Ook dan is het ontwerp volledig op maat en krijg je beheerderstoegang, zodat je zelf teksten en pagina's kunt aanpassen.
 
+**Kan ik bij jullie ook een mobiele website laten maken?**
+
+Elke website die we maken is ontworpen voor mobiele apparaten en werkt ook goed op desktop. Een aparte mobiele website is dus niet nodig: dezelfde site past zich aan elk scherm aan, en we testen hem op telefoon en computer voordat hij live gaat.
+
+**Maken jullie ook een b2b-website op maat?**
+
+Ja. Een b2b-website is meestal een zakelijke website met meerdere pagina's en aanvraagformulieren, voor € 699. Heb je klantaccounts of koppelingen met je eigen software nodig, dan valt dat onder Custom, vanaf € 1.499.
+
 **Hoelang duurt het?**
 
 Een kleine website is in 1 tot 2 weken klaar, een zakelijke website in 2 tot 4 weken en een project op maat in 4 tot 6 weken. De datum spreken we schriftelijk af.
@@ -160,7 +168,7 @@ Bij het Business-pakket zitten hosting en domeinnaam het eerste jaar bij de prij
 
 ## Ook in het Nederlands
 
-[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
+[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -179,7 +187,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/website-laten-maken#service",
       "name": "Website laten maken: maatwerk met heldere startprijzen",
       "serviceType": "Website laten maken",
-      "description": "Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.",
+      "description": "Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk, ook wel een custom website genoemd: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
