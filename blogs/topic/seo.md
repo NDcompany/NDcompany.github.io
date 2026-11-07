@@ -96,29 +96,29 @@ Read the guide
 
 ## Recently updated
 
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+  7 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
 - [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
   6 Nov 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-  5 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
 
 ## Trending tags
 
-- [Logos](https://ndcompany.in/tags/logos)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 
 [All tags](https://ndcompany.in/tags)
 

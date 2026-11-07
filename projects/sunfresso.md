@@ -47,6 +47,16 @@ Guides from our blogs on the same kind of work.
 
 Branding
 
+Insight · 7 Nov 2026
+
+### [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+
+Red is in 31 of the 50 biggest restaurant chains' logos, and 34 are lettering only. What that means for a cafe, restaurant or cloud kitchen logo, and a checklist before you approve one.
+
+Read the post
+
+Branding
+
 Guide · 3 Nov 2026
 
 ### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)

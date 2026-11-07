@@ -3,7 +3,7 @@ title: "Logos: posts and projects | N&D Co."
 description: "The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print."
 url: "https://ndcompany.in/tags/logos"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/logo-file-types-16x9.png"
+image: "https://ndcompany.in/assets/blog/food-restaurant-logo-ideas-16x9.png"
 ---
 
 Tag
@@ -13,6 +13,16 @@ Tag
 The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 
 ## Latest posts
+
+Branding
+
+Insight · 7 Nov 2026
+
+### [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+
+Red is in 31 of the 50 biggest restaurant chains' logos, and 34 are lettering only. What that means for a cafe, restaurant or cloud kitchen logo, and a checklist before you approve one.
+
+Read the post
 
 Branding
 
@@ -130,29 +140,29 @@ See the project
 
 ## Recently updated
 
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+  7 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
 - [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
   6 Nov 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-  5 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
 
 ## Trending tags
 
-- [Logos](https://ndcompany.in/tags/logos)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -209,66 +219,72 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Food logo ideas: what the logos of 50 big restaurant chains tell a small food business",
+            "url": "https://ndcompany.in/blogs/food-restaurant-logo-ideas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Logo file types: which format to use where",
             "url": "https://ndcompany.in/blogs/logo-file-types"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Logo vs brand identity: what you are paying for",
             "url": "https://ndcompany.in/blogs/logo-vs-brand-identity"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "What goes into a brand style guide, and how to use one",
             "url": "https://ndcompany.in/blogs/brand-style-guide"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Brand identity for Sea Seven Fish",
             "url": "https://ndcompany.in/projects/sea-seven-fish"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Brand identity for Innovation Texture",
             "url": "https://ndcompany.in/projects/innovation-texture"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Logo for Edli Delight",
             "url": "https://ndcompany.in/projects/edli-delight"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Logo for Koustav Kitchen",
             "url": "https://ndcompany.in/projects/koustav-kitchen"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Logo for North East, a pub and bar",
             "url": "https://ndcompany.in/projects/north-east-pub-and-bar"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Logo for Style & Co.",
             "url": "https://ndcompany.in/projects/style-and-co"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Logo for Sunfresso",
             "url": "https://ndcompany.in/projects/sunfresso"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "Logo for Taste and Bite",
             "url": "https://ndcompany.in/projects/taste-and-bite"
           }
@@ -276,7 +292,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/logo-file-types-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/food-restaurant-logo-ideas-16x9.png",
         "width": 1200,
         "height": 675
       }

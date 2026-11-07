@@ -250,33 +250,33 @@ Learn more
 
 Guides on the work behind E-commerce Solutions.
 
+Websites
+
+Guide · 7 Nov 2026
+
+### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+
+What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
+
+Read the guide
+
+Websites
+
+Guide · 7 Nov 2026
+
+### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+
+We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
+
+Read the guide
+
 Business
 
 Guide · 27 Oct 2026
 
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
 
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-
-The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
-
-Read the guide
-
-Websites
-
-Guide · 25 Oct 2026
-
-### [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-
-The build price, then the running costs: .com renewals, hosting after the introductory term, Shopify and card fees, business email and the ADA, with a two-year example in US dollars.
+US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
 
 Read the guide
 

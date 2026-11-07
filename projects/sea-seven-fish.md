@@ -311,6 +311,16 @@ Guides from our blogs on the same kind of work.
 
 Branding
 
+Insight · 7 Nov 2026
+
+### [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+
+Red is in 31 of the 50 biggest restaurant chains' logos, and 34 are lettering only. What that means for a cafe, restaurant or cloud kitchen logo, and a checklist before you approve one.
+
+Read the post
+
+Branding
+
 Guide · 3 Nov 2026
 
 ### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
@@ -326,16 +336,6 @@ Guide · 23 Oct 2026
 ### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
 
 What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
-
-Read the guide
-
-Branding
-
-Guide · 23 Oct 2026
-
-### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
 
 Read the guide
 

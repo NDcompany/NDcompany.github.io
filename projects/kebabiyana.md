@@ -112,13 +112,13 @@ Only 35 of 101 agency websites we could read show any price. The rest of what we
 
 Read the post
 
-Business
+SEO
 
-Guide · 27 Oct 2026
+Guide · 23 Oct 2026
 
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
 
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
 
 Read the guide
 

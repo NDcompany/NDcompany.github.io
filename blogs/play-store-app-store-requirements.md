@@ -186,19 +186,19 @@ Business
 
 Guide · 27 Oct 2026
 
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
 
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
 
 Read the guide
 
-SEO
+Websites
 
-Guide · 6 Nov 2026
+Guide · 7 Nov 2026
 
-### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
+### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
 
-Dollar prices, ranking promises, links sold by count, lock-in contracts and account ownership on 37 Indian SEO agency websites, with a checklist for your first call.
+What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
 

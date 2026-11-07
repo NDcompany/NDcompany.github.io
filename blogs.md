@@ -14,6 +14,36 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Websites
+
+Guide · 7 Nov 2026
+
+### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+
+What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
+
+Read the guide
+
+Websites
+
+Guide · 7 Nov 2026
+
+### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+
+We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
+
+Read the guide
+
+Branding
+
+Insight · 7 Nov 2026
+
+### [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+
+Red is in 31 of the 50 biggest restaurant chains' logos, and 34 are lettering only. What that means for a cafe, restaurant or cloud kitchen logo, and a checklist before you approve one.
+
+Read the post
+
 SEO
 
 Guide · 6 Nov 2026
@@ -118,9 +148,9 @@ Business
 
 Guide · 27 Oct 2026
 
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
 
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
 
 Read the guide
 
@@ -226,29 +256,29 @@ Read the guide
 
 ## Recently updated
 
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+  7 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
 - [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
   6 Nov 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-  5 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
 
 ## Trending tags
 
-- [Logos](https://ndcompany.in/tags/logos)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -326,6 +356,45 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/shopify-development-india#article",
+          "headline": "Shopify development in India: what partners charge, from Shopify's own directory",
+          "description": "We read 160 Shopify Partner Directory profiles: India-based partners start a store build at a median $500, US-based ones at $1,150. Prices, tiers, tips.",
+          "image": "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/shopify-development-india",
+          "datePublished": "2026-11-07T00:00:00+05:30",
+          "dateModified": "2026-11-07T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/hire-wordpress-developer-india#article",
+          "headline": "How do you hire a WordPress developer in India? What 30 agency websites show",
+          "description": "We read 30 Indian agency websites: 22 offer WordPress, 4 publish an hourly rate, 8 say you own the code. What to ask and put in writing before you hire.",
+          "image": "https://ndcompany.in/assets/blog/hire-wordpress-developer-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india",
+          "datePublished": "2026-11-07T00:00:00+05:30",
+          "dateModified": "2026-11-07T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/food-restaurant-logo-ideas#article",
+          "headline": "Food logo ideas: what the logos of 50 big restaurant chains tell a small food business",
+          "description": "We studied the logos of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Restaurant, cafe and eatery logo ideas, with our own examples.",
+          "image": "https://ndcompany.in/assets/blog/food-restaurant-logo-ideas-16x9.png",
+          "url": "https://ndcompany.in/blogs/food-restaurant-logo-ideas",
+          "datePublished": "2026-11-07T00:00:00+05:30",
+          "dateModified": "2026-11-07T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/choose-seo-agency-india#article",
@@ -459,12 +528,12 @@ Send a few lines about your business and what you want to fix or build. We will 
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/outsource-web-development-india#article",
-          "headline": "How to outsource web development to India: a guide for US businesses",
-          "description": "Outsource web development or digital marketing to India from the US: what it costs, how the time difference works, what to agree in writing and how to pay.",
+          "headline": "How to outsource web development to India: costs, contracts and time zones",
+          "description": "How to outsource web development to India: US and Indian prices side by side, time zone overlap, who owns the code, how to pay from abroad and a pilot project.",
           "image": "https://ndcompany.in/assets/blog/outsource-web-development-india-16x9.png",
           "url": "https://ndcompany.in/blogs/outsource-web-development-india",
           "datePublished": "2026-10-27T00:00:00+05:30",
-          "dateModified": "2026-10-27T00:00:00+05:30",
+          "dateModified": "2026-11-07T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }

@@ -12,12 +12,49 @@ Blogs and projects
 
 Every subject our posts and projects cover, most used first, with the posts and projects that go into it.
 
+## Working with an agency
+
+13 posts
+
+Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
+
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+  5 Nov 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+  31 Oct 2026
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  6 Nov 2026
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  30 Oct 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  28 Oct 2026
+
+[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+
 ## Logos
 
-3 posts, 8 projects
+4 posts, 8 projects
 
 The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+  7 Nov 2026
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
@@ -43,37 +80,6 @@ The logo versions, file formats and sizes a business needs, from a square icon t
   Branding
 
 [Everything tagged Logos](https://ndcompany.in/tags/logos)
-
-## Working with an agency
-
-11 posts
-
-Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
-
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
-- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-  5 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
-- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
-  31 Oct 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  30 Oct 2026
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
-
-[Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
 ## Food and drink branding
 
@@ -101,6 +107,72 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
   Branding
 
 [Everything tagged Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+
+## Website costs
+
+7 posts
+
+What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  30 Oct 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+
+[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
+
+## Website planning
+
+7 posts
+
+Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
+
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+
+[Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
+
+## Brand guidelines
+
+4 posts, 1 project
+
+Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
+
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+  7 Nov 2026
+- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+  3 Nov 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
+  23 Oct 2026
+
+- [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
+  Branding
+
+[Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
 ## Core Web Vitals
 
@@ -139,43 +211,6 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
   Design
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-
-## Website costs
-
-5 posts
-
-What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
-
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  30 Oct 2026
-- [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
-  27 Oct 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-
-[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
-
-## Brand guidelines
-
-3 posts, 1 project
-
-Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
-
-- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
-  3 Nov 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
-
-- [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
-  Branding
-
-[Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
 ## Google Search Console
 
@@ -227,23 +262,6 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
   30 Oct 2026
 
 [Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
-
-## Website planning
-
-4 posts
-
-Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
-
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-
-[Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
 ## Google Business Profile
 
@@ -395,14 +413,14 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Logos",
-            "url": "https://ndcompany.in/tags/logos"
+            "name": "Working with an agency",
+            "url": "https://ndcompany.in/tags/working-with-an-agency"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Working with an agency",
-            "url": "https://ndcompany.in/tags/working-with-an-agency"
+            "name": "Logos",
+            "url": "https://ndcompany.in/tags/logos"
           },
           {
             "@type": "ListItem",
@@ -413,50 +431,50 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Core Web Vitals",
-            "url": "https://ndcompany.in/tags/core-web-vitals"
-          },
-          {
-            "@type": "ListItem",
-            "position": 5,
-            "name": "Social media creatives",
-            "url": "https://ndcompany.in/tags/social-media-creatives"
-          },
-          {
-            "@type": "ListItem",
-            "position": 6,
             "name": "Website costs",
             "url": "https://ndcompany.in/tags/website-costs"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 5,
+            "name": "Website planning",
+            "url": "https://ndcompany.in/tags/website-planning"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
             "name": "Brand guidelines",
             "url": "https://ndcompany.in/tags/brand-guidelines"
           },
           {
             "@type": "ListItem",
+            "position": 7,
+            "name": "Core Web Vitals",
+            "url": "https://ndcompany.in/tags/core-web-vitals"
+          },
+          {
+            "@type": "ListItem",
             "position": 8,
+            "name": "Social media creatives",
+            "url": "https://ndcompany.in/tags/social-media-creatives"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
             "name": "Google Search Console",
             "url": "https://ndcompany.in/tags/google-search-console"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags/local-seo"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags/technical-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 11,
-            "name": "Website planning",
-            "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",

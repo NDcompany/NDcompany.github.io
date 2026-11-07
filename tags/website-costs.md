@@ -3,7 +3,7 @@ title: "Website costs: posts and guides | N&D Co."
 description: "What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure."
 url: "https://ndcompany.in/tags/website-costs"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/bilingual-websites-dubai-16x9.png"
+image: "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png"
 ---
 
 Tag
@@ -13,6 +13,26 @@ Tag
 What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 
 ## Latest posts
+
+Websites
+
+Guide · 7 Nov 2026
+
+### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+
+What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
+
+Read the guide
+
+Websites
+
+Guide · 7 Nov 2026
+
+### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+
+We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
+
+Read the guide
 
 Websites
 
@@ -38,9 +58,9 @@ Business
 
 Guide · 27 Oct 2026
 
-### [How to outsource web development to India: a guide for US businesses](https://ndcompany.in/blogs/outsource-web-development-india)
+### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
 
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
 
 Read the guide
 
@@ -66,35 +86,41 @@ Read the guide
 
 ## Recently updated
 
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+  7 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
 - [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
   6 Nov 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-  5 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
 
 ## Trending tags
 
-- [Logos](https://ndcompany.in/tags/logos)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 
 [All tags](https://ndcompany.in/tags)
 
 ## Rather hand it over?
 
 If you would rather have the work done for you, these are the services that cover it.
+
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+
+Online store development with payment integration and optimization.
+
+Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
@@ -105,12 +131,6 @@ Learn more
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
 On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
-
-Learn more
-
-### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
-
-Google Ads, social media marketing, and ROI-focused campaigns.
 
 Learn more
 
@@ -145,30 +165,42 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Shopify development in India: what partners charge, from Shopify's own directory",
+            "url": "https://ndcompany.in/blogs/shopify-development-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How do you hire a WordPress developer in India? What 30 agency websites show",
+            "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 4,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
-            "name": "How to outsource web development to India: a guide for US businesses",
+            "position": 5,
+            "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 6,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 7,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           }
@@ -176,7 +208,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/bilingual-websites-dubai-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png",
         "width": 1200,
         "height": 675
       }

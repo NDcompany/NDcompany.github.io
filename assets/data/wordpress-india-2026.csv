@@ -1,0 +1,31 @@
+agency,offers_wordpress,publishes_hourly_rate,publishes_dedicated_monthly_rate,prices_maintenance_plan,code_ownership,mentions_nda,claims_hours_overlap,states_support_period
+1,True,False,False,False,not stated,False,False,False
+2,True,True,True,True,not stated,True,True,False
+3,False,True,False,False,not stated,False,True,False
+4,True,False,False,True,agency keeps unless transferred,True,True,False
+5,False,False,False,False,not stated,False,False,False
+6,True,False,False,False,not stated,True,True,False
+7,True,False,False,False,not stated,False,False,True
+8,False,False,False,False,not stated,False,False,False
+9,True,False,False,False,client owns after payment,False,False,False
+10,True,False,False,False,unclear,False,False,False
+11,True,False,False,False,client owns after payment,True,False,False
+12,True,False,False,False,client owns after payment,False,False,False
+13,True,False,False,False,client owns after payment,True,False,False
+14,True,False,False,False,not stated,False,False,True
+15,True,True,False,False,not stated,False,True,True
+16,False,False,False,False,not stated,False,False,False
+17,True,False,False,False,client owns after payment,True,False,False
+18,True,False,False,False,not stated,True,False,False
+19,True,False,False,False,client owns after payment,False,False,True
+20,False,False,False,False,not stated,True,False,False
+21,True,True,False,False,client owns after payment,True,True,False
+22,True,False,False,False,not stated,False,True,False
+23,True,False,False,False,client owns after payment,False,False,False
+24,False,False,False,False,not stated,False,False,False
+25,False,False,False,False,not stated,False,False,False
+26,True,False,False,False,not stated,False,False,True
+27,False,False,False,False,not stated,False,False,False
+28,True,False,False,False,not stated,False,False,False
+29,True,False,False,True,not stated,True,False,False
+30,True,False,False,False,not stated,False,False,False

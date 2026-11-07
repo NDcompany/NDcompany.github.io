@@ -1,0 +1,51 @@
+chain,food_type,country,dominant_colours,has_symbol,has_mascot,lettering_style,name_spelled_out,logo_file_on_commons
+McDonald's,burgers,United States,red yellow,True,False,bold sans,False,McDonald's with slogan 2020.svg
+Starbucks,coffee,United States,black,False,False,bold sans,True,Starbucks coffee wordmark.png
+Subway,sandwiches,United States,green yellow,False,False,bold sans,True,Subway 2016 logo.svg
+KFC,chicken,United States,red,False,False,serif,True,KFC 2026 (wordmark).svg
+Domino's,pizza,United States,blue red,True,False,rounded sans,True,Domino's 2025.svg
+Burger King,burgers,United States,white orange red,True,False,rounded sans,True,Burger King 2020.svg
+Pizza Hut,pizza,United States,red,True,False,script/handwritten,True,Pizza Hut 2025.svg
+Dunkin' Donuts,coffee,United States,orange,False,False,rounded sans,True,Dunkin' 2022.svg
+Krispy Kreme,desserts,United States,green red,False,False,script/handwritten,True,Logo.KrispyKreme.svg
+Hunt Brothers Pizza,pizza,United States,white green red,False,False,serif,True,Hunt Brothers Pizza logo.svg
+Taco Bell,Mexican,United States,brown white red,True,False,serif,True,1984TacoBellSign.svg
+Baskin-Robbins,desserts,United States,brown pink,True,False,mixed,True,Baskin-Robbins logo 2022.svg
+Dairy Queen,desserts,United States,red white,False,False,serif,False,Dairy Queen logo.svg
+Wendy's,burgers,United States,black,False,False,serif,True,Wendy's logo black.jpg
+Tim Hortons,coffee,Canada,red,False,False,script/handwritten,True,Tim Hortons Logo.svg
+Papa John's,pizza,United States,red,False,False,bold sans,True,Papa Johns logo.svg
+Little Caesars,pizza,United States,orange,False,False,serif,True,Little Caesars wordmark.svg
+Costa Coffee,coffee,United Kingdom,red white,False,False,rounded sans,True,Costa Coffee Logo white on red.png
+Hey Tea,other,China,black,False,False,regular sans,True,HEYTEA logo.png
+Hardee's,burgers,United States,black yellow,True,True,script/handwritten,True,Hardee brand logo.svg
+Carl's Jr.,burgers,United States,black yellow,True,True,script/handwritten,True,Carl's Jr. logo (2022).svg
+Sonic Drive-In,burgers,United States,white red blue,False,False,bold sans,True,SONIC New Logo 2020.svg
+Arby's,sandwiches,United States,red,True,False,serif,True,Arby's logo.svg
+Chick-fil-A,chicken,United States,red,True,False,script/handwritten,True,Chick-fil-A Logo.svg
+Jimmy John's,sandwiches,United States,black white red,False,False,mixed,True,Jimmy Johns logo.svg
+Jersey Mike's Subs,sandwiches,United States,blue red white,False,False,script/handwritten,True,Jersey Mike's logo.svg
+Jack in the Box,burgers,United States,red white,True,False,mixed,True,Jack in the Box 2009 logo.svg
+Panera Bread,sandwiches,United States,green,False,False,mixed,True,Panera Bread wordmark.svg
+Panda Express,Asian,United States,blue red white,True,True,bold sans,True,Panda Express Gourmet Chinese Food Sign.jpg
+Auntie Anne's,other,United States,blue,False,False,serif,True,Auntie Anne's logo and slogan.png
+Sukiya,Asian,Japan,red white yellow,True,False,script/handwritten,True,Sukiya logo.svg
+Naixue,other,China,green white,False,False,bold sans,True,Naixue.png
+Jollibee,chicken,Philippines,red,False,False,rounded sans,True,Jollibee 2011 wordmark.svg
+MOS Burger,burgers,Japan,red,True,False,bold sans,True,MOS-Burger-Logo.svg
+Dodo Pizza,pizza,Russia,black,False,False,bold sans,True,Dodo Pizza Wordmark.svg
+Cinnabon,desserts,United States,blue white,False,False,serif,True,Cinnabon logo.svg
+Five Guys,burgers,United States,red,False,False,bold sans,True,Five Guys logo.svg
+Quiznos,sandwiches,United States,green red orange,True,False,serif,True,Quiznos logo.svg
+Ichibanya,Asian,Japan,brown,False,False,script/handwritten,True,ICHIBANYA Logo.svg
+Papa Murphy's,pizza,United States,red green white,False,False,script/handwritten,True,Papa Murphy's logo.svg
+Telepizza,pizza,Spain,red white,False,False,rounded sans,True,Logo telepizza.svg
+Firehouse Subs,sandwiches,United States,red white black,False,False,serif,True,Firehosue Subs Logo 2024.png
+Bob's,burgers,Brazil,red white,False,False,rounded sans,True,Logotipo do Bob's.svg
+A&W Restaurants,burgers,United States,white orange brown,False,False,mixed,True,All American Food Logo.svg
+Culver's,burgers,United States,blue,False,False,script/handwritten,True,Culver's logo.svg
+Vkusno i Tochka,burgers,Russia,orange red,True,False,none,False,Vkusno I Tochka symbol.svg
+Nando's,chicken,South Africa,red,False,False,serif,True,Nando's wordmark.svg
+Checkers and Rally's,burgers,United States,red yellow,False,False,script/handwritten,True,Checkers and Rally's logo.svg
+Wetherspoons,other,United Kingdom,black,False,False,bold sans,True,Wetherspoon logo.svg
+Qdoba,Mexican,United States,orange,False,False,bold sans,True,Qdoba Logo.svg

@@ -3,7 +3,7 @@ title: "Branding tips and guides: logos and identity | N&D Co."
 description: "Branding tips and guides from N&D Co.: what separates a logo from a brand identity, which files you should receive, and what a brand style guide needs."
 url: "https://ndcompany.in/blogs/topic/branding"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/logo-file-types-16x9.png"
+image: "https://ndcompany.in/assets/blog/food-restaurant-logo-ideas-16x9.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Brand identity work in plain words: what a logo does and does not cover, what a full identity includes, and how a style guide keeps everything consistent once it exists.
 
 ## Latest posts
+
+Branding
+
+Insight · 7 Nov 2026
+
+### [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+
+Red is in 31 of the 50 biggest restaurant chains' logos, and 34 are lettering only. What that means for a cafe, restaurant or cloud kitchen logo, and a checklist before you approve one.
+
+Read the post
 
 Branding
 
@@ -46,29 +56,29 @@ Read the guide
 
 ## Recently updated
 
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
+  7 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
 - [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
   6 Nov 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-  5 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
 
 ## Trending tags
 
-- [Logos](https://ndcompany.in/tags/logos)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Website costs](https://ndcompany.in/tags/website-costs)
-- [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -125,18 +135,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Food logo ideas: what the logos of 50 big restaurant chains tell a small food business",
+            "url": "https://ndcompany.in/blogs/food-restaurant-logo-ideas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Logo file types: which format to use where",
             "url": "https://ndcompany.in/blogs/logo-file-types"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Logo vs brand identity: what you are paying for",
             "url": "https://ndcompany.in/blogs/logo-vs-brand-identity"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "What goes into a brand style guide, and how to use one",
             "url": "https://ndcompany.in/blogs/brand-style-guide"
           }
@@ -144,7 +160,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/logo-file-types-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/food-restaurant-logo-ideas-16x9.png",
         "width": 1200,
         "height": 675
       }

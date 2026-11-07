@@ -1,67 +1,91 @@
 ---
-title: "How to outsource web development to India | N&D Co."
-description: "Outsource web development or digital marketing to India from the US: what it costs, how the time difference works, what to agree in writing and how to pay."
+title: "Outsource Web Development to India: Costs & Code | N&D Co."
+description: "How to outsource web development to India: US and Indian prices side by side, time zone overlap, who owns the code, how to pay from abroad and a pilot project."
 url: "https://ndcompany.in/blogs/outsource-web-development-india"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-27T00:00:00+05:30"
-modified: "2026-10-27T00:00:00+05:30"
+modified: "2026-11-07T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/outsource-web-development-india-16x9.png"
 ---
 
 [Business](https://ndcompany.in/blogs/topic/business) · Guide
 
-# How to outsource web development to India: a guide for US businesses
+# How to outsource web development to India: costs, contracts and time zones
 
-What you can hand over, what it costs, how the hours line up with the US, what to put in writing and how to check an agency before you pay anything.
+US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 27 October 2026 7 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 27 October 2026 Updated 7 November 2026 13 min read
 
-To outsource web development to India from the US, pick an agency whose past work you can check, agree the scope, price and ownership in writing before any work starts, keep the domain, hosting and ad accounts in your own name, and plan around the time difference, which lets work move while your office is closed. This guide covers each step: what you can hand over, what it costs, how the hours line up, what to put in writing and how to pay. The same steps apply when you outsource digital marketing, such as SEO or ads.
+To outsource web development to India, choose a team whose past work you can open, agree the scope, price and ownership in writing before any work starts, keep your domain, hosting and ad accounts in your own name, and start with one small paid project before a larger commitment. On the numbers we collected on 7 November 2026, the price gap is real. The cheapest monthly SEO plan from US agencies that publish prices had a median of $975, against $213 for the entry package of Indian agencies that price in US dollars, about 4.6 times as much. This guide covers what that means, what the work costs, how the hours line up, who owns the code and how to pay.
 
 Key takeaways
 
-- Outsourcing a defined project means paying for that project, not for a full-time hire: a US web developer's median pay was $92,650 a year in May 2025.
-- Get the scope, the price and who owns the finished work in writing before work starts.
-- Keep the domain, hosting, analytics and ad accounts in your own name, and give the agency access to them.
-- India does not change its clocks, so the gap with the US shifts by an hour when US clocks change.
-- Check real work, public reviews and who you will actually talk to before you pay anything.
+- Only 18 of 43 US agencies we read publish any price. Their cheapest one-time website build has a median of $2,600 (11 agencies), and their cheapest monthly SEO plan $975 (12 agencies).
+- Indian SEO agencies that price in US dollars start at a median of $213 a month (10 agencies). On Shopify's partner directory, a store build starts at a median of $500 for partners based in India and $1,150 for those in the US.
+- India is UTC+5:30 all year, so the gap to the US changes by an hour when US clocks change. Agree overlap hours before you sign.
+- Of 30 Indian web agencies, only 8 say the client owns the code after payment and 20 say nothing about ownership. Put it in the quote.
+- Start with a small paid pilot, keep the accounts in your name and pay against milestones.
 
-## Why US businesses outsource to India
+## How we did the study
 
-The first reason is cost. The US Bureau of Labor Statistics puts the median annual wage for web developers at $92,650 and for web and digital interface designers at $104,000, both in May 2025 ([BLS Occupational Outlook Handbook, web developers and digital designers](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm)). If you need one website, a store or a few months of SEO, hiring someone full time for it rarely makes sense. Outsourcing lets you pay for the project or the month instead.
+This guide uses four small datasets we built on 6 and 7 November 2026. Each one records what businesses say about themselves on their own public pages. None of them measures how good anyone's work is.
 
-The second reason is time. Because India is many hours ahead of the US, an agency there works while your office is closed. Feedback you send at the end of your day can be done by the time you start the next one.
+- 43 US agencies from Semrush's agency directory lists for US web development and SEO, page 1 of each, read on 7 November 2026. We recorded whether each publishes a price, the cheapest monthly SEO plan and the cheapest one-time website build, whether it promises rankings, and whether it discloses offshore teams or offices.
+- 37 Indian SEO agencies from Semrush's India SEO list, read on 6 November 2026. The full study is in our post on [choosing an SEO agency in India](https://ndcompany.in/blogs/choose-seo-agency-india).
+- 160 partner profiles from Shopify's own Partner Directory, read on 7 November 2026 and grouped by each partner's own primary location: 30 in India and 58 in the US. Prices are the starting prices each partner lists for a service. The detail is in our post on [Shopify development in India](https://ndcompany.in/blogs/shopify-development-india).
+- 30 India-based web development agencies from Semrush's India web development list, 22 of which offer WordPress. The detail is in our post on [hiring a WordPress developer in India](https://ndcompany.in/blogs/hire-wordpress-developer-india).
 
-Cost alone is a poor reason to pick a team, though. A cheap quote that leaves you without the site you need, or without the logins to it, costs more in the end. The rest of this guide is about avoiding that.
+We copied claims word for word from each site. The limits are plain: these are directory pages, not the whole market, prices are self-described and often missing, the groups differ in size, and a business that says nothing about contracts may still have a fair one. We do not name any agency. The rows are in the CSV at the end of this post.
 
-## What you can outsource
+## What does offshore web development in India mean?
 
-Most of what a small or mid-sized business needs online can be done by a remote team, because it is delivered as files, code and access rather than in person:
+It means a company in another country builds and looks after your website or store, and you work with it remotely. For a small or mid-sized business, most of that work is delivered as files, code and access rather than in person, so it can be handed over:
 
-- **Websites and online stores**, from a business site to a Shopify or WooCommerce store. Our [website design and development](https://ndcompany.in/services/website-design-development) page lists what a build includes.
-- **SEO**, the technical fixes, page content and monthly reporting that bring visitors from search.
-- **Ads and social media**, run from your own ad accounts, with the ad spend paid by you directly to Google or Meta. Our [digital marketing](https://ndcompany.in/services/digital-marketing) page explains how that works.
-- **Design and video**, such as logos, brand identities, social media posts and edited video.
+- Websites and online stores, from a business site to a Shopify or WooCommerce store. Our [website design and development](https://ndcompany.in/services/website-design-development) page lists what a build includes.
+- SEO: technical fixes, page content and monthly reporting. See [our SEO services](https://ndcompany.in/services/seo-services).
+- Ads and social media, run from your own accounts, with the ad spend paid by you directly to Google or Meta. Our [digital marketing](https://ndcompany.in/services/digital-marketing) page explains how that works.
+- Design and video, such as logos, brand identities, social posts and edited footage.
 
-Keep in house whatever needs someone in the room, such as filming at your premises, and anything only you can decide, such as prices and offers.
+Keep in house whatever needs someone in the room, such as filming at your premises, and whatever only you can decide, such as prices and offers.
 
-## Outsourcing digital marketing
+You may already be buying offshore work without knowing it. Only 3 of the 43 US agencies we read say on their site that they have offshore teams or offices. We cannot say what the other 40 do, only that their pages do not say.
 
-Outsourced digital marketing works best when you hand over the doing and keep the deciding. The agency sets up and runs the campaigns, writes and designs the posts, fixes the site for search and reports on the results. You keep the budget, the offers, the approvals and the accounts.
+## Is outsourcing to India worth it?
 
-A few things make it work from the first month:
+For a defined project, the price data says the cost side is worth a look. The US Bureau of Labor Statistics puts the median annual wage for web developers at $92,650 and for web and digital interface designers at $104,000, both in May 2025 ([BLS Occupational Outlook Handbook, web developers and digital designers](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm)). If you need one site, a store or a few months of SEO, hiring someone full time for it rarely makes sense, and a project or monthly fee lets you pay for only what you need.
 
-- **Your accounts, your spend.** The ad accounts, the analytics and the social profiles stay in your name. Ad spend goes from your card to Google or Meta directly, and the agency's fee covers the work, never the spend.
-- **One goal per channel.** Calls, form leads or sales, agreed before the first campaign, so the monthly report measures something you care about.
-- **A monthly report you can read.** What was done, what it cost and what came of it, in plain words, with the numbers from your own analytics.
-- **Approvals in your hours.** With the time difference, the agency can prepare work overnight and send it for approval when your day starts.
+The published prices we collected point the same way. Compare the medians:
 
-SEO takes longer to show results than ads do, so judge it over months, not weeks, and ask for the list of changes made each month as well as the traffic figures.
+Median starting prices, US versus India, in US dollars
 
-## What it costs
+**Median starting prices, US versus India, in US dollars**
 
-Prices vary by agency and by scope, so treat any figure as a starting point until you have a written quote. As an example, these are our own starting prices for US clients, set in US dollars for the US market rather than converted from rupees:
+| Category | US | India |
+| --- | --- | --- |
+| Monthly SEO, cheapest plan | 975 | 213 |
+| Shopify store build or redesign | 1,150 | 500 |
+| Shopify store migration | 1,475 | 675 |
+
+*US SEO: cheapest monthly plan of 12 of 43 US agencies. India SEO: entry package of the 10 of 37 Indian agencies that price in US dollars. Shopify: starting prices listed by partners, for a store build 30 in the US and 11 in India. Source: N&D Co. studies of agency websites and Shopify's Partner Directory, 6 and 7 November 2026.*
+
+**Median starting prices in US dollars, 6 and 7 November 2026**
+
+| Service | US median | India median |
+| --- | --- | --- |
+| Monthly SEO, cheapest plan | $975 (12 agencies) | $213 (10 agencies) |
+| One-time website build, cheapest | $2,600 (11 agencies) | Not collected |
+| Shopify store build or redesign | $1,150 (30 partners) | $500 (11 partners) |
+| Shopify store migration | $1,475 | $675 |
+| Shopify theme customization | $100 | $100 |
+
+Two things stop us calling this a verdict. First, price is not the only thing to weigh, and we do not compare the quality of work between countries because our data cannot show it. Second, the lists are small and self-reported: the US SEO and build prices come from the 18 of 43 agencies that publish any price. On Shopify, partners based in India show a median of 289 reviews and a 4.9 rating, against 120 reviews and 5.0 for those in the US, and theme customization starts at $100 in both places. Reviews are one signal among several, so open the work itself.
+
+The US side promises less too. None of the 43 US agencies promises rankings, and 11 say outright that rankings cannot be guaranteed. Among the Indian SEO agencies, 8 of 37 promise rankings or "guaranteed results", 10 sell links by count or authority score, and 4 set a firm minimum term of 3 to 12 months. Whatever country you buy from, those are the claims to check first.
+
+## What does web development outsourcing cost in India?
+
+Treat every figure as a starting point until you hold a written quote. For reference, these are our own starting prices for US clients, set in US dollars for that market rather than converted from rupees:
 
 **N&D Co. starting prices for US clients**
 
@@ -72,75 +96,118 @@ Prices vary by agency and by scope, so treat any figure as a starting point unti
 | SEO | $129 | Per month |
 | Digital marketing and ads management | $95 | Per month, ad spend paid by you |
 
-Other Indian agencies rarely publish prices: in our [survey of 108 agency websites](https://ndcompany.in/blogs/agency-prices-india), 35 of the 101 we could read showed any. Every service's tiers are on our [pricing page](https://ndcompany.in/pricing), and our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) breaks down the build, domain, hosting and store costs in US dollars. Whatever you are quoted, check what the price includes: the number of pages, revisions, the support after launch, and whether hosting and the domain are in it.
+Those are starting prices for the smallest tier, and quotes are set in writing before work starts. Every tier is on our [pricing page](https://ndcompany.in/pricing), and the [website cost calculator](https://ndcompany.in/tools/website-cost-calculator) shows which plan a project fits at its published starting price.
 
-## How the time difference works
+Most Indian agencies do not publish prices. In our [survey of 108 agency websites](https://ndcompany.in/blogs/agency-prices-india), 35 of the 101 we could read showed any. Among the 30 India-based web agencies, 22 offer WordPress, but only 4 publish an hourly rate and 3 price a maintenance plan. If you are quoted a low number, check what it includes: the number of pages, rounds of revisions, support after launch, and whether hosting and the domain are in it. Our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) breaks down the other costs.
 
-India uses one time zone, 5 hours 30 minutes ahead of UTC, and does not use daylight saving time ([Wikipedia on time in India](https://en.wikipedia.org/wiki/Time_in_India)). The gap with the US therefore changes by an hour when US clocks change.
+## How much time zone overlap is there with the US and UK?
 
-Our working day is 9:00 AM to 6:00 PM in India. On the East Coast that is 11:30 PM to 8:30 AM while US daylight saving time is on, and 10:30 PM to 7:30 AM when it is off. On the West Coast it ends at 5:30 AM in summer and 4:30 AM in winter. In practice:
+India uses one time zone, 5 hours 30 minutes ahead of UTC, and does not use daylight saving time ([Wikipedia on time in India](https://en.wikipedia.org/wiki/Time_in_India)). The gap therefore changes by an hour when your clocks change.
+
+**India Standard Time (UTC+5:30) ahead of your time zone**
+
+| Where you are | Summer (clocks forward) | Winter |
+| --- | --- | --- |
+| UK | 4 hours 30 minutes | 5 hours 30 minutes |
+| US East Coast | 9 hours 30 minutes | 10 hours 30 minutes |
+| US West Coast | 12 hours 30 minutes | 13 hours 30 minutes |
+
+Our working day is 9:00 AM to 6:00 PM in India. On the East Coast that is 11:30 PM to 8:30 AM in summer and 10:30 PM to 7:30 AM in winter, so an East Coast team overlaps only with the last hour of our day, early in its morning. In the UK our day runs from 4:30 AM to 1:30 PM in summer and 3:30 AM to 12:30 PM in winter, which leaves most of a UK morning to talk. For SEO or a website build, most of the work needs no meeting. In practice:
 
 - Send feedback at the end of your day, and the changes can be ready at the start of your next one.
-- For a live call, early morning on the East Coast overlaps the end of our day.
-- Agree how quickly each side answers messages, so nobody waits a whole day for a reply that takes a minute.
+- Ask each agency which hours it will be on a call, in your time zone, in writing. We keep part of our evening free for calls in US mornings.
+- Agree how fast each side answers messages, so nobody waits a whole day for a reply that takes a minute.
 
-## What to agree in writing
+## Who owns the code?
+
+Often the website does not say. Of the 30 India-based web agencies we read, 8 say the client owns the code after payment, 1 keeps custom code unless it is transferred in writing, and 20 say nothing about ownership. Among the Indian SEO agencies, 1 of 37 says plainly that the client stays the admin of its Google accounts. Silence is not a reason to avoid an agency, but it is a reason to ask before you pay.
+
+Under our [terms of service](https://ndcompany.in/terms), ownership of the final deliverables named in your quote passes to you once full payment clears. Whoever you hire, check three things in the quote:
+
+- Which deliverables are named, such as the theme files, the design files or the content, so that nothing you expect to own is left out.
+- When ownership passes, which should be on full payment and not on signing.
+- Which third-party tools are included. Themes, plugins and fonts usually come under their own licences, and a licence is not ownership.
+
+Copyright law differs between countries, and an assignment of rights can depend on how its terms are written. We do not give legal advice, so check the wording with a lawyer before a large project. Our [white label WordPress](https://ndcompany.in/white-label/wordpress) and [white label Shopify](https://ndcompany.in/white-label/shopify) pages say what agencies that resell our work get.
+
+## What should you agree in writing?
 
 Most outsourcing problems come from things nobody wrote down. Before work starts, the quote or agreement should cover:
 
-- **Scope.** The pages, features, platforms and deliverables, and how many rounds of changes are included.
-- **Price and billing.** A fixed price or an hourly rate, the currency, and when each payment is due.
-- **Ownership.** Which finished work becomes yours and when. Under our [terms of service](https://ndcompany.in/terms), ownership of the final deliverables named in your quote passes to you once the final payment clears.
-- **Accounts.** The domain, hosting, analytics and ad accounts should be in your name or your company's, with access given to the agency, so you keep them whatever happens.
-- **Support.** What happens after launch. We include a 7-day support window for minor corrections, with ongoing maintenance as a separate package.
-- **Confidentiality.** If you are an agency reselling the work, an NDA, and a clear rule that the team never contacts your client.
+- Scope: the pages, features, platforms and deliverables, and how many rounds of changes are included.
+- Price and billing: a fixed price or an hourly rate, the currency, and when each payment is due.
+- Accounts: the domain, hosting, analytics and ad accounts should be in your name or your company's, with access given to the agency, so you keep them whatever happens.
+- Support: what happens after launch. We include a 7-day support window for minor corrections, with ongoing maintenance as a separate package.
+- Confidentiality: 10 of the 30 web agencies mention NDAs. If you are an agency reselling the work, ask for one and for a clear rule that the team never contacts your client.
 
-## Sharing access and data safely
+An outsourced team needs access to your systems but never needs your own password. Give each person a user account of their own in your website, hosting, analytics and ad accounts, with only the permissions the work needs. You can then see who changed what and remove the access on the day a project ends. Share only the customer data the work needs: a website build rarely needs your customer list at all. If the work does need personal data, agree in writing how it is kept and when it is deleted.
 
-An outsourced team needs access to your systems, but it never needs your own password. Give each person a user account of their own in your website, hosting, analytics and ad accounts, with only the permissions the work needs. That way you can see who changed what, and you can remove the access the day a project ends.
+## How do you pay an Indian agency from abroad?
 
-Share only the customer data the work needs. A website build rarely needs your customer list at all, and an ads campaign needs the audience, not the people's details. If the work does need personal data, agree in writing how it is kept and when it is deleted.
+Ask to be invoiced in US dollars, so the price you agreed is the price you pay. Our US clients pay by PayPal, through Wise or by bank transfer. Each charges its own fees, so check them before the first invoice, and ask the agency to confirm in writing who pays the transfer and platform charges.
 
-## How to pay
+Splitting a project into milestone payments, such as a deposit at the start and the rest on delivery, keeps both sides committed. Do not pay the whole amount before work starts, and do not hold back the final payment once the agreed work is delivered.
 
-Ask to be invoiced in US dollars, so the price you agreed is the price you pay. Our US clients pay by PayPal, through Wise or by bank transfer. Each charges its own fees, so check them before the first invoice. Splitting a project into milestone payments, such as a deposit at the start and the rest on delivery, keeps both sides committed.
+There is also a tax form. A US business that pays a foreign company may be asked for, or may ask for, paperwork that documents the payee's tax status. The IRS says that [Form W-8BEN-E, on the IRS's page for the form](https://www.irs.gov/forms-pubs/about-form-w-8-ben-e), is "used by foreign entities to document their status" for US withholding and reporting purposes. Whether you need it, and what it means for your payments, depends on your situation. Check with an accountant before the first payment.
 
-## A freelancer or an agency?
+## Should you hire a freelancer or an agency?
 
-A freelancer can be the right choice for one clearly defined job, such as a landing page or a set of fixes, especially if you can review the work yourself. Ask what happens if they are ill or busy when you need a change.
+A freelancer can suit one clearly defined job, such as a landing page or a set of fixes, especially if you can review the work yourself. Ask what happens if they are ill or busy when you need a change.
 
-An agency suits work that crosses skills, such as a website that also needs a logo, SEO and ads, or anything you want looked after month after month. You get one point of contact and one quote, and the work does not stop when one person is away. Ask who will actually do the work and whether you can talk to them.
+An agency suits work that crosses skills, such as a website that also needs a logo, SEO and ads, or anything you want looked after month after month. You get one point of contact and one quote, and the work does not stop when one person is away. Ask who will do the work and whether you can talk to them.
 
-## How to check an agency before you hire
+## How do you start with a pilot project?
+
+Pick a small, real piece of work that you would need anyway, such as a landing page, a store migration or a technical SEO audit, and pay for it as a separate project. A good pilot is small enough to finish quickly, and large enough that you can judge how the team communicates, how it handles feedback and whether the files and access arrive as promised.
+
+1. Write a one-page scope with what is delivered, the price and the date.
+2. Give the team access through accounts of its own, not your password.
+3. Pay a deposit, and the balance on delivery.
+4. Check the result against the scope, and ask for the files and handover notes.
+5. Decide on a larger project only after that.
+
+If the agency refuses a small first project, or only offers a long minimum term, take that as an answer. Of the 37 Indian SEO agencies, 4 set a firm minimum of 3 to 12 months, and 9 say month to month or no lock-in.
+
+## A checklist before you hire
 
 **Checklist for choosing an agency**
 
 | Check | What to look for |
 | --- | --- |
 | Real work | Live sites or case studies you can open, not only mockups |
-| Public reviews | Reviews on Google or another platform that the agency does not control |
+| Public reviews | Reviews on Google or another platform the agency does not control |
 | Who you talk to | The person doing or leading the work, not only a sales contact |
 | A written quote | Scope, price, ownership and support named before you pay |
 | Your accounts | Willing to work inside accounts you own |
-| A small first step | A paid first project or milestone before a long commitment |
+| Overlap hours | The hours it will be on a call, in your time zone |
+| A small first step | A paid pilot before a long commitment |
 
-A short call answers most of this. If you want to try us, you can [book a free 15-minute call](https://ndcompany.in/book-a-call), and our page for [US businesses](https://ndcompany.in/locations/usa) explains how we work with clients there. Agencies that want to resell the work under their own name can read about our [white label service](https://ndcompany.in/white-label).
+A short call answers most of this. For SEO work, our post on [choosing an SEO agency in India](https://ndcompany.in/blogs/choose-seo-agency-india) has the questions to ask about guarantees, links and contracts.
+
+## The data
+
+The rows for the 43 US agencies are in [a CSV file (us-agency-prices-2026.csv)](https://ndcompany.in/assets/data/us-agency-prices-2026.csv): whether each publishes a price, its cheapest monthly SEO plan and one-time website build, whether it promises rankings or says they cannot be guaranteed, and whether it discloses offshore teams or offices. Agencies are numbered, not named. If you use the figures, please link to this page as the source.
+
+## How we work with clients abroad
+
+We are a brand and growth agency in Kolkata. For US clients our prices are set in US dollars, quotes are set in writing before work starts, and we work inside accounts you own. Our [page for US businesses](https://ndcompany.in/locations/usa) covers time zones and payment, and agencies that want to resell our work under their own name can read about our [white label service](https://ndcompany.in/white-label). If you want to try us, you can [book a free 15-minute call](https://ndcompany.in/book-a-call).
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Website costs](https://ndcompany.in/tags/website-costs)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 
 ## Share this post
 
-- [Share on X](https://twitter.com/intent/tweet?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&via=NDCoofficial)
+- [Share on X](https://twitter.com/intent/tweet?text=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&via=NDCoofficial)
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
 - [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
-- [Share on WhatsApp](https://wa.me/?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
-- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
-- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&title=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
-- [Share on Threads](https://www.threads.net/intent/post?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
-- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
-- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Foutsource-web-development-india-16x9.png&description=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses)
-- [Share by email](mailto:?subject=How%20to%20outsource%20web%20development%20to%20India%3A%20a%20guide%20for%20US%20businesses&body=Outsource%20web%20development%20or%20digital%20marketing%20to%20India%20from%20the%20US%3A%20what%20it%20costs%2C%20how%20the%20time%20difference%20works%2C%20what%20to%20agree%20in%20writing%20and%20how%20to%20pay.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on WhatsApp](https://wa.me/?text=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&text=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&title=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones)
+- [Share on Threads](https://www.threads.net/intent/post?text=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Foutsource-web-development-india-16x9.png&description=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones)
+- [Share by email](mailto:?subject=How%20to%20outsource%20web%20development%20to%20India%3A%20costs%2C%20contracts%20and%20time%20zones&body=How%20to%20outsource%20web%20development%20to%20India%3A%20US%20and%20Indian%20prices%20side%20by%20side%2C%20time%20zone%20overlap%2C%20who%20owns%20the%20code%2C%20how%20to%20pay%20from%20abroad%20and%20a%20pilot%20project.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-web-development-india)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -168,13 +235,13 @@ Only 35 of 101 agency websites we could read show any price. The rest of what we
 
 Read the post
 
-SEO
+Websites
 
-Guide · 6 Nov 2026
+Guide · 7 Nov 2026
 
-### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
+### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
 
-Dollar prices, ranking promises, links sold by count, lock-in contracts and account ownership on 37 Indian SEO agency websites, with a checklist for your first call.
+What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
 
@@ -190,15 +257,15 @@ Responsive websites, e-commerce development, and SEO-optimized web solutions.
 
 Learn more
 
-### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
-
-Google Ads, social media marketing, and ROI-focused campaigns.
-
-Learn more
-
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
 Online store development with payment integration and optimization.
+
+Learn more
+
+### [SEO Services](https://ndcompany.in/services/seo-services)
+
+On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
 
 Learn more
 
@@ -217,8 +284,8 @@ Send a few lines about your business and what you are trying to fix. We will rep
     {
       "@type": "BlogPosting",
       "@id": "https://ndcompany.in/blogs/outsource-web-development-india#article",
-      "headline": "How to outsource web development to India: a guide for US businesses",
-      "description": "Outsource web development or digital marketing to India from the US: what it costs, how the time difference works, what to agree in writing and how to pay.",
+      "headline": "How to outsource web development to India: costs, contracts and time zones",
+      "description": "How to outsource web development to India: US and Indian prices side by side, time zone overlap, who owns the code, how to pay from abroad and a pilot project.",
       "image": [
         {
           "@type": "ImageObject",
@@ -240,7 +307,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-27T00:00:00+05:30",
-      "dateModified": "2026-10-27T00:00:00+05:30",
+      "dateModified": "2026-11-07T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -258,17 +325,17 @@ Send a few lines about your business and what you are trying to fix. We will rep
         "@id": "https://ndcompany.in/blogs#blog"
       },
       "articleSection": "Business",
-      "keywords": "Working with an agency, Website costs",
+      "keywords": "Working with an agency, Website costs, Website planning",
       "genre": "Guide",
-      "wordCount": 1640,
+      "wordCount": 2763,
       "inLanguage": "en-IN"
     },
     {
       "@type": "WebPage",
       "@id": "https://ndcompany.in/blogs/outsource-web-development-india#webpage",
       "url": "https://ndcompany.in/blogs/outsource-web-development-india",
-      "name": "How to outsource web development to India | N&D Co.",
-      "description": "Outsource web development or digital marketing to India from the US: what it costs, how the time difference works, what to agree in writing and how to pay.",
+      "name": "Outsource Web Development to India: Costs & Code | N&D Co.",
+      "description": "How to outsource web development to India: US and Indian prices side by side, time zone overlap, who owns the code, how to pay from abroad and a pilot project.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
