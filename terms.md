@@ -4,13 +4,13 @@ description: "Terms of service for N&D Co., Kolkata: working with clients and ag
 url: "https://ndcompany.in/terms"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-11-05"
+modified: "2026-11-11"
 image: "https://ndcompany.in/assets/share/terms.png"
 ---
 
 # Terms of service
 
-Effective date: 23 October 2026 · Last updated: 5 November 2026
+Effective date: 23 October 2026 · Last updated: 11 November 2026
 
 N&D Co. is a brand and growth agency offering creative and digital services. By using our website at https://ndcompany.in, including the free tools at ndcompany.in/tools, or engaging with our services, you agree to these Terms of Service.
 
@@ -56,9 +56,9 @@ One-off projects may be billed on a fixed-price or hourly basis, and monthly ser
 
 Our prices differ by region. We set them separately for each market we serve, based on industry standards and market conditions there, the usual rates for comparable services, our operating costs and how we position our services. The same service can therefore have a different starting price in India than in the United States or elsewhere.
 
-The prices we show in rupees and in US dollars are starting prices for each market. They are not currency conversions of each other, and they do not mean that a service has the same monetary value in every market.
+The prices we show in each currency are starting prices for that market. They are not currency conversions of each other, and they do not mean that a service has the same monetary value in every market.
 
-Our website shows prices in Indian rupees to visitors in India, in UAE dirhams to visitors in the United Arab Emirates and in US dollars to visitors elsewhere, chosen from your device's time zone, and you can switch the currency on the page. The dirham prices are our US dollar prices at the dirham's fixed rate of 3.6725 to the dollar, rounded up. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
+Our website shows each visitor prices in one currency, chosen from your device's time zone: Indian rupees in India, UAE dirhams in the United Arab Emirates and US dollars elsewhere. Our Dutch-language pages show starting prices in euros for the Netherlands, set for that market in the same way. Your quote or agreement confirms the final price, its currency and any charges, and that is the price that applies.
 
 ## 5. Payments and refunds
 
@@ -222,7 +222,7 @@ Website: [https://ndcompany.in](https://ndcompany.in/)
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-11-05",
+      "dateModified": "2026-11-11",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/terms.png",
