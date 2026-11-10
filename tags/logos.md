@@ -12,6 +12,14 @@ Tag
 
 The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 
+## Logos: files, rights and what food chains do
+
+A logo needs a vector master and a set of PNG copies. Vector files (SVG, PDF, EPS, AI) print sharp at any size, and PNG keeps a transparent background, which JPG cannot. The format changes the weight a lot: in the Sea Seven Fish package we handed over, the same icon was 4.5 KB as an SVG, 88 KB as a JPG and 137 KB as a PNG. WordPress does not accept SVG uploads by default, so keep PNG copies ([which logo file types to ask for](https://ndcompany.in/blogs/logo-file-types)).
+
+Having the files is not the same as owning the logo. In India the copyright stays with an outside designer until they assign it in writing, and an assignment that names no period or territory is read as five years, India only. Canva says logos made from its templates cannot be registered as trade marks ([who owns a logo, in logo vs brand identity](https://ndcompany.in/blogs/logo-vs-brand-identity)).
+
+For ideas, the largest restaurant chains keep it plain: of the 50 with the most locations, 34 use lettering only, 47 spell out the full name and 31 include red ([our study of 50 chain logos](https://ndcompany.in/blogs/food-restaurant-logo-ideas)).
+
 ## Latest posts
 
 Branding

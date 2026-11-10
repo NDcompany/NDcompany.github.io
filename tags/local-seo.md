@@ -12,6 +12,14 @@ Tag
 
 Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
 
+## Local SEO beyond the map listing
+
+Much of local SEO happens outside the Google listing. Your name, address, phone number, website and hours should be identical on Bing Places, Apple Maps, the directories your customers use and your own site, where LocalBusiness markup needs at least a name and address. Reviews weigh with customers too: in BrightLocal's 2026 US survey, 47% said they won't use a business with fewer than 20 reviews ([our local SEO audit checklist](https://ndcompany.in/blogs/local-seo-audit)).
+
+The website is often the weak link. Of 901 Kolkata businesses on Google Maps that we checked on 30 October 2026, 52% listed no website, more than one listed link in ten was dead, and only 30% of the working sites marked themselves up as a local business ([the Kolkata websites study](https://ndcompany.in/blogs/kolkata-small-business-websites)).
+
+More pages are not the answer. Google's spam policies list pages aimed at city after city that funnel users to one page as doorway abuse, so pages for "coaching in Salt Lake" and "coaching in Dum Dum" that differ only in the place name do harm. One useful page per real branch or campus is the safe pattern ([local SEO for schools and coaching institutes](https://ndcompany.in/blogs/seo-for-educational-institutions)).
+
 ## Latest posts
 
 SEO

@@ -7125,6 +7125,38 @@ Wij bouwen websites voor aannemers en bouwbedrijven in Nederland, volledig op af
 
 Een website voor een aannemer laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een website met meerdere pagina's, een CMS waarmee je zelf projecten toevoegt, inclusief het eerste jaar hosting, en vanaf € 1.499 voor een site met klantaccounts of koppelingen met je eigen software.
 
+## Wat de website van een aannemer moet laten zien
+
+De bouw bestaat in Nederland vooral uit kleine bedrijven. Het CBS telt 271.835 bedrijven in de bouwnijverheid, en 235.285 daarvan (86,6%) hebben één werkzaam persoon (voorlopige cijfers voor het vierde kwartaal van 2026). Een klant die een aannemer zoekt, vindt dus veel bedrijven die er van buitenaf hetzelfde uitzien. Op je website laat je zien waarom hij jou kan vertrouwen.
+
+### Wat een klant controleert
+
+De KVK raadt aan om bij een nieuwe zakenpartner onder meer te controleren of die in het Handelsregister staat, reviews en referenties te bekijken en na te gaan of het bedrijf lid is van een brancheorganisatie. Volgens de KVK hoort je KVK-nummer ook op je website. De ACM vraagt bedrijven die aan consumenten verkopen om hun bedrijfsgegevens makkelijk vindbaar te maken, bijvoorbeeld op elke pagina van de website. Op de site van een aannemer komt dat neer op:
+
+- je KVK-nummer, btw-nummer, adres, telefoonnummer en e-mailadres onderaan elke pagina
+- de keurmerken en certificaten die je echt hebt, met een link naar het register van de uitgever
+- foto's van afgeronde projecten, per soort werk
+- reviews van klanten, met een link naar de plek waar ze staan
+- een formulier om een offerte aan te vragen, met ruimte voor foto's van de klus
+
+### Leg je keurmerken uit
+
+Een logo zegt een klant weinig als hij niet weet wat het betekent. Met de Verbouwgarantie van BouwGarant, die alleen bij een aangesloten aannemer kan, zijn de extra kosten gedekt als de aannemer failliet gaat, en ook verborgen gebreken na de oplevering. Die garantie sluit je af voordat het werk begint en kost 0,35% van de aanneemsom inclusief btw, met een minimum van € 200 exclusief btw. Woningborg dekt bij nieuwbouw met zijn certificaat onder meer het faillissement van de aannemer. VCA gaat over veiligheid, gezondheid en milieu op de bouwplaats en is geen garantie voor de klant. Een korte uitleg per keurmerk op je site beantwoordt die vragen al voordat de klant belt.
+
+### Wet kwaliteitsborging: wat je klant sinds 2024 krijgt
+
+Sinds 1 januari 2024 gelden nieuwe regels in het Burgerlijk Wetboek voor elke aannemingsovereenkomst, ook bij een verbouwing. Bij de oplevering krijgt de klant een dossier met onder meer tekeningen, berekeningen, de gebruikte materialen en installaties, en informatie over gebruik en onderhoud (artikel 7:757a). De aannemer is aansprakelijk voor gebreken die bij de oplevering niet zijn ontdekt (artikel 7:758 lid 4). Bouwt een particulier een nieuwe woning, dan meldt de aannemer vooraf schriftelijk hoe het werk verzekerd of financieel gedekt is (artikel 7:765a). Geen van de 30 aannemerssites die we bekeken, noemde de Wkb of het opleverdossier. Een pagina over wat je klant bij de oplevering van je krijgt, laat zien dat je de regels kent. Wat de wet voor jouw contracten betekent, vraag je aan een jurist of je brancheorganisatie: wij geven geen juridisch advies.
+
+### Een eigen website naast werkplatforms
+
+Op Werkspot betaal je volgens Werkspot zelf tussen € 3 en € 60 per aanvraag, ook voor aanvragen die geen klus worden. Homedeal en Trustoo maken hun prijzen niet openbaar. Een eigen website vervangt zulke platforms niet meteen, maar voor een aanvraag via je eigen site betaal je niets extra.
+
+### Wat we bij 30 aannemerssites zagen
+
+Op 11 november 2026 bekeken we de websites van 30 aannemers, 6 uit elk van Utrecht, Groningen, Eindhoven, Zwolle en Breda. 23 tonen projectfoto's en 21 tonen reviews. 17 hebben een formulier dat echt bedoeld is om een offerte aan te vragen. 16 tonen hun KVK-nummer en 11 een keurmerk of certificaat, meestal VCA.
+
+Bronnen: [CBS, bedrijven naar grootte en sector](https://www.cbs.nl/nl-nl/cijfers/detail/81589NED) · [KVK, checks voor een zakenpartner](https://www.kvk.nl/veilig-zakendoen/is-je-zakenpartner-betrouwbaar-doe-deze-checks/) · [KVK, het KVK-nummer](https://www.kvk.nl/over-het-handelsregister/kvk-nummer-alles-wat-je-moet-weten/) · [ACM, bedrijfsgegevens vermelden](https://www.acm.nl/nl/verkoop-aan-consumenten/consumenten-informeren/bedrijfsgegevens-vermelden) · [BouwGarant, Verbouwgarantie](https://www.bouwgarant.nl/verbouwgarantie) · [Woningborg](https://www.woningborg.nl/koper/) · [SSVV, VCA](https://ssvv.nl/) · [Burgerlijk Wetboek Boek 7](https://wetten.overheid.nl/BWBR0005290/) · [IPLO, Wet kwaliteitsborging](https://iplo.nl/regelgeving/regels-voor-activiteiten/technische-bouwactiviteit/kwaliteitsborging/wet-kwaliteitsborging-bouwen-wkb/) · [Volkshuisvesting Nederland, verbouw en de Wkb](https://www.volkshuisvestingnederland.nl/actueel/nieuws/2024/12/10/verbouwprojecten-geen-onderdeel-van-wet-kwaliteitsborging-bouw) · [Werkspot, veelgestelde vragen](https://www.werkspot.nl/blog/faq)
+
 ## Pakketten en prijzen
 
 Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
@@ -7243,21 +7275,25 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een website met meerdere pagina's en een CMS, en vanaf € 1.499 voor maatwerk. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
 
-**Wat moet er op de website van een aannemer?**
-
-Foto's van afgeronde projecten, de soorten werk die je doet, je werkgebied, je keurmerken als je die hebt, reviews van klanten en een duidelijke manier om een offerte aan te vragen. De meeste mensen zoeken een aannemer op hun telefoon, dus we ontwerpen in de eerste plaats voor mobiel.
-
 **Kan ik zelf nieuwe projecten toevoegen?**
 
 Ja, bij het Business-pakket en hoger. Je krijgt beheerderstoegang tot het CMS, zodat je zelf foto's en projecten toevoegt zonder dat je een ontwikkelaar nodig hebt.
 
-**Hoe word ik gevonden in mijn eigen regio?**
+**Kunnen klanten foto's van hun klus meesturen?**
 
-Met een ingevuld Google Bedrijfsprofiel, reviews van klanten en pagina's die je werkgebied en je diensten vermelden. Onze websites krijgen een sitemap en de basis van on-page SEO, en bij elk pakket zit drie maanden SEO van ons.
+Ja. We maken een aanvraagformulier waarin de klant het soort klus, de plaats en foto's kan meesturen. Omdat het om persoonsgegevens gaat, hoort er een privacyverklaring bij en spreek je af hoe lang je de aanvragen bewaart. Hoe we dat inrichten, leggen we vast in de offerte.
 
-**Van wie is de website als hij klaar is?**
+**Zetten jullie mijn keurmerken op de site?**
 
-Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+Ja, de keurmerken en certificaten die je hebt, met een korte uitleg en een link naar het register van de uitgever, zodat een klant het kan nakijken. Keurmerken die je niet hebt, zetten we er niet op.
+
+**Moet de Wkb op mijn website staan?**
+
+Nee, dat is niet verplicht. Een pagina over wat je klant bij de oplevering krijgt, zoals het opleverdossier, kan wel vragen voorkomen. Wat de wet voor jouw contracten betekent, vraag je aan een jurist of je brancheorganisatie: wij geven geen juridisch advies.
+
+**Hoe word ik gevonden in mijn werkgebied?**
+
+Met een ingevuld Google Bedrijfsprofiel, reviews van klanten en een pagina per dienst en per plaats waar je echt werkt. Onze websites krijgen een sitemap en de basis van on-page SEO, en bij elk pakket zit drie maanden SEO van ons.
 
 ## Ook in het Nederlands
 
@@ -7286,6 +7322,24 @@ We hebben geen kantoor in Friesland: we werken volledig op afstand vanuit Kolkat
 ## Wat kost het?
 
 Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webshop of webapplicatie. Waar in Friesland je zit, maakt voor de prijs geen verschil.
+
+## Een website voor je bedrijf in Friesland
+
+Friesland telde op 1 januari 2026 665.208 inwoners en 88.090 vestigingen van bedrijven, waarvan 16.560 in Leeuwarden (CBS; het aantal vestigingen is nog een voorlopig cijfer). De grootste groepen zijn de zakelijke dienstverlening (15.450 vestigingen), de handel (12.595), de bouw (9.575) en de zorg (8.535). Het aandeel van de landbouw is met 7,1% van de vestigingen ruim twee keer zo groot als in heel Nederland (3,1%). Van de 17.070 melkveehouderijen in Nederland liggen er 2.825 in Friesland.
+
+### Toerisme: veel gasten uit Duitsland
+
+Toeristen boekten in 2025 7,0 miljoen overnachtingen in Friesland. Bijna 2,0 miljoen daarvan werden geboekt door buitenlandse gasten, 1,6 miljoen door gasten uit Duitsland. Heb je een camping, vakantiehuis, jachthaven of bootverhuur, dan loont een Duitse versie van je site vaak, net als online boeken of reserveren. De meertalige site bouwen wij; de Duitse teksten lever je zelf aan of laat je vertalen. Boeken en reserveren valt onder ons Custom-pakket.
+
+### Nederlands en Fries op één site
+
+Volgens de Wet gebruik Friese taal zijn het Nederlands en het Fries de officiële talen van de provincie Friesland. Die wet gaat over het contact met de overheid en de rechter: een bedrijf hoeft zijn website niet in het Fries aan te bieden. Wil je het wel, dan bouwen we een tweetalige site met een eigen pagina per taal. Voor hreflang, waarmee je aan Google doorgeeft in welke taal een pagina is geschreven, gelden ISO 639-1-taalcodes. Voor het Fries is dat "fy", of "fy-NL" voor Fries in Nederland. De Friese teksten lever je zelf aan: wij schrijven geen Fries.
+
+### Wat webdesigners in Friesland vragen
+
+Op 11 november 2026 bekeken we 15 webdesignbedrijven uit Friesland, gevonden op de zoektermen "website laten maken friesland" en "webdesign leeuwarden". Vijf daarvan noemen een prijs op hun site. Hun laagste prijs ligt tussen € 399 en € 1.999, met een mediaan van € 799. 3 zeggen erbij dat de prijs exclusief btw is, 2 zeggen niets over btw. Die prijzen hebben betrekking op heel verschillende websites, dus vergelijk ze niet zonder meer met elkaar. Bij ons kost een kleine website € 349 en een zakelijke website met CMS € 699, met het eerste jaar hosting en domeinnaam inbegrepen.
+
+Bronnen: [CBS, bevolking per provincie](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37230ned) · [CBS, vestigingen per provincie](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81578NED) · [CBS, toerisme per provincie](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82059NED) · [Wet gebruik Friese taal](https://wetten.overheid.nl/BWBR0034047/) · [ISO 639-codes (Library of Congress)](https://www.loc.gov/standards/iso639-2/php/code_list.php) · [Google, hreflang](https://developers.google.com/search/docs/specialty/international/localized-versions)
 
 ## Pakketten en prijzen
 
@@ -7405,21 +7459,21 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Nee. We zitten in Kolkata, India, en werken volledig op afstand: gesprekken via videobellen, de rest per e-mail. Onze werkdag valt samen met jouw ochtend en vroege middag, dus vragen worden dezelfde dag beantwoord.
 
-**Kan mijn website ook in het Fries?**
-
-Ja, als jij de Friese teksten aanlevert. Wij schrijven zelf geen Fries, maar we bouwen een tweetalige website, Nederlands en Fries, waarbij bezoekers zelf kiezen. Afspraken over een tweede taal leggen we vast in de offerte.
-
 **Wat kost een website laten maken in Friesland?**
 
 Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie, overal in Friesland hetzelfde. Je definitieve prijs staat in een schriftelijke offerte.
 
-**Word ik met mijn website gevonden in Leeuwarden of in mijn eigen dorp?**
+**Kan mijn website ook in het Fries?**
 
-Daarvoor tellen vooral een ingevuld Google Bedrijfsprofiel, reviews en pagina's die je plaats en je diensten vermelden. Je site krijgt een sitemap en de basis van on-page SEO, en bij elk pakket zit drie maanden SEO van ons.
+Ja, als jij de Friese teksten aanlevert. We bouwen een tweetalige site, Nederlands en Fries, met een eigen pagina per taal en de taalcode "fy" in hreflang, zodat Google weet welke pagina Friestalig is. Afspraken over een tweede taal leggen we vast in de offerte.
 
-**Van wie is de website als hij klaar is?**
+**Kan ik ook een Duitse versie voor toeristen?**
 
-Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+Ja. We bouwen de Duitse pagina's naast de Nederlandse, met een taalkeuzemenu op elke pagina. De Duitse teksten lever je zelf aan of laat je vertalen. Wat een tweede taal kost, staat in je offerte.
+
+**Kunnen gasten online boeken of reserveren?**
+
+Ja. Een boekings- of reserveringssysteem, eventueel met een online betaalmogelijkheid, valt onder ons Custom-pakket, vanaf € 1.499. Welke koppelingen je nodig hebt, bijvoorbeeld met een bestaand boekingssysteem, spreken we schriftelijk af in de offerte.
 
 ## Ook in het Nederlands
 
@@ -7448,6 +7502,24 @@ We hebben geen kantoor in Zoetermeer: we werken volledig op afstand vanuit Kolka
 ## Wat kost het?
 
 Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webshop of webapplicatie. Wil je daarna ook beter gevonden worden in Zoetermeer, dan verzorgen we ook de SEO, vanaf € 199 per maand.
+
+## Een website voor je bedrijf in Zoetermeer
+
+Zoetermeer had op 1 januari 2026 15.755 vestigingen van bedrijven, tegen 15.230 een jaar eerder (CBS; het cijfer voor 2026 is nog voorlopig). De gemeente noemt ict en zakelijke diensten, logistiek en handel, zorg, en bouw en installatie als haar belangrijkste sectoren. In aantallen gaat het om 2.990 vestigingen in de specialistische zakelijke dienstverlening, 2.155 in de handel, 2.040 in de zorg en 1.830 in de bouw.
+
+### Welk pakket past bij welk bedrijf
+
+Ben je zzp'er of net begonnen, en wil je vooral gevonden en gebeld worden, dan heb je meestal genoeg aan Starter: een landingspagina of kleine site met een contactformulier, voor € 349. Heb je meerdere diensten, een team of een blog, dan past Business beter, voor € 699: meerdere pagina's, een CMS waarmee je zelf teksten aanpast, en het eerste jaar hosting en domeinnaam inbegrepen. Verkoop je online, of moeten klanten inloggen of afspraken boeken, dan wordt het Custom, vanaf € 1.499.
+
+### Wat je website na de oplevering kost
+
+Bij Starter betaal je zelf hosting en een domeinnaam, of je laat ons die kopen en betaalt ze vooraf. Bij Business zijn ze het eerste jaar inbegrepen in de prijs (Hostinger). Daarna verlengen we ze tegen de kostprijs van de aanbieder, zonder opslag. Tot zeven dagen na de oplevering voeren we kleine correcties door en lossen we technische problemen op. Onderhoud daarna is los verkrijgbaar.
+
+### Wat webdesigners in Zoetermeer vragen
+
+Op 11 november 2026 bekeken we 13 webdesignbedrijven die op hun eigen site zeggen dat ze in Zoetermeer zitten. 8 daarvan noemen een prijs. Hun laagste prijs ligt tussen € 350 en € 5.000, met een mediaan van € 1.200. 2 zeggen erbij dat de prijs exclusief btw is, 6 zeggen niets over btw. Eén bedrijf koppelt zijn goedkoopste pakket aan een onderhoudscontract per maand. Die prijzen hebben betrekking op heel verschillende websites, dus vergelijk ze niet zonder meer met elkaar.
+
+Bronnen: [CBS, vestigingen per gemeente](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81575NED) · [Gemeente Zoetermeer, economie en werkgelegenheid](https://en.zoetermeer.nl/economie-en-werkgelegenheid)
 
 ## Pakketten en prijzen
 
@@ -7563,25 +7635,25 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 ## Veelgestelde vragen
 
-**Zitten jullie in Zoetermeer?**
-
-Nee. We zitten in Kolkata, India, en werken volledig op afstand: gesprekken via videobellen, de rest per e-mail. Onze werkdag valt samen met jouw ochtend en vroege middag, dus vragen worden dezelfde dag beantwoord.
-
 **Wat kost een website laten maken in Zoetermeer?**
 
 Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie. Je definitieve prijs staat in een schriftelijke offerte.
+
+**Starter of Business: wat heb ik nodig?**
+
+Starter, voor € 349, is een landingspagina of kleine site met een contactformulier: genoeg als je vooral gebeld of gemaild wilt worden. Business, voor € 699, heeft meerdere pagina's, een CMS en een blog, en het eerste jaar hosting en domeinnaam. Twijfel je, beschrijf dan wat je site moet doen; dan adviseren we je in de offerte.
 
 **Webdesign op maat of een template?**
 
 Op maat. Elke website krijgt een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen, en je krijgt beheerderstoegang om zelf teksten en pagina's aan te passen.
 
+**Wat heb je van mij nodig voor een offerte?**
+
+Wat je bedrijf doet, wat de website moet opleveren (telefoontjes, aanvragen, verkopen), welke pagina's je ongeveer wilt en welke teksten, foto's en logo's er al zijn. Een link naar een bestaande site of een site die je mooi vindt, helpt ook.
+
 **Doen jullie ook de SEO?**
 
 Ja. Bij elk websitepakket zit drie maanden SEO van ons. Daarna kun je SEO afnemen vanaf € 199 per maand: zie onze pagina over SEO in Zoetermeer.
-
-**Van wie is de website als hij klaar is?**
-
-Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
 
 ## Ook in het Nederlands
 
@@ -7610,6 +7682,24 @@ We hebben geen kantoor in Zoetermeer: we doen SEO volledig op afstand vanuit Kol
 ## Wat kost het?
 
 SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+
+## SEO voor bedrijven in Zoetermeer: de cijfers en de concurrentie
+
+Zoetermeer had op 1 januari 2026 130.836 inwoners en 15.755 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de specialistische zakelijke dienstverlening, met 19,0% van alle vestigingen. Daarna volgen handel (13,7%), zorg (12,9%) en bouw (11,6%). Het aandeel van de ict is met 6,9% groter dan in heel Nederland (5,3%). De percentages hebben we zelf uit de CBS-cijfers berekend. De gemeente noemt het Dutch Innovation Park een hotspot voor onder meer e-health, cybersecurity en big data.
+
+### Concurreren met Den Haag en Rotterdam
+
+Zoetermeer is een van de 21 gemeenten van de Metropoolregio Rotterdam Den Haag. Voor veel zoekopdrachten sta je daardoor naast bedrijven uit Den Haag en Rotterdam, die vaak groter zijn en meer reviews hebben. Voor de lokale resultaten in Google Maps kijkt Google volgens zijn eigen hulppagina vooral naar relevantie, afstand en bekendheid. Afstand werkt in je voordeel bij iemand die in Zoetermeer zoekt. Relevantie en bekendheid bouw je op met een volledig Google Bedrijfsprofiel, reviews van klanten en een eigen pagina voor elke dienst op je website.
+
+### Linkbuilding zonder risico
+
+Links van andere sites helpen Google om te bepalen waar je bedrijf over gaat. Het kopen of verkopen van links om hoger te scoren is volgens Google wel linkspam. Wij kopen daarom geen links. We regelen vermeldingen in bedrijvengidsen en vragen relevante partijen om een vermelding, zoals leveranciers, partners en brancheverenigingen waar je lid van bent. Hoeveel links dat oplevert, beloven we niet vooraf: dat hangt af van wie er ja zegt.
+
+### Wat SEO-bureaus voor Zoetermeer vragen
+
+Op 11 november 2026 bekeken we de 13 pagina's die we vonden op de zoekterm "seo bureau zoetermeer". Acht daarvan zijn van bureaus die buiten Zoetermeer gevestigd zijn en alleen een pagina over de stad hebben. Drie pagina's konden we niet openen. Van de andere 10 noemen er 3 een maandprijs: van € 360 tot € 495 per maand, waarvan 2 exclusief btw. De rest vraagt je om contact op te nemen. Onze prijzen beginnen bij € 199 per maand. Opzeggen kan met een opzegtermijn van 30 dagen, tenzij je offerte een andere termijn noemt.
+
+Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [CBS, gemeenten van de Metropoolregio Rotterdam Den Haag](https://www.cbs.nl/nl-nl/longread/rapportages/2026/odin-2024-metropoolregio-rotterdam-den-haag-correctie-eindrapportage/bijlage-a-gebiedsindeling-mrdh) · [Gemeente Zoetermeer, Dutch Innovation Park](https://en.zoetermeer.nl/dutchinnovationpark) · [Google, lokale resultaten](https://support.google.com/business/answer/7091) · [Google, spambeleid](https://developers.google.com/search/docs/essentials/spam-policies)
 
 ## Pakketten en prijzen
 
@@ -7733,17 +7823,17 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
 
-**Moet een SEO-bureau in Zoetermeer zitten?**
+**Kan ik in Google concurreren met bedrijven uit Den Haag?**
 
-Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet naar waar je SEO-bureau zit. Wij werken op afstand, met gesprekken via videobellen en een maandrapport per e-mail.
+Bij iemand die in Zoetermeer zoekt wel, want Google weegt afstand mee in de lokale resultaten. Daarnaast tellen een volledig Google Bedrijfsprofiel, reviews en een duidelijke pagina per dienst mee. Voor zoekopdrachten zonder plaatsnaam is de concurrentie groter. Bij de audit kijken we welke zoekwoorden voor jou haalbaar zijn.
 
 **Doen jullie ook linkbuilding?**
 
-Ja, als onderdeel van elk pakket: vermeldingen in bedrijvengidsen en outreach naar relevante sites.
+Ja, bij elk pakket: vermeldingen in bedrijvengidsen en het benaderen van relevante sites voor een vermelding. Links kopen we niet, want dat is volgens Google linkspam, en een vast aantal links beloven we niet.
 
-**Hoe snel zie ik resultaat?**
+**Wat staat er in de SEO-audit?**
 
-Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere posities voor zoekwoorden met veel concurrentie vragen enkele maanden. Daarom is SEO doorlopend werk. We garanderen geen posities, want die bepaalt Google, maar je ziet elke maand wat er is veranderd.
+We crawlen je site, bekijken je Search Console-gegevens als je die hebt en kijken hoe je concurrenten scoren. Je krijgt een schriftelijk overzicht van technische problemen en verbetermogelijkheden, op volgorde van impact, met een voorstel voor de maandelijkse werkzaamheden.
 
 **In welke taal schrijven jullie?**
 
@@ -7776,6 +7866,32 @@ We hebben geen kantoor in Nijmegen: we doen SEO volledig op afstand vanuit Kolka
 ## Wat kost het?
 
 SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+
+## SEO voor bedrijven in Nijmegen: de stad in cijfers
+
+Nijmegen had op 1 januari 2026 189.871 inwoners en 25.190 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de zakelijke dienstverlening, met 21,5% van alle vestigingen. Op de tweede plaats staat de zorg, met 18,1%, tegen 10,6% in heel Nederland. Daarna volgen handel (10,9%), onderwijs (7,9%) en cultuur, sport en recreatie (7,7%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+
+Nijmegen is ook een jonge stad. Van de inwoners is 11,5% tussen de 20 en 24 jaar oud, tegen 6,5% in heel Nederland. De Radboud Universiteit telde in oktober 2026 23.306 studenten.
+
+### SEO in de zorg vraagt meer
+
+Werk je in de zorg en heb je bijvoorbeeld een eigen praktijk, dan let Google extra op betrouwbaarheid. Volgens Google wegen ervaring, deskundigheid en betrouwbaarheid zwaarder bij onderwerpen die invloed kunnen hebben op iemands gezondheid, financiën of veiligheid. Voor een zorgpagina betekent dat: vermelden wie de tekst schreef of controleerde en met welke opleiding of registratie, plus duidelijke contactgegevens. Die gegevens lever jij aan. Wij zetten ze op de goede plek en verzinnen niets.
+
+### Wat een SEO-specialist per maand doet
+
+Bij ons werk je met één vast team, voor een vast bedrag per maand. In de eerste maand pakken we aan wat de indexering blokkeert. Daarna gaat het werk elke maand door:
+
+- pagina's verbeteren voor de zoekwoorden die we samen kiezen
+- nieuwe blogartikelen in het Nederlands, 3 per maand bij Starter en 8 bij Growth
+- je Google Bedrijfsprofiel bijhouden
+- vermeldingen in bedrijvengidsen en relevante sites benaderen voor een vermelding
+- een maandrapport met je posities, je verkeer en de prioriteiten voor de volgende maand
+
+### Wat SEO-bureaus voor Nijmegen vragen
+
+Op 11 november 2026 bekeken we de 12 pagina's die we vonden op de zoektermen "seo bureau nijmegen" en "seo specialist nijmegen". Vijf daarvan konden we niet openen. Van de andere 7 noemen er 3 een maandprijs: van € 250 tot € 999 per maand, 2 daarvan exclusief btw. Geen van de bedrijven die echt in Nijmegen gevestigd zijn, noemt een prijs op de site. Onze prijzen beginnen bij € 199 per maand.
+
+Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Radboud Universiteit, studentenaantallen](https://www.ru.nl/over-ons/organisatie/feiten-en-cijfers/onderwijs) · [Google, nuttige content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
 
 ## Pakketten en prijzen
 
@@ -7903,17 +8019,17 @@ Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en d
 
 De audit is de eerste stap van elk pakket. Wil je eerst zelf kijken voordat je beslist, vraag dan onze gratis SEO-audit aan via de knop op deze pagina: die laat de basis van je site zien.
 
-**Moet een SEO-bureau in Nijmegen zitten?**
+**Helpt SEO ook bij de AI-antwoorden van Google?**
 
-Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet naar waar je SEO-bureau zit. Wij werken op afstand, met gesprekken via videobellen en een maandrapport per e-mail.
+Volgens Google moet een pagina geïndexeerd zijn en getoond mogen worden met een tekstfragment om in AI Overviews of AI Mode te verschijnen, en zijn er geen extra technische eisen. Goede SEO is daar dus ook de basis voor. Of je pagina in zo'n antwoord komt, bepaalt Google.
+
+**Werken jullie ook voor zorgpraktijken?**
+
+Ja. Voor zorgpagina's let Google extra op betrouwbaarheid, dus we vragen je om de gegevens van degene die de tekst controleert, zoals opleiding of registratie. Medische inhoud schrijven we niet zelf: die lever jij aan of keur jij goed.
 
 **Hoe snel zie ik resultaat?**
 
 Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere posities voor zoekwoorden met veel concurrentie vragen enkele maanden. Daarom is SEO doorlopend werk. We garanderen geen posities, want die bepaalt Google, maar je ziet elke maand wat er is veranderd.
-
-**In welke taal schrijven jullie?**
-
-De content voor je site schrijven we in het Nederlands. We zijn geen moedertaalsprekers: we controleren alles met taaltools en AI-taalcontroles, en je kunt elk artikel zelf nalezen of door een Nederlandse tekstschrijver laten nalezen voordat het live gaat.
 
 ## Ook in het Nederlands
 
@@ -7942,6 +8058,24 @@ We hebben geen kantoor in Roosendaal: we doen SEO volledig op afstand vanuit Kol
 ## Wat kost het?
 
 SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+
+## SEO in Roosendaal, met klanten aan twee kanten van de grens
+
+Roosendaal had op 1 januari 2026 78.165 inwoners en 9.950 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groepen zijn de zakelijke dienstverlening (17,9%) en de handel (16,3%, tegen 12,9% in heel Nederland). Daarna volgen bouw (12,2%) en zorg (10,8%). Transport en opslag is met 3,4% iets groter dan landelijk (2,8%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+
+Aan de overkant van de grens ligt Essen, in de Belgische provincie Antwerpen. Hoeveel Belgische klanten dat oplevert, verschilt per bedrijf. Een voorbeeld: van de bezoekers van het Designer Outlet in Roosendaal kwam in 2019 ongeveer 20% uit België, volgens een verkeersonderzoek voor het bestemmingsplan.
+
+### Hoe Google zoekers uit België behandelt
+
+Google stemt zoekresultaten af op de regio van de zoeker. Iemand in Essen of Antwerpen krijgt dus andere resultaten dan iemand in Roosendaal, ook als ze precies hetzelfde intypen. De taal van een pagina leidt Google af uit de zichtbare tekst, niet uit code zoals het lang-attribuut. Voor het land waarvoor een pagina bedoeld is, kijkt Google onder meer naar de domeinextensie, hreflang, lokale adressen en telefoonnummers, de valuta en je Google Bedrijfsprofiel.
+
+Heb je aparte pagina's voor klanten in Nederland en in België, bijvoorbeeld met andere prijzen, voorwaarden of contactgegevens, dan geef je dat aan met hreflang: nl-NL voor Nederland en nl-BE voor België. Elke versie verwijst naar zichzelf en naar de andere versie. Alleen een landcode, zoals "BE", werkt niet. Is je aanbod aan beide kanten van de grens hetzelfde, dan volstaat één Nederlandstalige pagina vaak.
+
+### Wat SEO-bureaus voor Roosendaal vragen
+
+Op 11 november 2026 bekeken we de 10 pagina's die we vonden op de zoektermen "seo roosendaal" en "seo specialist roosendaal". Acht daarvan zijn van bureaus die elders gevestigd zijn. Het enige bureau met een kantoor in Roosendaal noemt geen prijs. Eén pagina noemt een maandprijs van € 300, zonder te zeggen of dat met of zonder btw is. Onze prijzen beginnen bij € 199 per maand. Wij rekenen geen btw: bij zakelijke klanten is die verlegd.
+
+Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Statbel, Essen in de provincie Antwerpen](https://bestat.statbel.fgov.be/bestat/api/views/ca552835-6319-4825-bf78-7bc12bb09cfe/result/PDF) · [Verkeersonderzoek Designer Outlet Roosendaal](https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1674.2149UITBREIDINGDOR-0601/b_NL.IMRO.1674.2149UITBREIDINGDOR-0601_tb1.pdf) · [Google, sites voor meerdere regio's](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites) · [Google, hreflang](https://developers.google.com/search/docs/specialty/international/localized-versions) · [Google, resultaten per regio](https://support.google.com/websearch/answer/873)
 
 ## Pakketten en prijzen
 
@@ -8067,19 +8201,19 @@ Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en d
 
 **Ik heb ook klanten in België. Kunnen jullie daar ook rekening mee houden?**
 
-Ja. Bij de audit kijken we waar je klanten zoeken, en zoekwoorden en pagina's voor klanten in België nemen we op in de maandelijkse werkzaamheden, zoals afgesproken in de offerte.
+Ja. Bij de audit kijken we waar je klanten zoeken. Zoekwoorden en pagina's voor klanten in België nemen we op in de maandelijkse werkzaamheden, zoals afgesproken in de offerte. Heb je aparte versies voor Nederland en België, dan stellen we hreflang correct in.
+
+**Moet ik voor België andere zoekwoorden gebruiken?**
+
+Soms. Vlamingen en Nederlanders gebruiken niet altijd dezelfde woorden voor hetzelfde. Welke woorden je klanten in België gebruiken, zoeken we per dienst uit in het zoekwoordonderzoek, in plaats van te gokken.
+
+**Kunnen jullie ook Bergen op Zoom, Breda of Etten-Leur meenemen?**
+
+Ja, met een eigen pagina per plaats waar je echt werkt en iets over te vertellen hebt, zoals afgesproken in de offerte. In de lokale resultaten van Google Maps telt afstand mee, dus met alleen een pagina sta je nog niet bovenaan in een plaats verderop.
 
 **Moet een SEO-bureau in Roosendaal zitten?**
 
 Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet naar waar je SEO-bureau zit. Wij werken op afstand, met gesprekken via videobellen en een maandrapport per e-mail.
-
-**Hoe snel zie ik resultaat?**
-
-Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere posities voor zoekwoorden met veel concurrentie vragen enkele maanden. Daarom is SEO doorlopend werk. We garanderen geen posities, want die bepaalt Google, maar je ziet elke maand wat er is veranderd.
-
-**In welke taal schrijven jullie?**
-
-De content voor je site schrijven we in het Nederlands. We zijn geen moedertaalsprekers: we controleren alles met taaltools en AI-taalcontroles, en je kunt elk artikel zelf nalezen of door een Nederlandse tekstschrijver laten nalezen voordat het live gaat.
 
 ## Ook in het Nederlands
 

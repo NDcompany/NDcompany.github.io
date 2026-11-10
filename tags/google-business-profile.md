@@ -12,6 +12,14 @@ Tag
 
 Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 
+## Google Business Profile rules worth knowing
+
+Most trouble with a Business Profile comes from a few written rules. The name must be the real-world one: Google accepts "Midas" but not "Midas Auto Service Experts", and extra words can get a profile suspended. Google reviews a verification in up to 5 business days, a postcard code expires after 30 days, and suggested edits should be answered within 4 days ([our Google Business Profile guide](https://ndcompany.in/blogs/google-business-profile-guide)).
+
+Reviews have the strictest rules. Discounts, freebies or payment for a review are banned, and so is asking only the customers you expect to be happy. Google blocked or removed over 292 million policy-violating reviews in 2025. If an agency manages the profile, the business must keep ownership, and the agency must hand back exclusive control within 7 business days of notice.
+
+An institution with several campuses needs one profile per location, each linked to that campus's own page. Google's guidelines also name schools and universities among the businesses with varied hours that shouldn't list hours ([Business Profiles for schools and coaching centres](https://ndcompany.in/blogs/seo-for-educational-institutions)).
+
 ## Latest posts
 
 SEO

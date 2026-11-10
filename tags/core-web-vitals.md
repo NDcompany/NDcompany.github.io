@@ -12,6 +12,14 @@ Tag
 
 How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
 
+## Core Web Vitals in short
+
+A page passes Core Web Vitals only when real Chrome visits are good on all three measures for at least three visits in four, with phones and computers judged separately. The targets are 2.5 seconds for the main content to appear (LCP), 200 milliseconds to respond to a tap or click (INP) and a layout shift of 0.1 or less (CLS), over the previous 28 days. The 0 to 100 PageSpeed score is a lab test and does not decide the result.
+
+Websites visited from India do worse on phones: in September 2026, 32% passed against 53% worldwide, and loading was the weak point, good on only 41% of them. On sites with poor loading, the median waits 2,270 milliseconds for the server and 1,290 more before the main image starts downloading, so compressing the image rarely fixes a failing page by itself ([Core Web Vitals explained, with India's figures](https://ndcompany.in/blogs/core-web-vitals-explained)).
+
+Our check of Kolkata business websites found that 26% of those Google had real-visitor data for passed ([our study of 901 Kolkata businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)). A new site has no real-visitor data yet, so ask for a lab test and a check on a real phone before launch ([how to write speed targets into a website brief](https://ndcompany.in/blogs/plan-a-business-website)).
+
 ## Latest posts
 
 Websites

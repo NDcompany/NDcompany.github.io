@@ -20,6 +20,24 @@ We hebben geen kantoor in Friesland: we werken volledig op afstand vanuit Kolkat
 
 Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webshop of webapplicatie. Waar in Friesland je zit, maakt voor de prijs geen verschil.
 
+## Een website voor je bedrijf in Friesland
+
+Friesland telde op 1 januari 2026 665.208 inwoners en 88.090 vestigingen van bedrijven, waarvan 16.560 in Leeuwarden (CBS; het aantal vestigingen is nog een voorlopig cijfer). De grootste groepen zijn de zakelijke dienstverlening (15.450 vestigingen), de handel (12.595), de bouw (9.575) en de zorg (8.535). Het aandeel van de landbouw is met 7,1% van de vestigingen ruim twee keer zo groot als in heel Nederland (3,1%). Van de 17.070 melkveehouderijen in Nederland liggen er 2.825 in Friesland.
+
+### Toerisme: veel gasten uit Duitsland
+
+Toeristen boekten in 2025 7,0 miljoen overnachtingen in Friesland. Bijna 2,0 miljoen daarvan werden geboekt door buitenlandse gasten, 1,6 miljoen door gasten uit Duitsland. Heb je een camping, vakantiehuis, jachthaven of bootverhuur, dan loont een Duitse versie van je site vaak, net als online boeken of reserveren. De meertalige site bouwen wij; de Duitse teksten lever je zelf aan of laat je vertalen. Boeken en reserveren valt onder ons Custom-pakket.
+
+### Nederlands en Fries op één site
+
+Volgens de Wet gebruik Friese taal zijn het Nederlands en het Fries de officiële talen van de provincie Friesland. Die wet gaat over het contact met de overheid en de rechter: een bedrijf hoeft zijn website niet in het Fries aan te bieden. Wil je het wel, dan bouwen we een tweetalige site met een eigen pagina per taal. Voor hreflang, waarmee je aan Google doorgeeft in welke taal een pagina is geschreven, gelden ISO 639-1-taalcodes. Voor het Fries is dat "fy", of "fy-NL" voor Fries in Nederland. De Friese teksten lever je zelf aan: wij schrijven geen Fries.
+
+### Wat webdesigners in Friesland vragen
+
+Op 11 november 2026 bekeken we 15 webdesignbedrijven uit Friesland, gevonden op de zoektermen "website laten maken friesland" en "webdesign leeuwarden". Vijf daarvan noemen een prijs op hun site. Hun laagste prijs ligt tussen € 399 en € 1.999, met een mediaan van € 799. 3 zeggen erbij dat de prijs exclusief btw is, 2 zeggen niets over btw. Die prijzen hebben betrekking op heel verschillende websites, dus vergelijk ze niet zonder meer met elkaar. Bij ons kost een kleine website € 349 en een zakelijke website met CMS € 699, met het eerste jaar hosting en domeinnaam inbegrepen.
+
+Bronnen: [CBS, bevolking per provincie](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37230ned) · [CBS, vestigingen per provincie](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81578NED) · [CBS, toerisme per provincie](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82059NED) · [Wet gebruik Friese taal](https://wetten.overheid.nl/BWBR0034047/) · [ISO 639-codes (Library of Congress)](https://www.loc.gov/standards/iso639-2/php/code_list.php) · [Google, hreflang](https://developers.google.com/search/docs/specialty/international/localized-versions)
+
 ## Pakketten en prijzen
 
 Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
@@ -138,21 +156,21 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Nee. We zitten in Kolkata, India, en werken volledig op afstand: gesprekken via videobellen, de rest per e-mail. Onze werkdag valt samen met jouw ochtend en vroege middag, dus vragen worden dezelfde dag beantwoord.
 
-**Kan mijn website ook in het Fries?**
-
-Ja, als jij de Friese teksten aanlevert. Wij schrijven zelf geen Fries, maar we bouwen een tweetalige website, Nederlands en Fries, waarbij bezoekers zelf kiezen. Afspraken over een tweede taal leggen we vast in de offerte.
-
 **Wat kost een website laten maken in Friesland?**
 
 Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie, overal in Friesland hetzelfde. Je definitieve prijs staat in een schriftelijke offerte.
 
-**Word ik met mijn website gevonden in Leeuwarden of in mijn eigen dorp?**
+**Kan mijn website ook in het Fries?**
 
-Daarvoor tellen vooral een ingevuld Google Bedrijfsprofiel, reviews en pagina's die je plaats en je diensten vermelden. Je site krijgt een sitemap en de basis van on-page SEO, en bij elk pakket zit drie maanden SEO van ons.
+Ja, als jij de Friese teksten aanlevert. We bouwen een tweetalige site, Nederlands en Fries, met een eigen pagina per taal en de taalcode "fy" in hreflang, zodat Google weet welke pagina Friestalig is. Afspraken over een tweede taal leggen we vast in de offerte.
 
-**Van wie is de website als hij klaar is?**
+**Kan ik ook een Duitse versie voor toeristen?**
 
-Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+Ja. We bouwen de Duitse pagina's naast de Nederlandse, met een taalkeuzemenu op elke pagina. De Duitse teksten lever je zelf aan of laat je vertalen. Wat een tweede taal kost, staat in je offerte.
+
+**Kunnen gasten online boeken of reserveren?**
+
+Ja. Een boekings- of reserveringssysteem, eventueel met een online betaalmogelijkheid, valt onder ons Custom-pakket, vanaf € 1.499. Welke koppelingen je nodig hebt, bijvoorbeeld met een bestaand boekingssysteem, spreken we schriftelijk af in de offerte.
 
 ## Ook in het Nederlands
 

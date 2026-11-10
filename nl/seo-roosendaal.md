@@ -20,6 +20,24 @@ We hebben geen kantoor in Roosendaal: we doen SEO volledig op afstand vanuit Kol
 
 SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
 
+## SEO in Roosendaal, met klanten aan twee kanten van de grens
+
+Roosendaal had op 1 januari 2026 78.165 inwoners en 9.950 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groepen zijn de zakelijke dienstverlening (17,9%) en de handel (16,3%, tegen 12,9% in heel Nederland). Daarna volgen bouw (12,2%) en zorg (10,8%). Transport en opslag is met 3,4% iets groter dan landelijk (2,8%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+
+Aan de overkant van de grens ligt Essen, in de Belgische provincie Antwerpen. Hoeveel Belgische klanten dat oplevert, verschilt per bedrijf. Een voorbeeld: van de bezoekers van het Designer Outlet in Roosendaal kwam in 2019 ongeveer 20% uit België, volgens een verkeersonderzoek voor het bestemmingsplan.
+
+### Hoe Google zoekers uit België behandelt
+
+Google stemt zoekresultaten af op de regio van de zoeker. Iemand in Essen of Antwerpen krijgt dus andere resultaten dan iemand in Roosendaal, ook als ze precies hetzelfde intypen. De taal van een pagina leidt Google af uit de zichtbare tekst, niet uit code zoals het lang-attribuut. Voor het land waarvoor een pagina bedoeld is, kijkt Google onder meer naar de domeinextensie, hreflang, lokale adressen en telefoonnummers, de valuta en je Google Bedrijfsprofiel.
+
+Heb je aparte pagina's voor klanten in Nederland en in België, bijvoorbeeld met andere prijzen, voorwaarden of contactgegevens, dan geef je dat aan met hreflang: nl-NL voor Nederland en nl-BE voor België. Elke versie verwijst naar zichzelf en naar de andere versie. Alleen een landcode, zoals "BE", werkt niet. Is je aanbod aan beide kanten van de grens hetzelfde, dan volstaat één Nederlandstalige pagina vaak.
+
+### Wat SEO-bureaus voor Roosendaal vragen
+
+Op 11 november 2026 bekeken we de 10 pagina's die we vonden op de zoektermen "seo roosendaal" en "seo specialist roosendaal". Acht daarvan zijn van bureaus die elders gevestigd zijn. Het enige bureau met een kantoor in Roosendaal noemt geen prijs. Eén pagina noemt een maandprijs van € 300, zonder te zeggen of dat met of zonder btw is. Onze prijzen beginnen bij € 199 per maand. Wij rekenen geen btw: bij zakelijke klanten is die verlegd.
+
+Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Statbel, Essen in de provincie Antwerpen](https://bestat.statbel.fgov.be/bestat/api/views/ca552835-6319-4825-bf78-7bc12bb09cfe/result/PDF) · [Verkeersonderzoek Designer Outlet Roosendaal](https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1674.2149UITBREIDINGDOR-0601/b_NL.IMRO.1674.2149UITBREIDINGDOR-0601_tb1.pdf) · [Google, sites voor meerdere regio's](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites) · [Google, hreflang](https://developers.google.com/search/docs/specialty/international/localized-versions) · [Google, resultaten per regio](https://support.google.com/websearch/answer/873)
+
 ## Pakketten en prijzen
 
 Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
@@ -144,19 +162,19 @@ Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en d
 
 **Ik heb ook klanten in België. Kunnen jullie daar ook rekening mee houden?**
 
-Ja. Bij de audit kijken we waar je klanten zoeken, en zoekwoorden en pagina's voor klanten in België nemen we op in de maandelijkse werkzaamheden, zoals afgesproken in de offerte.
+Ja. Bij de audit kijken we waar je klanten zoeken. Zoekwoorden en pagina's voor klanten in België nemen we op in de maandelijkse werkzaamheden, zoals afgesproken in de offerte. Heb je aparte versies voor Nederland en België, dan stellen we hreflang correct in.
+
+**Moet ik voor België andere zoekwoorden gebruiken?**
+
+Soms. Vlamingen en Nederlanders gebruiken niet altijd dezelfde woorden voor hetzelfde. Welke woorden je klanten in België gebruiken, zoeken we per dienst uit in het zoekwoordonderzoek, in plaats van te gokken.
+
+**Kunnen jullie ook Bergen op Zoom, Breda of Etten-Leur meenemen?**
+
+Ja, met een eigen pagina per plaats waar je echt werkt en iets over te vertellen hebt, zoals afgesproken in de offerte. In de lokale resultaten van Google Maps telt afstand mee, dus met alleen een pagina sta je nog niet bovenaan in een plaats verderop.
 
 **Moet een SEO-bureau in Roosendaal zitten?**
 
 Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet naar waar je SEO-bureau zit. Wij werken op afstand, met gesprekken via videobellen en een maandrapport per e-mail.
-
-**Hoe snel zie ik resultaat?**
-
-Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere posities voor zoekwoorden met veel concurrentie vragen enkele maanden. Daarom is SEO doorlopend werk. We garanderen geen posities, want die bepaalt Google, maar je ziet elke maand wat er is veranderd.
-
-**In welke taal schrijven jullie?**
-
-De content voor je site schrijven we in het Nederlands. We zijn geen moedertaalsprekers: we controleren alles met taaltools en AI-taalcontroles, en je kunt elk artikel zelf nalezen of door een Nederlandse tekstschrijver laten nalezen voordat het live gaat.
 
 ## Ook in het Nederlands
 

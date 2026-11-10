@@ -12,6 +12,14 @@ Tag
 
 Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 
+## How our food and drink logos are built
+
+Most of the food and drink logos we have designed pair the name with a drawing of what the business serves. Sunfresso, a coffee shop in Kolkata, has a steaming cup on a saucer under a thin arc, and spells out Coffee Shop under its name as well, all in one dark coffee brown on white, which suits Google's request that a logo look right on a purely white background ([the Sunfresso coffee shop logo](https://ndcompany.in/projects/sunfresso)).
+
+Edli Delight, a South Indian food chain, sets a drawing of three stacked idlis beside its name and keeps the rest to one deep green, close to #044B2D, and white ([the Edli Delight logo](https://ndcompany.in/projects/edli-delight)).
+
+Round badges need a test at small sizes. The Koustav Kitchen badge, for a cloud kitchen that sells through Zomato, sits wholly inside its circle, so a round crop keeps every part of it ([the Koustav Kitchen badge](https://ndcompany.in/projects/koustav-kitchen)). At 98 x 98 pixels, the size of a YouTube profile picture, the Taste and Bite badge for a restaurant in Bhopal keeps its flame, fork and spatula recognisable, but its lettering becomes too small to read, which is why a logo also needs a compact version ([the Taste and Bite logo](https://ndcompany.in/projects/taste-and-bite)).
+
 ## Projects tagged Food and drink branding
 
 Marketing

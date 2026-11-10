@@ -12,6 +12,14 @@ Tag
 
 What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
 
+## SEO audits: scope, scoring and price
+
+Check what an audit reads before you trust its score. Our free audit reads the homepage and up to nine more pages, plus the sitemap, robots.txt and llms.txt, and opens each page in a real browser at phone and computer size. It does not research keywords, look at competitors or check the links other sites point at yours. Its overall score weighs technical and on-page checks at 25% each, indexing at 20%, speed at 15%, links at 10% and structured data at 5%. The score is ours, not Google's, so use it to compare your site with itself after fixes ([how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works)).
+
+Paid one-off audits are rarely priced in India: on the 108 agency websites we read on 29 October 2026 we found no price for one, and several agencies offered a free audit first. Google advises giving an SEO read access to Search Console only at the audit stage ([what SEO costs in India](https://ndcompany.in/blogs/seo-cost-india)).
+
+A local business needs a different audit: the Business Profile, matching details across directories, reviews and local links, with a dated baseline before anything changes and a repeat every three months ([the local SEO audit checklist](https://ndcompany.in/blogs/local-seo-audit)).
+
 ## Latest posts
 
 SEO

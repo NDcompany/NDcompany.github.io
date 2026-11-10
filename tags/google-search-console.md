@@ -12,6 +12,14 @@ Tag
 
 Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 
+## Search Console: ownership first, then the reports
+
+The first thing to settle in Search Console is who owns it. Every property needs at least one verified owner, and if all of them are removed, the other users lose access after a grace period. Verify from a Google account the business controls and add your freelancer or agency as a Full user. A Domain property covers every subdomain and both http and https, and its DNS record must stay in place ([setting up Search Console in our technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist)).
+
+Agencies rarely say who will own it. Of 37 Indian SEO agency websites we read on 6 November 2026, only one said plainly that its clients stay the super admin of their Google properties ([what 37 SEO agency websites say about your accounts](https://ndcompany.in/blogs/choose-seo-agency-india)).
+
+Once you own it, the reports do the checking. Page indexing validation typically takes up to about two weeks. After a speed fix goes live, Core Web Vitals validation watches the pages for 28 days, and that report includes indexed pages only ([reading the Core Web Vitals report](https://ndcompany.in/blogs/core-web-vitals-explained)). Visits from Google's AI features are counted in the Performance report under the Web search type ([measuring AI visibility in Search Console](https://ndcompany.in/blogs/optimize-content-for-llms)).
+
 ## Latest posts
 
 SEO

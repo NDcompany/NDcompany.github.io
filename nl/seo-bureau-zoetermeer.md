@@ -20,6 +20,24 @@ We hebben geen kantoor in Zoetermeer: we doen SEO volledig op afstand vanuit Kol
 
 SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
 
+## SEO voor bedrijven in Zoetermeer: de cijfers en de concurrentie
+
+Zoetermeer had op 1 januari 2026 130.836 inwoners en 15.755 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de specialistische zakelijke dienstverlening, met 19,0% van alle vestigingen. Daarna volgen handel (13,7%), zorg (12,9%) en bouw (11,6%). Het aandeel van de ict is met 6,9% groter dan in heel Nederland (5,3%). De percentages hebben we zelf uit de CBS-cijfers berekend. De gemeente noemt het Dutch Innovation Park een hotspot voor onder meer e-health, cybersecurity en big data.
+
+### Concurreren met Den Haag en Rotterdam
+
+Zoetermeer is een van de 21 gemeenten van de Metropoolregio Rotterdam Den Haag. Voor veel zoekopdrachten sta je daardoor naast bedrijven uit Den Haag en Rotterdam, die vaak groter zijn en meer reviews hebben. Voor de lokale resultaten in Google Maps kijkt Google volgens zijn eigen hulppagina vooral naar relevantie, afstand en bekendheid. Afstand werkt in je voordeel bij iemand die in Zoetermeer zoekt. Relevantie en bekendheid bouw je op met een volledig Google Bedrijfsprofiel, reviews van klanten en een eigen pagina voor elke dienst op je website.
+
+### Linkbuilding zonder risico
+
+Links van andere sites helpen Google om te bepalen waar je bedrijf over gaat. Het kopen of verkopen van links om hoger te scoren is volgens Google wel linkspam. Wij kopen daarom geen links. We regelen vermeldingen in bedrijvengidsen en vragen relevante partijen om een vermelding, zoals leveranciers, partners en brancheverenigingen waar je lid van bent. Hoeveel links dat oplevert, beloven we niet vooraf: dat hangt af van wie er ja zegt.
+
+### Wat SEO-bureaus voor Zoetermeer vragen
+
+Op 11 november 2026 bekeken we de 13 pagina's die we vonden op de zoekterm "seo bureau zoetermeer". Acht daarvan zijn van bureaus die buiten Zoetermeer gevestigd zijn en alleen een pagina over de stad hebben. Drie pagina's konden we niet openen. Van de andere 10 noemen er 3 een maandprijs: van € 360 tot € 495 per maand, waarvan 2 exclusief btw. De rest vraagt je om contact op te nemen. Onze prijzen beginnen bij € 199 per maand. Opzeggen kan met een opzegtermijn van 30 dagen, tenzij je offerte een andere termijn noemt.
+
+Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [CBS, gemeenten van de Metropoolregio Rotterdam Den Haag](https://www.cbs.nl/nl-nl/longread/rapportages/2026/odin-2024-metropoolregio-rotterdam-den-haag-correctie-eindrapportage/bijlage-a-gebiedsindeling-mrdh) · [Gemeente Zoetermeer, Dutch Innovation Park](https://en.zoetermeer.nl/dutchinnovationpark) · [Google, lokale resultaten](https://support.google.com/business/answer/7091) · [Google, spambeleid](https://developers.google.com/search/docs/essentials/spam-policies)
+
 ## Pakketten en prijzen
 
 Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
@@ -142,17 +160,17 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
 
-**Moet een SEO-bureau in Zoetermeer zitten?**
+**Kan ik in Google concurreren met bedrijven uit Den Haag?**
 
-Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet naar waar je SEO-bureau zit. Wij werken op afstand, met gesprekken via videobellen en een maandrapport per e-mail.
+Bij iemand die in Zoetermeer zoekt wel, want Google weegt afstand mee in de lokale resultaten. Daarnaast tellen een volledig Google Bedrijfsprofiel, reviews en een duidelijke pagina per dienst mee. Voor zoekopdrachten zonder plaatsnaam is de concurrentie groter. Bij de audit kijken we welke zoekwoorden voor jou haalbaar zijn.
 
 **Doen jullie ook linkbuilding?**
 
-Ja, als onderdeel van elk pakket: vermeldingen in bedrijvengidsen en outreach naar relevante sites.
+Ja, bij elk pakket: vermeldingen in bedrijvengidsen en het benaderen van relevante sites voor een vermelding. Links kopen we niet, want dat is volgens Google linkspam, en een vast aantal links beloven we niet.
 
-**Hoe snel zie ik resultaat?**
+**Wat staat er in de SEO-audit?**
 
-Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere posities voor zoekwoorden met veel concurrentie vragen enkele maanden. Daarom is SEO doorlopend werk. We garanderen geen posities, want die bepaalt Google, maar je ziet elke maand wat er is veranderd.
+We crawlen je site, bekijken je Search Console-gegevens als je die hebt en kijken hoe je concurrenten scoren. Je krijgt een schriftelijk overzicht van technische problemen en verbetermogelijkheden, op volgorde van impact, met een voorstel voor de maandelijkse werkzaamheden.
 
 **In welke taal schrijven jullie?**
 

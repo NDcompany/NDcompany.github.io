@@ -20,6 +20,32 @@ We hebben geen kantoor in Nijmegen: we doen SEO volledig op afstand vanuit Kolka
 
 SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
 
+## SEO voor bedrijven in Nijmegen: de stad in cijfers
+
+Nijmegen had op 1 januari 2026 189.871 inwoners en 25.190 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de zakelijke dienstverlening, met 21,5% van alle vestigingen. Op de tweede plaats staat de zorg, met 18,1%, tegen 10,6% in heel Nederland. Daarna volgen handel (10,9%), onderwijs (7,9%) en cultuur, sport en recreatie (7,7%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+
+Nijmegen is ook een jonge stad. Van de inwoners is 11,5% tussen de 20 en 24 jaar oud, tegen 6,5% in heel Nederland. De Radboud Universiteit telde in oktober 2026 23.306 studenten.
+
+### SEO in de zorg vraagt meer
+
+Werk je in de zorg en heb je bijvoorbeeld een eigen praktijk, dan let Google extra op betrouwbaarheid. Volgens Google wegen ervaring, deskundigheid en betrouwbaarheid zwaarder bij onderwerpen die invloed kunnen hebben op iemands gezondheid, financiën of veiligheid. Voor een zorgpagina betekent dat: vermelden wie de tekst schreef of controleerde en met welke opleiding of registratie, plus duidelijke contactgegevens. Die gegevens lever jij aan. Wij zetten ze op de goede plek en verzinnen niets.
+
+### Wat een SEO-specialist per maand doet
+
+Bij ons werk je met één vast team, voor een vast bedrag per maand. In de eerste maand pakken we aan wat de indexering blokkeert. Daarna gaat het werk elke maand door:
+
+- pagina's verbeteren voor de zoekwoorden die we samen kiezen
+- nieuwe blogartikelen in het Nederlands, 3 per maand bij Starter en 8 bij Growth
+- je Google Bedrijfsprofiel bijhouden
+- vermeldingen in bedrijvengidsen en relevante sites benaderen voor een vermelding
+- een maandrapport met je posities, je verkeer en de prioriteiten voor de volgende maand
+
+### Wat SEO-bureaus voor Nijmegen vragen
+
+Op 11 november 2026 bekeken we de 12 pagina's die we vonden op de zoektermen "seo bureau nijmegen" en "seo specialist nijmegen". Vijf daarvan konden we niet openen. Van de andere 7 noemen er 3 een maandprijs: van € 250 tot € 999 per maand, 2 daarvan exclusief btw. Geen van de bedrijven die echt in Nijmegen gevestigd zijn, noemt een prijs op de site. Onze prijzen beginnen bij € 199 per maand.
+
+Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Radboud Universiteit, studentenaantallen](https://www.ru.nl/over-ons/organisatie/feiten-en-cijfers/onderwijs) · [Google, nuttige content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
+
 ## Pakketten en prijzen
 
 Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
@@ -146,17 +172,17 @@ Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en d
 
 De audit is de eerste stap van elk pakket. Wil je eerst zelf kijken voordat je beslist, vraag dan onze gratis SEO-audit aan via de knop op deze pagina: die laat de basis van je site zien.
 
-**Moet een SEO-bureau in Nijmegen zitten?**
+**Helpt SEO ook bij de AI-antwoorden van Google?**
 
-Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet naar waar je SEO-bureau zit. Wij werken op afstand, met gesprekken via videobellen en een maandrapport per e-mail.
+Volgens Google moet een pagina geïndexeerd zijn en getoond mogen worden met een tekstfragment om in AI Overviews of AI Mode te verschijnen, en zijn er geen extra technische eisen. Goede SEO is daar dus ook de basis voor. Of je pagina in zo'n antwoord komt, bepaalt Google.
+
+**Werken jullie ook voor zorgpraktijken?**
+
+Ja. Voor zorgpagina's let Google extra op betrouwbaarheid, dus we vragen je om de gegevens van degene die de tekst controleert, zoals opleiding of registratie. Medische inhoud schrijven we niet zelf: die lever jij aan of keur jij goed.
 
 **Hoe snel zie ik resultaat?**
 
 Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere posities voor zoekwoorden met veel concurrentie vragen enkele maanden. Daarom is SEO doorlopend werk. We garanderen geen posities, want die bepaalt Google, maar je ziet elke maand wat er is veranderd.
-
-**In welke taal schrijven jullie?**
-
-De content voor je site schrijven we in het Nederlands. We zijn geen moedertaalsprekers: we controleren alles met taaltools en AI-taalcontroles, en je kunt elk artikel zelf nalezen of door een Nederlandse tekstschrijver laten nalezen voordat het live gaat.
 
 ## Ook in het Nederlands
 

@@ -12,6 +12,14 @@ Tag
 
 Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 
+## Planning for phones, platforms and languages
+
+Plan for the phone first. In 2025, 77.91% of the page views StatCounter recorded in India came from mobile phones, and mobile's share has stayed above 69% every year since 2019. Decide how the main action will be counted too, as Google Analytics 4 key events for sent forms, phone and WhatsApp taps and purchases, set up before launch. Popularity should not pick the platform: WordPress runs 40.2% of all websites, but in September 2026 only 29% of WordPress sites gave visitors in India good Core Web Vitals on phones, against 53% of Shopify sites ([how to plan a business website](https://ndcompany.in/blogs/plan-a-business-website)).
+
+A second language means a second set of pages. An Arabic version needs translated copy, a right-to-left layout set with dir="rtl" in the HTML, its own page titles and descriptions, and hreflang tags pointing both ways ([what a bilingual English and Arabic site needs](https://ndcompany.in/blogs/bilingual-websites-dubai)).
+
+If the build goes abroad, mind the time difference. India is UTC+5:30 all year, and its gap to the US changes by an hour when US clocks change, so agree overlap hours before you sign. Start with a small paid pilot before a larger commitment ([outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india)).
+
 ## Latest posts
 
 Websites

@@ -12,6 +12,14 @@ Tag
 
 Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 
+## Social media creatives: sizes and calls to action
+
+Size a creative for where it will run. Instagram keeps a photo's resolution when it is 320 to 1080 pixels wide and its shape falls between 1.91:1 and 3:4, and crops anything outside that range. For feed ads, Meta recommends a 4:5 image at 1440 by 1800 pixels and asks for the bottom and side edges to stay free of text and logos ([five food posts measured against the platform rules](https://ndcompany.in/projects/food-poster-series)).
+
+Our Iron Nerve Fitness creative is 2160 by 2700 pixels, a 4:5 portrait ([the Iron Nerve Fitness gym creative](https://ndcompany.in/projects/iron-nerve-fitness)), and the Dream Bar offer is a 2160 by 2160 square, so Instagram would share both whole at 1080 pixels wide ([the Dream Bar offer creative](https://ndcompany.in/projects/dream-bar)).
+
+Meta also advises against packing in too many messages, because an ad usually has one call to action. Kebabiyana's steamed momo creative sells one dish at one price, ₹59, and ends on an "Order now!" button, while its BBQ chicken wings creative leads with a 10% discount and asks people to visit ([Kebabiyana's posts and ad creatives](https://ndcompany.in/projects/kebabiyana)). The Dream Bar square carries one offer too: 30% off on Saturday and Sunday, 8 to 10 PM.
+
 ## Projects tagged Social media creatives
 
 Marketing

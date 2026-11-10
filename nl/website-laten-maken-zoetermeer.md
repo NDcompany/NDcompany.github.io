@@ -20,6 +20,24 @@ We hebben geen kantoor in Zoetermeer: we werken volledig op afstand vanuit Kolka
 
 Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webshop of webapplicatie. Wil je daarna ook beter gevonden worden in Zoetermeer, dan verzorgen we ook de SEO, vanaf € 199 per maand.
 
+## Een website voor je bedrijf in Zoetermeer
+
+Zoetermeer had op 1 januari 2026 15.755 vestigingen van bedrijven, tegen 15.230 een jaar eerder (CBS; het cijfer voor 2026 is nog voorlopig). De gemeente noemt ict en zakelijke diensten, logistiek en handel, zorg, en bouw en installatie als haar belangrijkste sectoren. In aantallen gaat het om 2.990 vestigingen in de specialistische zakelijke dienstverlening, 2.155 in de handel, 2.040 in de zorg en 1.830 in de bouw.
+
+### Welk pakket past bij welk bedrijf
+
+Ben je zzp'er of net begonnen, en wil je vooral gevonden en gebeld worden, dan heb je meestal genoeg aan Starter: een landingspagina of kleine site met een contactformulier, voor € 349. Heb je meerdere diensten, een team of een blog, dan past Business beter, voor € 699: meerdere pagina's, een CMS waarmee je zelf teksten aanpast, en het eerste jaar hosting en domeinnaam inbegrepen. Verkoop je online, of moeten klanten inloggen of afspraken boeken, dan wordt het Custom, vanaf € 1.499.
+
+### Wat je website na de oplevering kost
+
+Bij Starter betaal je zelf hosting en een domeinnaam, of je laat ons die kopen en betaalt ze vooraf. Bij Business zijn ze het eerste jaar inbegrepen in de prijs (Hostinger). Daarna verlengen we ze tegen de kostprijs van de aanbieder, zonder opslag. Tot zeven dagen na de oplevering voeren we kleine correcties door en lossen we technische problemen op. Onderhoud daarna is los verkrijgbaar.
+
+### Wat webdesigners in Zoetermeer vragen
+
+Op 11 november 2026 bekeken we 13 webdesignbedrijven die op hun eigen site zeggen dat ze in Zoetermeer zitten. 8 daarvan noemen een prijs. Hun laagste prijs ligt tussen € 350 en € 5.000, met een mediaan van € 1.200. 2 zeggen erbij dat de prijs exclusief btw is, 6 zeggen niets over btw. Eén bedrijf koppelt zijn goedkoopste pakket aan een onderhoudscontract per maand. Die prijzen hebben betrekking op heel verschillende websites, dus vergelijk ze niet zonder meer met elkaar.
+
+Bronnen: [CBS, vestigingen per gemeente](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81575NED) · [Gemeente Zoetermeer, economie en werkgelegenheid](https://en.zoetermeer.nl/economie-en-werkgelegenheid)
+
 ## Pakketten en prijzen
 
 Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
@@ -134,25 +152,25 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 ## Veelgestelde vragen
 
-**Zitten jullie in Zoetermeer?**
-
-Nee. We zitten in Kolkata, India, en werken volledig op afstand: gesprekken via videobellen, de rest per e-mail. Onze werkdag valt samen met jouw ochtend en vroege middag, dus vragen worden dezelfde dag beantwoord.
-
 **Wat kost een website laten maken in Zoetermeer?**
 
 Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie. Je definitieve prijs staat in een schriftelijke offerte.
+
+**Starter of Business: wat heb ik nodig?**
+
+Starter, voor € 349, is een landingspagina of kleine site met een contactformulier: genoeg als je vooral gebeld of gemaild wilt worden. Business, voor € 699, heeft meerdere pagina's, een CMS en een blog, en het eerste jaar hosting en domeinnaam. Twijfel je, beschrijf dan wat je site moet doen; dan adviseren we je in de offerte.
 
 **Webdesign op maat of een template?**
 
 Op maat. Elke website krijgt een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen, en je krijgt beheerderstoegang om zelf teksten en pagina's aan te passen.
 
+**Wat heb je van mij nodig voor een offerte?**
+
+Wat je bedrijf doet, wat de website moet opleveren (telefoontjes, aanvragen, verkopen), welke pagina's je ongeveer wilt en welke teksten, foto's en logo's er al zijn. Een link naar een bestaande site of een site die je mooi vindt, helpt ook.
+
 **Doen jullie ook de SEO?**
 
 Ja. Bij elk websitepakket zit drie maanden SEO van ons. Daarna kun je SEO afnemen vanaf € 199 per maand: zie onze pagina over SEO in Zoetermeer.
-
-**Van wie is de website als hij klaar is?**
-
-Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
 
 ## Ook in het Nederlands
 

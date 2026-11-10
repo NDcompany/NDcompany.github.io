@@ -12,6 +12,14 @@ Tag
 
 WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
 
+## Web accessibility by the numbers
+
+Almost every website fails some accessibility check. In February 2026, WebAIM's automated scan of the top million home pages found failures on 95.9% of them, an average of 56.1 errors a page, and 58.3 on the 12,655 home pages on .in domains. Six failures made up 96% of the errors, led by low-contrast text (83.9% of pages), missing alt text (53.1%) and form fields without labels (51%) ([accessibility targets for a website brief](https://ndcompany.in/blogs/plan-a-business-website)).
+
+Brand colours are no excuse. W3C exempts the logo from the contrast rule, but not text whose low contrast comes from brand guidelines, and ratios are not rounded, so 4.499:1 fails a 4.5:1 minimum. About 1 in 12 men have colour vision deficiency, so colour should never be the only way a page shows an error or a sale price ([accessible colours in a brand style guide](https://ndcompany.in/blogs/brand-style-guide)).
+
+The legal side depends on the market. In the US, the Department of Justice says the ADA applies to the websites of businesses open to the public, sets no detailed standard and points to WCAG as guidance ([what the ADA means for a small business website](https://ndcompany.in/blogs/small-business-website-cost)). In the EU, the European Accessibility Act has covered e-commerce services for consumers since 28 June 2025, with an exemption for microenterprises.
+
 ## Latest posts
 
 Websites

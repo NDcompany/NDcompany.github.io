@@ -12,6 +12,14 @@ Tag
 
 Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
 
+## What decides whether Google can index a page
+
+Google needs three things before it can index a page: Googlebot is not blocked, the page returns HTTP 200, and it has content to index. Most technical SEO protects those three, and the controls are easy to mix up. robots.txt stops crawling but does not keep a page out of results, and noindex works only if Google may fetch the page and see the tag. Since 5 July 2024 Google has crawled with its smartphone crawler only, and it reads just the first 2MB of an HTML file ([our technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist)).
+
+The basics are often missing. Of 316 working Kolkata business websites we checked on 30 October 2026, 32% had no meta description, 32% no main heading, only 30% carried local business structured data and seven had a noindex tag on the homepage ([the Kolkata websites study](https://ndcompany.in/blogs/kolkata-small-business-websites)).
+
+AI search adds crawlers, not new rules. Google says a page must be indexed and eligible for a snippet to appear in AI Overviews, and that you don't need an llms.txt file. OpenAI, Anthropic and Perplexity each run a search crawler separate from their training crawler, so a site can allow OAI-SearchBot and block GPTBot ([which AI crawlers to allow in robots.txt](https://ndcompany.in/blogs/optimize-content-for-llms)).
+
 ## Latest posts
 
 SEO

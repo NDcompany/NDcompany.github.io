@@ -12,6 +12,14 @@ Tag
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+## What agency websites leave out
+
+Most agency websites say little about the terms that matter later. Of 30 Indian web development agencies we read on 7 November 2026, 8 said the client owns the code or site after payment and 20 said nothing about ownership ([our survey of 30 WordPress agencies](https://ndcompany.in/blogs/hire-wordpress-developer-india)). Of 37 Indian SEO agencies, 8 promised rankings or "guaranteed results", 10 sold or targeted links by count or score, and 15 said nothing about contract length, though Google says no one can guarantee a number one ranking ([what 37 SEO agency websites promise](https://ndcompany.in/blogs/choose-seo-agency-india)).
+
+Accounts should start in the business's name. That goes for app stores too: create the Google Play and Apple developer accounts as the business and give the developer a team role. Apple needs a D-U-N-S number for an organisation account, and applying can take up to 30 days ([app store accounts and requirements](https://ndcompany.in/blogs/play-store-app-store-requirements)).
+
+Not every enquiry is real. On 5 November 2026 an email offering us a web and SEO project led, through a hacked homebuilder's website, to a fake "sign in with Google" page on a .click domain. A real Google sign-in never happens on one ([how the Quatgio scam email works](https://ndcompany.in/blogs/quatgio-scam-email)).
+
 ## Latest posts
 
 Websites

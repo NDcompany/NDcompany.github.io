@@ -12,6 +12,14 @@ Tag
 
 What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 
+## Website costs: renewals, fees and market rates
+
+The first year of a website is often the cheapest. Hostinger's ₹69 a month hosting needs 48 months paid upfront and renews at ₹289 a month, and a .in or .com domain renews at ₹899 to ₹1,499 a year. Selling online adds about 2% a transaction through a gateway such as Razorpay, plus 18% GST on that fee ([what a website costs in India](https://ndcompany.in/blogs/website-cost-india)).
+
+Build prices are harder to compare, because most agencies keep them off their websites. Only 35 of the 101 Indian agency sites we could read on 29 October 2026 showed any price, the cheapest website package had a median starting price of ₹15,000, and only 6 of the 35 said whether GST was added ([our survey of 108 Indian agencies](https://ndcompany.in/blogs/agency-prices-india)).
+
+Where builders do publish, location shows in the price. Shopify partners based in India list a median starting price of $500 for a store build, against $1,150 for partners based in the US ([Shopify development prices by country](https://ndcompany.in/blogs/shopify-development-india)). In Dubai, the two agencies that price a bilingual English and Arabic site charge about 1.6 to 1.9 times their English-only price ([bilingual website prices in Dubai](https://ndcompany.in/blogs/bilingual-websites-dubai)).
+
 ## Latest posts
 
 Websites

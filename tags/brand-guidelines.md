@@ -12,6 +12,14 @@ Tag
 
 Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 
+## What a brand style guide has to settle
+
+Each rule in a guide should work without a follow-up question: "Use our blue" fails, "Use #1F3A5F for text on white" passes. The guide needs a square icon version of the logo, because Facebook crops Page profile pictures to a circle and YouTube shows channel pictures at 98 x 98 px, and a minimum size in millimetres for print and pixels for screens ([what goes into a brand style guide](https://ndcompany.in/blogs/brand-style-guide)).
+
+Fonts need their licences written down. In HTTP Archive's 2025 data, about half of mobile pages used at least one font whose licence field was blank or unrecognised, and Devanagari was in just under 1% of web fonts, so a business that publishes in Hindi or Bengali needs a matching font for each script. Keep one dated version at one link, with one owner, so an outdated PDF stands out.
+
+A guide becomes necessary once two or more people or suppliers make material in your name ([when a logo needs a full identity](https://ndcompany.in/blogs/logo-vs-brand-identity)). For Sea Seven Fish, the brand identity document went into the package as its guidelines, with a four-colour palette in HEX and RGB codes and both brand fonts with their licence files ([the Sea Seven Fish brand identity](https://ndcompany.in/projects/sea-seven-fish)).
+
 ## Latest posts
 
 Branding
