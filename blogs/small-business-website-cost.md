@@ -29,7 +29,7 @@ Key takeaways
 
 ## What the build costs
 
-The build is the design and development work, paid once. These are our starting prices for clients outside India. We set them for the US market, not by converting our rupee prices, and your quote confirms the final price in writing before any work starts.
+The build is the design and development work, paid once. These are our starting prices in US dollars, and your quote confirms the final price in writing before any work starts.
 
 **Our website build prices in US dollars, October 2026**
 
@@ -264,7 +264,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Websites",
       "keywords": "Website costs, Website planning, Web accessibility",
       "genre": "Guide",
-      "wordCount": 1316,
+      "wordCount": 1302,
       "inLanguage": "en-IN"
     },
     {

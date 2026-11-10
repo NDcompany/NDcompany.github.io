@@ -70,19 +70,11 @@ A short PDF showing clear space, minimum size, approved color combinations and m
 
 Every quote is fixed before work starts. The tiers are starting points; the final quote reflects the directions, revisions and deliverables you choose.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 ESSENTIAL
 
-₹2,999
+$49
 
 / per project
 
@@ -104,7 +96,7 @@ Popular
 
 IDENTITY
 
-₹5,999
+$99
 
 / per project
 
@@ -128,7 +120,7 @@ CUSTOM
 
 From
 
-₹9,999
+$159
 
 / per project
 

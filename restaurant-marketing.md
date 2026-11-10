@@ -168,14 +168,14 @@ The first tier of each service, in rupees for India and US dollars elsewhere. Yo
 
 **Starting prices for the services restaurants use most**
 
-| Service | Billed | India | Elsewhere |
-| --- | --- | --- | --- |
-| [Logo Design](https://ndcompany.in/services/logo-design#pricing) | per project | ₹2,999 | $49 |
-| [Brand Identity Design](https://ndcompany.in/services/brand-identity-design#pricing) | per project | ₹9,999 | $159 |
-| [Social Media Management](https://ndcompany.in/services/social-media-management#pricing) | per month | ₹4,999 | $79 |
-| [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing#pricing) | per month | ₹5,999 | $95 |
-| [Graphic Design](https://ndcompany.in/services/graphic-design#pricing) | per project | ₹1,499 | $25 |
-| [Video Production & Editing](https://ndcompany.in/services/video-production-editing#pricing) | per project | ₹1,999 | $35 |
+| Service | Billed | From (USD) |
+| --- | --- | --- |
+| [Logo Design](https://ndcompany.in/services/logo-design#pricing) | per project | $49 |
+| [Brand Identity Design](https://ndcompany.in/services/brand-identity-design#pricing) | per project | $159 |
+| [Social Media Management](https://ndcompany.in/services/social-media-management#pricing) | per month | $79 |
+| [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing#pricing) | per month | $95 |
+| [Graphic Design](https://ndcompany.in/services/graphic-design#pricing) | per project | $25 |
+| [Video Production & Editing](https://ndcompany.in/services/video-production-editing#pricing) | per project | $35 |
 
 Every price is on our [pricing page](https://ndcompany.in/pricing).
 

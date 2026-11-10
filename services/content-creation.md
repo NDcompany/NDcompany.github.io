@@ -70,21 +70,13 @@ Every piece is proofread before it reaches you. Typical projects include two to 
 
 Every monthly fee is fixed before work starts and covers the pieces in the calendar. The tiers are starting points; volume is adjusted by agreement.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 Annual billing (2 months free)
 
 STARTER
 
-₹2,999
+$49
 
 / per month
 
@@ -106,7 +98,7 @@ Popular
 
 GROWTH
 
-₹6,999
+$115
 
 / per month
 
@@ -130,7 +122,7 @@ CUSTOM
 
 From
 
-₹12,999
+$209
 
 / per month
 

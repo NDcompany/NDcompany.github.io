@@ -176,7 +176,7 @@ Store the whole package in two places, such as your Google Drive and a pen drive
 
 ## Where to start
 
-If you already have a logo, open the files and check them against the list above. If all you have is a JPG from WhatsApp, a designer can redraw it as a vector before you need it on a sign. If you need a logo, our [logo design service](https://ndcompany.in/services/logo-design) starts at ₹2,999 ($49 outside India), and even the first tier hands over AI, EPS, SVG and PDF files plus PNG exports. For a full system with colour, type and usage rules, see [brand identity design](https://ndcompany.in/services/brand-identity-design).
+If you already have a logo, open the files and check them against the list above. If all you have is a JPG from WhatsApp, a designer can redraw it as a vector before you need it on a sign. If you need a logo, our [logo design service](https://ndcompany.in/services/logo-design): even its first tier hands over AI, EPS, SVG and PDF files plus PNG exports. For a full system with colour, type and usage rules, see [brand identity design](https://ndcompany.in/services/brand-identity-design).
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
@@ -306,7 +306,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Branding",
       "keywords": "Logos, Brand guidelines",
       "genre": "Guide",
-      "wordCount": 2372,
+      "wordCount": 2366,
       "inLanguage": "en-IN"
     },
     {

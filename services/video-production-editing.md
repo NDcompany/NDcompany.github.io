@@ -70,19 +70,11 @@ Final videos in the agreed formats. Ownership passes to you on full payment, as 
 
 Every project is quoted as a fixed price before work starts. The tiers below are starting points; shoot days, locations and motion graphics change the final quote.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 EDIT ONLY
 
-₹1,999
+$35
 
 / per project
 
@@ -105,7 +97,7 @@ Popular
 
 PRODUCTION
 
-₹14,999
+$239
 
 / per project
 
@@ -129,7 +121,7 @@ CUSTOM
 
 From
 
-₹29,999
+$479
 
 / per project
 

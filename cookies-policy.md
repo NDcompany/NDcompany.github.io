@@ -4,13 +4,13 @@ description: "Cookies policy for ndcompany.in: the browser storage we use, the a
 url: "https://ndcompany.in/cookies-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-11-05"
+modified: "2026-11-10"
 image: "https://ndcompany.in/assets/share/cookies.png"
 ---
 
 # Cookies policy
 
-Effective date: 23 October 2026 · Last updated: 5 November 2026
+Effective date: 23 October 2026 · Last updated: 10 November 2026
 
 This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics, Microsoft Clarity, PostHog and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
@@ -60,14 +60,6 @@ Session storage. If a page's code fails to load, for example when you go offline
 Set: only when that happens.
 
 Lasts: until that page's code loads or you close the tab.
-
-### `ndco-currency`
-
-Local storage. Remembers the currency you picked for the prices on our service pages: Indian rupees, UAE dirhams or US dollars. Until you pick one, prices show in rupees if your device is set to Indian time, in dirhams if it is set to UAE time and in US dollars otherwise. Your browser reads that time zone itself and does not send it to us.
-
-Set: only when you pick a currency.
-
-Lasts: until you clear this site's data.
 
 ### `ndco-scroll`
 
@@ -285,7 +277,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains your rights over you
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-11-05",
+      "dateModified": "2026-11-10",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/cookies.png",

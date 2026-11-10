@@ -98,7 +98,7 @@ Our quotes and invoices are in dirhams or US dollars, whichever you prefer. You 
 
 **What do your services cost in the UAE?**
 
-Each service page shows its starting prices in UAE dirhams to visitors in the UAE, and you can switch to US dollars. The dirham prices are our dollar prices at the dirham's fixed rate of 3.6725, so both show the same price. Your written quote confirms the final price and its currency before any work starts.
+Each service page shows its starting prices in UAE dirhams to visitors in the UAE. Your written quote confirms the final price and its currency before any work starts.
 
 [Browse all questions, for every service](https://ndcompany.in/faq)
 

@@ -74,19 +74,11 @@ Product labels, boxes or pouches designed on your dieline, for businesses that s
 
 Every quote is set in writing before work starts. The tiers below are starting points for scope; the final price depends on how many pieces you need.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 IDENTITY
 
-₹19,999
+$319
 
 / per project
 
@@ -112,7 +104,7 @@ Popular
 
 LAUNCH
 
-₹28,999
+$469
 
 / per project
 
@@ -137,7 +129,7 @@ CUSTOM
 
 From
 
-₹38,999
+$599
 
 / per project
 

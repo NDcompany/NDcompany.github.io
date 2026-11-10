@@ -74,19 +74,11 @@ Source code in a repository you control, a setup guide and a walkthrough session
 
 Every quote is set in writing before work starts, based on the scope we agree in discovery. These tiers are starting points that show what each level of build usually includes.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 STARTER
 
-₹15,999
+$299
 
 / per project
 
@@ -98,7 +90,7 @@ written quote before work starts · delivered in 2 to 3 weeks
 - Responsive web interface
 - Deployment to your hosting account, or to a VPS (its yearly charges are extra)
 - 7-day post-delivery support
-- Maintenance (updates, security patches, bug fixes and backups) from ₹2,999 a month
+- Maintenance (updates, security patches, bug fixes and backups) from $59 a month
 
 ---
 
@@ -112,7 +104,7 @@ BUSINESS
 
 From
 
-₹49,999
+$799
 
 / per project
 
@@ -126,7 +118,7 @@ written quote before work starts · delivered in 4 to 8 weeks
 - Staged working previews during development
 - MCP server so AI agents can work with your system
 - Handover with source code and documentation
-- Maintenance from ₹4,999 a month
+- Maintenance from $79 a month
 
 ---
 
@@ -138,7 +130,7 @@ CUSTOM
 
 From
 
-₹99,999
+$1,599
 
 / per project
 
@@ -148,7 +140,7 @@ written quote before work starts · delivered in 8 to 16 weeks
 - Database and API ready for a mobile app built under our mobile app development service
 - Data migration from existing systems
 - Separate portals for different user types
-- Maintenance from ₹9,999 a month
+- Maintenance from $159 a month
 
 ---
 

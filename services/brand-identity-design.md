@@ -74,19 +74,11 @@ Editable vector files (AI, SVG, PDF) and PNGs at common sizes, organized in a fo
 
 Every quote is set in writing before design begins, based on the scope agreed in discovery. These tiers are starting points that show what each level usually includes.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 ESSENTIALS
 
-₹9,999
+$159
 
 / per project
 
@@ -109,7 +101,7 @@ Popular
 
 COMPLETE
 
-₹14,999
+$239
 
 / per project
 
@@ -132,7 +124,7 @@ CUSTOM
 
 From
 
-₹24,999
+$399
 
 / per project
 

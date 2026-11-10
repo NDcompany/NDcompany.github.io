@@ -1,6 +1,6 @@
 ---
 title: "Website Design & Development Company in Kolkata | N&D Co."
-description: "Website design and development in Kolkata from ₹9,999: custom business sites, e-commerce stores, WordPress and web apps, for clients in India and worldwide."
+description: "Website design and development in Kolkata: custom business sites, e-commerce stores, WordPress and web apps, for clients in India and worldwide."
 url: "https://ndcompany.in/services/website-design-development"
 type: "Service"
 image: "https://ndcompany.in/assets/share/website-design-development.png"
@@ -74,19 +74,11 @@ We deploy the site to your domain, test forms and links on the live server, and 
 
 Every quote is set in writing before work starts. The tiers below are starting points for scope; the final price depends on pages, features and content.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 STARTER
 
-₹9,999
+$149
 
 / per project
 
@@ -111,7 +103,7 @@ Popular
 
 BUSINESS
 
-₹19,999
+$299
 
 / per project
 
@@ -138,7 +130,7 @@ CUSTOM
 
 From
 
-₹29,000
+$449
 
 / per project
 
@@ -321,7 +313,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/website-design-development#webpage",
       "url": "https://ndcompany.in/services/website-design-development",
       "name": "Website Design & Development Company in Kolkata | N&D Co.",
-      "description": "Website design and development in Kolkata from ₹9,999: custom business sites, e-commerce stores, WordPress and web apps, for clients in India and worldwide.",
+      "description": "Website design and development in Kolkata: custom business sites, e-commerce stores, WordPress and web apps, for clients in India and worldwide.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

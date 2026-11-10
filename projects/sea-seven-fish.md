@@ -269,7 +269,7 @@ Google review
 
 Sagar Ghorai
 
-a month ago
+2 months ago
 
 ## Frequently asked questions
 

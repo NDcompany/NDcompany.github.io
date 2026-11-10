@@ -68,7 +68,7 @@ We did. N&D Co. is a brand and growth agency in Barrackpore, Kolkata.
 
 **How much does a website cost?**
 
-With us, a landing page or small site starts at ₹9,999 or $149, a business website with a content management system at ₹19,999 or $299, and an online store at ₹14,999 or $239. The calculator picks the plan that fits what you need and shows its starting price in your currency, and a written quote sets the final price.
+With us, a landing page or small site, a business website with a content management system and an online store each have a published starting price. The calculator picks the plan that fits what you need and shows its starting price in your currency, and a written quote sets the final price.
 
 **Why does RankGuru say it cannot read a site?**
 

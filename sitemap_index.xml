@@ -3,15 +3,15 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://ndcompany.in/sitemap-pages.xml</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://ndcompany.in/sitemap-services.xml</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://ndcompany.in/sitemap-locations.xml</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://ndcompany.in/sitemap-projects.xml</loc>
@@ -27,6 +27,6 @@
   </sitemap>
   <sitemap>
     <loc>https://ndcompany.in/sitemap-tools.xml</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
   </sitemap>
 </sitemapindex>

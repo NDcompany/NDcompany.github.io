@@ -1,6 +1,6 @@
 ---
 title: "Website Development & SEO Cost in India: Our Prices | N&D Co."
-description: "What our services cost: websites from ₹9,999, SEO from ₹7,999 a month, logos from ₹2,999. Rupees in India, US dollars elsewhere."
+description: "What our services cost: the starting price of every plan for websites, SEO, online stores, logos and more, what each includes and how quotes work."
 url: "https://ndcompany.in/pricing"
 type: "WebPage"
 image: "https://ndcompany.in/assets/share/pricing.png"
@@ -16,9 +16,9 @@ Starting prices for every service we offer, in Indian rupees for clients in Indi
 
 ## How our prices work
 
-### Starting prices, set by market
+### Starting prices in your currency
 
-We set prices separately for India and for clients abroad, so a US dollar price is not a conversion of the rupee price. The site shows rupees in India and dollars elsewhere, and the switch below changes it.
+Each price is where a plan starts, in the currency you are quoted in. Your written quote sets the final figure for your project.
 
 ### A written quote before work starts
 
@@ -38,15 +38,7 @@ SEO, marketing, social media and content run month to month. Paid yearly, they c
 
 ## Starting prices by service
 
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
-
-Currency
-
-₹ INR
-
-AED
-
-$ USD
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 ### Website Design & Development
 
@@ -54,9 +46,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹9,999 | 1 to 2 weeks | Single landing page or small brochure site; Custom design, no templates; 3 months of our Starter SEO package, free |
-| Business | ₹19,999 | 2 to 4 weeks | Multi-page business website; WordPress, Shopify or another CMS with admin access; 3 months of our Growth SEO package, free |
-| Custom | from ₹29,000 | 4 to 6 weeks | E-commerce store or custom web application; Payment gateway and order management; User accounts, dashboards or booking flows |
+| Starter | $149 | 1 to 2 weeks | Single landing page or small brochure site; Custom design, no templates; 3 months of our Starter SEO package, free |
+| Business | $299 | 2 to 4 weeks | Multi-page business website; WordPress, Shopify or another CMS with admin access; 3 months of our Growth SEO package, free |
+| Custom | from $449 | 4 to 6 weeks | E-commerce store or custom web application; Payment gateway and order management; User accounts, dashboards or booking flows |
 
 [Everything in each Website Design & Development plan](https://ndcompany.in/services/website-design-development#pricing)
 
@@ -66,9 +58,9 @@ $ USD
 
 | Plan | Per month | Paid yearly | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹7,999 | ₹79,999 | Initial technical SEO audit; On-page optimization of core pages; Google Business Profile setup or cleanup |
-| Growth | ₹14,999 | ₹1,49,999 | Everything in STARTER; Monthly keyword research and page mapping; New or rewritten content each month |
-| Custom | from ₹24,999 | ₹2,49,999 | Everything in GROWTH; Large or e-commerce site crawls; Multiple locations or service areas |
+| Starter | $129 | $1,299 | Initial technical SEO audit; On-page optimization of core pages; Google Business Profile setup or cleanup |
+| Growth | $239 | $2,399 | Everything in STARTER; Monthly keyword research and page mapping; New or rewritten content each month |
+| Custom | from $399 | $3,999 | Everything in GROWTH; Large or e-commerce site crawls; Multiple locations or service areas |
 
 [Everything in each SEO Services plan](https://ndcompany.in/services/seo-services#pricing)
 
@@ -78,9 +70,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Identity | ₹19,999 | 2 to 3 weeks, with 3 months of support | Custom logo and compact mark; Color palette and typography; Short brand guidelines PDF |
-| Launch | ₹28,999 | 2 to 3 weeks, with 3 months of support | Everything in IDENTITY; Full brand guidelines document; Stationery set: letterhead, envelope, invoice |
-| Custom | from ₹38,999 | 2 to 3 weeks, with 3 months of support | Everything in LAUNCH; Packaging and label design; Signage, banners and event materials |
+| Identity | $319 | 2 to 3 weeks, with 3 months of support | Custom logo and compact mark; Color palette and typography; Short brand guidelines PDF |
+| Launch | $469 | 2 to 3 weeks, with 3 months of support | Everything in IDENTITY; Full brand guidelines document; Stationery set: letterhead, envelope, invoice |
+| Custom | from $599 | 2 to 3 weeks, with 3 months of support | Everything in LAUNCH; Packaging and label design; Signage, banners and event materials |
 
 [Everything in each Full Branding Solutions plan](https://ndcompany.in/services/full-branding-solutions#pricing)
 
@@ -90,9 +82,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹15,999 | 2 to 3 weeks | Single internal tool or admin dashboard; Requirements document and wireframes; Login with user roles |
-| Business | from ₹49,999 | 4 to 8 weeks | Web application with several connected modules; Custom CRM or operations system; Database and documented API |
-| Custom | from ₹99,999 | 8 to 16 weeks | Web application that works on phones, tablets and desktops; Database and API ready for a mobile app built under our mobile app development service; Data migration from existing systems |
+| Starter | $299 | 2 to 3 weeks | Single internal tool or admin dashboard; Requirements document and wireframes; Login with user roles |
+| Business | from $799 | 4 to 8 weeks | Web application with several connected modules; Custom CRM or operations system; Database and documented API |
+| Custom | from $1,599 | 8 to 16 weeks | Web application that works on phones, tablets and desktops; Database and API ready for a mobile app built under our mobile app development service; Data migration from existing systems |
 
 [Everything in each Software Development plan](https://ndcompany.in/services/software-development#pricing)
 
@@ -102,9 +94,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹59,999 | 4 to 6 weeks | Android and iOS apps from one codebase; Up to 8 screens; Login, with account deletion in the app |
-| Business | ₹1,49,999 | 8 to 12 weeks | Android and iOS apps from one codebase; Up to 20 screens; Web admin panel for orders, users and content |
-| Custom | from ₹3,49,999 | Set in your quote | Multi-role apps: delivery, marketplace, or booking with staff roles; Screens, features and timeline set in your quote; Web admin panel |
+| Starter | $949 | 4 to 6 weeks | Android and iOS apps from one codebase; Up to 8 screens; Login, with account deletion in the app |
+| Business | $2,399 | 8 to 12 weeks | Android and iOS apps from one codebase; Up to 20 screens; Web admin panel for orders, users and content |
+| Custom | from $5,599 | Set in your quote | Multi-role apps: delivery, marketplace, or booking with staff roles; Screens, features and timeline set in your quote; Web admin panel |
 
 [Everything in each Mobile App Development plan](https://ndcompany.in/services/mobile-app-development#pricing)
 
@@ -114,9 +106,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Essentials | ₹9,999 | 1 to 2 weeks | Brand brief and mood board; Primary logo with secondary version and icon mark; Color palette with print and screen values |
-| Complete | ₹14,999 | 2 to 3 weeks | Everything in Essentials; Supporting graphic elements and imagery direction; Full brand guidelines document with applied examples |
-| Custom | from ₹24,999 | 3 to 6 weeks | Everything in Complete; Sub-brand or product line identities; Packaging or signage applications |
+| Essentials | $159 | 1 to 2 weeks | Brand brief and mood board; Primary logo with secondary version and icon mark; Color palette with print and screen values |
+| Complete | $239 | 2 to 3 weeks | Everything in Essentials; Supporting graphic elements and imagery direction; Full brand guidelines document with applied examples |
+| Custom | from $399 | 3 to 6 weeks | Everything in Complete; Sub-brand or product line identities; Packaging or signage applications |
 
 [Everything in each Brand Identity Design plan](https://ndcompany.in/services/brand-identity-design#pricing)
 
@@ -126,9 +118,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹14,999 | 2 to 3 weeks | Shopify or WooCommerce store; Single-brand catalog setup; Custom theme styling to your brand |
-| Growth | ₹29,999 | 3 to 5 weeks | Everything in Starter; Custom page designs for home, category and product; Large catalog import with variants |
-| Custom | from ₹59,999 | 6 to 12 weeks | Custom-built storefront and admin; Multi-vendor marketplace or dealer portal; Account-based or wholesale pricing |
+| Starter | $239 | 2 to 3 weeks | Shopify or WooCommerce store; Single-brand catalog setup; Custom theme styling to your brand |
+| Growth | $479 | 3 to 5 weeks | Everything in Starter; Custom page designs for home, category and product; Large catalog import with variants |
+| Custom | from $959 | 6 to 12 weeks | Custom-built storefront and admin; Multi-vendor marketplace or dealer portal; Account-based or wholesale pricing |
 
 [Everything in each E-commerce Solutions plan](https://ndcompany.in/services/ecommerce-solutions#pricing)
 
@@ -138,9 +130,9 @@ $ USD
 
 | Plan | Per month | Paid yearly | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹5,999 | ₹59,999 | One advertising channel (Google Ads or Meta); Campaign setup and conversion tracking; Ad copy and creative briefs |
-| Growth | ₹11,999 | ₹1,19,999 | Google Ads and Meta ads; Retargeting campaigns; Monthly email campaign |
-| Custom | from ₹24,999 | ₹2,49,999 | Additional channels such as YouTube or LinkedIn ads; Multiple email campaigns and automated sequences; Campaigns for several products or locations |
+| Starter | $95 | $949 | One advertising channel (Google Ads or Meta); Campaign setup and conversion tracking; Ad copy and creative briefs |
+| Growth | $189 | $1,899 | Google Ads and Meta ads; Retargeting campaigns; Monthly email campaign |
+| Custom | from $399 | $3,999 | Additional channels such as YouTube or LinkedIn ads; Multiple email campaigns and automated sequences; Campaigns for several products or locations |
 
 [Everything in each Digital Marketing & Performance Marketing plan](https://ndcompany.in/services/digital-marketing#pricing)
 
@@ -150,9 +142,9 @@ $ USD
 
 | Plan | Per month | Paid yearly | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹4,999 | ₹49,999 | One platform; Monthly content calendar; 12 posts a month (3 a week) |
-| Growth | ₹11,999 | ₹1,19,999 | Two platforms; Monthly content calendar; 20 posts and 8 reels a month |
-| Custom | from ₹24,999 | ₹2,49,999 | Three or more platforms; 30 posts and 12 reels a month (about one a day); Reels edited from supplied or newly shot footage |
+| Starter | $79 | $799 | One platform; Monthly content calendar; 12 posts a month (3 a week) |
+| Growth | $189 | $1,899 | Two platforms; Monthly content calendar; 20 posts and 8 reels a month |
+| Custom | from $399 | $3,999 | Three or more platforms; 30 posts and 12 reels a month (about one a day); Reels edited from supplied or newly shot footage |
 
 [Everything in each Social Media Management plan](https://ndcompany.in/services/social-media-management#pricing)
 
@@ -162,9 +154,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Edit only | ₹1,999 | 2 to 3 days | Editing of footage you supply; One short video or reel; Captions and on-screen text |
-| Production | ₹14,999 | 1 to 2 weeks | Script and shot list; One shoot day at your location; Corporate, product or promotional video |
-| Custom | from ₹29,999 | Set in your quote | Multiple shoot days or locations; A video series or an ongoing editing retainer; Full motion graphics and animated explainers |
+| Edit only | $35 | 2 to 3 days | Editing of footage you supply; One short video or reel; Captions and on-screen text |
+| Production | $239 | 1 to 2 weeks | Script and shot list; One shoot day at your location; Corporate, product or promotional video |
+| Custom | from $479 | Set in your quote | Multiple shoot days or locations; A video series or an ongoing editing retainer; Full motion graphics and animated explainers |
 
 [Everything in each Video Production & Editing plan](https://ndcompany.in/services/video-production-editing#pricing)
 
@@ -174,9 +166,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹1,499 | 2 to 3 days | One print or digital piece, such as a poster; Initial layout directions to choose from; Two revision rounds |
-| Collateral set | ₹6,999 | 1 to 2 weeks | Business card, letterhead and envelope; A brochure or flyer; A set of social media post templates |
-| Custom | from ₹7,999 per month | Set in your quote | Any mix of print, social, ad and packaging pieces; Packaging laid out on your supplier dieline; Ad creatives in every platform size |
+| Starter | $25 | 2 to 3 days | One print or digital piece, such as a poster; Initial layout directions to choose from; Two revision rounds |
+| Collateral set | $109 | 1 to 2 weeks | Business card, letterhead and envelope; A brochure or flyer; A set of social media post templates |
+| Custom | from $129 per month | Set in your quote | Any mix of print, social, ad and packaging pieces; Packaging laid out on your supplier dieline; Ad creatives in every platform size |
 
 [Everything in each Graphic Design plan](https://ndcompany.in/services/graphic-design#pricing)
 
@@ -186,9 +178,9 @@ $ USD
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Essential | ₹2,999 | 3 to 5 days | One concept direction; Two revision rounds; Primary logo plus one alternate lockup |
-| Identity | ₹5,999 | 7 to 10 days | Two concept directions; Three revision rounds; Primary, horizontal, stacked and icon-only lockups |
-| Custom | from ₹9,999 | 2 to 3 weeks | Everything in IDENTITY; Concept directions and revision rounds set to your brief; Sub-brand or product line marks |
+| Essential | $49 | 3 to 5 days | One concept direction; Two revision rounds; Primary logo plus one alternate lockup |
+| Identity | $99 | 7 to 10 days | Two concept directions; Three revision rounds; Primary, horizontal, stacked and icon-only lockups |
+| Custom | from $159 | 2 to 3 weeks | Everything in IDENTITY; Concept directions and revision rounds set to your brief; Sub-brand or product line marks |
 
 [Everything in each Logo Design plan](https://ndcompany.in/services/logo-design#pricing)
 
@@ -198,9 +190,9 @@ $ USD
 
 | Plan | Per month | Paid yearly | Includes |
 | --- | --- | --- | --- |
-| Starter | ₹2,999 | ₹29,999 | Content calendar for the month; 4 SEO blog posts a month (1,500 to 1,700 words each); Meta title and description for each piece |
-| Growth | ₹6,999 | ₹69,999 | Everything in STARTER, with 8 SEO blog posts a month (1,500 to 1,700 words each); Website or landing page copy; Social media captions for the month |
-| Custom | from ₹12,999 | ₹1,29,999 | Volume and mix set to your plan; Product descriptions in bulk; Multi-page website copy |
+| Starter | $49 | $499 | Content calendar for the month; 4 SEO blog posts a month (1,500 to 1,700 words each); Meta title and description for each piece |
+| Growth | $115 | $1,149 | Everything in STARTER, with 8 SEO blog posts a month (1,500 to 1,700 words each); Website or landing page copy; Social media captions for the month |
+| Custom | from $209 | $2,099 | Volume and mix set to your plan; Product descriptions in bulk; Multi-page website copy |
 
 [Everything in each Content Creation plan](https://ndcompany.in/services/content-creation#pricing)
 
@@ -228,27 +220,23 @@ Agencies reselling our work have their own prices: see [white label pricing for 
 
 **How much does a website cost in India?**
 
-With us, a website costs ₹9,999, ₹19,999 or from ₹29,000: a landing page or small brochure site, a multi-page business site on WordPress or another CMS, or an online store or web application. Outside India the same tiers start at $149, $299 and from $449.
+With us, a website costs $149, $299 or from $449: a landing page or small brochure site, a multi-page business site on WordPress or another CMS, or an online store or web application.
 
 **How much does SEO cost per month in India?**
 
-Our SEO packages cost ₹7,999, ₹14,999 or from ₹24,999 a month in India, and $129, $239 or from $399 a month elsewhere. Paid yearly, they cost about ten months' fees.
+Our SEO packages cost $129, $239 or from $399 a month. Paid yearly, they cost about ten months' fees.
 
 **How much does an online store cost?**
 
-A Shopify or WooCommerce store starts at ₹14,999, ₹29,999 or from ₹59,999 in India, and $239, $479 or from $959 elsewhere. The Shopify plan, paid apps and payment gateway fees are paid by you.
+A Shopify or WooCommerce store starts at $239, $479 or from $959. The Shopify plan, paid apps and payment gateway fees are paid by you.
 
 **How much does a logo cost?**
 
-₹2,999, ₹5,999 or from ₹9,999 in India ($49, $99 or from $159 elsewhere): one concept with two revision rounds, the full set of lockups with a usage guide, or sub-brands and stationery.
+$49, $99 or from $159: one concept with two revision rounds, the full set of lockups with a usage guide, or sub-brands and stationery.
 
 **Do your prices include GST?**
 
 We are not registered for GST, so we add none, and your invoice shows the amount you pay.
-
-**Why are US dollar prices different from rupee prices?**
-
-We set the prices for each market separately, from the usual rates for comparable work there, our costs and how we position our services. They are starting prices for each market, not currency conversions of each other.
 
 **Do agencies pay the same prices?**
 
@@ -271,7 +259,7 @@ Tell us what you need, and we will reply with questions or a written quote.
       "@id": "https://ndcompany.in/pricing#webpage",
       "url": "https://ndcompany.in/pricing",
       "name": "Website Development & SEO Cost in India: Our Prices",
-      "description": "What our services cost: websites from ₹9,999, SEO from ₹7,999 a month, logos from ₹2,999. Rupees in India, US dollars elsewhere.",
+      "description": "What our services cost: the starting price of every plan for websites, SEO, online stores, logos and more, what each includes and how quotes work.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -305,23 +293,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 9999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 549,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 149,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 149,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -331,23 +307,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 7999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 479,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 129,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 129,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -357,23 +321,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 19999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 1199,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 319,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 319,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -383,23 +335,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 15999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 1099,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 299,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 299,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -409,23 +349,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 59999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 3499,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 949,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 949,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -435,23 +363,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 9999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 589,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 159,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 159,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -461,23 +377,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 14999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 879,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 239,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 239,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -487,23 +391,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 5999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 349,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 95,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 95,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -513,23 +405,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 4999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 299,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 79,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 79,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -539,23 +419,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 1999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 129,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 35,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 35,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -565,23 +433,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 1499,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 99,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 25,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 25,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -591,23 +447,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 2999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 189,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 49,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 49,
+            "priceCurrency": "USD"
+          }
         },
         {
           "@type": "Offer",
@@ -617,23 +461,11 @@ Tell us what you need, and we will reply with questions or a written quote.
           "seller": {
             "@id": "https://ndcompany.in/#ndco-organization"
           },
-          "priceSpecification": [
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 2999,
-              "priceCurrency": "INR"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 189,
-              "priceCurrency": "AED"
-            },
-            {
-              "@type": "PriceSpecification",
-              "minPrice": 49,
-              "priceCurrency": "USD"
-            }
-          ]
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 49,
+            "priceCurrency": "USD"
+          }
         }
       ]
     },

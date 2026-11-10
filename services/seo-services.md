@@ -1,6 +1,6 @@
 ---
 title: "SEO Company in Kolkata: SEO Services & Packages | N&D Co."
-description: "SEO company in Kolkata for businesses in India and worldwide: technical, on-page and local SEO with a monthly report. Packages from ₹7,999 a month."
+description: "SEO company in Kolkata for businesses in India and worldwide: technical, on-page and local SEO with a monthly report and a written quote before work starts."
 url: "https://ndcompany.in/services/seo-services"
 type: "Service"
 image: "https://ndcompany.in/assets/share/seo-services.png"
@@ -74,21 +74,13 @@ A report each month with rankings, organic traffic, indexing status and a log of
 
 Every monthly fee is fixed in writing after the audit and before work starts. The tiers below are starting points; the final scope depends on site size and competition.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 Annual billing (2 months free)
 
 STARTER
 
-₹7,999
+$129
 
 / per month
 
@@ -114,7 +106,7 @@ Popular
 
 GROWTH
 
-₹14,999
+$239
 
 / per month
 
@@ -140,7 +132,7 @@ CUSTOM
 
 From
 
-₹24,999
+$399
 
 / per month
 
@@ -326,7 +318,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/seo-services#webpage",
       "url": "https://ndcompany.in/services/seo-services",
       "name": "SEO Company in Kolkata: SEO Services & Packages | N&D Co.",
-      "description": "SEO company in Kolkata for businesses in India and worldwide: technical, on-page and local SEO with a monthly report. Packages from ₹7,999 a month.",
+      "description": "SEO company in Kolkata for businesses in India and worldwide: technical, on-page and local SEO with a monthly report and a written quote before work starts.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

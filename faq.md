@@ -372,7 +372,7 @@ Every project includes a 7-day post-delivery support window for minor correction
 
 **How much does it cost to build a mobile app in India? Mobile App Development**
 
-A Starter app is ₹59,999 in India and $949 elsewhere: Android and iOS from one codebase, up to 8 screens, login and a Firebase backend, with no admin panel.
+A Starter app is our smallest tier: Android and iOS from one codebase, up to 8 screens, login and a Firebase backend, with no admin panel.
 
 [Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
 
@@ -466,7 +466,7 @@ Business, e-commerce and custom apps include a web admin panel for orders, users
 
 **What do I pay after the app is launched? Mobile App Development**
 
-Bug fixes are free for the first month. After that, the care plan is ₹4,999 a month in India or $79 a month elsewhere, and covers updates, operating system and API-level upgrades, bug fixes and backup…
+Bug fixes are free for the first month. After that, the monthly care plan covers updates, operating system and API-level upgrades, bug fixes and backups.
 
 [Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
 
@@ -478,7 +478,7 @@ Bug fixes are free for the first month. After that, the care plan is ₹4,999 a 
 
 **Do you build restaurant ordering and e-commerce apps? Mobile App Development**
 
-Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI or Razorpay payments, an order list and a basic admin, from ₹99,999 or $1,599.
+Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI or Razorpay payments, an order list and a basic admin.
 
 [Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
 

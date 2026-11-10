@@ -162,7 +162,7 @@ For most businesses, yes, as long as you judge it against sites like yours. Kevi
 
 ## What do our SEO packages cost?
 
-We are an agency, so here are our own published prices, in rupees and dollars a month. Starter is ₹7,999 ($129) for a small local business or a new site, and includes an initial technical audit, on-page work on core pages, Google Business Profile setup, Search Console and Analytics, a monthly report and 3 blog posts a month. Growth is ₹14,999 ($239) and adds monthly keyword research, 8 blog posts a month, schema, internal linking and link outreach. Custom starts at ₹24,999 ($399) for large or multi-location sites and online stores. Of the 37 packages in the survey, 2 started below Starter, 4 below Growth and 17 below Custom. We do not guarantee rankings, and each fee is set in a written quote before work starts. Every tier is on our [SEO services](https://ndcompany.in/services/seo-services) page and our [pricing page](https://ndcompany.in/pricing).
+We are an agency, so here are our own published prices, in rupees and dollars a month. Starter is ₹7,999 ($129) for a small local business or a new site, and includes an initial technical audit, on-page work on core pages, Google Business Profile setup, Search Console and Analytics, a monthly report and 3 blog posts a month. Growth is ₹14,999 ($239) and adds monthly keyword research, 8 blog posts a month, schema, internal linking and link outreach. Custom starts at ₹24,999 for large or multi-location sites and online stores. Of the 37 packages in the survey, 2 started below Starter, 4 below Growth and 17 below Custom. We do not guarantee rankings, and each fee is set in a written quote before work starts. Every tier is on our [SEO services](https://ndcompany.in/services/seo-services) page and our [pricing page](https://ndcompany.in/pricing).
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [SEO audits](https://ndcompany.in/tags/seo-audits)
@@ -292,7 +292,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Working with an agency, SEO audits",
       "genre": "Guide",
-      "wordCount": 2438,
+      "wordCount": 2437,
       "inLanguage": "en-IN"
     },
     {

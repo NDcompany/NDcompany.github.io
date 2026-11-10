@@ -1,6 +1,6 @@
 ---
 title: "Mobile App Development Company in Kolkata | N&D Co."
-description: "Mobile app development in Kolkata: Android and iOS apps from one codebase for restaurants, shops and businesses, from ₹59,999. Store submission included."
+description: "Mobile app development in Kolkata: Android and iOS apps from one codebase for restaurants, shops and businesses, with store submission included and a written quote first."
 url: "https://ndcompany.in/services/mobile-app-development"
 type: "Service"
 image: "https://ndcompany.in/assets/share/mobile-app-development.png"
@@ -70,11 +70,11 @@ Both accounts are registered to your business, never to us. We help you apply fo
 
 ### Restaurant ordering app package
 
-Menu, cart, UPI or Razorpay payments, an order list for your staff and a basic admin, on Android and iOS. It starts at ₹99,999 in India and $1,599 elsewhere, usually 6 to 10 weeks.
+Menu, cart, UPI or Razorpay payments, an order list for your staff and a basic admin, on Android and iOS. Usually 6 to 10 weeks, quoted in writing.
 
 ### E-commerce app package
 
-Catalogue, cart, payments, orders and an admin panel, on Android and iOS. It starts at ₹1,99,999 in India and $3,199 elsewhere, usually 8 to 12 weeks.
+Catalogue, cart, payments, orders and an admin panel, on Android and iOS. Usually 8 to 12 weeks, quoted in writing.
 
 ### Testing, handover and a month of bug fixes
 
@@ -82,21 +82,13 @@ We test the app against the agreed scope on Android and iOS before we submit it.
 
 ## Mobile app development pricing
 
-Every quote is set in writing before work starts. Restaurant ordering apps start at ₹99,999 in India and $1,599 elsewhere, and e-commerce apps at ₹1,99,999 and $3,199. The tiers below are starting points for the other apps.
+Every quote is set in writing before work starts. Restaurant ordering and e-commerce apps are quoted as their own packages. The tiers below are starting points for the other apps.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 STARTER
 
-₹59,999
+$949
 
 / per project
 
@@ -109,7 +101,7 @@ written quote before work starts · delivered in 4 to 6 weeks
 - No admin panel
 - Store submission, with up to 2 rounds if a store rejects it
 - 1 month of free bug fixes
-- Care plan (updates, operating system upgrades, bug fixes and backups) from ₹4,999 a month
+- Care plan (updates, operating system upgrades, bug fixes and backups) from $79 a month
 
 ---
 
@@ -121,7 +113,7 @@ Popular
 
 BUSINESS
 
-₹1,49,999
+$2,399
 
 / per project
 
@@ -136,7 +128,7 @@ written quote before work starts · delivered in 8 to 12 weeks
 - Store submission, with up to 2 rounds if a store rejects it
 - Source code handed over on full payment
 - 1 month of free bug fixes
-- Care plan from ₹4,999 a month
+- Care plan from $79 a month
 
 ---
 
@@ -148,7 +140,7 @@ CUSTOM
 
 From
 
-₹3,49,999
+$5,599
 
 / per project
 
@@ -161,7 +153,7 @@ written quote before work starts
 - Store submission, with up to 2 rounds if a store rejects it
 - Source code handed over on full payment
 - 1 month of free bug fixes
-- Care plan from ₹4,999 a month
+- Care plan from $79 a month
 
 ---
 
@@ -209,7 +201,7 @@ The balance is due before final delivery. Bug fixes are free for the first month
 
 **How much does it cost to build a mobile app in India?**
 
-A Starter app is ₹59,999 in India and $949 elsewhere: Android and iOS from one codebase, up to 8 screens, login and a Firebase backend, with no admin panel. A restaurant ordering app starts at ₹99,999 ($1,599), a Business app at ₹1,49,999 ($2,399), an e-commerce app at ₹1,99,999 ($3,199) and a custom multi-role app at ₹3,49,999 ($5,599). Every quote is set in writing before work starts, and most projects start with a 50% advance. The tiers on this page are starting points.
+A Starter app is our smallest tier: Android and iOS from one codebase, up to 8 screens, login and a Firebase backend, with no admin panel. The pricing section on this page shows each tier's starting price. Every quote is set in writing before work starts, and most projects start with a 50% advance. The tiers on this page are starting points.
 
 **How long does it take to build an app?**
 
@@ -241,11 +233,11 @@ Business, e-commerce and custom apps include a web admin panel for orders, users
 
 **What do I pay after the app is launched?**
 
-Bug fixes are free for the first month. After that, the care plan is ₹4,999 a month in India or $79 a month elsewhere, and covers updates, operating system and API-level upgrades, bug fixes and backups. You also pay your backend provider directly for hosting, SMS and maps. The stores update their requirements each year: Google asks apps to target a recent Android version to stay available to new users, so an app left without updates can drop out.
+Bug fixes are free for the first month. After that, the monthly care plan covers updates, operating system and API-level upgrades, bug fixes and backups. You also pay your backend provider directly for hosting, SMS and maps. The stores update their requirements each year: Google asks apps to target a recent Android version to stay available to new users, so an app left without updates can drop out.
 
 **Do you build restaurant ordering and e-commerce apps?**
 
-Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI or Razorpay payments, an order list and a basic admin, from ₹99,999 or $1,599. The e-commerce app has a catalogue, a cart, payments, orders and an admin panel, from ₹1,99,999 or $3,199. Apple's App Review Guidelines say physical goods and services used outside the app can be paid for with methods other than in-app purchase, such as cards, while digital items need Apple's in-app purchase, so we check which applies in discovery.
+Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI or Razorpay payments, an order list and a basic admin. The e-commerce app has a catalogue, a cart, payments, orders and an admin panel. Apple's App Review Guidelines say physical goods and services used outside the app can be paid for with methods other than in-app purchase, such as cards, while digital items need Apple's in-app purchase, so we check which applies in discovery.
 
 **Can I see an app you have built?**
 
@@ -334,7 +326,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/mobile-app-development#webpage",
       "url": "https://ndcompany.in/services/mobile-app-development",
       "name": "Mobile App Development Company in Kolkata | N&D Co.",
-      "description": "Mobile app development in Kolkata: Android and iOS apps from one codebase for restaurants, shops and businesses, from ₹59,999. Store submission included.",
+      "description": "Mobile app development in Kolkata: Android and iOS apps from one codebase for restaurants, shops and businesses, with store submission included and a written quote first.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

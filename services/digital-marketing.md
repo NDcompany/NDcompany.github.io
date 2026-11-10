@@ -70,21 +70,13 @@ A written report each month covering spend, clicks, cost per lead, what we chang
 
 Every quote is set in writing before work starts. The tiers below are starting points for scope, and ad spend is always separate and paid by you directly to the platform.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 Annual billing (2 months free)
 
 STARTER
 
-₹5,999
+$95
 
 / per month
 
@@ -107,7 +99,7 @@ Popular
 
 GROWTH
 
-₹11,999
+$189
 
 / per month
 
@@ -132,7 +124,7 @@ CUSTOM
 
 From
 
-₹24,999
+$399
 
 / per month
 

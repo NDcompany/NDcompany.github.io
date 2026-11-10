@@ -70,21 +70,13 @@ A report on followers, reach, engagement and top posts, with a short note on wha
 
 Every quote is set in writing before the first post goes out. These tiers are starting points; the final scope is set by the platforms, posting frequency and how much community management you need.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 Annual billing (2 months free)
 
 STARTER
 
-₹4,999
+$79
 
 / per month
 
@@ -106,7 +98,7 @@ Popular
 
 GROWTH
 
-₹11,999
+$189
 
 / per month
 
@@ -130,7 +122,7 @@ CUSTOM
 
 From
 
-₹24,999
+$399
 
 / per month
 

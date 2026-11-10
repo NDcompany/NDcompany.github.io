@@ -10,11 +10,9 @@ Free tool
 
 # Website cost calculator
 
-Choose what you need, a small site, a business website, an online store or a web app, and tick the features you want. The calculator shows which of our plans your project fits, its published starting price in rupees, dirhams or US dollars, how long it takes and everything the plan includes.
+Choose what you need, a small site, a business website, an online store or a web app, and tick the features you want. The calculator shows which of our plans your project fits, its published starting price in your currency, how long it takes and everything the plan includes.
 
 What do you need?
-
-Currency
 
 What the site should do
 
@@ -32,7 +30,7 @@ I need the page text written
 
 ## Your project fits our Website Design & Development Business plan
 
-Starting price **₹19,999** · ready in 2 to 4 weeks
+Starting price **$299** · ready in 2 to 4 weeks
 
 It lands here because you want several pages, editing the content yourself.
 
@@ -77,7 +75,7 @@ Send us your brief. Your final price is set in a written quote before any work s
 
 **How much does a website cost?**
 
-With us, a landing page or small site starts at ₹9,999 or $149, a business website with a content management system at ₹19,999 or $299, and an online store at ₹14,999 or $239. The calculator picks the plan that fits what you need and shows its starting price in your currency, and a written quote sets the final price.
+With us, a landing page or small site, a business website with a content management system and an online store each have a published starting price. The calculator picks the plan that fits what you need and shows its starting price in your currency, and a written quote sets the final price.
 
 **Is the result a quote?**
 

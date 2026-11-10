@@ -74,19 +74,11 @@ Domain and SSL setup, test orders end to end, and a recorded walkthrough of the 
 
 Every quote is set in writing before the build starts, based on the platform, catalog size and integrations agreed in discovery. These tiers are starting points, not fixed packages.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 STARTER
 
-₹14,999
+$239
 
 / per project
 
@@ -110,7 +102,7 @@ Popular
 
 GROWTH
 
-₹29,999
+$479
 
 / per project
 
@@ -135,7 +127,7 @@ CUSTOM
 
 From
 
-₹59,999
+$959
 
 / per project
 

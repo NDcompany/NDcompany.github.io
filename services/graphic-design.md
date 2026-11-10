@@ -66,19 +66,11 @@ Product labels, boxes, pouches and sleeves laid out on the dieline your packagin
 
 Every quote is fixed before work starts and based on the pieces in scope. The tiers are starting points; most projects are priced as a custom mix.
 
-Currency
-
-₹ INR
-
-AED
-
-$ USD
-
-Starting prices for clients in India, in Indian rupees. Your written quote confirms the final price, its currency and any payment charges.
+Starting prices in US dollars. Your written quote confirms the final price, its currency and any payment charges.
 
 STARTER
 
-₹1,499
+$25
 
 / per project
 
@@ -100,7 +92,7 @@ Popular
 
 COLLATERAL SET
 
-₹6,999
+$109
 
 / per project
 
@@ -124,7 +116,7 @@ CUSTOM
 
 From
 
-₹7,999
+$129
 
 / per month
 
