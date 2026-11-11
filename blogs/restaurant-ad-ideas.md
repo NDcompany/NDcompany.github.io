@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png"
 
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 9 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 10 min read
 
 Good restaurant ad ideas are usually simple: one dish shown large, one reason to come now (a price, a discount or a time), and one thing to do next, such as Order now or Visit now. Below are 12 ideas for food advertisements on Instagram, Facebook and Google, each shown with a social media creative or ad creative our team designed for a restaurant, cafe or bar, or with the platform rule it depends on. We describe only what the images show. We make no claim about the sales or reach of any of them, because we do not have those figures to publish. The sizes each platform asks for, and a short checklist, come at the end.
 
@@ -126,6 +126,14 @@ Make one 4:5 version for Facebook and Instagram feeds, one 9:16 version for Stor
 | [Google Business Profile photo](https://support.google.com/business/answer/6103862?hl=en) | Any | 720 x 720 | JPG or PNG, 10 KB to 5 MB; videos up to 30 seconds |
 
 Most of our creatives above are 1:1 squares or 4:5 portraits. Both fit Meta's feed placements, but for a paid feed ad, Meta's recommendation is the larger 4:5 file.
+
+## How do you know whether your food posts are working?
+
+Read your Page's own insights in Meta, before and after a change, rather than counting likes. The screenshot below is the Facebook Page insights we posted for [Kebabiyana](https://ndcompany.in/projects/kebabiyana) on 11 June 2025, covering 13 May to 9 June 2025: 3.7K views and 2K reach, with 93% of the views from people who did not follow the Page, 115 content interactions and 22 follows. Under the totals, Meta lists each recent post with its own figures, which is where you see which creative pulled its weight. These are Meta's figures for the whole Page, not a measure of the creatives alone, and one restaurant's month says nothing certain about yours.
+
+![Meta insights for the Kebabiyana Facebook Page, 13 May to 9 June 2025: 3.7K views, 2K reach, 115 content interactions and 22 follows, above five recent posts including Lahori Tangdi Kabab and Flavorsome Kebab creatives](https://ndcompany.in/assets/images/projects/kebabiyana-facebook-insights-2025.webp)
+
+*Kebabiyana's Facebook Page insights, 13 May to 9 June 2025, as Meta reported them.*
 
 ## A checklist before you run a restaurant ad
 
@@ -278,7 +286,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Marketing",
       "keywords": "Social media creatives, Food and drink branding",
       "genre": "Tips",
-      "wordCount": 1993,
+      "wordCount": 2112,
       "inLanguage": "en-IN"
     },
     {

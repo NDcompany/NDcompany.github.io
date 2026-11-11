@@ -11156,6 +11156,10 @@ We edited Kebabiyana's reels.
 
 We managed Kebabiyana's social media.
 
+On 11 June 2025 we posted a screenshot of the Facebook Page's Meta insights for 13 May to 9 June 2025: 3.7K views, 2K reach, 115 content interactions and 22 follows, with 93% of the views from people who did not follow the Page. Our post put the Page at 92 views on 3 June. These are Meta's figures for the whole Page over those dates, not a measure of our work alone.
+
+*Kebabiyana's Facebook Page insights, 13 May to 9 June 2025, as Meta reported them*
+
 ## What the client said
 
 Kebabiyana in their own words, from a public Facebook review.
@@ -11556,6 +11560,12 @@ Apart from the photo, everything on the creative is red, white or black, the col
 The finished file is 2160 by 2700 pixels, a 4:5 portrait. Instagram shares photos at up to 1080 pixels wide, sizes larger ones down to that width and crops a photo only when its shape falls outside 1.91:1 to 3:4 ([Instagram Help Centre](https://help.instagram.com/1631821640426723)), so this file would be shared whole, at 1080 by 1350 pixels.
 
 - The Join now promotional creative, a 4:5 portrait
+
+## The Facebook Page in June 2025
+
+On 6 July 2025 we posted a screenshot of the gym's Facebook Page insights for 7 June to 4 July 2025, as Meta reported them: 44.3K views, 21.8K reach, 533 content interactions and 26 follows. Three in four views (75.1%) came from people who did not follow the Page. These are Meta's figures for the whole Page over those dates, not a measure of our work alone. The part of the screenshot that showed the gym's recent posts is cropped off, because it showed members' faces and names.
+
+*Iron Nerve Fitness's Facebook Page insights, 7 June to 4 July 2025, as Meta reported them*
 
 ## Related reading
 
@@ -13685,7 +13695,7 @@ Updated: 2026-11-11
 
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 9 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 10 min read
 
 Good restaurant ad ideas are usually simple: one dish shown large, one reason to come now (a price, a discount or a time), and one thing to do next, such as Order now or Visit now. Below are 12 ideas for food advertisements on Instagram, Facebook and Google, each shown with a social media creative or ad creative our team designed for a restaurant, cafe or bar, or with the platform rule it depends on. We describe only what the images show. We make no claim about the sales or reach of any of them, because we do not have those figures to publish. The sizes each platform asks for, and a short checklist, come at the end.
 
@@ -13796,6 +13806,14 @@ Make one 4:5 version for Facebook and Instagram feeds, one 9:16 version for Stor
 | [Google Business Profile photo](https://support.google.com/business/answer/6103862?hl=en) | Any | 720 x 720 | JPG or PNG, 10 KB to 5 MB; videos up to 30 seconds |
 
 Most of our creatives above are 1:1 squares or 4:5 portraits. Both fit Meta's feed placements, but for a paid feed ad, Meta's recommendation is the larger 4:5 file.
+
+## How do you know whether your food posts are working?
+
+Read your Page's own insights in Meta, before and after a change, rather than counting likes. The screenshot below is the Facebook Page insights we posted for [Kebabiyana](https://ndcompany.in/projects/kebabiyana) on 11 June 2025, covering 13 May to 9 June 2025: 3.7K views and 2K reach, with 93% of the views from people who did not follow the Page, 115 content interactions and 22 follows. Under the totals, Meta lists each recent post with its own figures, which is where you see which creative pulled its weight. These are Meta's figures for the whole Page, not a measure of the creatives alone, and one restaurant's month says nothing certain about yours.
+
+![Meta insights for the Kebabiyana Facebook Page, 13 May to 9 June 2025: 3.7K views, 2K reach, 115 content interactions and 22 follows, above five recent posts including Lahori Tangdi Kabab and Flavorsome Kebab creatives](https://ndcompany.in/assets/images/projects/kebabiyana-facebook-insights-2025.webp)
+
+*Kebabiyana's Facebook Page insights, 13 May to 9 June 2025, as Meta reported them.*
 
 ## A checklist before you run a restaurant ad
 

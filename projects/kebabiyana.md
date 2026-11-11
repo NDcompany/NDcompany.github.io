@@ -74,6 +74,10 @@ We edited Kebabiyana's reels.
 
 We managed Kebabiyana's social media.
 
+On 11 June 2025 we posted a screenshot of the Facebook Page's Meta insights for 13 May to 9 June 2025: 3.7K views, 2K reach, 115 content interactions and 22 follows, with 93% of the views from people who did not follow the Page. Our post put the Page at 92 views on 3 June. These are Meta's figures for the whole Page over those dates, not a measure of our work alone.
+
+*Kebabiyana's Facebook Page insights, 13 May to 9 June 2025, as Meta reported them*
+
 ## What the client said
 
 Kebabiyana in their own words, from a public Facebook review.
@@ -201,7 +205,8 @@ Tell us about your business in a few lines and we will reply with questions or a
       "url": "https://ndcompany.in/projects/kebabiyana",
       "image": [
         "https://ndcompany.in/assets/images/projects/kebabiyana-steamed-momo-poster.webp",
-        "https://ndcompany.in/assets/images/projects/kebabiyana-bbq-chicken-wings.webp"
+        "https://ndcompany.in/assets/images/projects/kebabiyana-bbq-chicken-wings.webp",
+        "https://ndcompany.in/assets/images/projects/kebabiyana-facebook-insights-2025.webp"
       ],
       "genre": "Marketing, Design, Video",
       "keywords": "Social media creatives, Food and drink branding",
@@ -257,13 +262,16 @@ Tell us about your business in a few lines and we will reply with questions or a
         {
           "@type": "CreativeWork",
           "name": "Social media management",
-          "description": "We managed Kebabiyana's social media.",
+          "description": "We managed Kebabiyana's social media. On 11 June 2025 we posted a screenshot of the Facebook Page's Meta insights for 13 May to 9 June 2025: 3.7K views, 2K reach, 115 content interactions and 22 follows, with 93% of the views from people who did not follow the Page. Our post put the Page at 92 views on 3 June. These are Meta's figures for the whole Page over those dates, not a measure of our work alone.",
           "about": {
             "@type": "Service",
             "@id": "https://ndcompany.in/services/social-media-management#service",
             "name": "Social Media Management",
             "url": "https://ndcompany.in/services/social-media-management"
-          }
+          },
+          "image": [
+            "https://ndcompany.in/assets/images/projects/kebabiyana-facebook-insights-2025.webp"
+          ]
         }
       ]
     },

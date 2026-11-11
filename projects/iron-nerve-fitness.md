@@ -55,6 +55,12 @@ The finished file is 2160 by 2700 pixels, a 4:5 portrait. Instagram shares photo
 
 - The Join now promotional creative, a 4:5 portrait
 
+## The Facebook Page in June 2025
+
+On 6 July 2025 we posted a screenshot of the gym's Facebook Page insights for 7 June to 4 July 2025, as Meta reported them: 44.3K views, 21.8K reach, 533 content interactions and 26 follows. Three in four views (75.1%) came from people who did not follow the Page. These are Meta's figures for the whole Page over those dates, not a measure of our work alone. The part of the screenshot that showed the gym's recent posts is cropped off, because it showed members' faces and names.
+
+*Iron Nerve Fitness's Facebook Page insights, 7 June to 4 July 2025, as Meta reported them*
+
 ## Related reading
 
 Guides from our blogs on the same kind of work.
@@ -153,7 +159,8 @@ Tell us about your business in a few lines and we will reply with questions or a
       "abstract": "We designed a promotional creative for Iron Nerve Fitness, a Roman-themed gym on Ghosh Para Road in Barrackpore, Kolkata. It is one portrait graphic that asks people to join: the gym's round badge at the top, the headline \"Stop dreaming. Start doing!\" in stencil capitals, and a photo of a lifter crossed by two red bands printed with \"Join now!\" Promotional graphics like this one are part of our graphic design service.",
       "url": "https://ndcompany.in/projects/iron-nerve-fitness",
       "image": [
-        "https://ndcompany.in/assets/images/projects/iron-nerve-fitness-gym-poster.webp"
+        "https://ndcompany.in/assets/images/projects/iron-nerve-fitness-gym-poster.webp",
+        "https://ndcompany.in/assets/images/projects/iron-nerve-fitness-facebook-insights-2025.webp"
       ],
       "genre": "Design",
       "keywords": "Social media creatives",
