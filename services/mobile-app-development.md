@@ -279,6 +279,16 @@ Guides on the work behind Mobile App Development.
 
 Business
 
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Business
+
 Guide · 31 Oct 2026
 
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)

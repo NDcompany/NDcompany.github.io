@@ -263,6 +263,16 @@ Kebabiyana
 
 Guides on the work behind Social Media Management.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 Branding
 
 Guide · 23 Oct 2026

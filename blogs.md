@@ -16,6 +16,46 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+SEO
+
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -256,27 +296,27 @@ Read the guide
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -301,6 +341,12 @@ Learn more
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
 Logo design, brand guidelines, and visual identity systems.
+
+Learn more
+
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+
+Google Ads, social media marketing, and ROI-focused campaigns.
 
 Learn more
 
@@ -356,6 +402,58 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/small-business-website-accessibility-study#article",
+          "headline": "How accessible are US small business websites? A study of 385 sites",
+          "description": "We tested 385 US small business homepages: 87% had a serious or critical WCAG failure, dentists 96%, low contrast 60%. Common errors, fixes and the law.",
+          "image": "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png",
+          "url": "https://ndcompany.in/blogs/small-business-website-accessibility-study",
+          "datePublished": "2026-11-11T00:00:00+05:30",
+          "dateModified": "2026-11-11T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/white-label-seo-explained#article",
+          "headline": "White label SEO explained: how agencies resell SEO safely",
+          "description": "White label SEO explained: how reselling works, NDAs, who owns the accounts and the link spam risk. We read 16 provider sites; only 3 publish a monthly price.",
+          "image": "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png",
+          "url": "https://ndcompany.in/blogs/white-label-seo-explained",
+          "datePublished": "2026-11-11T00:00:00+05:30",
+          "dateModified": "2026-11-11T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership#article",
+          "headline": "NDAs, IP and ownership when you outsource to an agency",
+          "description": "Who owns outsourced code? US work for hire, UK and Indian copyright law, why an Indian assignment needs a period and territory, and what your NDA must cover.",
+          "image": "https://ndcompany.in/assets/blog/outsourcing-nda-ip-ownership-16x9.png",
+          "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership",
+          "datePublished": "2026-11-11T00:00:00+05:30",
+          "dateModified": "2026-11-11T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/restaurant-ad-ideas#article",
+          "headline": "12 restaurant ad ideas, with food ads from our own work",
+          "description": "One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.",
+          "image": "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png",
+          "url": "https://ndcompany.in/blogs/restaurant-ad-ideas",
+          "datePublished": "2026-11-11T00:00:00+05:30",
+          "dateModified": "2026-11-11T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/shopify-development-india#article",

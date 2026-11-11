@@ -251,6 +251,16 @@ Guides on the work behind SEO Services.
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -266,16 +276,6 @@ News · 5 Nov 2026
 ### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
 
 A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
-
-Websites
-
-Insight · 5 Nov 2026
-
-### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-
-20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
 Read the post
 

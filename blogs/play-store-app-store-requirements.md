@@ -174,6 +174,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Business
+
 Insight · 29 Oct 2026
 
 ### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
@@ -189,16 +199,6 @@ Guide · 27 Oct 2026
 ### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
 
 US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
 

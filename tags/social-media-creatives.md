@@ -1,9 +1,9 @@
 ---
-title: "Social media creatives: projects | N&D Co."
-description: "Social media posts, ad creatives and posters for dishes, offers, events and memberships. Everything N&D Co. has written and made on the subject: 5 projects."
+title: "Social media creatives: posts and projects | N&D Co."
+description: "Social media posts, ad creatives and posters for dishes, offers, events and memberships. 1 post and 5 projects from N&D Co."
 url: "https://ndcompany.in/tags/social-media-creatives"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/projects/kebabiyana-16x9.png"
+image: "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png"
 ---
 
 Tag
@@ -20,7 +20,21 @@ Our Iron Nerve Fitness creative is 2160 by 2700 pixels, a 4:5 portrait ([the Iro
 
 Meta also advises against packing in too many messages, because an ad usually has one call to action. Kebabiyana's steamed momo creative sells one dish at one price, ₹59, and ends on an "Order now!" button, while its BBQ chicken wings creative leads with a 10% discount and asks people to visit ([Kebabiyana's posts and ad creatives](https://ndcompany.in/projects/kebabiyana)). The Dream Bar square carries one offer too: 30% off on Saturday and Sunday, 8 to 10 PM.
 
+## Latest posts
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 ## Projects tagged Social media creatives
+
+Work of ours this subject was part of.
 
 Marketing
 
@@ -72,27 +86,27 @@ See the project
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -102,9 +116,9 @@ See the project
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Content planning, posting, and audience growth strategies.
 
 Learn more
 
@@ -114,9 +128,9 @@ Posters, banners, ad creatives, and marketing graphics.
 
 Learn more
 
-### [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Video ads, reels, and promotional content production.
+Google Ads, social media marketing, and ROI-focused campaigns.
 
 Learn more
 
@@ -136,8 +150,8 @@ Send a few lines about your business and what you want to fix or build. We will 
       "@type": "CollectionPage",
       "@id": "https://ndcompany.in/tags/social-media-creatives#webpage",
       "url": "https://ndcompany.in/tags/social-media-creatives",
-      "name": "Social media creatives: projects | N&D Co.",
-      "description": "Social media posts, ad creatives and posters for dishes, offers, events and memberships. Everything N&D Co. has written and made on the subject: 5 projects.",
+      "name": "Social media creatives: posts and projects | N&D Co.",
+      "description": "Social media posts, ad creatives and posters for dishes, offers, events and memberships. 1 post and 5 projects from N&D Co.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -151,30 +165,36 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "12 restaurant ad ideas, with food ads from our own work",
+            "url": "https://ndcompany.in/blogs/restaurant-ad-ideas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Ads, design, reels and social media for Kebabiyana",
             "url": "https://ndcompany.in/projects/kebabiyana"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Marketing and design for Wafflery's",
             "url": "https://ndcompany.in/projects/wafflerys"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Pio Bhai offer creative for Dream Bar",
             "url": "https://ndcompany.in/projects/dream-bar"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Gym promotion creative for Iron Nerve Fitness",
             "url": "https://ndcompany.in/projects/iron-nerve-fitness"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Food posts and ad creatives",
             "url": "https://ndcompany.in/projects/food-poster-series"
           }
@@ -182,7 +202,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/projects/kebabiyana-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png",
         "width": 1200,
         "height": 675
       }

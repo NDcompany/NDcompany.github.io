@@ -6,8 +6,60 @@
 <atom:link href="https://ndcompany.in/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Insights, quick tips and plain guides from N&amp;D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.</description>
 <language>en-in</language>
-<lastBuildDate>Fri, 06 Nov 2026 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 18:30:00 GMT</lastBuildDate>
 <image><url>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</url><title>N&amp;D Co. Blogs</title><link>https://ndcompany.in/blogs</link></image>
+<item>
+<title>How accessible are US small business websites? A study of 385 sites</title>
+<link>https://ndcompany.in/blogs/small-business-website-accessibility-study</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/small-business-website-accessibility-study</guid>
+<pubDate>Tue, 10 Nov 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Websites</category>
+<category>Web accessibility</category>
+<category>Website planning</category>
+<description>We tested 385 US small business homepages: 87% had a serious or critical WCAG failure, dentists 96%, low contrast 60%. Common errors, fixes and the law.</description>
+<enclosure url="https://ndcompany.in/assets/pins/small-business-website-accessibility-study.jpg" length="103578" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/small-business-website-accessibility-study.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>White label SEO explained: how agencies resell SEO safely</title>
+<link>https://ndcompany.in/blogs/white-label-seo-explained</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/white-label-seo-explained</guid>
+<pubDate>Tue, 10 Nov 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>SEO</category>
+<category>Working with an agency</category>
+<category>SEO audits</category>
+<description>White label SEO explained: how reselling works, NDAs, who owns the accounts and the link spam risk. We read 16 provider sites; only 3 publish a monthly price.</description>
+<enclosure url="https://ndcompany.in/assets/pins/white-label-seo-explained.jpg" length="85047" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/white-label-seo-explained.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>NDAs, IP and ownership when you outsource to an agency</title>
+<link>https://ndcompany.in/blogs/outsourcing-nda-ip-ownership</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/outsourcing-nda-ip-ownership</guid>
+<pubDate>Tue, 10 Nov 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Business</category>
+<category>Working with an agency</category>
+<category>Website planning</category>
+<description>Who owns outsourced code? US work for hire, UK and Indian copyright law, why an Indian assignment needs a period and territory, and what your NDA must cover.</description>
+<enclosure url="https://ndcompany.in/assets/pins/outsourcing-nda-ip-ownership.jpg" length="85125" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/outsourcing-nda-ip-ownership.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>12 restaurant ad ideas, with food ads from our own work</title>
+<link>https://ndcompany.in/blogs/restaurant-ad-ideas</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/restaurant-ad-ideas</guid>
+<pubDate>Tue, 10 Nov 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Marketing</category>
+<category>Social media creatives</category>
+<category>Food and drink branding</category>
+<description>One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.</description>
+<enclosure url="https://ndcompany.in/assets/pins/restaurant-ad-ideas.jpg" length="79675" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/restaurant-ad-ideas.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
 <item>
 <title>Shopify development in India: what partners charge, from Shopify's own directory</title>
 <link>https://ndcompany.in/blogs/shopify-development-india</link>

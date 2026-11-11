@@ -3,7 +3,7 @@ title: "Web accessibility: posts and guides | N&D Co."
 description: "WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide."
 url: "https://ndcompany.in/tags/web-accessibility"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/small-business-website-cost-16x9.png"
+image: "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png"
 ---
 
 Tag
@@ -21,6 +21,16 @@ Brand colours are no excuse. W3C exempts the logo from the contrast rule, but no
 The legal side depends on the market. In the US, the Department of Justice says the ADA applies to the websites of businesses open to the public, sets no detailed standard and points to WCAG as guidance ([what the ADA means for a small business website](https://ndcompany.in/blogs/small-business-website-cost)). In the EU, the European Accessibility Act has covered e-commerce services for consumers since 28 June 2025, with an exemption for microenterprises.
 
 ## Latest posts
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
 
 Websites
 
@@ -54,27 +64,27 @@ Read the guide
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -133,18 +143,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How accessible are US small business websites? A study of 385 sites",
+            "url": "https://ndcompany.in/blogs/small-business-website-accessibility-study"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "What goes into a brand style guide, and how to use one",
             "url": "https://ndcompany.in/blogs/brand-style-guide"
           }
@@ -152,7 +168,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/small-business-website-cost-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png",
         "width": 1200,
         "height": 675
       }

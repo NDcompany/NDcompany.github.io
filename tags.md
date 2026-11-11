@@ -14,10 +14,14 @@ Every subject our posts and projects cover, most used first, with the posts and 
 
 ## Working with an agency
 
-13 posts
+15 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
 - [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
@@ -83,9 +87,12 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 
 ## Food and drink branding
 
-9 projects
+1 post, 9 projects
 
 Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
+
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 
 - [Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
   Marketing
@@ -107,6 +114,33 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
   Branding
 
 [Everything tagged Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+
+## Website planning
+
+9 posts
+
+Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
+
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+
+[Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
 ## Website costs
 
@@ -131,28 +165,27 @@ What a website costs to build and run: design and development, domains, hosting,
 
 [Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
 
-## Website planning
+## Social media creatives
 
-7 posts
+1 post, 5 projects
 
-Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
+Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 
-- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-  7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 
-[Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
+- [Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
+  Marketing
+- [Marketing and design for Wafflery's](https://ndcompany.in/projects/wafflerys)
+  Marketing
+- [Pio Bhai offer creative for Dream Bar](https://ndcompany.in/projects/dream-bar)
+  Design
+- [Gym promotion creative for Iron Nerve Fitness](https://ndcompany.in/projects/iron-nerve-fitness)
+  Design
+- [Food posts and ad creatives](https://ndcompany.in/projects/food-poster-series)
+  Design
+
+[Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 
 ## Brand guidelines
 
@@ -193,25 +226,6 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 
 [Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
-## Social media creatives
-
-5 projects
-
-Social media posts, ad creatives and posters for dishes, offers, events and memberships.
-
-- [Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
-  Marketing
-- [Marketing and design for Wafflery's](https://ndcompany.in/projects/wafflerys)
-  Marketing
-- [Pio Bhai offer creative for Dream Bar](https://ndcompany.in/projects/dream-bar)
-  Design
-- [Gym promotion creative for Iron Nerve Fitness](https://ndcompany.in/projects/iron-nerve-fitness)
-  Design
-- [Food posts and ad creatives](https://ndcompany.in/projects/food-poster-series)
-  Design
-
-[Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-
 ## Google Search Console
 
 4 posts
@@ -246,6 +260,23 @@ Showing up when people nearby search for what you sell, and the relevance, dista
 
 [Everything tagged Local SEO](https://ndcompany.in/tags/local-seo)
 
+## SEO audits
+
+4 posts
+
+What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
+
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  6 Nov 2026
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  28 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  30 Oct 2026
+
+[Everything tagged SEO audits](https://ndcompany.in/tags/seo-audits)
+
 ## Technical SEO
 
 4 posts
@@ -263,6 +294,23 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 
 [Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
 
+## Web accessibility
+
+4 posts
+
+WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
+
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  23 Oct 2026
+- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
+  23 Oct 2026
+
+[Everything tagged Web accessibility](https://ndcompany.in/tags/web-accessibility)
+
 ## Google Business Profile
 
 3 posts
@@ -277,36 +325,6 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
   28 Oct 2026
 
 [Everything tagged Google Business Profile](https://ndcompany.in/tags/google-business-profile)
-
-## SEO audits
-
-3 posts
-
-What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
-
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  30 Oct 2026
-
-[Everything tagged SEO audits](https://ndcompany.in/tags/seo-audits)
-
-## Web accessibility
-
-3 posts
-
-WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
-
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
-- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
-
-[Everything tagged Web accessibility](https://ndcompany.in/tags/web-accessibility)
 
 ## Online reviews
 
@@ -431,32 +449,32 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Website costs",
-            "url": "https://ndcompany.in/tags/website-costs"
-          },
-          {
-            "@type": "ListItem",
-            "position": 5,
             "name": "Website planning",
             "url": "https://ndcompany.in/tags/website-planning"
           },
           {
             "@type": "ListItem",
+            "position": 5,
+            "name": "Website costs",
+            "url": "https://ndcompany.in/tags/website-costs"
+          },
+          {
+            "@type": "ListItem",
             "position": 6,
+            "name": "Social media creatives",
+            "url": "https://ndcompany.in/tags/social-media-creatives"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
             "name": "Brand guidelines",
             "url": "https://ndcompany.in/tags/brand-guidelines"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Core Web Vitals",
             "url": "https://ndcompany.in/tags/core-web-vitals"
-          },
-          {
-            "@type": "ListItem",
-            "position": 8,
-            "name": "Social media creatives",
-            "url": "https://ndcompany.in/tags/social-media-creatives"
           },
           {
             "@type": "ListItem",
@@ -473,26 +491,26 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 11,
-            "name": "Technical SEO",
-            "url": "https://ndcompany.in/tags/technical-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 12,
-            "name": "Google Business Profile",
-            "url": "https://ndcompany.in/tags/google-business-profile"
-          },
-          {
-            "@type": "ListItem",
-            "position": 13,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags/seo-audits"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 12,
+            "name": "Technical SEO",
+            "url": "https://ndcompany.in/tags/technical-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
             "name": "Web accessibility",
             "url": "https://ndcompany.in/tags/web-accessibility"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "name": "Google Business Profile",
+            "url": "https://ndcompany.in/tags/google-business-profile"
           },
           {
             "@type": "ListItem",

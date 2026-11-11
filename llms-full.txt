@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (99 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (103 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -622,6 +622,26 @@ Guides on the work behind Website Design & Development.
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -629,26 +649,6 @@ Guide · 7 Nov 2026
 What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-
-We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
-
-Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 ## Ready to start?
 
@@ -905,6 +905,16 @@ Guides on the work behind SEO Services.
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -920,16 +930,6 @@ News · 5 Nov 2026
 ### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
 
 A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
-
-Websites
-
-Insight · 5 Nov 2026
-
-### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-
-20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
 Read the post
 
@@ -1485,6 +1485,16 @@ Guides on the work behind Software Development.
 
 Business
 
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Business
+
 Guide · 31 Oct 2026
 
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -1773,6 +1783,16 @@ Learn more
 ## From our blogs
 
 Guides on the work behind Mobile App Development.
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
 
 Business
 
@@ -2638,6 +2658,16 @@ Wafflery's
 
 Guides on the work behind Digital Marketing & Performance Marketing.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 SEO
 
 Guide · 31 Oct 2026
@@ -2657,16 +2687,6 @@ Insight · 29 Oct 2026
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
-
-Read the guide
 
 ## Ready to start?
 
@@ -2934,6 +2954,16 @@ Kebabiyana
 ## From our blogs
 
 Guides on the work behind Social Media Management.
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
 
 Branding
 
@@ -3477,6 +3507,16 @@ Kebabiyana
 ## From our blogs
 
 Guides on the work behind Graphic Design.
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
 
 Branding
 
@@ -9557,7 +9597,7 @@ Team
 # Nakshatra Ranjan Saha
 
 Source: https://ndcompany.in/team/nakshatra-ranjan-saha
-Updated: 2026-11-07
+Updated: 2026-11-11
 
 - CEO
 - Founder
@@ -9571,7 +9611,7 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata, Wes
 
 Nakshatra Ranjan Saha is the founder and CEO of N&D Co., which offers a full range of services under one roof, among them brand identity and logos, websites, online stores and custom software, and SEO, digital marketing, social media, video and content, for businesses across India and worldwide.
 
-Before and alongside the agency, Nakshatra's work has been writing and code. Freelance Python work ran from January 2021 to April 2023, and freelance AI prompt engineering started in April 2022 and continues. Nakshatra founded ScriptXeno and has written for it since May 2024, as senior content writer since March 2026. Since July 2025, Nakshatra has also worked part time as a remote SEO consultant for The Vansmith. At N&D Co., graphic design is part of the job too.
+Before and alongside the agency, Nakshatra's work has been writing and code. Freelance Python work ran from January 2021 to April 2023, and freelance AI prompt engineering started in April 2022 and continues. Nakshatra founded ScriptXeno and has written for it since May 2024, as senior content writer since March 2026. Since July 2026, Nakshatra has also worked part time as a remote SEO consultant for The Vansmith. At N&D Co., graphic design is part of the job too.
 
 Nakshatra studied electrical engineering at Hooghly Institute of Technology on a diploma course from August 2023 to September 2026, after Santinagar High School, and completed Udemy's SEO Strategy 2025 course in December 2025.
 
@@ -9587,6 +9627,46 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+SEO
+
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
 
 Websites
 
@@ -10296,6 +10376,16 @@ Guides from our blogs on the same kind of work.
 
 Business
 
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Business
+
 Guide · 31 Oct 2026
 
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -10651,6 +10741,16 @@ No. Sea Seven Fish uses the identity, but photos of it in use are covered by a n
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 Branding
 
 Insight · 7 Nov 2026
@@ -10668,16 +10768,6 @@ Guide · 3 Nov 2026
 ### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
 
 SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
-
-Read the guide
-
-Branding
-
-Guide · 23 Oct 2026
-
-### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
 
 Read the guide
 
@@ -11084,6 +11174,16 @@ Kebabiyana
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 SEO
 
 Guide · 31 Oct 2026
@@ -11103,16 +11203,6 @@ Insight · 29 Oct 2026
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
-
-Read the guide
 
 ## More projects
 
@@ -11231,6 +11321,16 @@ Wafflery's
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 SEO
 
 Guide · 31 Oct 2026
@@ -11250,16 +11350,6 @@ Insight · 29 Oct 2026
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
-
-Read the guide
 
 ## More projects
 
@@ -11357,6 +11447,16 @@ The same design also exists as an earlier portrait version, 1545 by 2000 pixels,
 ## Related reading
 
 Guides from our blogs on the same kind of work.
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
 
 Branding
 
@@ -11460,6 +11560,16 @@ The finished file is 2160 by 2700 pixels, a 4:5 portrait. Instagram shares photo
 ## Related reading
 
 Guides from our blogs on the same kind of work.
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
 
 Branding
 
@@ -11581,6 +11691,16 @@ The five were not made for one business, and each has its own colours and type. 
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 Branding
 
 Guide · 23 Oct 2026
@@ -11699,6 +11819,16 @@ The colours change too: the fitness frame splits between a red-lit gym and a yel
 ## Related reading
 
 Guides from our blogs on the same kind of work.
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
 
 Branding
 
@@ -12807,6 +12937,967 @@ Our [software development](https://ndcompany.in/services/software-development) s
 
 ---
 
+[Websites](https://ndcompany.in/blogs/topic/websites) · Insight
+
+# How accessible are US small business websites? A study of 385 sites
+
+Source: https://ndcompany.in/blogs/small-business-website-accessibility-study
+Updated: 2026-11-11
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 13 min read
+
+Most US small business websites fail basic accessibility checks. In November 2026 we tested the homepages of 385 independent restaurants, cafes, dentists, law firms and hair salons in five US cities with axe-core, the open-source engine that, in Google's words, [powers the Lighthouse panel](https://developer.chrome.com/docs/devtools/accessibility/reference) in Chrome. 335 of the 385 (87%) had at least one failure that axe rates serious or critical for people with disabilities. Dentists fared worst, at 65 of 68 sites (96%). The most common problem was text with too little contrast against its background, on 232 sites (60%).
+
+Key takeaways
+
+- 335 of 385 homepages (87%) had at least one serious or critical failure of a WCAG 2.0, 2.1 or 2.2 level A or AA rule. 340 (88%) failed at least one rule of any impact, and the median site failed 2 rules.
+- By industry: dentists 96%, hair salons 93%, cafes 86%, law firms 83% and restaurants 79%.
+- Low contrast text was on 60% of sites, links with no readable name on 45%, images with no text alternative on 15% and untitled embedded frames, such as maps and booking widgets, on 15%.
+- Automated tools find only part of the problems. Deque, which makes axe-core, says it finds on average 57% of WCAG issues. A site with no failures in our test may still have others.
+
+If you are planning a new site or a rebuild, our guide to [what a small business website costs](https://ndcompany.in/blogs/small-business-website-cost) puts accessibility next to the other things you pay for.
+
+## How we did the study
+
+We drew the sample from [OpenStreetMap](https://www.openstreetmap.org/), the open map that anyone can edit. For each of five cities (Austin, Texas; Denver, Colorado; Columbus, Ohio; Portland, Oregon; and Atlanta, Georgia) we asked for every place inside the city boundary tagged as a restaurant, cafe, dentist, lawyer's office or hairdresser that lists a website. We left out places with a brand tag, which OpenStreetMap uses to mark chains, so the sample leans towards independent businesses. We removed duplicate websites, then drew up to 20 sites at random for each city and industry, with a fixed seed so the draw can be repeated.
+
+That gave 492 websites. On 6 November 2026 (US time) we opened each homepage once in Google Chrome, at a desktop window size of 1280 by 800 pixels, waited for the page to load plus 2 seconds, and ran axe-core 4.14.0 with its rules for WCAG 2.0, 2.1 and 2.2 at levels A and AA. We recorded only the failures axe is certain about. We did not log in, fill in forms, click anything or contact any business. Our test browser was set to allow the test script on pages whose security settings would otherwise block an added script, which changes nothing on the site itself.
+
+385 homepages loaded and could be tested. The other 107 could not be read: 33 domains (7% of the 492) no longer exist at all, and the rest refused our test browser, returned an error page or timed out. Every figure below is a share of the 385 readable sites.
+
+The limits matter. We tested one page per site, the homepage, on a desktop screen, once. OpenStreetMap only lists businesses someone has mapped, and not every chain carries a brand tag. With 62 to 89 sites per city and 68 to 83 per industry, a difference of a few points between two groups is not meaningful. And axe reports only what code can check, which we come back to below.
+
+## How accessible are US small business websites?
+
+Not very, by the checks a machine can run. 335 of the 385 homepages (87%) failed at least one rule that axe rates serious or critical, the two highest of axe's four ratings (minor, moderate, serious, critical) of how much a problem affects people with disabilities. Counting every impact level, 340 sites (88%) failed at least one rule. Only 45 of 385 passed every automated check, and passing those checks does not mean a page is accessible.
+
+The median site failed 2 different rules, and a single rule can fail on many elements of the same page.
+
+For comparison, WebAIM's February 2026 scan of the top one million homepages, with a different tool and a different set of checks, found detectable WCAG 2 failures on [95.9% of home pages, with low contrast text the most common at 83.9%](https://webaim.org/projects/million/). The two numbers are not directly comparable, but they point the same way, and both put contrast first.
+
+## Which industries have the least accessible websites?
+
+In our sample, dentists had the least accessible homepages: 65 of 68 (96%) had a serious or critical failure, followed by hair salons at 93%. Restaurants did best, and still 79% failed.
+
+US small business homepages with at least one serious or critical accessibility failure, by industry
+
+**US small business homepages with at least one serious or critical accessibility failure, by industry**
+
+| Category | Value (%) |
+| --- | --- |
+| Dentists (68 sites) | 96 |
+| Hair salons (81 sites) | 93 |
+| Cafes (83 sites) | 86 |
+| Law firms (75 sites) | 83 |
+| Restaurants (78 sites) | 79 |
+
+*Share of readable homepages in Austin, Denver, Columbus, Portland and Atlanta with at least one WCAG 2.0, 2.1 or 2.2 A or AA failure that axe rates serious or critical. Chains left out. Source: N&D Co. study of 385 US small business homepages, axe-core 4.14.0, 6 November 2026.*
+
+Our data cannot say why. Every industry we tested is far from clean, though, so no business should assume its site is fine because its customers are local or the site is simple.
+
+By city the spread was narrower: Portland 91% (71 of 78), Austin 91% (81 of 89), Denver 86% (66 of 77), Atlanta 84% (66 of 79) and Columbus 82% (51 of 62).
+
+## What are the most common WCAG errors on small business websites?
+
+On the 385 homepages we tested, the most common failure was low contrast text (60% of sites), followed by links that a screen reader cannot name (45%). The chart shows the ten rules that failed most often, as a share of the 385 sites. A site can fail several.
+
+Most common accessibility failures on 385 US small business homepages, share of sites
+
+**Most common accessibility failures on 385 US small business homepages, share of sites**
+
+| Category | Value (%) |
+| --- | --- |
+| Low contrast text | 60 |
+| Links with no readable name | 45 |
+| Images with no text alternative | 15 |
+| Embedded frames with no title | 15 |
+| Tap targets too small | 14 |
+| Zoom turned off | 13 |
+| Visible label missing from the name | 9 |
+| Links shown by colour alone | 6 |
+| Page language not set | 6 |
+| Controls nested inside controls | 6 |
+
+*axe-core rule ids, in order: color-contrast, link-name, image-alt, frame-title, target-size, meta-viewport, label-content-name-mismatch, link-in-text-block, html-has-lang, nested-interactive. Source: N&D Co. study of 385 US small business homepages, axe-core 4.14.0, 6 November 2026.*
+
+## What each failure means and how to fix it
+
+Many of these are a one-line change to the page's HTML or a setting in the theme. The table names each axe rule, the WCAG success criterion it tests (from [axe-core's rule descriptions](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md)), how many sites failed it and what to change.
+
+**The twelve most common failures on 385 US small business homepages**
+
+| Failure (axe rule) | Sites | What it means | How to fix it |
+| --- | --- | --- | --- |
+| Low contrast text (color-contrast, WCAG 1.4.3) | 232 (60%) | Text is too pale against its background for people with low vision to read. | Darken the text or the background until the ratio is at least 4.5:1, or 3:1 for large text. |
+| Links with no readable name (link-name, 2.4.4 and 4.1.2) | 173 (45%) | A screen reader announces "link" with nothing after it. Icon-only links, such as social media icons, and logo images without alt text inside a link cause it. | Give the link text, an alt attribute on the image inside it, or an aria-label such as "Our Instagram page". |
+| Images with no text alternative (image-alt, 1.1.1) | 57 (15%) | A blind visitor gets no description of a photo, menu or offer shown as an image. | Add alt text that says what the image tells a sighted visitor. Use alt="" for images that are only decoration. |
+| Embedded frames with no title (frame-title, 4.1.2) | 56 (15%) | A map, booking widget, video or review panel is announced only as "frame". | Add a title to the iframe, such as title="Map to our office". |
+| Tap targets too small (target-size, 2.5.8) | 55 (14%) | Buttons or links are small and close together, so people with limited hand control tap the wrong one. | Make each target at least 24 by 24 CSS pixels, or leave enough space around it. |
+| Zoom turned off (meta-viewport, 1.4.4) | 51 (13%) | The page stops visitors zooming in on phones. axe rates this moderate. | Remove user-scalable=no, or a low maximum-scale, from the page's viewport meta tag. |
+| Visible label missing from the name (label-content-name-mismatch, 2.5.3) | 33 (9%) | A button reads "Book now" on screen but has a different hidden name, so voice control users who say what they see get nothing. | Make the hidden name start with the visible words, or remove the aria-label. |
+| Links shown by colour alone (link-in-text-block, 1.4.1) | 25 (6%) | Links in a paragraph differ from the text around them only by colour, which colour-blind visitors may not see. | Underline links in body text. |
+| Page language not set (html-has-lang, 3.1.1) | 24 (6%) | Screen readers guess the language and may read English with the wrong pronunciation. | Add lang="en" (or your language) to the page's html tag. |
+| Controls nested inside controls (nested-interactive, 4.1.2) | 22 (6%) | A button sits inside a clickable card or another link, and screen readers may not announce it. | Keep each link or button separate, not inside another one. |
+| Buttons with no name (button-name, 4.1.2) | 16 (4%) | Icon-only buttons, such as menu, search or close, are announced only as "button". | Give the button text or an aria-label such as "Open menu". |
+| Image elements with no name (role-img-alt, 1.1.1) | 15 (4%) | An icon or graphic marked as an image has no description. | Add an aria-label that says what it shows, or remove the image role if it is decoration. |
+
+Contrast is the one to fix first. W3C's [contrast minimum](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) asks for 4.5:1 for normal text and 3:1 for large text, about 24px or 18.5px bold. Text in a logo is exempt, but text colours chosen to match a brand are not. If you have brand guidelines, our guide to [writing a brand style guide](https://ndcompany.in/blogs/brand-style-guide) shows how to list approved text and background pairs once, so nobody has to test them again.
+
+## What can automated accessibility testing not find?
+
+A lot. axe-core's own documentation says it finds [on average 57% of WCAG issues automatically](https://github.com/dequelabs/axe-core), and it flags other elements as needing manual review because it cannot be certain. We counted only the failures it was certain about, so our 87% is a lower bound.
+
+A machine can see that an image has alt text, but not whether the text is right. It cannot tell whether a visitor can reach every link and button with the Tab key in a sensible order, whether a video's captions match what is said, whether a form explains its errors clearly, or whether the page still works when text is enlarged. The Department of Justice lists barriers like these, including poor colour contrast, missing alt text, videos without captions, mouse-only navigation and inaccessible forms, and it warns that [a "clean" report does not necessarily mean everything is accessible](https://www.ada.gov/resources/web-guidance/). WebAIM's own help pages say the same of its WAVE tool: [the absence of errors does not mean a page is accessible or compliant](https://wave.webaim.org/help).
+
+The 45 sites with no automated failures were not shown to be accessible, and the 335 with failures were not shown to be unusable. They had at least one problem that a machine can find in seconds.
+
+## What does the law say about website accessibility in the US?
+
+This section explains what official sources say. It is not legal advice, and we do not say whether any website meets the law. Ask a lawyer about your own business.
+
+Title III of the Americans with Disabilities Act covers businesses open to the public, which the law calls public accommodations. The Department of Justice's [guidance on web accessibility and the ADA](https://www.ada.gov/resources/web-guidance/), published in March 2022, says the ADA's requirements apply to all the goods, services, privileges or activities offered by public accommodations, including those offered on the web. The same page says the department "does not have a regulation setting out detailed standards", that businesses can currently choose how they will make their online offerings accessible, and that existing technical standards, including WCAG, "provide helpful guidance".
+
+In April 2024 the department published a rule with a fixed standard, but for a different group. Its [fact sheet on the Title II web rule](https://www.ada.gov/resources/2024-03-08-web-rule/) says it applies to state and local governments and sets WCAG 2.1 level AA as the technical standard. After an interim final rule in April 2026, the fact sheet gives compliance dates of 26 April 2027 for governments serving 50,000 people or more and 26 April 2028 for smaller ones and special districts. That rule does not set a standard for private businesses, whose position is still the Title III guidance above.
+
+Our study tested WCAG rules, which is why we report failures of those rules and never "ADA compliance".
+
+## What about the European Accessibility Act?
+
+If you sell to consumers in the EU, the [European Accessibility Act (Directive 2019/882)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0882) applies to services provided to consumers after 28 June 2025, including e-commerce services and consumer banking. Websites for those services must be made perceivable, operable, understandable and robust. Microenterprises that provide services, those with fewer than 10 staff and an annual turnover or balance sheet of no more than €2 million, are exempt from the accessibility requirements. The directive defines a service provider as anyone who provides a service on the EU market or offers one to consumers in the EU, so a business outside the EU that sells to EU consumers should check whether it is in scope. Ask an adviser in the country you sell to.
+
+## How can a small business check its own website?
+
+Start with the same kind of free automated check we ran, then test by hand. Three tools cover the first step:
+
+- [WAVE](https://wave.webaim.org/), from WebAIM. Type your page address on its site, or install its extension for Chrome, Firefox or Edge. The [extension](https://wave.webaim.org/extension/) checks the page in your own browser and sends nothing to WAVE's server.
+- The axe DevTools extension for Chrome, which Deque lists among its [free tools](https://www.deque.com/axe/devtools/). It runs the same axe-core engine we used.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview), built into Chrome. Open your page, open DevTools, choose the Lighthouse tab and run a report. Its [accessibility score](https://developer.chrome.com/docs/lighthouse/accessibility/scoring) is a weighted average of pass or fail audits, weighted by axe's impact ratings, and the manual checks it lists do not count towards the score. A score of 100 means the automated audits passed, and nothing more. The same report scores speed, which our guide to [Core Web Vitals](https://ndcompany.in/blogs/core-web-vitals-explained) explains.
+
+Then spend fifteen minutes doing what the tools cannot:
+
+1. Put the mouse away and press Tab through your homepage. Can you see where you are on every step, and reach the menu, phone number and booking button?
+2. Zoom the page to 200% on a computer and pinch to zoom on a phone. Does the text grow, and does anything get cut off?
+3. Read each image's alt text. Does it say what a sighted visitor would learn from the picture?
+4. Play any video muted. Are there correct captions?
+5. Fill in your contact or booking form with a mistake in it. Does the error say what went wrong, in words, not only in red?
+
+Check the pages that earn you money first: the homepage, booking or contact page, menu or services page and checkout. If you are briefing a designer or developer, write the target into the brief. Our guide to [planning a business website](https://ndcompany.in/blogs/plan-a-business-website) has a sample brief with WCAG 2.2 level AA and the contrast and tap target figures in it.
+
+Some vendors sell overlays, scripts added to a site to find or fix problems. The Department of Justice calls automated checkers and overlays "helpful tools" and pairs that with its warning about clean reports. Colours, labels and alt text fixed in the site itself reach every visitor, with or without a script.
+
+## The data
+
+The rows for all 385 readable sites are in [a CSV file (website-accessibility-2026.csv)](https://ndcompany.in/assets/data/website-accessibility-2026.csv): city, industry, whether the site had a serious or critical failure, how many rules it failed, and whether it failed each of nine common rules (color-contrast, link-name, image-alt, button-name, label, html-has-lang, frame-title, target-size and meta-viewport). Sites are numbered, not named, and we do not share which number is which business. We plan to repeat the study each year with the same method. For a similar check of businesses closer to home, see our study of [901 Kolkata business websites](https://ndcompany.in/blogs/kolkata-small-business-websites).
+
+## How to cite this study
+
+Please cite it as: N&D Co., "How accessible are US small business websites? A study of 385 sites", November 2026, https://ndcompany.in/blogs/small-business-website-accessibility-study, with a link to this page. If you quote a single figure, give the base with it, for example "87% of 385 homepages tested with axe-core 4.14.0", and say that automated testing finds only part of accessibility problems.
+
+## How we can help
+
+We are a brand and growth agency in Kolkata, India, working with clients in the US and abroad. Our [website design and development](https://ndcompany.in/services/website-design-development) page explains how we scope a new site or a rebuild in writing; if accessibility matters to you, ask for it in that scope by standard and level, and expect a manual check as well as an automated scan. To budget for a rebuild, try our [website cost calculator](https://ndcompany.in/tools/website-cost-calculator). US businesses can read our [page for clients in the USA](https://ndcompany.in/locations/usa) for hours and payment, or our guide to [outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india), and agencies that resell builds under their own name can see our [white label web development](https://ndcompany.in/white-label/web-development) page. We cannot tell you whether your site meets the ADA or any other law. Only a lawyer can do that.
+
+- [Web accessibility](https://ndcompany.in/tags/web-accessibility)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study)
+- [Share on WhatsApp](https://wa.me/?text=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study&text=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study&title=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites)
+- [Share on Threads](https://www.threads.net/intent/post?text=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fsmall-business-website-accessibility-study-16x9.png&description=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites)
+- [Share by email](mailto:?subject=How%20accessible%20are%20US%20small%20business%20websites%3F%20A%20study%20of%20385%20sites&body=We%20tested%20385%20US%20small%20business%20homepages%3A%2087%25%20had%20a%20serious%20or%20critical%20WCAG%20failure%2C%20dentists%2096%25%2C%20low%20contrast%2060%25.%20Common%20errors%2C%20fixes%20and%20the%20law.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fsmall-business-website-accessibility-study)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Websites
+
+Guide · 7 Nov 2026
+
+### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+
+What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
+
+Read the guide
+
+Websites
+
+Guide · 7 Nov 2026
+
+### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+
+We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
+
+Read the guide
+
+Websites
+
+News · 5 Nov 2026
+
+### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+
+A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+
+Read the post
+
+[More on Websites](https://ndcompany.in/blogs/topic/websites)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Responsive websites, e-commerce development, and SEO-optimized web solutions.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
+[SEO](https://ndcompany.in/blogs/topic/seo) · Guide
+
+# White label SEO explained: how agencies resell SEO safely
+
+Source: https://ndcompany.in/blogs/white-label-seo-explained
+Updated: 2026-11-11
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 13 min read
+
+White label SEO is search engine optimisation done by one company and sold by another under its own name. The agency keeps the client, sets the price and sends the reports with its own logo. The provider does the work and stays out of sight. It is safe when four things are written down: who talks to the client, who owns the client's Google accounts, how links are built and what happens when the work ends. On 11 November 2026 we read the websites of 16 white label SEO providers. 15 offer reports under the agency's brand, 3 publish a monthly price, 5 mention an NDA, and none says who keeps the client's Search Console, Analytics or Business Profile once the arrangement ends.
+
+Key takeaways
+
+- White label SEO, private label SEO and SEO reselling describe the same basic model: one firm does the SEO, another sells it as its own. No official body defines the terms, so read what each provider's contract says.
+- 15 of the 16 provider sites we read offer unbranded or agency-branded reports or a dashboard. Only 5 mention signing an NDA.
+- 3 of 16 publish a monthly price: $99 to $349 a month per website, $355 to $2,219 a month at one provider's member rate, and 1,300 to 2,500 pounds a month per client.
+- 2 of 16 publish prices per link, from $175 to $450 at one and 80 to 2,500 pounds per placement at the other. Google's spam policies call buying links for ranking purposes link spam.
+- 0 of 16 say who keeps the client's Google accounts when the work ends. Google's own rules say the business should stay the owner of its Business Profile at all times.
+
+This post is part of our guide to [outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india). It is written for agency owners in the US, UK and Europe who want to add SEO to what they sell without hiring an SEO team.
+
+## How we did the study
+
+We searched for white label SEO pricing and SEO reseller programs on 11 November 2026 and took the 20 providers whose own websites came up. Four of them refused automated reading of every page, so the study covers the 16 we could read. For each one we read only its own pages: the white label or reseller page, pricing, FAQ and terms. We recorded what each site says, with the page it came from. It records what providers say about themselves, not how good their work is, and we do not name them here.
+
+## What is white label SEO?
+
+White label SEO is an arrangement in which an SEO provider does search optimisation work for an agency's clients, and the agency sells that work as its own. The client signs with the agency and pays the agency. The agency pays the provider a wholesale price agreed between them and charges its client whatever it chooses. Everything the client sees, from the audit and the monthly report to any email about the work, carries the agency's name or no name at all. The provider never sells to the client directly and usually never speaks to it. The name comes from white label goods: a product made by one company and packaged under another's brand. For an agency, the appeal is that it can offer SEO next to web design, ads or social media without hiring SEO specialists. The risk is that the agency answers to its client for work it did not do itself, so it needs to know exactly how that work is done.
+
+## Is private label SEO the same thing? What is an SEO reseller?
+
+Mostly, yes. Private label SEO, SEO reselling and outsourced SEO fulfilment are all used for one firm doing the SEO and another selling it. Some providers draw lines between them, such as exclusivity or a fixed menu of packages, but there is no standard definition, so a label tells you less than the contract does.
+
+A white label SEO program, or reseller program, is a provider's standing offer to agencies: a wholesale price list, a branded reporting dashboard, sometimes sales material, and an account manager. One provider in our sample sells a membership that sets the wholesale rate an agency pays. Another sells a platform at $99 to $999 a month, on a one-year contract for its paid plans, with SEO as one of the services on it. Ask which of these you are buying: a person doing work on your client's site, software that produces reports, or both.
+
+## How does white label SEO work day to day?
+
+The work itself is ordinary SEO. What changes is who does what, and whose name is on it.
+
+**Who does what in a typical white label SEO arrangement**
+
+| Task | Agency | Provider |
+| --- | --- | --- |
+| Sells SEO and signs the client | Yes | No |
+| Sets the client's price | Yes | No |
+| Writes the brief and agrees the scope | Yes, with the client | Quotes against it |
+| Audit, keyword research, on-page fixes, content, links | Reviews and approves | Does the work |
+| Access to the client's Google accounts | Arranges it with the client | Works through the access it is given |
+| Monthly report | Sends it to the client | Writes it, unbranded or with the agency's logo |
+| Client calls and complaints | Handles them | Joins only if the agency asks |
+
+Access is where most of the practical detail sits. In Google Search Console, [Google's help page on users and permissions](https://support.google.com/webmasters/answer/7687615) says owners can add and remove users and use every tool, a full user can view all data and take some actions, and a restricted user has simple view rights on most data. Only an owner can add users. So the client stays the owner, the agency gets the access it needs, and the provider is added as a full or restricted user, under an email address the agency chooses if the provider should not appear by name.
+
+## Who talks to the client?
+
+In most arrangements, only the agency. In our sample, 7 of the 16 providers say they never contact the agency's clients or that the client never learns they exist. 4 offer to speak to the client as part of the agency's team, on calls or through a support line, if the agency wants that. One of them says that if an agency's client approaches it directly, it declines the work and tells the agency. The rest do not say.
+
+Either model can work if it is agreed in advance. Before the first client, settle three things in writing: whether the provider may ever speak to your client, under what name it introduces itself, and what it does if your client finds it and asks it to work directly. That last point is what a non-solicitation clause covers, in the next section.
+
+What 16 white label SEO provider websites publish, number of providers
+
+**What 16 white label SEO provider websites publish, number of providers**
+
+| Category | Value |
+| --- | --- |
+| Unbranded or agency-branded reports | 15 |
+| Month to month, or no long-term contract | 11 |
+| Say they never contact your client | 7 |
+| Say rankings cannot be guaranteed | 6 |
+| Mention signing an NDA | 5 |
+| Offer to speak to your client as your team | 4 |
+| Publish a monthly white label price | 3 |
+| State a notice period | 3 |
+| Publish prices per link | 2 |
+| Say who keeps the client's Google accounts | 0 |
+
+*16 providers that came up in searches for white label SEO pricing and SEO reseller programs, each described by its own website. A provider can appear in several rows. Four more refused automated reading and are left out. Source: N&D Co. survey of 16 white label SEO provider websites, 11 November 2026.*
+
+## NDAs, non-solicitation and ownership: what goes in the contract?
+
+Three clauses carry most of the protection in a white label deal. We explain what each one is for. This is general information, not legal advice, and a lawyer in your own country should read the contract before you sign.
+
+### The NDA
+
+A non-disclosure agreement stops the provider from sharing your client's name, data or results, and from showing the work in its portfolio. Only 5 of the 16 providers mention one on their sites. Others may still sign, so ask, and have it signed before you send the client's name or give anyone access to an account.
+
+### The non-solicitation clause
+
+This is the provider's promise not to approach your clients, or take work from them, for a set period. Without it, the safest white label provider is the one that never learns who your client is, which is not practical once it is working in the client's accounts. Ask how long the promise lasts after your last project, and whether it covers a client who approaches the provider first.
+
+### Ownership of accounts and work
+
+None of the 16 sites says who keeps the client's Search Console, Analytics or Business Profile when the arrangement ends. Four say deliverables become yours on payment, which covers reports and content, not accounts. Keep every account registered to the client, never to the provider. For local SEO there is a Google rule as well: [Google's Business Profile third-party policies](https://support.google.com/business/answer/7353941) tell anyone managing a profile for a business to make the business owner the owner of the profile and themselves the manager, and say the business must keep ownership or co-ownership at all times. The same policy requires the business owner's express consent before a third party claims or manages a profile, and bans guaranteeing top placement on Google.
+
+## What are the risks of white label SEO?
+
+The main risk is that your agency's name goes on work you cannot see being done. Google is clear about where that leaves you. Its page ["Do you need an SEO?"](https://developers.google.com/search/docs/fundamentals/do-i-need-seo) says: "Ultimately, you are responsible for the actions of any companies you hire." In a white label chain, your client hired you, so your client holds you responsible for what the provider does.
+
+### Link spam
+
+[Google's spam policies](https://developers.google.com/search/docs/essentials/spam-policies) define link spam as creating links to or from a site primarily to manipulate search rankings. The examples include buying or selling links for ranking purposes, exchanging goods or services for links, links with optimised anchor text in guest posts and press releases on other sites, and using automated programs or services to create links. The same page says sites that break the policies may rank lower or not appear at all. Paid links are allowed when they are marked: Google's page on [qualifying outbound links](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links) asks for paid placements to carry `rel="sponsored"`, with `rel="nofollow"` still accepted.
+
+Two of our 16 providers publish prices per link, from $175 to $450 at one and from 80 to 2,500 pounds per placement at the other. One more bundles 25 to 100 backlinks a month into its general SEO packages. None of this is proof of anything wrong, because outreach and digital PR can earn real links. But a price per link or a monthly link count bought to raise rankings is what Google describes, and the client's site carries the result. Ask where links will come from and ask to see five built last month.
+
+### Ranking guarantees
+
+None of the 16 promises a ranking, and 6 say rankings cannot be guaranteed or disclaim any warranty of results. Google's hiring page says no one can guarantee a number one ranking on Google. One provider's general SEO packages, not its reseller offer, still charge a fee per keyword that reaches page one. If a provider promises you positions, do not pass that promise on to a client.
+
+### Charging for Google's free products
+
+If your fee includes managing a client's Business Profile, Google's third-party policy requires you to tell the client that Business Profile is a service provided at no extra cost, to disclose your management fee in writing before you start, and to show it on invoices. It also requires agencies that mainly serve small and medium businesses to link Google's disclosure notice from a clearly discoverable place on their website. A white label provider cannot do this for you, because the client relationship is yours.
+
+## What does a monthly white label SEO deliverable list look like?
+
+A useful list names the work and the evidence for it, so you can check one against the other before forwarding the report. Here is the list behind our own [white label SEO service](https://ndcompany.in/white-label/seo), as an example of what to expect from any provider.
+
+- In the first month, an audit: a crawl of the client's site for indexing problems, broken links, redirect chains, slow templates and missing metadata, delivered as a fix list ranked by priority.
+- Keyword research: the phrases the client's customers search for, grouped by intent and mapped to existing or new pages.
+- On-page work on titles, meta descriptions, headings, internal links, image alt text and schema markup, updated page by page.
+- New pages or posts written to answer each search directly, a set number each month.
+- Local SEO where the client serves an area: Business Profile setup or cleanup and consistent business details across directories.
+- Link building by outreach, plus reclaiming links the site has already earned, with the links named in the report.
+- A monthly report with rankings, organic traffic, indexing status and a log of the work done, unbranded or with the agency's logo.
+
+The log matters most. A report that shows rankings without saying what changed on the site leaves you unable to explain a fall to your client. For what an audit contains in detail, read [how our SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works).
+
+## How much does white label SEO cost?
+
+Most providers do not say. 13 of the 16 give no monthly white label price on their sites and price by quote, by volume or by project. The three that publish one price in very different ways.
+
+**White label SEO prices published on 3 of 16 provider websites, 11 November 2026**
+
+| How it is priced | Published range | Contract |
+| --- | --- | --- |
+| Per website, platform-led plans | $99 to $349 a month | Month to month |
+| Package tiers, at one membership level | $355 to $2,219 a month | Month to month |
+| Per client, managed by a team | 1,300 to 2,500 pounds a month | Rolling monthly, 30 days' notice in its terms |
+
+Beyond monthly retainers, the pricing models we saw were per project, per link or placement, per audit (one provider lists 300 to 800 pounds for a technical audit) and membership fees that unlock wholesale rates. Three providers state a notice period: 15 days, 30 days and 48 hours before renewal.
+
+The price you pay a provider and the price your client pays you are separate decisions. When you compare providers, compare what a month buys: hours or deliverables, the number of content pieces, how links are built and what the report contains. For what SEO costs when bought direct, see [what SEO costs in India](https://ndcompany.in/blogs/seo-cost-india).
+
+## What should you check before choosing a white label SEO provider?
+
+Start with the questions Google suggests on its hiring page, such as asking for examples of previous work, whether the SEO follows Google Search Essentials, what results it expects and in what timeframe, and whether it will share every change it makes to the site. Then add the white label ones.
+
+1. Will you sign our NDA before we share a client's name?
+2. Will you ever contact our client, and under what name do you appear in their accounts and on calls?
+3. How long does your promise not to work for our clients last, and does it cover a client who approaches you first?
+4. Do the client's accounts stay in the client's name, with you added as a user?
+5. Where do links come from? Show us five you built last month.
+6. Do you promise rankings? (The right answer is no.)
+7. Can we see a sample monthly report with a log of the work done?
+8. What is in a month: deliverables, content count, hours?
+9. What is the notice period, and what do we receive when we leave?
+10. Who owns the deliverables on payment, and can we pass them to our client?
+
+We ran similar checks on Indian SEO agencies that sell to clients directly in [how to choose an SEO agency in India](https://ndcompany.in/blogs/choose-seo-agency-india), and the same warning signs apply here.
+
+## How our white label SEO works
+
+We are a brand and growth agency in Kolkata, India, and every service on our site is also available [white label for agencies](https://ndcompany.in/white-label). Our terms of service set out the white label rules. Our agreement is with the agency, which pays our invoices whether or not its client has paid it. We sign the agency's NDA once we have read it, or offer our own mutual one. Nothing we deliver carries our name, and we do not show the work in our portfolio unless the agency agrees in writing. We deal only with the agency, and never contact its client unless the agency asks us to join as part of its team. While we work with an agency, and for 12 months after our last project for it, we do not approach or knowingly take work from a client it introduced to us. On full payment, the final deliverables named in the quote are assigned to the agency, which may pass them to its client.
+
+The SEO work is the same as our own [SEO services](https://ndcompany.in/services/seo-services), with the agency's name in place of ours. Agency prices start at $199 a month for monthly SEO and $149 for a single audit, and the written quote confirms the price before work starts. We do not promise rankings, and our [white label SEO page](https://ndcompany.in/white-label/seo) lists what each package includes.
+
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [SEO audits](https://ndcompany.in/tags/seo-audits)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained)
+- [Share on WhatsApp](https://wa.me/?text=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained&text=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained&title=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely)
+- [Share on Threads](https://www.threads.net/intent/post?text=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fwhite-label-seo-explained-16x9.png&description=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely)
+- [Share by email](mailto:?subject=White%20label%20SEO%20explained%3A%20how%20agencies%20resell%20SEO%20safely&body=White%20label%20SEO%20explained%3A%20how%20reselling%20works%2C%20NDAs%2C%20who%20owns%20the%20accounts%20and%20the%20link%20spam%20risk.%20We%20read%2016%20provider%20sites%3B%20only%203%20publish%20a%20monthly%20price.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-seo-explained)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+SEO
+
+Guide · 6 Nov 2026
+
+### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
+
+Dollar prices, ranking promises, links sold by count, lock-in contracts and account ownership on 37 Indian SEO agency websites, with a checklist for your first call.
+
+Read the guide
+
+SEO
+
+Guide · 31 Oct 2026
+
+### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+
+Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
+
+Read the guide
+
+SEO
+
+Guide · 30 Oct 2026
+
+### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+
+Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
+
+Read the guide
+
+[More on SEO](https://ndcompany.in/blogs/topic/seo)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [SEO Services](https://ndcompany.in/services/seo-services)
+
+On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
+[Business](https://ndcompany.in/blogs/topic/business) · Guide
+
+# NDAs, IP and ownership when you outsource to an agency
+
+Source: https://ndcompany.in/blogs/outsourcing-nda-ip-ownership
+Updated: 2026-11-11
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 13 min read
+
+When you outsource work to an agency, the agency owns the copyright in what it makes until a signed document transfers it to you. That is the starting point in the US, the UK and India alike. Paying does not change it, and a "work made for hire" clause often does not either. What makes the code or design yours is a written assignment signed by the agency. With an Indian agency it should also say how long it lasts and where, because Indian law reads an assignment with no period as five years and one with no territory as India only. An NDA is a separate document that protects what you share and transfers nothing. This guide links each rule to the law itself, as we read it on 11 November 2026. It is not legal advice, so have a lawyer in your own country read the contract.
+
+Key takeaways
+
+- US: a contractor's work is a work made for hire only in nine categories and with a signed written agreement. Otherwise ownership moves only by a signed written transfer.
+- UK: the author is the first owner, an assignment must be in writing and signed, and a signed assignment of future copyright vests in you as the work is made.
+- India: an assignment must be signed and name the work, rights, period and territory. With no period it lasts five years, and with no territory it covers India only.
+- An NDA protects information. It does not give you the code, so you need both.
+- Of 30 Indian web agencies we read in November 2026, 8 say the client owns the code after payment and 20 say nothing about ownership.
+
+If you are still deciding whether to outsource at all, start with our guide to [outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india). This post covers who owns what, and what to sign first.
+
+## Who owns the code when you outsource development?
+
+The person or company that wrote it, unless you agree otherwise in writing. All three systems start from the author.
+
+- In the US, copyright ["vests initially in the author or authors of the work"](https://www.law.cornell.edu/uscode/text/17/201) (17 U.S.C. 201(a)).
+- In the UK, ["the author of a work is the first owner of any copyright in it"](https://assets.publishing.service.gov.uk/media/60180c2b8fa8f53fc62c5897/Copyright-designs-and-patents-act-1988.pdf) (Copyright, Designs and Patents Act 1988, section 11(1)).
+- In India, [the author is the first owner](https://copyright.gov.in/Documents/Copyright_Act_1957.pdf) (Copyright Act, 1957, section 17), and the Act's definition of a literary work includes computer programmes (section 2(o)).
+
+Each system gives an employer the work its employees make in the course of their job. You are the agency's client, not its employer, so that rule gives the agency its staff's work, and you get it only by transfer. The EU's Software Directive is no different. Its [article 2(3)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0024) gives the economic rights in a program to the employer when an employee writes it, and article 2 says nothing that hands an outside contractor's program to the client.
+
+## What do agencies say about ownership on their websites?
+
+Most say nothing. When we studied [how to hire a WordPress developer in India](https://ndcompany.in/blogs/hire-wordpress-developer-india), we read the websites of 30 Indian web development agencies on 7 November 2026, including what each says about ownership.
+
+What 30 Indian web agencies say about who owns the code, number of agencies
+
+**What 30 Indian web agencies say about who owns the code, number of agencies**
+
+| Category | Value |
+| --- | --- |
+| Say nothing about ownership | 20 |
+| Say the client owns the code or site after payment | 8 |
+| Keep custom code unless transferred in writing | 1 |
+| Unclear | 1 |
+
+*30 India-based agencies from page 1 of Semrush's web development list for India, each described by its own website. 10 of the same 30 mention signing an NDA. Source: N&D Co. survey of 30 Indian agency websites, 7 November 2026.*
+
+A line on a website is not an assignment under US, UK or Indian law, so ask, and get the answer signed.
+
+## Is outsourced code a work made for hire in the US?
+
+Often not, even when the contract says it is. A work made for hire is a work whose legal author is the employer or the party that commissioned it, not the person who made it, so the hiring party owns it from the start. The US Copyright Office's [Circular 30, Works Made for Hire](https://www.copyright.gov/circs/circ30.pdf) (revised August 2024) sets out the test from section 101 of the Copyright Act. For commissioned work, four conditions apply. It must fall in one of nine categories: a contribution to a collective work, part of a motion picture or other audiovisual work, a translation, a supplementary work, a compilation, an instructional text, a test, answer material for a test, or an atlas. A written agreement must say expressly that it is a work made for hire, and every party must sign it. The circular is blunt: "If a work fails to satisfy any of these requirements, it is not a work made for hire."
+
+A website or an app is not one of the nine by name. Whether yours could fit one is a question for your lawyer, and a contract should not depend on it. When the label fails, ownership moves only through a transfer that meets [17 U.S.C. 204(a)](https://www.law.cornell.edu/uscode/text/17/204): "an instrument of conveyance, or a note or memorandum of the transfer," that is "in writing and signed by the owner of the rights conveyed or such owner's duly authorized agent."
+
+The label also matters because, Circular 30 says, the termination rights in sections 203 and 304, which in some cases let an author or their heirs end a transfer, do not apply to works made for hire. So a contract can say both: the work is made for hire where the law allows, and everything else is assigned to you.
+
+## What does UK law say about commissioned work?
+
+That commissioning and paying for a work does not make it yours. The Intellectual Property Office's guidance on [ownership of copyright works](https://www.gov.uk/guidance/ownership-of-copyright-works) says that for a commissioned work the first owner is "the person or organisation that created the work," and that this holds "unless you otherwise agree it in writing." At most, a commissioner may get an implied licence to use the work for its intended purpose, which is far less than owning it.
+
+Two sections of the Copyright, Designs and Patents Act 1988 decide how the transfer works. We read them in the [Intellectual Property Office's consolidated text of the Act](https://assets.publishing.service.gov.uk/media/60180c2b8fa8f53fc62c5897/Copyright-designs-and-patents-act-1988.pdf) (only the Act itself is authoritative).
+
+- Section 90(3): "An assignment of copyright is not effective unless it is in writing signed by or on behalf of the assignor."
+- Section 91(1): if the future owner signs an assignment of copyright in work not yet made, the copyright vests in you as the work comes into existence. So sign the assignment before the build starts.
+
+## What does Indian law say when your agency is in India?
+
+India's Copyright Act, 1957 has the most detailed rules of the three. Under [section 18](https://copyright.gov.in/Documents/Copyright_Act_1957.pdf), an owner may assign copyright "for the whole term of the copyright or any part thereof." An assignment of a future work takes effect when the work exists, and an assignment does not reach a medium or mode of use that did not exist or was not in commercial use when it was signed, unless it refers to that medium or mode specifically.
+
+### The five-year, India-only default
+
+Section 19 sets out what an assignment must contain:
+
+- It is valid only "in writing signed by the assignor or by his duly authorised agent" (section 19(1)).
+- It must identify the work and "specify the rights assigned and the duration and territorial extent" (section 19(2)).
+- It must state the royalty or other payment to the author (section 19(3)).
+- Rights you do not exercise within one year are deemed to lapse, "unless otherwise specified in the assignment" (section 19(4)).
+- "If the period of assignment is not stated, it shall be deemed to be five years from the date of assignment" (section 19(5)).
+- "If the territorial extent of assignment of the rights is not specified, it shall be presumed to extend within India" (section 19(6)).
+
+So a short line such as "all IP passes to the client on payment" may leave a client in New York or London with rights in India for five years, and treat any right left unused for a year as lapsed. We covered the same trap for logos in [logo vs brand identity](https://ndcompany.in/blogs/logo-vs-brand-identity).
+
+### Who inside the agency owns the work?
+
+Section 17(c) gives the employer the work an employee makes under a contract of service, "in the absence of any agreement to the contrary." So an agency usually owns what its staff write, but its freelancers own what they make until they assign it to the agency, and an agency can pass on only what it holds. Ask it to confirm in the contract that everyone who worked on your project has assigned their rights to it.
+
+### Moral rights
+
+India's section 57 gives an author the right to claim authorship and to object to a distortion or modification that would harm their honour or reputation, "independently of the author's copyright and even after the assignment." The Act has no section on waiving them. In the UK, neither the right to be named nor the right to object to derogatory treatment applies to a computer program (sections 79(2) and 81(2)), and any moral right "may be waived by instrument in writing signed by the person giving up the right" (section 87(2)). Designs, text and photos are not programs, so ask for a written waiver for those, and ask your lawyer how far one works in India.
+
+## How do the US, UK and Indian rules compare?
+
+**Ownership of work made by an outside agency, by country**
+
+| Question | US | UK | India |
+| --- | --- | --- | --- |
+| Who owns it first? | The author (s.201(a)) | The author (s.11(1)) | The author (s.17) |
+| Can the client own it from creation? | Only as a work made for hire: nine categories, signed written agreement | Through a signed assignment of future copyright (s.91) | A future-work assignment takes effect when the work exists (s.18) |
+| Form of a transfer | In writing, signed by the owner or its agent (s.204(a)) | In writing, signed by or for the assignor (s.90(3)) | In writing, signed, naming work, rights, period, territory and payment (s.19) |
+| If no period is stated | No statutory default | No statutory default | Five years (s.19(5)) |
+| If no territory is stated | No statutory default | No statutory default | India only (s.19(6)) |
+| Rights left unused | No lapse rule | No lapse rule | Lapse after one year unless the assignment says otherwise (s.19(4)) |
+
+"No statutory default" means we found no such rule in the sections we read. Which country's law decides ownership is itself a question for a lawyer. The practical answer is one signed assignment that meets India's stricter rules, which also gives the US and UK the signed writing they require.
+
+## What should the IP assignment say?
+
+Ask for wording that:
+
+1. Names the deliverables, such as the source code, design files and content, in the text or an attached list. A written brief, as in our guide to [planning a business website](https://ndcompany.in/blogs/plan-a-business-website), makes that list easy.
+2. Assigns all rights, not a licence, for the full term of copyright.
+3. Covers the world, or at least every country you sell in.
+4. Says the assignment does not lapse if you leave some rights unused for a year.
+5. Names the media and uses you need, given section 18's proviso.
+6. Assigns future work as well as finished work, signed before the build starts.
+7. States the payment and when ownership passes. All 8 agencies in our study that say the client owns the code tie it to payment.
+8. Confirms that everyone who worked on it, freelancers included, assigned their rights to the agency.
+9. Lists what stays with the agency, such as its own tools and libraries, with a licence for you to use them in the deliverable.
+10. Includes a moral rights waiver where the law allows one.
+
+## What should an outsourcing NDA cover?
+
+An NDA (non-disclosure agreement) is a contract that says what information is confidential, what the other side may do with it and for how long. It does not transfer anything the agency makes, so it never replaces the assignment. Ten of the 30 agencies in our study mention signing one. Sign it before you share anything private, and check that it covers:
+
+- What counts as confidential, and the exclusions, such as public information.
+- The purpose: the information may be used only for your project.
+- Who may see it, including any freelancers, on the same terms.
+- Whether it is one-way or mutual.
+- How long the duty lasts after the project ends.
+- Return or deletion of your files and logins at the end, confirmed in writing.
+- Which country's law governs it and where a dispute would be heard.
+
+### If the agency will handle personal data
+
+If the agency processes personal data for you, such as customer details in a store, an NDA is not enough. For an EU business, the GDPR says that processing by a processor ["shall be governed by a contract or other legal act"](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) setting out the processing and the types of data (article 28(3)), and that the contract "shall be in writing, including in electronic form" (article 28(9)). Ask your data protection adviser to check the rest of the GDPR's rules for your project.
+
+## What else do you need to own besides the code?
+
+Accounts and licences in the agency's name can lock you out as surely as code you do not own. Ask for:
+
+- Domain, hosting, app store, analytics and ad accounts in your business's name, with the agency added as a user. Our guide to [choosing an SEO agency in India](https://ndcompany.in/blogs/choose-seo-agency-india) covers the same rule for Google accounts.
+- A code repository your business owns, so you hold every version, not only the last one handed over.
+- A list of paid themes, plugins, fonts and stock photos, whose name each licence is in and when it renews. They stay with their makers under their licences. WordPress, for example, says ["plugins and themes are derivative work and thus inherit the GPL license"](https://wordpress.org/about/license/).
+- A list of open-source components and their licences at handover. Even permissive licences have conditions: the MIT License requires that ["the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software"](https://opensource.org/license/mit).
+- Editable design files and build scripts named in the deliverables, not only exports. For a logo, our list of [logo file types](https://ndcompany.in/blogs/logo-file-types) shows which files to ask for.
+
+## Which law applies, and do you need source code escrow?
+
+Every contract with a foreign agency should say which country's law applies and where a dispute is heard, in a named court or by arbitration. Ask a lawyer in your country what each option would mean if you had to enforce a decision against an agency in India.
+
+Source code escrow means a third party holds a copy of the code and releases it to you if the supplier stops trading or supporting it. It matters when you get only a licence. If you own the code and the repository, escrow adds little.
+
+## Checklist: what to put in writing before you outsource
+
+**Ownership and confidentiality terms to agree before work starts**
+
+| Item | What to write | Why |
+| --- | --- | --- |
+| NDA | Signed before you share anything private; purpose, people, term, return or deletion | Protects information, transfers nothing |
+| Named deliverables | Code, repository, design files, content, each listed | An assignment must identify the work (India s.19(2)) |
+| Assignment | All rights, signed by the agency | Required in writing and signed (US s.204(a), UK s.90(3), India s.19(1)) |
+| Period | The full term of copyright | Otherwise five years in India (s.19(5)) |
+| Territory | Worldwide | Otherwise India only (s.19(6)) |
+| No lapse | Rights do not lapse if unused for a year | India s.19(4) |
+| Future work | Assignment signed before the build starts | UK s.91, India s.18 |
+| People | Everyone who worked on it has assigned their rights to the agency | The agency can pass on only what it holds |
+| Moral rights | Waiver where the law allows | UK s.87; ask about India's s.57 |
+| Accounts | Domain, hosting, stores, analytics and ads in your name | You keep control if the agency leaves |
+| Licences and open source | A list of components, licences and renewals | Third-party parts are licensed, not owned |
+| Personal data | A processing contract | GDPR article 28 for EU businesses |
+| Law and courts | Governing law and where disputes are heard | Ask a lawyer in your country |
+
+## How our own terms handle ownership
+
+We are a brand and growth agency in Kolkata. Section 6 of our [terms of service](https://ndcompany.in/terms) says that when we receive full payment, we assign to you the copyright in the final deliverables named in your quote or project agreement. We sign that document, and it states the rights assigned, for how long and in which countries, and that they do not lapse if unused within a year. Drafts and our reusable tools and code stay ours, with the licence you need for any that are in a deliverable. Third-party material such as fonts, plugins and open-source code stays with its owners.
+
+For agencies that resell our work under their own name, our [white label](https://ndcompany.in/white-label) terms say that before the agency shares anything about its client, we sign its NDA once we have read it, or offer our own mutual one. If you are planning a build, see our [software development](https://ndcompany.in/services/software-development), [website design and development](https://ndcompany.in/services/website-design-development) and [mobile app development](https://ndcompany.in/services/mobile-app-development) pages. None of this is legal advice: a lawyer in your own country should read any contract, ours included, before you sign.
+
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Website planning](https://ndcompany.in/tags/website-planning)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership)
+- [Share on WhatsApp](https://wa.me/?text=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership&text=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership&title=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency)
+- [Share on Threads](https://www.threads.net/intent/post?text=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Foutsourcing-nda-ip-ownership-16x9.png&description=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency)
+- [Share by email](mailto:?subject=NDAs%2C%20IP%20and%20ownership%20when%20you%20outsource%20to%20an%20agency&body=Who%20owns%20outsourced%20code%3F%20US%20work%20for%20hire%2C%20UK%20and%20Indian%20copyright%20law%2C%20why%20an%20Indian%20assignment%20needs%20a%20period%20and%20territory%2C%20and%20what%20your%20NDA%20must%20cover.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Foutsourcing-nda-ip-ownership)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Business
+
+Guide · 31 Oct 2026
+
+### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+
+Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+
+Read the guide
+
+Business
+
+Insight · 29 Oct 2026
+
+### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+
+Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
+
+Read the post
+
+Business
+
+Guide · 27 Oct 2026
+
+### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+
+US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
+
+Read the guide
+
+[More on Business](https://ndcompany.in/blogs/topic/business)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Software Development](https://ndcompany.in/services/software-development)
+
+Custom web applications, CRM systems, and internal business software.
+
+Learn more
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Responsive websites, e-commerce development, and SEO-optimized web solutions.
+
+Learn more
+
+### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+
+Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
+[Marketing](https://ndcompany.in/blogs/topic/marketing) · Tips
+
+# 12 restaurant ad ideas, with food ads from our own work
+
+Source: https://ndcompany.in/blogs/restaurant-ad-ideas
+Updated: 2026-11-11
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 11 November 2026 9 min read
+
+Good restaurant ad ideas are usually simple: one dish shown large, one reason to come now (a price, a discount or a time), and one thing to do next, such as Order now or Visit now. Below are 12 ideas for food advertisements on Instagram, Facebook and Google, each shown with a social media creative or ad creative our team designed for a restaurant, cafe or bar, or with the platform rule it depends on. We describe only what the images show. We make no claim about the sales or reach of any of them, because we do not have those figures to publish. The sizes each platform asks for, and a short checklist, come at the end.
+
+Key takeaways
+
+- Build each ad around one dish and one offer, with a single call to action.
+- Meta recommends a 4:5 image at 1440 by 1800 pixels for Facebook and Instagram feed ads, and 9:16 at 1440 by 2560 for Stories and Reels.
+- In Stories and Reels, keep about 14% at the top, 35% at the bottom and 6% at each side free of text and logos.
+- Google's Performance Max ads need square and landscape images, and Google recommends at least one image without text overlays for each shape.
+- Bar ads that show alcohol fall under Meta's alcohol rules: no one under 18, higher ages in some countries, and no alcohol ads at all in others.
+
+## 1. What is the simplest restaurant ad that sells?
+
+One dish, one price and one button. The steamed momo creative we designed for [Kebabiyana, a restaurant whose ads and social media we ran](https://ndcompany.in/projects/kebabiyana), does exactly that. The dish name runs across a mustard yellow square in tall white capitals, a black plate of six momos overlaps it, and a dark brown burst reads "ONLY 59/-", which is ₹59. A hand-drawn arrow leads to a white "Order now!" button. Apart from two small labels in the top corners and the logo, there are no other words. Someone who stops scrolling for a second learns what it is, what it costs and what to do.
+
+![Steamed momo post for Kebabiyana: the dish on a black plate with a 59 rupee price and an Order now button](https://ndcompany.in/assets/images/projects/kebabiyana-steamed-momo-poster.webp)
+
+*Kebabiyana's steamed momo creative: one dish, one price, one button.*
+
+## 2. A limited-time discount on one dish
+
+A discount gives people a reason to act this week rather than someday. Our BBQ chicken wings creative for Kebabiyana goes dark: a black background with orange embers, a white plate of glazed wings in the middle, a red "10% DISCOUNT" starburst on one side and a red "PRICE 89/-" tag on the other. One line of copy starts with "Limited Time Offer", and the button reads "Visit Now!" instead of asking for an order. Where the momo creative sells delivery, this one asks people to come in. Decide which you want before the design starts, because the button and the copy follow from it.
+
+![BBQ chicken wings offer creative for Kebabiyana: a plate of glazed wings on a black background with a 10% discount badge and a price tag reading 89](https://ndcompany.in/assets/images/projects/kebabiyana-bbq-chicken-wings.webp)
+
+*The BBQ chicken wings offer: a discount, a price and a Visit Now button.*
+
+## 3. An offer tied to a time window
+
+Weekend hours, a happy hour or a slow weekday evening are easy to fill with a fixed-time offer. The [Pio Bhai offer creative for Dream Bar](https://ndcompany.in/projects/dream-bar), a bar and restaurant in Barrackpore, Kolkata, puts every line of the offer in the left half of a black square: the name, "Saturday & Sunday", 8:00 PM to 10:00 PM and the address. A tall glass of beer fills the right half, and a round yellow stamp reads "Special 30% off offer". No text crosses the photo, so both stay readable.
+
+If your ad shows alcohol, check the platform rules first. [Meta's alcohol ad policy](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/alcohol/) says such ads may not target anyone under 18, sets higher ages in some countries (21 in the US) and bans alcohol ads in others, including the UAE, Bangladesh and some Indian states. Google's [Business Profile posts policy](https://support.google.com/business/answer/7662907?hl=en) lets bars post but asks them to leave alcohol out of the content. This is a summary of the platforms' pages, not legal advice.
+
+![Pio Bhai offer creative for Dream Bar: weekend hours and a 30% off stamp beside a glass of beer](https://ndcompany.in/assets/images/projects/dream-bar-pio-bhai-poster.webp)
+
+*Dream Bar's Pio Bhai offer: days, hours and address on the left, the drink on the right.*
+
+## 4. Your best seller, with a badge
+
+Calling a dish your best seller tells a new customer what to try first. In our medu vada creative, from a set of [food posts and ad creatives we made as samples](https://ndcompany.in/projects/food-poster-series), BEST SELLER curves over a plate of medu vada on banana leaves, a red scalloped badge reads "GET 50% OFF" and a green "ORDER NOW" button sits below. Marigolds hang across the top. The restaurant name is a stand-in, as this was a sample. Only use the words best seller if it is true of your menu.
+
+![Medu vada offer post: a plate of medu vada on banana leaves, a red Get 50% off badge, Best Seller and Medu Vada in green and an Order now button](https://ndcompany.in/assets/images/projects/medu-vada-poster.webp)
+
+*A 4:5 best seller post with a 50% off badge, from our food samples.*
+
+## 5. A signature item with no offer at all
+
+Not every ad needs a discount. Our square creative for [Wafflery's, a waffle shop in Kolkata](https://ndcompany.in/projects/wafflerys), shows a chocolate waffle on a fork in front of the shop's name, with the tagline "Indulge in goodness like never before" and the address beside a map pin. There is no price and no offer. The ad is about one product and where to buy it. Mixing a few of these in with your offer ads keeps the feed from reading like a price list.
+
+![Chocolate waffle creative for Wafflery's: a waffle on a fork in front of the shop's name](https://ndcompany.in/assets/images/projects/wafflerys-chocolate-waffle-poster.webp)
+
+*Wafflery's: one product, a tagline and the address, with no offer.*
+
+## 6. A recurring event, like a weekly brunch
+
+For a weekly event, the day and the hours matter most. Our Kolkata Brunch design announces a brunch every Saturday from 10am to 2pm: a top-down photo of a brunch table in a tall rounded frame, a ribbon reading "Every Saturday Morning" and the hours on a pink-red block. The same event can go on your Google listing. Google lets a Business Profile publish [updates, offers and events](https://support.google.com/business/answer/7662907?hl=en), and our [Google Business Profile guide](https://ndcompany.in/blogs/google-business-profile-guide) covers setting the listing up.
+
+![Kolkata Brunch design: a top-down brunch spread in a tall rounded frame, a ribbon reading Every Saturday Morning and From 10am-2pm on a pink-red block](https://ndcompany.in/assets/images/projects/kolkata-brunch-poster.webp)
+
+*Kolkata Brunch: a weekly slot, the day and the hours.*
+
+## 7. A craving line on a hero dish
+
+A short line about how the food feels can carry a post that has no offer. Our biryani creative sets "It's not just food, it's an emotion." above BIRYANI in very large dark red capitals. A clay bowl of chicken biryani sits in front of the word, with steam drifting across the last letters, and two lines below describe the rice, meat and spices. The line is short and the dish is still the largest thing on screen.
+
+![Biryani post: a clay bowl of chicken biryani in front of the word Biryani in large dark red letters on red, with steam drifting across the last letters](https://ndcompany.in/assets/images/projects/biryani-poster.webp)
+
+*The biryani post: a one-line craving headline over the dish.*
+
+## 8. A dark, close food shot that stands out in the feed
+
+A dark frame is one way to look different from the posts around it. Our Healthy Chicken Wrap creative puts two halves of a grilled chicken wrap on a wooden table at the bottom of a black frame, with flames on one side and "Healthy" in an orange brush script over CHICKEN WRAP in heavy white capitals. It has no restaurant name, price or address, which is fine for a brand post but not for an ad: before you pay to show it, add your logo and one reason to act.
+
+![Healthy Chicken Wrap post: two halves of a chicken wrap on a wooden table below the headline, with flames on the left of a black background](https://ndcompany.in/assets/images/projects/chicken-wrap-poster.webp)
+
+*The chicken wrap post: dark, close and simple. As an ad it would need a name and an offer.*
+
+## 9. The same logo in the same place, every time
+
+Both Kebabiyana creatives above carry the restaurant's logo in a bottom corner, so a viewer who has seen one can tell the next one is from the same place, even though one is yellow and the other is black. Fix the logo position, two or three colours and two fonts for every creative. Our post on [food and restaurant logo ideas](https://ndcompany.in/blogs/food-restaurant-logo-ideas) covers making the logo itself readable at small sizes, which matters here because an ad shows it small.
+
+## 10. Short vertical reels of the food being made or served
+
+We edited reels for Kebabiyana as well as designing its posts. A reel is vertical: Meta's [Instagram Reels ad specs](https://www.facebook.com/business/ads-guide/update/video/instagram-reels) recommend 9:16 at 1440 by 2560 pixels, say captions are recommended and sound strongly recommended, and ask you to keep about 14% at the top, 35% at the bottom and 6% at each side free of text, logos and other key elements, because the profile icon and the call to action can cover those areas. Put the dish name and price in the middle of the frame, not along the bottom.
+
+## 11. A clean food photo with no text, for Google
+
+Keep a version of each dish photo with no words on it. For Performance Max campaigns, Google's [image asset page](https://support.google.com/google-ads/answer/14530211?hl=en) allows images with overlays but recommends at least one without overlays for each aspect ratio, and asks for content to sit in the centre 80% of the image, because the edges can be cut off. Google also needs landscape and square versions, so shoot or crop the dish with room around it.
+
+## 12. A free offer post on your Google Business Profile
+
+The offer you run on Instagram can also go on your Google listing, at no cost. Google's help page on [Business Profile posts](https://support.google.com/business/answer/7662907?hl=en) says an offer needs a title, dates and a time, and can add a description, photo or video, coupon code, link and terms. Posts older than six months are archived unless they have a date range, and a phone number in the description may get the post rejected if Google cannot connect it to the business. Google's [photo guidelines](https://support.google.com/business/answer/6103862?hl=en) ask for JPG or PNG files between 10 KB and 5 MB, 720 by 720 pixels recommended, in focus and well lit, without heavy filters.
+
+## What size should a food ad be on each platform?
+
+Make one 4:5 version for Facebook and Instagram feeds, one 9:16 version for Stories and Reels, and square and landscape versions for Google. These are the recommended sizes from each platform's own pages, read on 11 November 2026. Platforms change them, so check the linked page before you export.
+
+**Recommended image sizes for food ads, from each platform's own pages**
+
+| Placement | Shape | Recommended size (pixels) | Notes |
+| --- | --- | --- | --- |
+| [Instagram feed ad](https://www.facebook.com/business/ads-guide/update/image/instagram-feed) | 4:5 | 1440 x 1800 | JPG or PNG, up to 30 MB, at least 500 wide; headline 40 characters |
+| [Facebook feed ad](https://www.facebook.com/business/ads-guide/update/image/facebook-feed) | 4:5 | 1440 x 1800 | JPG or PNG, up to 30 MB, at least 600 x 750; headline 27 characters |
+| [Instagram Stories ad](https://www.facebook.com/business/ads-guide/update/image/instagram-story) | 9:16 | 1440 x 2560 | Keep 14% top, 35% bottom, 6% sides clear |
+| [Instagram Reels ad](https://www.facebook.com/business/ads-guide/update/video/instagram-reels) | 9:16 | 1440 x 2560 | MP4 or MOV; same clear zones as Stories |
+| [Google Performance Max](https://support.google.com/google-ads/answer/14530211?hl=en) | 1.91:1 and 1:1 (4:5 optional) | 1200 x 628, 1200 x 1200, 960 x 1200 | JPG or PNG, up to 5 MB; content in the centre 80% |
+| [Google Demand Gen](https://support.google.com/google-ads/answer/17140672?hl=en) | 1:1, 1.91:1, 4:5, 9:16 | 1200 x 1200, 1200 x 628, 960 x 1200, 1080 x 1920 | 9:16 is for YouTube Shorts; up to 5 MB |
+| [Google Business Profile photo](https://support.google.com/business/answer/6103862?hl=en) | Any | 720 x 720 | JPG or PNG, 10 KB to 5 MB; videos up to 30 seconds |
+
+Most of our creatives above are 1:1 squares or 4:5 portraits. Both fit Meta's feed placements, but for a paid feed ad, Meta's recommendation is the larger 4:5 file.
+
+## A checklist before you run a restaurant ad
+
+1. One dish is the largest thing in the frame, and it is your real food.
+2. There is one reason to act now: a price, a discount, a day or a time.
+3. There is one call to action, and it matches the goal: Order now for delivery, Visit now for the restaurant.
+4. Your logo sits in the same place as on your other ads.
+5. The words are short enough to read on a phone at arm's length.
+6. Nothing important sits in the top 14%, bottom 35% or side 6% of a Story or Reel.
+7. You have a 4:5 feed version, a 9:16 version and a text-free photo for Google.
+8. Any offer has an end date, and the same offer is posted on your Google Business Profile.
+9. If alcohol appears, the ad follows the platform's age and country rules.
+10. Every claim is true: only call a dish a best seller, or a price a discount, if it is one.
+
+## Want us to make your restaurant ads?
+
+We design posts and ad creatives, edit reels, run ads and manage social media for food businesses. Our [restaurant marketing](https://ndcompany.in/restaurant-marketing) page lists what we do for restaurants, cafes, cloud kitchens and bars, and our [social media management](https://ndcompany.in/services/social-media-management) service covers the monthly calendar, design, captions and publishing. For paid campaigns on Meta and Google, see [digital marketing](https://ndcompany.in/services/digital-marketing). Quotes are set in writing before work starts, and we do not promise what an ad will do for your sales.
+
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on WhatsApp](https://wa.me/?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&title=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
+- [Share on Threads](https://www.threads.net/intent/post?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Frestaurant-ad-ideas-16x9.png&description=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
+- [Share by email](mailto:?subject=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work&body=One%20dish%2C%20one%20price%2C%20one%20button%3A%2012%20restaurant%20ad%20ideas%20with%20eight%20food%20ads%20our%20team%20designed%2C%20the%20image%20sizes%20Meta%20and%20Google%20recommend%2C%20and%20a%20checklist.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+SEO
+
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+[More on Marketing](https://ndcompany.in/blogs/topic/marketing)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Social Media Management](https://ndcompany.in/services/social-media-management)
+
+Content planning, posting, and audience growth strategies.
+
+Learn more
+
+### [Graphic Design](https://ndcompany.in/services/graphic-design)
+
+Posters, banners, ad creatives, and marketing graphics.
+
+Learn more
+
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+
+Google Ads, social media marketing, and ROI-focused campaigns.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 [Websites](https://ndcompany.in/blogs/topic/websites) · Guide
 
 # Shopify development in India: what partners charge, from Shopify's own directory
@@ -12977,6 +14068,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
@@ -12992,16 +14093,6 @@ News · 5 Nov 2026
 ### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
 
 A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
-
-Websites
-
-Insight · 5 Nov 2026
-
-### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-
-20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
 Read the post
 
@@ -13184,6 +14275,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -13199,16 +14300,6 @@ News · 5 Nov 2026
 ### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
 
 A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
-
-Websites
-
-Insight · 5 Nov 2026
-
-### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-
-20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
 
 Read the post
 
@@ -13665,6 +14756,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 31 Oct 2026
 
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
@@ -13680,16 +14781,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -13833,6 +14924,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -13850,16 +14951,6 @@ Guide · 7 Nov 2026
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
-
-Websites
-
-Insight · 5 Nov 2026
-
-### [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-
-20 of 37 Dubai agencies say they build Arabic websites; only 7 have an Arabic version of their own. What they charge, what Arabic adds to the price, and what a bilingual site needs.
-
-Read the post
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -14037,6 +15128,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -14054,16 +15155,6 @@ Guide · 7 Nov 2026
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -14509,6 +15600,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Business
+
 Insight · 29 Oct 2026
 
 ### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
@@ -14524,16 +15625,6 @@ Guide · 27 Oct 2026
 ### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
 
 US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
 
@@ -14745,6 +15836,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -14760,16 +15861,6 @@ Guide · 30 Oct 2026
 ### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
 
 Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -14966,6 +16057,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -14981,16 +16082,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-
-Parents search on phones and Google rewards clear pages, not tricks. What an institution should publish, fix and avoid, with our Kolkata data on schools and coaching centres.
 
 Read the guide
 
@@ -15180,6 +16271,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -15195,16 +16296,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 
@@ -15405,6 +16496,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -15422,16 +16523,6 @@ Guide · 7 Nov 2026
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -15629,6 +16720,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Business
+
 Guide · 31 Oct 2026
 
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -15644,16 +16745,6 @@ Guide · 27 Oct 2026
 ### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
 
 US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
 
@@ -15900,6 +16991,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Business
+
 Guide · 31 Oct 2026
 
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -15917,16 +17018,6 @@ Insight · 29 Oct 2026
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
@@ -16133,6 +17224,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -16148,16 +17249,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 
@@ -16337,6 +17428,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -16354,16 +17455,6 @@ Guide · 7 Nov 2026
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -16545,6 +17636,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -16562,16 +17663,6 @@ Guide · 7 Nov 2026
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -16814,6 +17905,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -16829,16 +17930,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 
@@ -17152,6 +18243,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -17167,16 +18268,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 
@@ -17508,6 +18599,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -17525,16 +18626,6 @@ Guide · 7 Nov 2026
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -18142,6 +19233,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -18159,16 +19260,6 @@ Guide · 7 Nov 2026
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -18464,6 +19555,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+SEO
+
 Guide · 6 Nov 2026
 
 ### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
@@ -18479,16 +19580,6 @@ Guide · 31 Oct 2026
 ### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
-
-SEO
-
-Guide · 30 Oct 2026
-
-### [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-
-Optimizing for AI answers is still SEO. What each company states about its crawlers, and how a small business should set up robots.txt, content and measurement.
 
 Read the guide
 

@@ -309,6 +309,16 @@ No. Sea Seven Fish uses the identity, but photos of it in use are covered by a n
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 Branding
 
 Insight · 7 Nov 2026
@@ -326,16 +336,6 @@ Guide · 3 Nov 2026
 ### [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
 
 SVG, PNG, JPG, PDF, AI, EPS, WebP and favicons: what each is for, which to send a printer or web developer, logo sizes, and the 59 files in a brand package we delivered.
-
-Read the guide
-
-Branding
-
-Guide · 23 Oct 2026
-
-### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
 
 Read the guide
 

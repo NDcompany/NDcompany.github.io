@@ -1,9 +1,9 @@
 ---
-title: "Food and drink branding: projects | N&D Co."
-description: "Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars. Everything N&D Co. has written and made on the subject: 9 projects."
+title: "Food and drink branding: posts and projects | N&D Co."
+description: "Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars. Everything N&D Co. has written and made on the subject: 1 post and 9 projects."
 url: "https://ndcompany.in/tags/food-and-drink-branding"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/projects/kebabiyana-16x9.png"
+image: "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png"
 ---
 
 Tag
@@ -20,7 +20,21 @@ Edli Delight, a South Indian food chain, sets a drawing of three stacked idlis b
 
 Round badges need a test at small sizes. The Koustav Kitchen badge, for a cloud kitchen that sells through Zomato, sits wholly inside its circle, so a round crop keeps every part of it ([the Koustav Kitchen badge](https://ndcompany.in/projects/koustav-kitchen)). At 98 x 98 pixels, the size of a YouTube profile picture, the Taste and Bite badge for a restaurant in Bhopal keeps its flame, fork and spatula recognisable, but its lettering becomes too small to read, which is why a logo also needs a compact version ([the Taste and Bite logo](https://ndcompany.in/projects/taste-and-bite)).
 
+## Latest posts
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 ## Projects tagged Food and drink branding
+
+Work of ours this subject was part of.
 
 Marketing
 
@@ -112,27 +126,27 @@ See the project
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -142,9 +156,9 @@ See the project
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Content planning, posting, and audience growth strategies.
 
 Learn more
 
@@ -154,9 +168,9 @@ Posters, banners, ad creatives, and marketing graphics.
 
 Learn more
 
-### [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Video ads, reels, and promotional content production.
+Google Ads, social media marketing, and ROI-focused campaigns.
 
 Learn more
 
@@ -176,8 +190,8 @@ Send a few lines about your business and what you want to fix or build. We will 
       "@type": "CollectionPage",
       "@id": "https://ndcompany.in/tags/food-and-drink-branding#webpage",
       "url": "https://ndcompany.in/tags/food-and-drink-branding",
-      "name": "Food and drink branding: projects | N&D Co.",
-      "description": "Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars. Everything N&D Co. has written and made on the subject: 9 projects.",
+      "name": "Food and drink branding: posts and projects | N&D Co.",
+      "description": "Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars. Everything N&D Co. has written and made on the subject: 1 post and 9 projects.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -191,54 +205,60 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "12 restaurant ad ideas, with food ads from our own work",
+            "url": "https://ndcompany.in/blogs/restaurant-ad-ideas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Ads, design, reels and social media for Kebabiyana",
             "url": "https://ndcompany.in/projects/kebabiyana"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Marketing and design for Wafflery's",
             "url": "https://ndcompany.in/projects/wafflerys"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Pio Bhai offer creative for Dream Bar",
             "url": "https://ndcompany.in/projects/dream-bar"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Food posts and ad creatives",
             "url": "https://ndcompany.in/projects/food-poster-series"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Logo for Edli Delight",
             "url": "https://ndcompany.in/projects/edli-delight"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Logo for Koustav Kitchen",
             "url": "https://ndcompany.in/projects/koustav-kitchen"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Logo for North East, a pub and bar",
             "url": "https://ndcompany.in/projects/north-east-pub-and-bar"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Logo for Sunfresso",
             "url": "https://ndcompany.in/projects/sunfresso"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Logo for Taste and Bite",
             "url": "https://ndcompany.in/projects/taste-and-bite"
           }
@@ -246,7 +266,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/projects/kebabiyana-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png",
         "width": 1200,
         "height": 675
       }

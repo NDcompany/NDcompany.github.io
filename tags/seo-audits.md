@@ -1,9 +1,9 @@
 ---
 title: "SEO audits: posts and guides | N&D Co."
-description: "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 3 posts from N&D Co."
+description: "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 4 posts from N&D Co."
 url: "https://ndcompany.in/tags/seo-audits"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png"
+image: "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png"
 ---
 
 Tag
@@ -21,6 +21,16 @@ Paid one-off audits are rarely priced in India: on the 108 agency websites we re
 A local business needs a different audit: the Business Profile, matching details across directories, reviews and local links, with a dated baseline before anything changes and a repeat every three months ([the local SEO audit checklist](https://ndcompany.in/blogs/local-seo-audit)).
 
 ## Latest posts
+
+SEO
+
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
 
 SEO
 
@@ -54,27 +64,27 @@ Read the guide
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -119,7 +129,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       "@id": "https://ndcompany.in/tags/seo-audits#webpage",
       "url": "https://ndcompany.in/tags/seo-audits",
       "name": "SEO audits: posts and guides | N&D Co.",
-      "description": "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 3 posts from N&D Co.",
+      "description": "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 4 posts from N&D Co.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -133,18 +143,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "White label SEO explained: how agencies resell SEO safely",
+            "url": "https://ndcompany.in/blogs/white-label-seo-explained"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How to run a local SEO audit: a checklist for small businesses",
             "url": "https://ndcompany.in/blogs/local-seo-audit"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How our free SEO audit works, from request to report",
             "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
           }
@@ -152,7 +168,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png",
         "width": 1200,
         "height": 675
       }

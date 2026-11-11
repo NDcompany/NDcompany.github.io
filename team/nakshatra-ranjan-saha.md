@@ -3,7 +3,7 @@ title: "Nakshatra Ranjan Saha, CEO & Founder | N&D Co."
 description: "Nakshatra Ranjan Saha is the CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata: profile and articles on SEO, websites and branding."
 url: "https://ndcompany.in/team/nakshatra-ranjan-saha"
 type: "ProfilePage"
-modified: "2026-11-07T00:00:00+05:30"
+modified: "2026-11-11T00:00:00+05:30"
 image: "https://ndcompany.in/assets/share/team.png"
 ---
 
@@ -23,7 +23,7 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata, Wes
 
 Nakshatra Ranjan Saha is the founder and CEO of N&D Co., which offers a full range of services under one roof, among them brand identity and logos, websites, online stores and custom software, and SEO, digital marketing, social media, video and content, for businesses across India and worldwide.
 
-Before and alongside the agency, Nakshatra's work has been writing and code. Freelance Python work ran from January 2021 to April 2023, and freelance AI prompt engineering started in April 2022 and continues. Nakshatra founded ScriptXeno and has written for it since May 2024, as senior content writer since March 2026. Since July 2025, Nakshatra has also worked part time as a remote SEO consultant for The Vansmith. At N&D Co., graphic design is part of the job too.
+Before and alongside the agency, Nakshatra's work has been writing and code. Freelance Python work ran from January 2021 to April 2023, and freelance AI prompt engineering started in April 2022 and continues. Nakshatra founded ScriptXeno and has written for it since May 2024, as senior content writer since March 2026. Since July 2026, Nakshatra has also worked part time as a remote SEO consultant for The Vansmith. At N&D Co., graphic design is part of the job too.
 
 Nakshatra studied electrical engineering at Hooghly Institute of Technology on a diploma course from August 2023 to September 2026, after Santinagar High School, and completed Udemy's SEO Strategy 2025 course in December 2025.
 
@@ -39,6 +39,46 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+SEO
+
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
 
 Websites
 
@@ -307,7 +347,7 @@ Send a few lines about your business and what you need. We will reply with quest
         "@id": "https://ndcompany.in/team/nakshatra-ranjan-saha#breadcrumb"
       },
       "inLanguage": "en-IN",
-      "dateModified": "2026-11-07T00:00:00+05:30",
+      "dateModified": "2026-11-11T00:00:00+05:30",
       "mainEntity": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

@@ -33,6 +33,10 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study): We tested 385 US small business homepages: 87% had a serious or critical WCAG failure, dentists 96%, low contrast 60%. Common errors, fixes and the law.
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained): White label SEO explained: how reselling works, NDAs, who owns the accounts and the link spam risk. We read 16 provider sites; only 3 publish a monthly price.
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership): Who owns outsourced code? US work for hire, UK and Indian copyright law, why an Indian assignment needs a period and territory, and what your NDA must cover.
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas): One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india): We read 160 Shopify Partner Directory profiles: India-based partners start a store build at a median $500, US-based ones at $1,150. Prices, tiers, tips.
 - [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india): We read 30 Indian agency websites: 22 offer WordPress, 4 publish an hourly rate, 8 say you own the code. What to ask and put in writing before you hire.
 - [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas): We studied the logos of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Restaurant, cafe and eatery logo ideas, with our own examples.
@@ -60,6 +64,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 - [SEO](https://ndcompany.in/blogs/topic/seo): SEO tips, guides and insights from N&D Co. for small businesses: technical checks, indexing and Google Business Profile, with links to Google documentation.
 - [Websites](https://ndcompany.in/blogs/topic/websites): Website tips and guides from N&D Co. for business owners: planning a site before you hire anyone, page speed and Core Web Vitals, and what to fix first.
 - [Branding](https://ndcompany.in/blogs/topic/branding): Branding tips and guides from N&D Co.: what separates a logo from a brand identity, which files you should receive, and what a brand style guide needs.
+- [Marketing](https://ndcompany.in/blogs/topic/marketing): Marketing tips and insights from N&D Co. for small and growing businesses: digital marketing, social media and content, what to try and what to measure.
 - [Business](https://ndcompany.in/blogs/topic/business): Business insights from N&D Co. for owners and founders: working with agencies and freelancers, budgeting for marketing, choosing tools and lessons learned.
 
 ## Projects
@@ -103,17 +108,17 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 - [Logos](https://ndcompany.in/tags/logos): The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
-- [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 - [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
+- [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Google Search Console](https://ndcompany.in/tags/google-search-console): Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 - [Local SEO](https://ndcompany.in/tags/local-seo): Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
-- [Technical SEO](https://ndcompany.in/tags/technical-seo): Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
-- [Google Business Profile](https://ndcompany.in/tags/google-business-profile): Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 - [SEO audits](https://ndcompany.in/tags/seo-audits): What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
+- [Technical SEO](https://ndcompany.in/tags/technical-seo): Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
 - [Web accessibility](https://ndcompany.in/tags/web-accessibility): WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
+- [Google Business Profile](https://ndcompany.in/tags/google-business-profile): Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals.
 - [All tags](https://ndcompany.in/tags): every tag on the blogs and projects, with its posts and projects.
 
 ## Team

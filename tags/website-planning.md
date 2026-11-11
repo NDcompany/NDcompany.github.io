@@ -3,7 +3,7 @@ title: "Website planning: posts and guides | N&D Co."
 description: "Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief."
 url: "https://ndcompany.in/tags/website-planning"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png"
+image: "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png"
 ---
 
 Tag
@@ -21,6 +21,26 @@ A second language means a second set of pages. An Arabic version needs translate
 If the build goes abroad, mind the time difference. India is UTC+5:30 all year, and its gap to the US changes by an hour when US clocks change, so agree overlap hours before you sign. Start with a small paid pilot before a larger commitment ([outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india)).
 
 ## Latest posts
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
 
 Websites
 
@@ -94,27 +114,27 @@ Read the guide
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -124,21 +144,21 @@ Read the guide
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
-
-Online store development with payment integration and optimization.
-
-Learn more
-
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
 Responsive websites, e-commerce development, and SEO-optimized web solutions.
 
 Learn more
 
-### [SEO Services](https://ndcompany.in/services/seo-services)
+### [Software Development](https://ndcompany.in/services/software-development)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+Custom web applications, CRM systems, and internal business software.
+
+Learn more
+
+### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+
+Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
 
 Learn more
 
@@ -173,42 +193,54 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How accessible are US small business websites? A study of 385 sites",
+            "url": "https://ndcompany.in/blogs/small-business-website-accessibility-study"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "NDAs, IP and ownership when you outsource to an agency",
+            "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
             "name": "Shopify development in India: what partners charge, from Shopify's own directory",
             "url": "https://ndcompany.in/blogs/shopify-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 4,
             "name": "How do you hire a WordPress developer in India? What 30 agency websites show",
             "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 5,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 6,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 7,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 8,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 9,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           }
@@ -216,7 +248,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png",
         "width": 1200,
         "height": 675
       }

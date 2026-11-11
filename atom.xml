@@ -5,9 +5,61 @@
 <link href="https://ndcompany.in/blogs" rel="alternate" type="text/html"/>
 <link href="https://ndcompany.in/atom.xml" rel="self" type="application/atom+xml"/>
 <id>https://ndcompany.in/blogs</id>
-<updated>2026-11-07T00:00:00+05:30</updated>
+<updated>2026-11-11T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
+<entry>
+<title>How accessible are US small business websites? A study of 385 sites</title>
+<link href="https://ndcompany.in/blogs/small-business-website-accessibility-study" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/small-business-website-accessibility-study</id>
+<published>2026-11-11T00:00:00+05:30</published>
+<updated>2026-11-11T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="websites" label="Websites" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="web-accessibility" label="Web accessibility" scheme="https://ndcompany.in/tags/"/>
+<category term="website-planning" label="Website planning" scheme="https://ndcompany.in/tags/"/>
+<summary>We tested 385 US small business homepages: 87% had a serious or critical WCAG failure, dentists 96%, low contrast 60%. Common errors, fixes and the law.</summary>
+</entry>
+<entry>
+<title>White label SEO explained: how agencies resell SEO safely</title>
+<link href="https://ndcompany.in/blogs/white-label-seo-explained" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/white-label-seo-explained</id>
+<published>2026-11-11T00:00:00+05:30</published>
+<updated>2026-11-11T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
+<category term="seo-audits" label="SEO audits" scheme="https://ndcompany.in/tags/"/>
+<summary>White label SEO explained: how reselling works, NDAs, who owns the accounts and the link spam risk. We read 16 provider sites; only 3 publish a monthly price.</summary>
+</entry>
+<entry>
+<title>NDAs, IP and ownership when you outsource to an agency</title>
+<link href="https://ndcompany.in/blogs/outsourcing-nda-ip-ownership" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/outsourcing-nda-ip-ownership-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/outsourcing-nda-ip-ownership</id>
+<published>2026-11-11T00:00:00+05:30</published>
+<updated>2026-11-11T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="business" label="Business" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
+<category term="website-planning" label="Website planning" scheme="https://ndcompany.in/tags/"/>
+<summary>Who owns outsourced code? US work for hire, UK and Indian copyright law, why an Indian assignment needs a period and territory, and what your NDA must cover.</summary>
+</entry>
+<entry>
+<title>12 restaurant ad ideas, with food ads from our own work</title>
+<link href="https://ndcompany.in/blogs/restaurant-ad-ideas" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/restaurant-ad-ideas</id>
+<published>2026-11-11T00:00:00+05:30</published>
+<updated>2026-11-11T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="marketing" label="Marketing" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="social-media-creatives" label="Social media creatives" scheme="https://ndcompany.in/tags/"/>
+<category term="food-and-drink-branding" label="Food and drink branding" scheme="https://ndcompany.in/tags/"/>
+<summary>One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.</summary>
+</entry>
 <entry>
 <title>Shopify development in India: what partners charge, from Shopify's own directory</title>
 <link href="https://ndcompany.in/blogs/shopify-development-india" rel="alternate" type="text/html"/>

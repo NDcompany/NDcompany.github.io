@@ -3,7 +3,7 @@ title: "Business insights for owners and founders | N&D Co."
 description: "Business insights from N&D Co. for owners and founders: working with agencies and freelancers, budgeting for marketing, choosing tools and lessons learned."
 url: "https://ndcompany.in/blogs/topic/business"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/play-store-app-store-requirements-16x9.png"
+image: "https://ndcompany.in/assets/blog/outsourcing-nda-ip-ownership-16x9.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Notes on running and growing a business: working with agencies and freelancers, budgeting for marketing, choosing tools, and the lessons we pick up along the way.
 
 ## Latest posts
+
+Business
+
+Guide · 11 Nov 2026
+
+### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+
+Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+
+Read the guide
 
 Business
 
@@ -46,27 +56,27 @@ Read the guide
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -125,18 +135,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "NDAs, IP and ownership when you outsource to an agency",
+            "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           }
@@ -144,7 +160,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/play-store-app-store-requirements-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/outsourcing-nda-ip-ownership-16x9.png",
         "width": 1200,
         "height": 675
       }

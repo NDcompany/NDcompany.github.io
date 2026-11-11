@@ -275,6 +275,16 @@ Wafflery's
 
 Guides on the work behind Digital Marketing & Performance Marketing.
 
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
 SEO
 
 Guide · 31 Oct 2026
@@ -294,16 +304,6 @@ Insight · 29 Oct 2026
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
-
-SEO
-
-Guide · 23 Oct 2026
-
-### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
-
-Read the guide
 
 ## Ready to start?
 

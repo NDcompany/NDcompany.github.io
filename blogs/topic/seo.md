@@ -3,7 +3,7 @@ title: "SEO tips and guides for small businesses | N&D Co."
 description: "SEO tips, guides and insights from N&D Co. for small businesses: technical checks, indexing and Google Business Profile, with links to Google documentation."
 url: "https://ndcompany.in/blogs/topic/seo"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png"
+image: "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Getting a business found in Google search, from the technical basics that keep a site crawlable to the local listing that puts you on the map. Technical claims link to the Google documentation they come from.
 
 ## Latest posts
+
+SEO
+
+Guide · 11 Nov 2026
+
+### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+
+We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
+
+Read the guide
 
 SEO
 
@@ -96,27 +106,27 @@ Read the guide
 
 ## Recently updated
 
+- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+  11 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+  11 Nov 2026
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website costs](https://ndcompany.in/tags/website-costs)
 - [Website planning](https://ndcompany.in/tags/website-planning)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
 
@@ -175,48 +185,54 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "White label SEO explained: how agencies resell SEO safely",
+            "url": "https://ndcompany.in/blogs/white-label-seo-explained"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How to choose an SEO agency in India: what 37 agency websites show",
             "url": "https://ndcompany.in/blogs/choose-seo-agency-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How do you optimize content for LLMs?",
             "url": "https://ndcompany.in/blogs/optimize-content-for-llms"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How do schools and colleges do SEO?",
             "url": "https://ndcompany.in/blogs/seo-for-educational-institutions"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How to run a local SEO audit: a checklist for small businesses",
             "url": "https://ndcompany.in/blogs/local-seo-audit"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "How our free SEO audit works, from request to report",
             "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }
@@ -224,7 +240,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png",
         "width": 1200,
         "height": 675
       }
