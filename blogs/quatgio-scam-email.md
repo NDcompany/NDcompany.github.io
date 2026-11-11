@@ -100,9 +100,12 @@ In Gmail, open the message, choose More and then Report phishing, as [Google des
 
 We still answer every brief that comes through our contact form, and most are real. This one changed two habits. We never sign in to anything to book a call: we use our own [booking page](https://ndcompany.in/book-a-call) or a plain email. And before we put work into a reply, we check that the person and the client are who they say they are, through a channel they did not give us. Our [security policy](https://ndcompany.in/security-policy) sets out how we handle client data and accounts.
 
-If an email from quatgio.com, or one like it, has reached you, compare it with the steps above before you click anything. And if you are not sure about a link, send it to us and we will look at the page's code the same way, without opening it.
+Six days later the same trick turned up inside Fiverr's inbox, as fake orders with a "project file" that ends at a card form; we took that one apart in [the Fiverr fake order scam](https://ndcompany.in/blogs/fiverr-fake-order-scam).
+
+If an email from quatgio.com, or one like it, has reached you, compare it with the steps above before you click anything. And if you are not sure about a link, paste it into [urlscan.io](https://urlscan.io/) as an unlisted scan: it loads the page on its own servers and shows you where it leads, so your computer never opens it.
 
 - [Website security](https://ndcompany.in/tags#website-security)
+- [Phishing](https://ndcompany.in/tags#phishing)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
 ## Share this post
@@ -228,9 +231,9 @@ Send a few lines about your business and what you are trying to fix. We will rep
         "@id": "https://ndcompany.in/blogs#blog"
       },
       "articleSection": "Websites",
-      "keywords": "Website security, Working with an agency",
+      "keywords": "Website security, Phishing, Working with an agency",
       "genre": "News",
-      "wordCount": 1720,
+      "wordCount": 1766,
       "inLanguage": "en-IN"
     },
     {

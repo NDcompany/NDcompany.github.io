@@ -212,6 +212,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+News · 11 Nov 2026
+
+### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+
+The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+
+Read the post
+
+Business
+
 Guide · 31 Oct 2026
 
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
@@ -229,16 +239,6 @@ Insight · 29 Oct 2026
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
 Read the post
-
-Business
-
-Guide · 27 Oct 2026
-
-### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-
-US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
-
-Read the guide
 
 [More on Business](https://ndcompany.in/blogs/topic/business)
 

@@ -282,6 +282,16 @@ Guides on the work behind Software Development.
 
 Business
 
+News · 11 Nov 2026
+
+### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+
+The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+
+Read the post
+
+Business
+
 Guide · 11 Nov 2026
 
 ### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)

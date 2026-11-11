@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (133 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (134 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -709,6 +709,64 @@
     </image:image>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/fiverr-fake-order-scam</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-order-message.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/deposit-paid-message.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/client-brief-pdf-message.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-order-confirmation.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/netlify-continue-page.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-client-brief-pdf.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/blank-pdf-link.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/attack-chain.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/chrome-not-secure-warning.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/cloudflare-check.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/hold-to-continue.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/username-prompt.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/where-to-find-username.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-resolution-center.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/card-verification-chat.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/add-bank-card.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/receive-payout-form.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/blog/fiverr-fake-order-scam/report-dialog.webp</image:loc>
     </image:image>
   </url>
   <url>

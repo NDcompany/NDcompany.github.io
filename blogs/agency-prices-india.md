@@ -176,6 +176,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+News · 11 Nov 2026
+
+### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+
+The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+
+Read the post
+
+Business
+
 Guide · 11 Nov 2026
 
 ### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
@@ -191,16 +201,6 @@ Guide · 31 Oct 2026
 ### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
 
 Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
-
-Read the guide
-
-Business
-
-Guide · 27 Oct 2026
-
-### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-
-US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
 
 Read the guide
 

@@ -114,6 +114,8 @@ Read the guide
 
 ## Recently updated
 
+- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+  11 Nov 2026
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
   11 Nov 2026
 - [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
@@ -122,8 +124,6 @@ Read the guide
   11 Nov 2026
 - [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
   11 Nov 2026
-- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-  7 Nov 2026
 
 ## Trending tags
 

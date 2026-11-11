@@ -40,6 +40,16 @@ The blogs are where N&D Co. shares what it learns: quick tips, longer guides and
 
 ## Articles by Nakshatra Ranjan Saha
 
+Business
+
+News · 11 Nov 2026
+
+### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+
+The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+
+Read the post
+
 Websites
 
 Insight · 11 Nov 2026

@@ -337,6 +337,17 @@ Asking customers for reviews, replying to them and reporting the ones that break
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   28 Oct 2026
 
+## Phishing
+
+2 posts
+
+Fake sign-in pages, fake orders and fake client briefs built to take passwords or card details, how to spot them and where to report them.
+
+- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+  11 Nov 2026
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+  5 Nov 2026
+
 ## Case management
 
 1 project
@@ -372,6 +383,15 @@ Naming brand fonts with their licences, choosing fallbacks for documents and web
 
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
   23 Oct 2026
+
+## Payment fraud
+
+1 post
+
+Fake payout, verification and checkout pages that collect card numbers and one-time codes, and what to do with your bank when a card has been typed into one.
+
+- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+  11 Nov 2026
 
 ## Trade marks
 
@@ -521,42 +541,54 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 16,
+            "name": "Phishing",
+            "url": "https://ndcompany.in/tags#phishing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
             "name": "Case management",
             "url": "https://ndcompany.in/tags#case-management"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 18,
             "name": "Community platforms",
             "url": "https://ndcompany.in/tags#community-platforms"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 20,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 21,
+            "name": "Payment fraud",
+            "url": "https://ndcompany.in/tags#payment-fraud"
+          },
+          {
+            "@type": "ListItem",
+            "position": 22,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 21,
+            "position": 23,
             "name": "Website security",
             "url": "https://ndcompany.in/tags#website-security"
           },
           {
             "@type": "ListItem",
-            "position": 22,
+            "position": 24,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

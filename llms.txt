@@ -33,6 +33,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam): Seven new Fiverr accounts claimed an order and sent .html and PDF files. We read the code: fake Fiverr pages ending at a bank card form, and where to report it.
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study): We tested 385 US small business homepages: 87% had a serious or critical WCAG failure, dentists 96%, low contrast 60%. Common errors, fixes and the law.
 - [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained): White label SEO explained: how reselling works, NDAs, who owns the accounts and the link spam risk. We read 16 provider sites; only 3 publish a monthly price.
 - [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership): Who owns outsourced code? US work for hire, UK and Indian copyright law, why an Indian assignment needs a period and territory, and what your NDA must cover.

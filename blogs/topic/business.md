@@ -3,7 +3,7 @@ title: "Business insights for owners and founders | N&D Co."
 description: "Business insights from N&D Co. for owners and founders: working with agencies and freelancers, budgeting for marketing, choosing tools and lessons learned."
 url: "https://ndcompany.in/blogs/topic/business"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/outsourcing-nda-ip-ownership-16x9.png"
+image: "https://ndcompany.in/assets/blog/fiverr-fake-order-scam-16x9.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Notes on running and growing a business: working with agencies and freelancers, budgeting for marketing, choosing tools, and the lessons we pick up along the way.
 
 ## Latest posts
+
+Business
+
+News · 11 Nov 2026
+
+### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+
+The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+
+Read the post
 
 Business
 
@@ -56,6 +66,8 @@ Read the guide
 
 ## Recently updated
 
+- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+  11 Nov 2026
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
   11 Nov 2026
 - [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
@@ -64,8 +76,6 @@ Read the guide
   11 Nov 2026
 - [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
   11 Nov 2026
-- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-  7 Nov 2026
 
 ## Trending tags
 
@@ -135,24 +145,30 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "The Fiverr fake order scam: a case study of the files, pages and card form",
+            "url": "https://ndcompany.in/blogs/fiverr-fake-order-scam"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "NDAs, IP and ownership when you outsource to an agency",
             "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           }
@@ -160,7 +176,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/outsourcing-nda-ip-ownership-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/fiverr-fake-order-scam-16x9.png",
         "width": 1200,
         "height": 675
       }

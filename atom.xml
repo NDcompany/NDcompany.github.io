@@ -9,6 +9,19 @@
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
 <entry>
+<title>The Fiverr fake order scam: a case study of the files, pages and card form</title>
+<link href="https://ndcompany.in/blogs/fiverr-fake-order-scam" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/fiverr-fake-order-scam-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/fiverr-fake-order-scam</id>
+<published>2026-11-11T00:00:00+05:30</published>
+<updated>2026-11-11T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="business" label="Business" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="phishing" label="Phishing" scheme="https://ndcompany.in/tags/"/>
+<category term="payment-fraud" label="Payment fraud" scheme="https://ndcompany.in/tags/"/>
+<summary>Seven new Fiverr accounts claimed an order and sent .html and PDF files. We read the code: fake Fiverr pages ending at a bank card form, and where to report it.</summary>
+</entry>
+<entry>
 <title>How accessible are US small business websites? A study of 385 sites</title>
 <link href="https://ndcompany.in/blogs/small-business-website-accessibility-study" rel="alternate" type="text/html"/>
 <media:content url="https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
@@ -124,6 +137,7 @@
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <category term="websites" label="Websites" scheme="https://ndcompany.in/blogs/topic/"/>
 <category term="website-security" label="Website security" scheme="https://ndcompany.in/tags/"/>
+<category term="phishing" label="Phishing" scheme="https://ndcompany.in/tags/"/>
 <category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
 <summary>An email from quatgio.com offered us a client project, then sent a booking link that leads to a fake Google sign-in. What it looks like and what to do.</summary>
 </entry>

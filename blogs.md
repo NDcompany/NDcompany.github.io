@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Business
+
+News · 11 Nov 2026
+
+### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+
+The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+
+Read the post
+
 Websites
 
 Insight · 11 Nov 2026
@@ -296,6 +306,8 @@ Read the guide
 
 ## Recently updated
 
+- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+  11 Nov 2026
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
   11 Nov 2026
 - [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
@@ -304,8 +316,6 @@ Read the guide
   11 Nov 2026
 - [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
   11 Nov 2026
-- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-  7 Nov 2026
 
 ## Trending tags
 
@@ -402,6 +412,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/fiverr-fake-order-scam#article",
+          "headline": "The Fiverr fake order scam: a case study of the files, pages and card form",
+          "description": "Seven new Fiverr accounts claimed an order and sent .html and PDF files. We read the code: fake Fiverr pages ending at a bank card form, and where to report it.",
+          "image": "https://ndcompany.in/assets/blog/fiverr-fake-order-scam-16x9.png",
+          "url": "https://ndcompany.in/blogs/fiverr-fake-order-scam",
+          "datePublished": "2026-11-11T00:00:00+05:30",
+          "dateModified": "2026-11-11T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/small-business-website-accessibility-study#article",
