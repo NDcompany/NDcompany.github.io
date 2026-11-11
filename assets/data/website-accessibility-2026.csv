@@ -1,0 +1,386 @@
+site,city,industry,serious_or_critical_failure,failing_rules,color-contrast,link-name,image-alt,button-name,label,html-has-lang,frame-title,target-size,meta-viewport
+1,Austin,restaurant,True,1,True,False,False,False,False,False,False,False,False
+2,Austin,restaurant,True,2,True,True,False,False,False,False,False,False,False
+3,Austin,restaurant,True,3,True,True,True,False,False,False,False,False,False
+4,Austin,restaurant,True,4,True,True,True,False,False,False,False,True,False
+5,Austin,restaurant,True,2,True,False,False,False,False,False,False,False,False
+6,Austin,restaurant,True,3,True,False,False,False,False,False,False,False,False
+7,Austin,restaurant,True,3,True,True,False,False,False,False,True,False,False
+8,Austin,restaurant,True,2,False,True,False,False,False,False,False,False,False
+9,Austin,restaurant,True,6,False,True,True,True,False,False,False,False,False
+10,Austin,restaurant,True,2,True,True,False,False,False,False,False,False,False
+11,Austin,restaurant,True,3,True,True,False,False,False,False,False,False,True
+12,Austin,restaurant,False,1,False,False,False,False,False,False,False,False,True
+13,Austin,restaurant,True,1,True,False,False,False,False,False,False,False,False
+14,Austin,restaurant,False,0,False,False,False,False,False,False,False,False,False
+15,Austin,restaurant,True,2,True,False,False,False,False,False,False,True,False
+16,Austin,restaurant,True,2,False,False,False,False,False,True,True,False,False
+17,Austin,restaurant,False,0,False,False,False,False,False,False,False,False,False
+18,Austin,restaurant,True,1,False,True,False,False,False,False,False,False,False
+19,Austin,restaurant,False,0,False,False,False,False,False,False,False,False,False
+20,Austin,cafe,True,1,True,False,False,False,False,False,False,False,False
+21,Austin,cafe,True,6,True,True,False,False,False,False,True,False,True
+22,Austin,cafe,False,0,False,False,False,False,False,False,False,False,False
+23,Austin,cafe,True,1,False,True,False,False,False,False,False,False,False
+24,Austin,cafe,True,4,False,False,False,False,False,False,True,True,False
+25,Austin,cafe,True,2,True,True,False,False,False,False,False,False,False
+26,Austin,cafe,False,1,False,False,False,False,False,False,False,False,True
+27,Austin,cafe,True,2,True,True,False,False,False,False,False,False,False
+28,Austin,cafe,True,2,True,False,True,False,False,False,False,False,False
+29,Austin,cafe,True,4,True,True,True,False,False,False,False,False,False
+30,Austin,cafe,True,3,True,False,False,False,False,False,False,True,False
+31,Austin,cafe,True,1,True,False,False,False,False,False,False,False,False
+32,Austin,cafe,True,2,True,True,False,False,False,False,False,False,False
+33,Austin,cafe,True,3,True,True,False,False,False,False,False,True,False
+34,Austin,cafe,True,1,True,False,False,False,False,False,False,False,False
+35,Austin,cafe,True,1,False,True,False,False,False,False,False,False,False
+36,Austin,cafe,True,2,True,True,False,False,False,False,False,False,False
+37,Austin,dentist,True,3,True,False,True,False,False,False,True,False,False
+38,Austin,cafe,True,1,True,False,False,False,False,False,False,False,False
+39,Austin,dentist,True,4,True,True,False,False,False,True,False,True,False
+40,Austin,dentist,True,4,True,True,False,False,False,False,False,False,False
+41,Austin,dentist,True,2,True,True,False,False,False,False,False,False,False
+42,Austin,dentist,True,2,True,False,False,False,False,False,False,False,False
+43,Austin,dentist,True,1,False,True,False,False,False,False,False,False,False
+44,Austin,dentist,True,5,True,False,False,False,False,False,True,True,False
+45,Austin,dentist,True,3,True,True,False,False,False,False,False,False,False
+46,Austin,dentist,True,2,True,False,False,False,False,False,True,False,False
+47,Austin,dentist,True,2,False,False,False,False,False,False,False,True,False
+48,Austin,dentist,True,4,True,True,False,False,False,False,True,False,False
+49,Austin,dentist,True,2,True,False,False,False,False,False,False,False,False
+50,Austin,dentist,True,2,True,True,False,False,False,False,False,False,False
+51,Austin,dentist,True,2,True,False,False,False,False,False,True,False,False
+52,Austin,dentist,True,9,True,True,True,False,False,False,False,True,False
+53,Austin,dentist,True,1,False,False,False,False,False,False,True,False,False
+54,Austin,dentist,True,1,True,False,False,False,False,False,False,False,False
+55,Austin,law firm,True,4,True,True,False,True,False,False,False,False,False
+56,Austin,dentist,True,2,True,True,False,False,False,False,False,False,False
+57,Austin,law firm,True,6,True,True,True,False,False,False,True,False,True
+58,Austin,law firm,True,2,True,True,False,False,False,False,False,False,False
+59,Austin,law firm,True,4,True,True,False,True,False,False,True,False,False
+60,Austin,law firm,True,5,True,True,False,True,False,False,True,False,False
+61,Austin,law firm,True,1,False,False,False,False,False,False,False,False,False
+62,Austin,law firm,True,2,False,False,False,False,False,False,False,False,False
+63,Austin,law firm,True,1,True,False,False,False,False,False,False,False,False
+64,Austin,law firm,True,2,True,True,False,False,False,False,False,False,False
+65,Austin,law firm,False,0,False,False,False,False,False,False,False,False,False
+66,Austin,law firm,True,3,True,False,False,False,False,False,False,False,False
+67,Austin,law firm,True,4,True,True,True,False,False,False,True,False,False
+68,Austin,law firm,True,2,False,True,False,False,False,False,False,True,False
+69,Austin,law firm,True,3,True,False,False,False,False,False,True,False,False
+70,Austin,hair salon,True,1,True,False,False,False,False,False,False,False,False
+71,Austin,hair salon,False,0,False,False,False,False,False,False,False,False,False
+72,Austin,hair salon,True,1,True,False,False,False,False,False,False,False,False
+73,Austin,hair salon,True,1,True,False,False,False,False,False,False,False,False
+74,Austin,hair salon,True,2,True,True,False,False,False,False,False,False,False
+75,Austin,hair salon,True,6,True,True,True,False,False,False,False,False,False
+76,Austin,hair salon,True,1,False,False,False,False,False,False,False,False,False
+77,Austin,hair salon,True,4,True,True,False,False,False,False,True,False,True
+78,Austin,hair salon,True,1,True,False,False,False,False,False,False,False,False
+79,Austin,hair salon,True,1,True,False,False,False,False,False,False,False,False
+80,Austin,hair salon,True,3,True,True,False,False,False,False,False,False,True
+81,Austin,hair salon,True,3,False,True,False,False,False,False,False,True,False
+82,Austin,hair salon,True,3,True,True,False,False,False,False,False,False,False
+83,Austin,hair salon,True,1,True,False,False,False,False,False,False,False,False
+84,Austin,hair salon,True,2,True,True,False,False,False,False,False,False,False
+85,Austin,hair salon,True,2,True,False,False,False,False,False,False,False,False
+86,Austin,hair salon,True,2,True,True,False,False,False,False,False,False,False
+87,Denver,restaurant,True,2,True,True,False,False,False,False,False,False,False
+88,Denver,restaurant,True,4,True,True,False,False,False,False,False,True,True
+89,Denver,restaurant,True,2,True,True,False,False,False,False,False,False,False
+90,Austin,hair salon,True,2,True,True,False,False,False,False,False,False,False
+91,Denver,restaurant,True,1,True,False,False,False,False,False,False,False,False
+92,Denver,restaurant,True,5,True,True,False,False,False,False,True,True,True
+93,Denver,restaurant,True,1,False,True,False,False,False,False,False,False,False
+94,Denver,restaurant,True,1,False,True,False,False,False,False,False,False,False
+95,Denver,restaurant,True,1,False,False,False,False,False,False,False,False,False
+96,Denver,restaurant,True,1,False,True,False,False,False,False,False,False,False
+97,Denver,restaurant,True,4,False,True,True,False,False,False,False,False,False
+98,Denver,restaurant,True,2,False,True,False,False,False,False,True,False,False
+99,Denver,restaurant,False,0,False,False,False,False,False,False,False,False,False
+100,Denver,restaurant,False,0,False,False,False,False,False,False,False,False,False
+101,Denver,cafe,True,3,False,True,True,False,False,False,False,False,False
+102,Denver,cafe,False,1,False,False,False,False,False,False,False,False,True
+103,Denver,cafe,True,3,True,False,True,False,False,False,True,False,False
+104,Denver,cafe,True,2,True,True,False,False,False,False,False,False,False
+105,Denver,cafe,True,1,False,False,False,False,False,False,False,True,False
+106,Denver,cafe,True,1,True,False,False,False,False,False,False,False,False
+107,Denver,cafe,False,0,False,False,False,False,False,False,False,False,False
+108,Denver,cafe,True,4,False,False,True,False,False,False,False,False,False
+109,Denver,cafe,True,1,True,False,False,False,False,False,False,False,False
+110,Denver,cafe,True,4,True,True,False,False,False,False,False,True,True
+111,Denver,cafe,True,1,True,False,False,False,False,False,False,False,False
+112,Denver,cafe,True,2,True,False,False,False,False,False,False,False,False
+113,Denver,cafe,False,0,False,False,False,False,False,False,False,False,False
+114,Denver,cafe,True,5,False,True,True,False,False,False,False,False,False
+115,Denver,cafe,True,1,False,False,False,False,False,False,False,True,False
+116,Denver,cafe,True,4,True,True,True,False,False,False,False,False,False
+117,Denver,cafe,True,1,False,True,False,False,False,False,False,False,False
+118,Denver,dentist,True,1,True,False,False,False,False,False,False,False,False
+119,Denver,cafe,True,3,True,False,False,False,False,False,False,False,False
+120,Denver,dentist,True,11,True,True,True,False,True,True,True,True,True
+121,Denver,dentist,True,2,False,False,False,False,False,False,False,False,True
+122,Denver,dentist,True,2,True,False,False,False,False,False,False,True,False
+123,Denver,dentist,True,1,False,False,False,False,False,False,False,False,False
+124,Denver,dentist,True,1,False,False,False,False,False,False,False,False,False
+125,Denver,dentist,True,6,True,True,False,False,False,False,False,True,False
+126,Denver,dentist,True,6,True,True,False,False,False,False,True,True,True
+127,Denver,dentist,True,3,True,True,False,False,False,False,False,False,False
+128,Denver,dentist,True,5,True,True,False,False,False,False,False,False,False
+129,Denver,dentist,True,2,True,False,False,False,False,False,False,False,False
+130,Denver,dentist,True,3,True,False,False,False,False,False,True,True,False
+131,Denver,law firm,True,2,True,True,False,False,False,False,False,False,False
+132,Denver,law firm,True,2,False,False,False,False,False,False,False,False,False
+133,Denver,dentist,True,2,False,True,True,False,False,False,False,False,False
+134,Denver,law firm,True,6,True,False,False,False,False,False,True,True,True
+135,Denver,law firm,True,4,True,False,False,False,False,False,True,False,True
+136,Denver,law firm,False,0,False,False,False,False,False,False,False,False,False
+137,Denver,law firm,False,0,False,False,False,False,False,False,False,False,False
+138,Denver,law firm,True,7,True,True,False,False,False,False,False,True,False
+139,Denver,law firm,False,0,False,False,False,False,False,False,False,False,False
+140,Denver,law firm,True,8,True,False,False,True,True,False,True,True,True
+141,Denver,law firm,True,1,True,False,False,False,False,False,False,False,False
+142,Denver,law firm,True,1,True,False,False,False,False,False,False,False,False
+143,Denver,law firm,True,2,False,False,False,False,False,False,False,False,False
+144,Denver,law firm,True,3,False,True,True,False,False,False,True,False,False
+145,Denver,law firm,True,1,False,False,False,False,False,False,False,False,False
+146,Denver,hair salon,True,1,True,False,False,False,False,False,False,False,False
+147,Denver,law firm,True,4,True,True,False,False,False,False,True,False,False
+148,Denver,hair salon,True,3,True,True,False,False,False,False,False,True,False
+149,Denver,hair salon,True,2,True,False,False,False,False,False,False,False,False
+150,Denver,hair salon,True,2,False,False,False,False,False,False,False,False,True
+151,Denver,hair salon,True,1,False,False,False,False,False,False,False,True,False
+152,Denver,hair salon,True,1,True,False,False,False,False,False,False,False,False
+153,Denver,hair salon,True,7,True,True,True,False,True,True,False,True,False
+154,Denver,hair salon,True,1,True,False,False,False,False,False,False,False,False
+155,Denver,hair salon,True,4,False,True,False,False,False,False,False,False,True
+156,Denver,hair salon,False,0,False,False,False,False,False,False,False,False,False
+157,Denver,hair salon,False,0,False,False,False,False,False,False,False,False,False
+158,Denver,hair salon,True,1,True,False,False,False,False,False,False,False,False
+159,Denver,hair salon,True,1,True,False,False,False,False,False,False,False,False
+160,Denver,hair salon,False,0,False,False,False,False,False,False,False,False,False
+161,Denver,hair salon,True,3,True,True,False,False,False,False,True,False,False
+162,Denver,hair salon,True,1,False,False,True,False,False,False,False,False,False
+163,Denver,hair salon,True,3,True,False,False,False,False,False,True,True,False
+164,Denver,hair salon,True,6,True,False,False,False,False,False,False,True,False
+165,Columbus,restaurant,True,5,True,True,False,False,False,False,False,True,False
+166,Columbus,restaurant,True,1,False,False,False,False,False,True,False,False,False
+167,Columbus,restaurant,False,0,False,False,False,False,False,False,False,False,False
+168,Columbus,restaurant,True,4,True,True,True,False,False,False,False,False,True
+169,Columbus,restaurant,True,1,True,False,False,False,False,False,False,False,False
+170,Columbus,restaurant,True,3,True,True,False,False,False,False,False,True,False
+171,Columbus,restaurant,True,1,False,True,False,False,False,False,False,False,False
+172,Columbus,restaurant,True,1,True,False,False,False,False,False,False,False,False
+173,Columbus,restaurant,True,2,True,True,False,False,False,False,False,False,False
+174,Columbus,restaurant,True,3,False,True,True,False,False,False,False,False,True
+175,Columbus,restaurant,False,0,False,False,False,False,False,False,False,False,False
+176,Columbus,restaurant,True,2,True,True,False,False,False,False,False,False,False
+177,Columbus,restaurant,False,0,False,False,False,False,False,False,False,False,False
+178,Columbus,cafe,True,3,False,True,False,False,False,False,False,False,False
+179,Columbus,cafe,True,2,True,True,False,False,False,False,False,False,False
+180,Columbus,restaurant,False,0,False,False,False,False,False,False,False,False,False
+181,Columbus,cafe,True,1,False,False,True,False,False,False,False,False,False
+182,Columbus,cafe,True,4,False,True,False,False,False,True,False,False,False
+183,Columbus,cafe,True,5,True,True,True,False,False,False,False,False,False
+184,Columbus,cafe,True,1,False,True,False,False,False,False,False,False,False
+185,Columbus,cafe,False,0,False,False,False,False,False,False,False,False,False
+186,Columbus,cafe,False,1,False,False,False,False,False,False,False,False,True
+187,Columbus,cafe,True,1,False,True,False,False,False,False,False,False,False
+188,Columbus,cafe,True,4,True,True,False,False,False,True,True,False,False
+189,Columbus,cafe,True,7,True,True,True,False,True,True,False,False,False
+190,Columbus,cafe,True,5,True,False,False,False,False,False,True,False,False
+191,Columbus,dentist,True,3,True,True,False,True,False,False,False,False,False
+192,Columbus,dentist,True,3,True,False,False,False,False,False,False,True,False
+193,Columbus,cafe,True,2,True,False,False,False,False,False,True,False,False
+194,Columbus,cafe,True,2,True,True,False,False,False,False,False,False,False
+195,Columbus,dentist,True,3,False,True,False,False,False,False,True,False,False
+196,Columbus,dentist,True,2,False,True,False,False,False,False,False,True,False
+197,Columbus,dentist,True,3,True,True,False,False,False,False,False,True,False
+198,Columbus,dentist,False,0,False,False,False,False,False,False,False,False,False
+199,Columbus,dentist,False,0,False,False,False,False,False,False,False,False,False
+200,Columbus,dentist,True,3,False,False,False,False,False,False,False,True,False
+201,Columbus,law firm,True,1,False,False,False,False,False,False,True,False,False
+202,Columbus,law firm,True,1,False,False,False,False,False,False,False,False,False
+203,Columbus,law firm,True,2,False,False,False,True,False,False,False,False,False
+204,Columbus,law firm,True,2,False,False,False,False,False,False,False,False,False
+205,Columbus,law firm,True,1,True,False,False,False,False,False,False,False,False
+206,Columbus,law firm,True,4,True,False,False,False,False,False,False,False,False
+207,Columbus,law firm,True,4,True,False,False,False,False,False,True,True,True
+208,Columbus,law firm,False,0,False,False,False,False,False,False,False,False,False
+209,Columbus,law firm,False,0,False,False,False,False,False,False,False,False,False
+210,Columbus,law firm,True,2,True,False,False,False,False,False,False,False,False
+211,Columbus,law firm,False,0,False,False,False,False,False,False,False,False,False
+212,Columbus,law firm,True,2,True,True,False,False,False,False,False,False,False
+213,Columbus,law firm,True,5,True,False,False,False,False,False,False,False,False
+214,Columbus,hair salon,True,1,False,False,False,False,False,False,True,False,False
+215,Columbus,law firm,True,2,True,False,False,False,False,False,False,False,True
+216,Columbus,hair salon,True,5,True,False,False,False,False,False,True,False,False
+217,Columbus,hair salon,True,3,True,False,False,True,False,False,False,True,False
+218,Columbus,hair salon,True,4,True,True,False,False,False,False,False,True,True
+219,Columbus,hair salon,True,7,True,True,True,False,False,False,False,True,False
+220,Columbus,hair salon,True,1,True,False,False,False,False,False,False,False,False
+221,Columbus,hair salon,True,1,True,False,False,False,False,False,False,False,False
+222,Columbus,hair salon,True,4,True,False,False,False,False,False,True,False,False
+223,Columbus,hair salon,True,5,True,True,False,False,False,False,False,False,False
+224,Columbus,hair salon,True,3,False,True,True,False,False,True,False,False,False
+225,Portland,restaurant,True,4,True,True,False,False,False,False,False,False,False
+226,Portland,restaurant,True,3,False,True,False,False,False,True,False,False,False
+227,Columbus,hair salon,True,3,False,True,False,False,False,False,False,False,False
+228,Portland,restaurant,True,3,False,True,True,True,False,False,False,False,False
+229,Portland,restaurant,True,1,True,False,False,False,False,False,False,False,False
+230,Portland,restaurant,True,1,True,False,False,False,False,False,False,False,False
+231,Portland,restaurant,False,0,False,False,False,False,False,False,False,False,False
+232,Portland,restaurant,True,1,True,False,False,False,False,False,False,False,False
+233,Portland,restaurant,True,2,False,True,False,False,False,False,False,False,False
+234,Portland,restaurant,True,5,True,True,True,False,False,False,False,True,True
+235,Portland,restaurant,True,1,True,False,False,False,False,False,False,False,False
+236,Portland,restaurant,True,2,False,True,True,False,False,False,False,False,False
+237,Portland,restaurant,True,2,False,True,True,False,False,False,False,False,False
+238,Portland,restaurant,True,2,False,False,False,False,False,False,False,False,False
+239,Portland,restaurant,False,0,False,False,False,False,False,False,False,False,False
+240,Portland,restaurant,True,1,False,True,False,False,False,False,False,False,False
+241,Portland,restaurant,True,1,False,True,False,False,False,False,False,False,False
+242,Portland,cafe,True,2,False,False,False,True,False,False,False,False,False
+243,Portland,cafe,True,1,True,False,False,False,False,False,False,False,False
+244,Portland,cafe,True,2,True,False,False,False,False,False,False,True,False
+245,Portland,cafe,False,0,False,False,False,False,False,False,False,False,False
+246,Portland,cafe,True,2,False,False,True,False,False,False,False,False,False
+247,Portland,cafe,True,1,True,False,False,False,False,False,False,False,False
+248,Portland,cafe,True,3,True,True,False,False,False,False,False,False,True
+249,Portland,cafe,True,2,True,False,False,False,False,False,False,False,True
+250,Portland,cafe,True,4,True,False,False,False,False,False,False,False,True
+251,Portland,cafe,True,2,True,False,False,False,False,False,False,False,False
+252,Portland,cafe,True,1,False,True,False,False,False,False,False,False,False
+253,Portland,cafe,True,5,True,True,True,False,False,False,False,False,False
+254,Portland,cafe,True,1,False,False,True,False,False,False,False,False,False
+255,Portland,cafe,True,5,True,True,False,True,False,False,False,False,False
+256,Portland,cafe,True,1,False,False,False,False,False,True,False,False,False
+257,Portland,cafe,True,3,True,True,False,False,False,False,False,False,True
+258,Portland,dentist,True,5,False,False,True,True,True,True,False,False,True
+259,Portland,dentist,True,1,False,True,False,False,False,False,False,False,False
+260,Portland,dentist,True,3,True,False,False,False,False,False,True,False,False
+261,Portland,dentist,True,2,True,False,False,False,False,False,False,False,False
+262,Portland,dentist,True,4,True,True,False,False,False,False,False,False,False
+263,Portland,dentist,True,1,False,False,False,False,False,True,False,False,False
+264,Portland,dentist,True,2,True,False,False,False,False,False,False,False,False
+265,Portland,dentist,True,3,True,True,False,False,False,True,False,False,False
+266,Portland,dentist,False,0,False,False,False,False,False,False,False,False,False
+267,Portland,dentist,True,2,False,True,False,False,False,False,False,False,False
+268,Portland,dentist,True,5,True,True,False,False,False,False,True,False,True
+269,Portland,dentist,True,5,True,True,True,False,False,True,False,True,False
+270,Portland,dentist,True,1,False,False,False,False,False,False,False,False,False
+271,Portland,law firm,True,1,False,True,False,False,False,False,False,False,False
+272,Portland,law firm,False,0,False,False,False,False,False,False,False,False,False
+273,Portland,law firm,True,1,False,True,False,False,False,False,False,False,False
+274,Portland,law firm,True,1,False,False,False,False,False,True,False,False,False
+275,Portland,law firm,False,0,False,False,False,False,False,False,False,False,False
+276,Portland,law firm,True,4,True,True,False,True,False,False,False,False,False
+277,Portland,law firm,True,1,False,True,False,False,False,False,False,False,False
+278,Portland,law firm,False,0,False,False,False,False,False,False,False,False,False
+279,Portland,law firm,True,3,True,True,True,False,False,False,False,False,False
+280,Portland,law firm,True,5,True,False,False,False,False,False,True,False,False
+281,Portland,law firm,True,6,True,True,True,False,True,False,False,False,True
+282,Portland,law firm,True,3,True,True,False,False,False,False,False,False,True
+283,Portland,law firm,True,3,True,True,False,False,False,False,False,True,False
+284,Portland,law firm,True,1,True,False,False,False,False,False,False,False,False
+285,Portland,law firm,True,3,True,False,False,False,False,False,False,True,False
+286,Portland,hair salon,True,1,True,False,False,False,False,False,False,False,False
+287,Portland,hair salon,True,1,True,False,False,False,False,False,False,False,False
+288,Portland,law firm,True,4,True,True,False,True,False,False,False,True,False
+289,Portland,hair salon,True,2,True,True,False,False,False,False,False,False,False
+290,Portland,hair salon,True,6,True,False,True,True,True,True,False,False,True
+291,Portland,hair salon,True,1,True,False,False,False,False,False,False,False,False
+292,Portland,hair salon,True,3,True,True,False,False,True,False,False,False,False
+293,Portland,law firm,True,2,False,True,True,False,False,False,False,False,False
+294,Portland,hair salon,True,1,True,False,False,False,False,False,False,False,False
+295,Portland,hair salon,True,3,False,False,False,False,False,True,True,False,False
+296,Portland,hair salon,True,1,False,True,False,False,False,False,False,False,False
+297,Portland,hair salon,True,2,True,False,False,False,False,False,False,True,False
+298,Portland,hair salon,True,1,True,False,False,False,False,False,False,False,False
+299,Portland,hair salon,True,2,False,False,False,False,False,False,False,False,True
+300,Portland,hair salon,True,2,True,False,True,False,False,False,False,False,False
+301,Portland,hair salon,True,2,False,True,False,False,False,True,False,False,False
+302,Portland,hair salon,True,1,True,False,False,False,False,False,False,False,False
+303,Portland,hair salon,True,5,True,True,False,False,False,True,False,False,True
+304,Atlanta,restaurant,True,1,True,False,False,False,False,False,False,False,False
+305,Atlanta,restaurant,False,0,False,False,False,False,False,False,False,False,False
+306,Atlanta,restaurant,True,2,False,True,True,False,False,False,False,False,False
+307,Atlanta,restaurant,True,3,True,True,False,False,False,False,False,False,False
+308,Atlanta,restaurant,True,1,True,False,False,False,False,False,False,False,False
+309,Atlanta,restaurant,True,3,True,False,False,False,False,False,False,False,False
+310,Atlanta,restaurant,True,2,True,True,False,False,False,False,False,False,False
+311,Atlanta,restaurant,False,0,False,False,False,False,False,False,False,False,False
+312,Atlanta,restaurant,False,0,False,False,False,False,False,False,False,False,False
+313,Atlanta,restaurant,True,2,True,True,False,False,False,False,False,False,False
+314,Atlanta,restaurant,True,1,False,False,False,False,False,False,True,False,False
+315,Atlanta,restaurant,False,0,False,False,False,False,False,False,False,False,False
+316,Atlanta,restaurant,True,1,True,False,False,False,False,False,False,False,False
+317,Atlanta,restaurant,True,1,True,False,False,False,False,False,False,False,False
+318,Atlanta,restaurant,True,1,False,False,False,False,False,False,False,False,False
+319,Atlanta,cafe,False,0,False,False,False,False,False,False,False,False,False
+320,Atlanta,cafe,True,1,True,False,False,False,False,False,False,False,False
+321,Atlanta,cafe,True,1,True,False,False,False,False,False,False,False,False
+322,Atlanta,cafe,False,0,False,False,False,False,False,False,False,False,False
+323,Atlanta,cafe,True,5,True,True,True,False,False,True,False,True,False
+324,Atlanta,cafe,True,2,False,False,False,False,False,False,False,True,False
+325,Atlanta,cafe,False,0,False,False,False,False,False,False,False,False,False
+326,Atlanta,cafe,False,0,False,False,False,False,False,False,False,False,False
+327,Atlanta,cafe,True,4,False,False,True,False,False,False,True,False,False
+328,Atlanta,cafe,True,2,True,False,False,False,False,False,False,False,False
+329,Atlanta,cafe,True,1,True,False,False,False,False,False,False,False,False
+330,Atlanta,cafe,True,3,True,True,False,False,False,True,False,False,False
+331,Atlanta,cafe,True,2,True,True,False,False,False,False,False,False,False
+332,Atlanta,cafe,True,4,True,True,False,True,False,False,False,False,True
+333,Atlanta,cafe,True,2,True,True,False,False,False,False,False,False,False
+334,Atlanta,cafe,True,4,True,True,False,False,False,False,True,False,True
+335,Atlanta,dentist,True,3,False,False,False,False,False,False,False,True,True
+336,Atlanta,dentist,True,6,True,False,True,False,True,False,True,True,True
+337,Atlanta,dentist,True,4,True,True,False,False,False,False,False,False,False
+338,Atlanta,dentist,True,1,True,False,False,False,False,False,False,False,False
+339,Atlanta,dentist,True,2,False,False,False,False,False,False,True,False,False
+340,Atlanta,dentist,True,2,True,False,False,False,False,False,True,False,False
+341,Atlanta,dentist,True,1,True,False,False,False,False,False,False,False,False
+342,Atlanta,dentist,True,2,False,True,False,False,False,False,True,False,False
+343,Atlanta,dentist,True,4,True,True,False,False,False,False,True,False,True
+344,Atlanta,dentist,True,5,True,True,True,False,False,False,True,False,True
+345,Atlanta,dentist,True,3,True,True,False,False,False,False,False,False,False
+346,Atlanta,dentist,True,2,True,False,False,False,True,False,False,False,False
+347,Atlanta,dentist,True,3,True,True,False,False,False,False,False,False,False
+348,Atlanta,dentist,True,2,False,True,False,False,False,False,True,False,False
+349,Atlanta,law firm,False,0,False,False,False,False,False,False,False,False,False
+350,Atlanta,dentist,True,2,True,True,False,False,False,False,False,False,False
+351,Atlanta,law firm,True,4,True,True,False,False,False,False,False,False,False
+352,Atlanta,law firm,True,7,False,False,True,False,True,True,False,True,True
+353,Atlanta,dentist,True,1,True,False,False,False,False,False,False,False,False
+354,Atlanta,law firm,False,0,False,False,False,False,False,False,False,False,False
+355,Atlanta,law firm,True,7,True,False,False,False,False,False,True,True,False
+356,Atlanta,law firm,True,4,False,True,True,False,False,False,True,False,False
+357,Atlanta,law firm,False,1,False,False,False,False,False,False,False,False,True
+358,Atlanta,law firm,True,4,True,True,False,False,False,False,False,False,True
+359,Atlanta,law firm,True,1,False,True,False,False,False,False,False,False,False
+360,Atlanta,law firm,True,5,True,True,False,False,False,False,True,True,False
+361,Atlanta,law firm,True,1,True,False,False,False,False,False,False,False,False
+362,Atlanta,law firm,True,3,True,False,False,False,False,False,False,False,False
+363,Atlanta,law firm,True,4,True,True,True,False,False,False,False,False,False
+364,Atlanta,law firm,True,6,True,True,True,False,False,False,False,True,False
+365,Atlanta,law firm,True,2,True,False,False,False,False,False,False,False,False
+366,Atlanta,hair salon,False,0,False,False,False,False,False,False,False,False,False
+367,Atlanta,hair salon,True,3,True,True,False,False,False,False,False,False,True
+368,Atlanta,hair salon,True,2,False,True,True,False,False,False,False,False,False
+369,Atlanta,hair salon,True,2,False,True,False,False,False,False,False,False,False
+370,Atlanta,hair salon,True,2,True,True,False,False,False,False,False,False,False
+371,Atlanta,hair salon,True,1,True,False,False,False,False,False,False,False,False
+372,Atlanta,hair salon,True,4,False,True,True,False,False,False,False,False,False
+373,Atlanta,hair salon,False,0,False,False,False,False,False,False,False,False,False
+374,Atlanta,hair salon,True,1,False,True,False,False,False,False,False,False,False
+375,Atlanta,hair salon,True,3,True,True,False,False,False,False,False,False,False
+376,Atlanta,hair salon,True,3,False,True,True,False,False,False,True,False,False
+377,Atlanta,hair salon,True,7,True,True,False,False,False,False,False,False,True
+378,Atlanta,hair salon,True,2,False,True,False,False,False,False,False,False,True
+379,Atlanta,hair salon,True,5,True,True,True,False,False,False,False,False,True
+380,Atlanta,hair salon,True,1,False,True,False,False,False,False,False,False,False
+381,Atlanta,hair salon,True,2,True,False,False,False,False,False,False,True,False
+382,Atlanta,hair salon,True,1,True,False,False,False,False,False,False,False,False
+383,Austin,hair salon,True,1,True,False,False,False,False,False,False,False,False
+384,Austin,restaurant,True,4,True,True,True,False,False,True,False,False,False
+385,Columbus,cafe,True,5,True,True,True,False,False,False,False,False,True
