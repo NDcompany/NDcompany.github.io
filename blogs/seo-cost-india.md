@@ -145,7 +145,7 @@ Two quotes at the same price can cover very different work. Ask each agency to p
 7. What does the report show, and how often do we talk?
 8. Who owns the accounts and the content, and what do we keep if we stop?
 
-Then ask for examples of previous work and what timeframe they expect, as Google suggests. A figure for a keyword ranking is not a result. Traffic, enquiries and sales are, and a good report ties the work to them.
+Then ask for examples of previous work and what timeframe they expect, as Google suggests. A figure for a keyword ranking is not a result. Traffic, enquiries and sales are, and a good report ties the work to them. Before the first call, our study on [how to choose an SEO agency in India](https://ndcompany.in/blogs/choose-seo-agency-india) shows which promises and contract terms to question.
 
 ## What can you do for free?
 
@@ -292,7 +292,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Working with an agency, SEO audits",
       "genre": "Guide",
-      "wordCount": 2437,
+      "wordCount": 2460,
       "inLanguage": "en-IN"
     },
     {

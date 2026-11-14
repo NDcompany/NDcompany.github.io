@@ -37,7 +37,7 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 - [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
   6 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  30 Oct 2026
+  14 Nov 2026
 - [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
   7 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
@@ -155,7 +155,7 @@ What a website costs to build and run: design and development, domains, hosting,
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  30 Oct 2026
+  14 Nov 2026
 - [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
   7 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)

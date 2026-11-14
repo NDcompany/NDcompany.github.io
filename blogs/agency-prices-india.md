@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/agency-prices-india"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-29T00:00:00+05:30"
-modified: "2026-10-30T00:00:00+05:30"
+modified: "2026-11-14T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/agency-prices-india-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/agency-prices-india-16x9.png"
 
 Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 29 October 2026 Updated 30 October 2026 9 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 29 October 2026 Updated 14 November 2026 8 min read
 
 Most Indian digital agencies do not publish their prices. On 29 October 2026 we checked the websites of 108 agencies that Google showed for "website design company" and "SEO company" searches in eight cities, and only 35 of the 101 whose sites we could read (35%) showed any price at all. Among those that did, the cheapest website package had a median starting price of ₹15,000, monthly SEO also started at a median of ₹15,000 a month, and an online store started at about ₹50,000. Only 6 of the 35 said whether GST was added.
 
@@ -89,9 +89,9 @@ A quote is only comparable with another if both price the same job, so [plan the
 
 Eight agencies published a rupee price for an e-commerce site, 10 packages in all. Their starting prices ran from ₹20,000 to ₹2,67,750, with a median of about ₹50,000. The packages that list their contents include a product catalogue, cart, payment gateway and order management; several also bundle a few months of maintenance. What goes into a store build is on our [e-commerce development](https://ndcompany.in/services/ecommerce-solutions) page. Store platform fees and payment gateway charges come on top of any build price.
 
-## How much does SEO cost per month in India?
+## SEO: what 15 agencies publish
 
-SEO is the service agencies price most openly. Fifteen agencies published monthly SEO prices in rupees, 37 packages in all. The cheapest package per agency ran from ₹5,000 to ₹40,000 a month, with a median of ₹15,000. Across all 37 packages the median was ₹25,000 a month, half of them fell between ₹15,000 and ₹45,000, and the top package was ₹2,00,000 a month.
+SEO is the service agencies price most openly. Fifteen agencies published monthly SEO prices in rupees, 37 packages in all. Their starting prices ran from ₹5,000 to ₹40,000 a month, with a median of ₹15,000, and the median of all 37 packages was ₹25,000 a month.
 
 Median starting price by service, in rupees
 
@@ -107,7 +107,7 @@ Median starting price by service, in rupees
 
 *Starting price is each agency's cheapest published package for that service, in rupees, as shown on its own website. Ad spend is not included in ads management fees. Social media and ads figures rest on three and five agencies. Source: N&D Co. survey of agency websites, 29 October 2026.*
 
-Packages that list their contents are mostly sized by the number of target keywords, for example 5, 10, 15 or 20 a month. Five of the 16 agencies that priced SEO in rupees set a minimum term of three or six months, and seven mentioned optimising for AI search (GEO or AEO) in their packages. A cheaper package usually means fewer keywords, less content and less link building, not the same work for less. A [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) shows what a site needs before you pay for anything, and our [SEO services](https://ndcompany.in/services/seo-services) page lists what each month of work covers. Our guide to [SEO costs in India](https://ndcompany.in/blogs/seo-cost-india) goes through what a monthly fee buys, which quotes to doubt and how to compare them.
+Most packages are sized by the number of target keywords, and a cheaper one usually means fewer keywords, less content and fewer links, not the same work for less. The full breakdown of [SEO charges per month in India](https://ndcompany.in/blogs/seo-cost-india) covers what a fee buys, which quotes to doubt and how to compare them. Hiring from abroad? Our study on [how to choose an SEO agency in India](https://ndcompany.in/blogs/choose-seo-agency-india) reads 37 agency websites for their US dollar prices, promises and contract terms. A [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) shows what a site needs before you pay for anything, and our [SEO services](https://ndcompany.in/services/seo-services) page lists what each month of work covers.
 
 ## What do social media and ads management cost?
 
@@ -266,7 +266,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-29T00:00:00+05:30",
-      "dateModified": "2026-10-30T00:00:00+05:30",
+      "dateModified": "2026-11-14T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -286,7 +286,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Business",
       "keywords": "Website costs, Working with an agency",
       "genre": "Insight",
-      "wordCount": 1906,
+      "wordCount": 1868,
       "inLanguage": "en-IN"
     },
     {

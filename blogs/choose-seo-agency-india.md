@@ -60,7 +60,7 @@ Monthly SEO packages in US dollars, by price band, number of packages
 
 *24 monthly SEO packages from 10 agencies, as priced on each agency's own website. A "from" price is placed by its starting figure. Source: N&D Co. survey of 37 agency websites, 6 November 2026.*
 
-Most package tables price by quantity: a number of keywords tracked, a number of pages optimized and, on six sites, a number of links or directory submissions a month. That makes packages easy to compare and easy to misread. A package that tracks more keywords is not more work on your site, and a package with more links may be more risk, not more value. For what Indian agencies charge in rupees, our [study of SEO prices in India](https://ndcompany.in/blogs/seo-cost-india) found a median of ₹25,000 a month across 37 rupee packages.
+Most package tables price by quantity: a number of keywords tracked, a number of pages optimized and, on six sites, a number of links or directory submissions a month. That makes packages easy to compare and easy to misread. A package that tracks more keywords is not more work on your site, and a package with more links may be more risk, not more value. For what Indian agencies charge in rupees, our [study of SEO prices in India](https://ndcompany.in/blogs/seo-cost-india) found a median of ₹25,000 a month across 37 rupee packages, and our survey of [what 108 Indian agencies charge](https://ndcompany.in/blogs/agency-prices-india) sets SEO beside website, store and ads prices.
 
 ## How many promise rankings?
 
@@ -269,7 +269,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Working with an agency, Google Search Console",
       "genre": "Guide",
-      "wordCount": 2393,
+      "wordCount": 2410,
       "inLanguage": "en-IN"
     },
     {
