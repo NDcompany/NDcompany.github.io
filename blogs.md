@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+SEO
+
+Insight · 14 Nov 2026
+
+### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+
+Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
+
+Read the post
+
 Business
 
 News · 11 Nov 2026
@@ -306,6 +316,8 @@ Read the guide
 
 ## Recently updated
 
+- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+  14 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   14 Nov 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
@@ -313,8 +325,6 @@ Read the guide
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
   11 Nov 2026
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
-  11 Nov 2026
-- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
   11 Nov 2026
 
 ## Trending tags
@@ -327,8 +337,8 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
-- [Local SEO](https://ndcompany.in/tags/local-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -412,6 +422,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/ai-crawler-blocking-study#article",
+          "headline": "How many small business websites block AI crawlers? A study of 4,564 sites",
+          "description": "We read the robots.txt of 4,564 small business websites in 10 countries: 3.4% block an AI crawler, two thirds through Cloudflare. 20% have an llms.txt.",
+          "image": "https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png",
+          "url": "https://ndcompany.in/blogs/ai-crawler-blocking-study",
+          "datePublished": "2026-11-14T00:00:00+05:30",
+          "dateModified": "2026-11-14T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/fiverr-fake-order-scam#article",

@@ -251,6 +251,16 @@ Guides on the work behind SEO Services.
 
 SEO
 
+Insight · 14 Nov 2026
+
+### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+
+Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
+
+Read the post
+
+SEO
+
 Guide · 11 Nov 2026
 
 ### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
@@ -268,16 +278,6 @@ Guide · 6 Nov 2026
 Dollar prices, ranking promises, links sold by count, lock-in contracts and account ownership on 37 Indian SEO agency websites, with a checklist for your first call.
 
 Read the guide
-
-Websites
-
-News · 5 Nov 2026
-
-### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-
-A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
-
-Read the post
 
 ## Ready to start?
 

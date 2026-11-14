@@ -244,6 +244,16 @@ Learn more
 
 Guides on the work behind Website Design & Development.
 
+SEO
+
+Insight · 14 Nov 2026
+
+### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+
+Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
+
+Read the post
+
 Business
 
 News · 11 Nov 2026
@@ -263,16 +273,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Business
-
-Guide · 11 Nov 2026
-
-### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
-
-Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
-
-Read the guide
 
 ## Ready to start?
 

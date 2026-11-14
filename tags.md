@@ -226,6 +226,25 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 
 [Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
+## Technical SEO
+
+5 posts
+
+Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
+
+- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+  14 Nov 2026
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  6 Nov 2026
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  30 Oct 2026
+
+[Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
+
 ## Google Search Console
 
 4 posts
@@ -277,23 +296,6 @@ What an SEO audit checks on a website, how its findings are ranked and scored, a
 
 [Everything tagged SEO audits](https://ndcompany.in/tags/seo-audits)
 
-## Technical SEO
-
-4 posts
-
-Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages.
-
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
-  30 Oct 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  30 Oct 2026
-
-[Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
-
 ## Web accessibility
 
 4 posts
@@ -325,6 +327,17 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
   28 Oct 2026
 
 [Everything tagged Google Business Profile](https://ndcompany.in/tags/google-business-profile)
+
+## AI search
+
+2 posts
+
+How ChatGPT, Claude, Perplexity and Google's AI features find and use web pages, and what robots.txt, llms.txt and Content Signals change.
+
+- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+  14 Nov 2026
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  6 Nov 2026
 
 ## Online reviews
 
@@ -499,26 +512,26 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 9,
+            "name": "Technical SEO",
+            "url": "https://ndcompany.in/tags/technical-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
             "name": "Google Search Console",
             "url": "https://ndcompany.in/tags/google-search-console"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Local SEO",
             "url": "https://ndcompany.in/tags/local-seo"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags/seo-audits"
-          },
-          {
-            "@type": "ListItem",
-            "position": 12,
-            "name": "Technical SEO",
-            "url": "https://ndcompany.in/tags/technical-seo"
           },
           {
             "@type": "ListItem",
@@ -535,60 +548,66 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 15,
+            "name": "AI search",
+            "url": "https://ndcompany.in/tags#ai-search"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
             "name": "Online reviews",
             "url": "https://ndcompany.in/tags#online-reviews"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 17,
             "name": "Phishing",
             "url": "https://ndcompany.in/tags#phishing"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 18,
             "name": "Case management",
             "url": "https://ndcompany.in/tags#case-management"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
             "name": "Community platforms",
             "url": "https://ndcompany.in/tags#community-platforms"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 20,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 21,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
-            "position": 21,
+            "position": 22,
             "name": "Payment fraud",
             "url": "https://ndcompany.in/tags#payment-fraud"
           },
           {
             "@type": "ListItem",
-            "position": 22,
+            "position": 23,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 23,
+            "position": 24,
             "name": "Website security",
             "url": "https://ndcompany.in/tags#website-security"
           },
           {
             "@type": "ListItem",
-            "position": 24,
+            "position": 25,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

@@ -9,6 +9,19 @@
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
 <entry>
+<title>How many small business websites block AI crawlers? A study of 4,564 sites</title>
+<link href="https://ndcompany.in/blogs/ai-crawler-blocking-study" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/ai-crawler-blocking-study</id>
+<published>2026-11-14T00:00:00+05:30</published>
+<updated>2026-11-14T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="ai-search" label="AI search" scheme="https://ndcompany.in/tags/"/>
+<category term="technical-seo" label="Technical SEO" scheme="https://ndcompany.in/tags/"/>
+<summary>We read the robots.txt of 4,564 small business websites in 10 countries: 3.4% block an AI crawler, two thirds through Cloudflare. 20% have an llms.txt.</summary>
+</entry>
+<entry>
 <title>The Fiverr fake order scam: a case study of the files, pages and card form</title>
 <link href="https://ndcompany.in/blogs/fiverr-fake-order-scam" rel="alternate" type="text/html"/>
 <media:content url="https://ndcompany.in/assets/blog/fiverr-fake-order-scam-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
@@ -202,6 +215,7 @@
 <updated>2026-11-06T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="ai-search" label="AI search" scheme="https://ndcompany.in/tags/"/>
 <category term="technical-seo" label="Technical SEO" scheme="https://ndcompany.in/tags/"/>
 <category term="google-search-console" label="Google Search Console" scheme="https://ndcompany.in/tags/"/>
 <summary>What Google, OpenAI, Anthropic and Perplexity say about their crawlers, robots.txt, llms.txt and content, and how to check your own site for AI search.</summary>

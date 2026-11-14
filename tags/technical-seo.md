@@ -3,7 +3,7 @@ title: "Technical SEO: posts and guides | N&D Co."
 description: "Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages."
 url: "https://ndcompany.in/tags/technical-seo"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png"
+image: "https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png"
 ---
 
 Tag
@@ -21,6 +21,16 @@ The basics are often missing. Of 316 working Kolkata business websites we checke
 AI search adds crawlers, not new rules. Google says a page must be indexed and eligible for a snippet to appear in AI Overviews, and that you don't need an llms.txt file. OpenAI, Anthropic and Perplexity each run a search crawler separate from their training crawler, so a site can allow OAI-SearchBot and block GPTBot ([which AI crawlers to allow in robots.txt](https://ndcompany.in/blogs/optimize-content-for-llms)).
 
 ## Latest posts
+
+SEO
+
+Insight · 14 Nov 2026
+
+### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+
+Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
+
+Read the post
 
 SEO
 
@@ -64,6 +74,8 @@ Read the guide
 
 ## Recently updated
 
+- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+  14 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   14 Nov 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
@@ -71,8 +83,6 @@ Read the guide
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
   11 Nov 2026
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
-  11 Nov 2026
-- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
   11 Nov 2026
 
 ## Trending tags
@@ -85,8 +95,8 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
-- [Local SEO](https://ndcompany.in/tags/local-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -100,15 +110,15 @@ On-page, off-page, and technical SEO to improve rankings and drive organic traff
 
 Learn more
 
-### [Content Creation](https://ndcompany.in/services/content-creation)
-
-SEO content, blogs, and social media content.
-
-Learn more
-
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
 Responsive websites, e-commerce development, and SEO-optimized web solutions.
+
+Learn more
+
+### [Content Creation](https://ndcompany.in/services/content-creation)
+
+SEO content, blogs, and social media content.
 
 Learn more
 
@@ -143,24 +153,30 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How many small business websites block AI crawlers? A study of 4,564 sites",
+            "url": "https://ndcompany.in/blogs/ai-crawler-blocking-study"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How do you optimize content for LLMs?",
             "url": "https://ndcompany.in/blogs/optimize-content-for-llms"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How healthy are Kolkata small-business websites? We checked 901 businesses",
             "url": "https://ndcompany.in/blogs/kolkata-small-business-websites"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How our free SEO audit works, from request to report",
             "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           }
@@ -168,7 +184,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/optimize-content-for-llms-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png",
         "width": 1200,
         "height": 675
       }

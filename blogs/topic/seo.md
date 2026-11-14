@@ -3,7 +3,7 @@ title: "SEO tips and guides for small businesses | N&D Co."
 description: "SEO tips, guides and insights from N&D Co. for small businesses: technical checks, indexing and Google Business Profile, with links to Google documentation."
 url: "https://ndcompany.in/blogs/topic/seo"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png"
+image: "https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Getting a business found in Google search, from the technical basics that keep a site crawlable to the local listing that puts you on the map. Technical claims link to the Google documentation they come from.
 
 ## Latest posts
+
+SEO
+
+Insight · 14 Nov 2026
+
+### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+
+Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
+
+Read the post
 
 SEO
 
@@ -106,6 +116,8 @@ Read the guide
 
 ## Recently updated
 
+- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+  14 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
   14 Nov 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
@@ -113,8 +125,6 @@ Read the guide
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
   11 Nov 2026
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
-  11 Nov 2026
-- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
   11 Nov 2026
 
 ## Trending tags
@@ -127,8 +137,8 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
-- [Local SEO](https://ndcompany.in/tags/local-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -185,54 +195,60 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How many small business websites block AI crawlers? A study of 4,564 sites",
+            "url": "https://ndcompany.in/blogs/ai-crawler-blocking-study"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "White label SEO explained: how agencies resell SEO safely",
             "url": "https://ndcompany.in/blogs/white-label-seo-explained"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How to choose an SEO agency in India: what 37 agency websites show",
             "url": "https://ndcompany.in/blogs/choose-seo-agency-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How do you optimize content for LLMs?",
             "url": "https://ndcompany.in/blogs/optimize-content-for-llms"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How do schools and colleges do SEO?",
             "url": "https://ndcompany.in/blogs/seo-for-educational-institutions"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "How to run a local SEO audit: a checklist for small businesses",
             "url": "https://ndcompany.in/blogs/local-seo-audit"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "How our free SEO audit works, from request to report",
             "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }
@@ -240,7 +256,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png",
         "width": 1200,
         "height": 675
       }
