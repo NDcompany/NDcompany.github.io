@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-25T00:00:00+05:30"
-modified: "2026-10-30T00:00:00+05:30"
+modified: "2026-11-14T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/free-seo-audit-how-it-works-16x9.png"
 ---
 
@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/free-seo-audit-how-it-works-16x9.png"
 
 From the four-field form to the PDF in your inbox: the checks before we read your site, the ten pages we audit, how findings are scored and ranked, and what happens to your details.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 October 2026 Updated 30 October 2026 14 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 October 2026 Updated 14 November 2026 14 min read
 
 Our free SEO audit works in five steps. You send a short form with your name, email address, website and preferred language. We send you a short confirmation email and check that it arrives, and we check that your website is not on a list of dangerous sites. Our audit tool then opens your homepage and up to nine more pages in a real browser, runs technical, on-page, link, structured data, speed and design checks, and ranks what it finds. You get a PDF report in English, Bengali or Hindi by email within 5 working days. It costs nothing, and asking for one does not commit you to anything.
 
@@ -32,7 +32,7 @@ Key takeaways
 
 ## What is our free SEO audit?
 
-An SEO audit is a check of the things that decide whether search engines can find, read and show your pages, and whether people who land on them get a fast, clear page. Ours is a free check with a fixed, published scope. Its [conditions](https://ndcompany.in/free-seo-audit) set out what it covers: your homepage and up to nine more pages, your sitemap, robots.txt and llms.txt files, and a short written summary of the fixes that matter most.
+An SEO audit is a check of the things that decide whether search engines can find, read and show your pages, and whether people who land on them get a fast, clear page. Ours is a free check with a fixed, published scope. Its [conditions](https://ndcompany.in/free-seo-audit-conditions) set out what it covers: your homepage and up to nine more pages, your sitemap, robots.txt and llms.txt files, and a short written summary of the fixes that matter most.
 
 It is meant for business owners who want a straight answer to "what is wrong with my site, and what should I fix first?" without a sales call first. The report is yours to keep. You can fix things yourself, hand it to your developer, or ask us for a quote.
 
@@ -189,7 +189,7 @@ We use your name, email address, website and language to prepare and send the re
 The report describes what the checks found on the day they ran, and it has limits:
 
 - It reads ten pages at most. A large site or online store can have problems on pages we did not read.
-- It does not research keywords, look at your competitors or check the links other sites point at yours.
+- It does not research keywords or check the links other sites point at yours. It looks at a competitor only if you name one on the form, and then shows just that site's scores beside yours.
 - Its attention maps are predictions from your page's layout, not recordings of real visitors.
 - It does not see inside your Google Search Console, which shows how Google itself indexes your site. Our checklist explains [how to set up Search Console](https://ndcompany.in/blogs/technical-seo-checklist) with the business as owner.
 - It is not a promise of rankings, traffic or sales, and it is not legal or security advice.
@@ -305,7 +305,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-25T00:00:00+05:30",
-      "dateModified": "2026-10-30T00:00:00+05:30",
+      "dateModified": "2026-11-14T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -325,7 +325,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "SEO audits, Technical SEO, Core Web Vitals",
       "genre": "Guide",
-      "wordCount": 3107,
+      "wordCount": 3125,
       "inLanguage": "en-IN"
     },
     {

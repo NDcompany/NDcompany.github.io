@@ -1,73 +1,143 @@
 ---
-title: "Free SEO audit conditions | N&D Co."
-description: "Conditions of N&D Co.'s free SEO audit: what the report covers, who can ask, the 5 working day turnaround, the offer that comes with it and your data."
+title: "Free SEO audit report, emailed as a PDF | N&D Co."
+description: "Get a free SEO audit report of up to 10 pages: speed, Core Web Vitals, titles, links, indexing and llms.txt, with a short fix list. PDF in 5 working days."
 url: "https://ndcompany.in/free-seo-audit"
-type: "WebPage"
-published: "2026-10-24"
-modified: "2026-10-26"
+type: "Service"
 image: "https://ndcompany.in/assets/share/free-seo-audit.png"
 ---
 
-# Free SEO audit conditions
+Free SEO audit
 
-Effective date: 24 October 2026 · Last updated: 26 October 2026
+# Get a free SEO audit report for your website
 
-These conditions cover the free SEO audit you can ask for with the Free SEO Audit button on our website. Our [terms of service](https://ndcompany.in/terms) cover paid work.
+We check your homepage and up to nine more pages with our own audit tool and email you a PDF report within 5 working days. It covers speed and Core Web Vitals from Google's PageSpeed Insights, mobile friendliness, titles, headings, links, crawling and indexing, your sitemap, robots.txt and llms.txt, and a short list of the fixes that matter most.
 
-## 1. What you get
+[See a sample report](https://ndcompany.in/free-seo-audit#audit-sample)
 
-We check the search basics of your website and email you the results as a PDF report. The audit is free, and asking for one does not commit you to buying anything from us.
+Free for businesses and adults aged 18 or over, one audit per website every 90 days. The email with your report includes an offer for our services and up to two follow-ups, and you can unsubscribe at any time. [Read the conditions](https://ndcompany.in/free-seo-audit-conditions).
 
-The report covers:
+## What is in the free SEO audit report?
 
-- Your homepage and up to nine more pages, such as your key service or product pages and some blog posts if you have them
-- Your sitemap, robots.txt and llms.txt files, if they exist
-- Speed and Core Web Vitals, mobile friendliness, page titles and descriptions, headings, links and the basics of how search engines can find and index your pages
-- A short written summary of the fixes that matter most
-- If you name a competitor's website on the form, its scores, shown beside yours. We check that site's public pages the same way, show only its scores, and do not contact that business.
+### Up to 10 pages
 
-## 2. How we prepare it
+Your homepage and up to nine more pages, such as your main service or product pages and a few blog posts. Each one is opened in a real browser on a phone-sized and a computer-sized screen.
 
-Our own audit tool runs the checks, using Google's PageSpeed Insights and Lighthouse for speed. Before it starts, it checks that your email address can receive mail and that your website is safe to visit. It reads only the public pages of your website, never areas behind a login.
+### Speed and Core Web Vitals
 
-AI models help write the summary and our offer from what the checks find. They never receive your name or your email address. Our [privacy policy](https://ndcompany.in/privacy) names the services involved, and our guide [how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works) walks through each step with a sample report.
+Google's PageSpeed Insights runs on every page we read, on phone and on computer, with Google's data from real visitors when Google has it.
 
-## 3. Who can ask
+### Search basics
 
-- Businesses, and adults aged 18 or over
-- People who own or manage the website they name: the form asks you to confirm this
+Page titles and descriptions, headings, links, mobile friendliness, and whether search engines can find and index your pages.
 
-We may decline a request, for example when we cannot reach your email address or your website, when the website is not safe to visit, when the same website was audited in the last 90 days, or when the request looks like spam. If we decline, we tell you by email when we can reach you.
+### Sitemap, robots.txt and llms.txt
 
-## 4. When it arrives
+Whether each file exists and what it tells search engines and AI crawlers about your site.
 
-We email the report within 5 working days of your request. Working days are Monday to Saturday, our office days. If something delays it, we email you to say so. The report comes as a PDF attached to an email from an N&D Co. address.
+### What to fix first
 
-## 5. What the report is not
+Every finding ranked from critical to low, with a short written summary of the fixes that matter most.
 
-The report describes what our checks found on the day they ran. It is a general review, not a promise of search rankings, traffic or sales, and not legal or security advice. Our [disclaimer](https://ndcompany.in/disclaimer) applies to it.
+### One competitor, if you like
 
-## 6. Our offer and follow-ups
+Name a competitor's website on the form and the report shows its scores beside yours. We read only its public pages and never contact that business.
 
-The email with your report includes an offer for our services, based on what the audit found. We may follow up about it twice. Every email has an unsubscribe link, and once you unsubscribe we send you no more offers, follow-ups or tips. If you ask for another audit after that, we send the report without an offer.
+## How does the free SEO audit work?
 
-We send you occasional SEO tips and offers beyond that only if you ticked the box for them on the form. You can unsubscribe from those at any time too.
+### Send the form
 
-## 7. Your details
+Your name, email address, website and the language you want the report in: English, Bengali or Hindi. We never ask for a login or a password.
 
-We use your name, email address, website and preferred language to prepare and send your report and our offer, and to reply to you. We keep them for 24 months, unless you become our client, and you can ask us to delete them sooner. Our [privacy policy](https://ndcompany.in/privacy) explains how we store and protect them, and your rights.
+### We check the request
 
-## 8. Changes to these conditions
+Our tool confirms that your email address can receive mail and that your website is safe to visit.
 
-We may change these conditions. A request is handled under the conditions shown on this page on the day you sent it.
+### The audit runs
 
-## Contact us
+It reads up to 10 public pages and runs PageSpeed Insights on each. Most of the work is automatic, and a person steps in when a request needs checking.
 
-Questions about the free audit, or a request you sent:
+### The PDF arrives
 
-Email: [audit@ndcompany.in](mailto:audit@ndcompany.in)
+A report of about ten pages, under 1 MB, emailed within 5 working days. Our working days are Monday to Saturday.
 
-Phone: [+91 89021 09455](tel:+918902109455)
+Every step, with screenshots of our audit tool, is in our guide to [how our free SEO audit works](https://ndcompany.in/blogs/free-seo-audit-how-it-works).
+
+## See a sample SEO audit report
+
+Two pages of the report our tool made for our own website, ndcompany.in.
+
+![Page one of a free SEO audit report on ndcompany.in: the homepage on a computer, a tablet and a phone, an overall score of 100 out of 100 marked as our own score, and a short summary](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-cover.webp)
+
+*Page one, with the overall score. The report number is blurred.*
+
+![The scores page of the same report: bars for technical SEO, indexability, on-page SEO, links and images, structured data, performance, and design and conversion, a chart of problems by severity, and cards for Google Discover readiness and AI search readiness](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-scores.webp)
+
+*Scores by area, problems by severity, and our own Google Discover and AI search readiness scores.*
+
+## Free SEO audit report or instant SEO checker?
+
+An instant SEO checker scores one page in a few seconds. This report takes longer and goes further: up to 10 pages, PageSpeed Insights on phone and computer for each one, your sitemap, robots.txt and llms.txt, findings ranked by how serious they are, and a written summary of what to fix first. You keep it as a PDF and can hand it to whoever builds your site.
+
+Want a quick score for one page right now? Our free [RankGuru on-page SEO checker](https://ndcompany.in/tools/rankguru) runs in your browser.
+
+## Does the audit check AI search and llms.txt?
+
+Partly. The report checks whether your site has an llms.txt file and gives it an AI search readiness score: whether AI crawlers are allowed to read your pages, whether your content shows without JavaScript, and whether your business and authors are clearly named. The score is our own, not Google's, and Google says its Search ignores llms.txt, so treat that file as a help for other AI tools, not a ranking factor.
+
+## Is it really free? What is the catch?
+
+Yes. There is nothing to pay, no card and no call to book. The catch is that the email with your report includes an offer for our services, based on what the audit found, and we may follow up about it twice. Every email has an unsubscribe link. AI helps write the summary and the offer, and it never receives your name or email address.
+
+## Who can get a free website audit?
+
+Businesses, and adults aged 18 or over, who own or manage the website they name: the form asks you to confirm it. We audit each website once every 90 days, and we may decline a request when we cannot reach your email address or website, when the site is not safe to visit, or when the request looks like spam.
+
+### What the free SEO audit does not do
+
+- It reads 10 pages at most, so a large site or online store can have problems on pages we did not read.
+- It does not see your Google Search Console data and never logs in anywhere.
+- It does not research keywords or review the links other sites point at yours.
+- It describes what the checks found on the day they ran. It is not a promise of rankings, traffic or sales.
+
+If you want the fixes done for you, our [SEO services](https://ndcompany.in/services/seo-services) page lists what each month of work covers and our starting prices.
+
+## Questions about the free SEO audit
+
+**Is the free SEO audit really free?**
+
+Yes. You pay nothing and add no card. The email with your report includes an offer for our services and up to two follow-ups, and you can unsubscribe at any time.
+
+**How long does an SEO audit take?**
+
+Our free report reaches you within 5 working days of your request, Monday to Saturday. If something delays it, we email you to say so.
+
+**How much does an SEO audit cost?**
+
+This one costs nothing. If you want us to fix what it finds, our SEO services page shows our starting prices, and we agree the scope and price in writing before any work starts.
+
+**Can I get the SEO audit report as a PDF?**
+
+Yes. The report is a PDF of about ten pages, under 1 MB, attached to an email from an N&D Co. address.
+
+**What do you need from me?**
+
+Your name, email address, website and the language you want the report in. We never ask for a login or a password.
+
+**Can you compare my website with a competitor?**
+
+Yes, one. Add a competitor's website on the form and the report shows its scores beside yours.
+
+**Will I get a sales call?**
+
+No call is needed. The report email includes an offer, and we may follow up about it twice by email. You can unsubscribe at any time.
+
+**Who runs the audit?**
+
+N&D Co., a brand and growth agency in Kolkata, India. Our own audit tool runs the checks, and the report comes from an N&D Co. email address.
+
+## Get your free SEO audit report
+
+Send the form and the PDF reaches you within 5 working days.
 
 ## Structured data
 
@@ -76,25 +146,37 @@ Phone: [+91 89021 09455](tel:+918902109455)
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "Service",
+      "@id": "https://ndcompany.in/free-seo-audit#service",
+      "name": "Free SEO audit report",
+      "serviceType": "SEO audit",
+      "description": "We check your homepage and up to nine more pages with our own audit tool and email you a PDF report within 5 working days. It covers speed and Core Web Vitals from Google's PageSpeed Insights, mobile friendliness, titles, headings, links, crawling and indexing, your sitemap, robots.txt and llms.txt, and a short list of the fixes that matter most.",
+      "provider": {
+        "@id": "https://ndcompany.in/#ndco-organization"
+      },
+      "areaServed": "Worldwide",
+      "isAccessibleForFree": true,
+      "url": "https://ndcompany.in/free-seo-audit",
+      "mainEntityOfPage": {
+        "@id": "https://ndcompany.in/free-seo-audit#webpage"
+      }
+    },
+    {
       "@type": "WebPage",
       "@id": "https://ndcompany.in/free-seo-audit#webpage",
-      "name": "Free SEO audit conditions",
-      "description": "Conditions of N&D Co.'s free SEO audit: what the report covers, who can ask, the 5 working day turnaround, the offer that comes with it and your data.",
       "url": "https://ndcompany.in/free-seo-audit",
+      "name": "Free SEO audit report, emailed as a PDF | N&D Co.",
+      "description": "Get a free SEO audit report of up to 10 pages: speed, Core Web Vitals, titles, links, indexing and llms.txt, with a short fix list. PDF in 5 working days.",
       "isPartOf": {
-        "@type": "WebSite",
         "@id": "https://ndcompany.in/#website"
       },
-      "publisher": {
-        "@type": "Organization",
-        "@id": "https://ndcompany.in/#ndco-organization"
+      "about": {
+        "@id": "https://ndcompany.in/free-seo-audit#service"
       },
       "breadcrumb": {
         "@id": "https://ndcompany.in/free-seo-audit#breadcrumb"
       },
       "inLanguage": "en-IN",
-      "datePublished": "2026-10-24",
-      "dateModified": "2026-10-26",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/free-seo-audit.png",

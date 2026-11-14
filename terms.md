@@ -42,7 +42,7 @@ We also take on other creative and digital work agreed with you in writing. Each
 
 We handle most work with our in-house team, and for select projects we may collaborate with trusted freelancers or subcontractors when needed.
 
-The free SEO audit offered on this website is not a paid service and has its own [free SEO audit conditions](https://ndcompany.in/free-seo-audit): what it covers, who can ask, when the report arrives and the offer that comes with it.
+The free SEO audit offered on this website is not a paid service and has its own [free SEO audit conditions](https://ndcompany.in/free-seo-audit-conditions): what it covers, who can ask, when the report arrives and the offer that comes with it.
 
 ## 3. Client engagement
 
