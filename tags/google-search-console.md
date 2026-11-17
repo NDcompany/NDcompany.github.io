@@ -3,7 +3,7 @@ title: "Google Search Console: posts and guides | N&D Co."
 description: "Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work."
 url: "https://ndcompany.in/tags/google-search-console"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png"
+image: "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.png"
 ---
 
 Tag
@@ -21,6 +21,16 @@ Agencies rarely say who will own it. Of 37 Indian SEO agency websites we read on
 Once you own it, the reports do the checking. Page indexing validation typically takes up to about two weeks. After a speed fix goes live, Core Web Vitals validation watches the pages for 28 days, and that report includes indexed pages only ([reading the Core Web Vitals report](https://ndcompany.in/blogs/core-web-vitals-explained)). Visits from Google's AI features are counted in the Performance report under the Web search type ([measuring AI visibility in Search Console](https://ndcompany.in/blogs/optimize-content-for-llms)).
 
 ## Latest posts
+
+SEO
+
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
 
 SEO
 
@@ -64,6 +74,8 @@ Read the guide
 
 ## Recently updated
 
+- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+  17 Nov 2026
 - [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
   14 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
@@ -71,8 +83,6 @@ Read the guide
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-  11 Nov 2026
-- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
   11 Nov 2026
 
 ## Trending tags
@@ -85,8 +95,8 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
+- [SEO audits](https://ndcompany.in/tags/seo-audits)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -100,15 +110,15 @@ On-page, off-page, and technical SEO to improve rankings and drive organic traff
 
 Learn more
 
-### [Content Creation](https://ndcompany.in/services/content-creation)
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-SEO content, blogs, and social media content.
+Google Ads, social media marketing, and ROI-focused campaigns.
 
 Learn more
 
-### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+### [Content Creation](https://ndcompany.in/services/content-creation)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+SEO content, blogs, and social media content.
 
 Learn more
 
@@ -143,24 +153,30 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Google's November 2026 core update: what is happening and what to do",
+            "url": "https://ndcompany.in/blogs/google-core-update-november-2026"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How to choose an SEO agency in India: what 37 agency websites show",
             "url": "https://ndcompany.in/blogs/choose-seo-agency-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How do you optimize content for LLMs?",
             "url": "https://ndcompany.in/blogs/optimize-content-for-llms"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Core Web Vitals explained for business owners",
             "url": "https://ndcompany.in/blogs/core-web-vitals-explained"
           }
@@ -168,7 +184,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/choose-seo-agency-india-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.png",
         "width": 1200,
         "height": 675
       }

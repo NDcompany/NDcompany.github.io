@@ -226,6 +226,44 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 
 [Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
+## Google Search Console
+
+5 posts
+
+Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
+
+- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+  17 Nov 2026
+- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
+  6 Nov 2026
+- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
+  6 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  30 Oct 2026
+- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
+  28 Oct 2026
+
+[Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
+
+## SEO audits
+
+5 posts
+
+What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
+
+- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+  17 Nov 2026
+- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
+  11 Nov 2026
+- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
+  6 Nov 2026
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  28 Oct 2026
+- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
+  14 Nov 2026
+
+[Everything tagged SEO audits](https://ndcompany.in/tags/seo-audits)
+
 ## Technical SEO
 
 5 posts
@@ -245,23 +283,6 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 
 [Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
 
-## Google Search Console
-
-4 posts
-
-Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
-
-- [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-  6 Nov 2026
-- [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
-  6 Nov 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  30 Oct 2026
-- [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  28 Oct 2026
-
-[Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
-
 ## Local SEO
 
 4 posts
@@ -278,23 +299,6 @@ Showing up when people nearby search for what you sell, and the relevance, dista
   28 Oct 2026
 
 [Everything tagged Local SEO](https://ndcompany.in/tags/local-seo)
-
-## SEO audits
-
-4 posts
-
-What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.
-
-- [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
-  11 Nov 2026
-- [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-  6 Nov 2026
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
-
-[Everything tagged SEO audits](https://ndcompany.in/tags/seo-audits)
 
 ## Web accessibility
 
@@ -512,26 +516,26 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 9,
-            "name": "Technical SEO",
-            "url": "https://ndcompany.in/tags/technical-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 10,
             "name": "Google Search Console",
             "url": "https://ndcompany.in/tags/google-search-console"
           },
           {
             "@type": "ListItem",
+            "position": 10,
+            "name": "SEO audits",
+            "url": "https://ndcompany.in/tags/seo-audits"
+          },
+          {
+            "@type": "ListItem",
             "position": 11,
-            "name": "Local SEO",
-            "url": "https://ndcompany.in/tags/local-seo"
+            "name": "Technical SEO",
+            "url": "https://ndcompany.in/tags/technical-seo"
           },
           {
             "@type": "ListItem",
             "position": 12,
-            "name": "SEO audits",
-            "url": "https://ndcompany.in/tags/seo-audits"
+            "name": "Local SEO",
+            "url": "https://ndcompany.in/tags/local-seo"
           },
           {
             "@type": "ListItem",

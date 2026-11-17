@@ -96,6 +96,16 @@ Kebabiyana
 
 Guides from our blogs on the same kind of work.
 
+SEO
+
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
+
 Marketing
 
 Tips · 11 Nov 2026
@@ -115,16 +125,6 @@ Guide · 31 Oct 2026
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
 
 Read the guide
-
-Business
-
-Insight · 29 Oct 2026
-
-### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-
-Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
-
-Read the post
 
 ## More projects
 

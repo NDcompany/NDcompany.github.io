@@ -1,9 +1,9 @@
 ---
 title: "SEO audits: posts and guides | N&D Co."
-description: "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 4 posts from N&D Co."
+description: "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 5 posts from N&D Co."
 url: "https://ndcompany.in/tags/seo-audits"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png"
+image: "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.png"
 ---
 
 Tag
@@ -21,6 +21,16 @@ Paid one-off audits are rarely priced in India: on the 108 agency websites we re
 A local business needs a different audit: the Business Profile, matching details across directories, reviews and local links, with a dated baseline before anything changes and a repeat every three months ([the local SEO audit checklist](https://ndcompany.in/blogs/local-seo-audit)).
 
 ## Latest posts
+
+SEO
+
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
 
 SEO
 
@@ -64,6 +74,8 @@ Read the guide
 
 ## Recently updated
 
+- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+  17 Nov 2026
 - [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
   14 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
@@ -71,8 +83,6 @@ Read the guide
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-  11 Nov 2026
-- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
   11 Nov 2026
 
 ## Trending tags
@@ -85,8 +95,8 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
+- [SEO audits](https://ndcompany.in/tags/seo-audits)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -129,7 +139,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       "@id": "https://ndcompany.in/tags/seo-audits#webpage",
       "url": "https://ndcompany.in/tags/seo-audits",
       "name": "SEO audits: posts and guides | N&D Co.",
-      "description": "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 4 posts from N&D Co.",
+      "description": "What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces. 5 posts from N&D Co.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -143,24 +153,30 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Google's November 2026 core update: what is happening and what to do",
+            "url": "https://ndcompany.in/blogs/google-core-update-november-2026"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "White label SEO explained: how agencies resell SEO safely",
             "url": "https://ndcompany.in/blogs/white-label-seo-explained"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How to run a local SEO audit: a checklist for small businesses",
             "url": "https://ndcompany.in/blogs/local-seo-audit"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How our free SEO audit works, from request to report",
             "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
           }
@@ -168,7 +184,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/white-label-seo-explained-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.png",
         "width": 1200,
         "height": 675
       }

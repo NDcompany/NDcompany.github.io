@@ -171,6 +171,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
+
+SEO
+
 Insight · 14 Nov 2026
 
 ### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
@@ -186,16 +196,6 @@ Guide · 11 Nov 2026
 ### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
 
 We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
-
-Read the guide
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
 
 Read the guide
 

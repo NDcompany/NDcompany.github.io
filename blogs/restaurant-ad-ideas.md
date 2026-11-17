@@ -176,6 +176,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
+
+SEO
+
 Insight · 14 Nov 2026
 
 ### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
@@ -191,16 +201,6 @@ News · 11 Nov 2026
 ### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
 
 The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
-
-Read the post
-
-Websites
-
-Insight · 11 Nov 2026
-
-### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
-
-87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
 

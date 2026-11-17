@@ -16,6 +16,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 SEO
 
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
+
+SEO
+
 Insight · 14 Nov 2026
 
 ### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
@@ -316,6 +326,8 @@ Read the guide
 
 ## Recently updated
 
+- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+  17 Nov 2026
 - [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
   14 Nov 2026
 - [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
@@ -323,8 +335,6 @@ Read the guide
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-  11 Nov 2026
-- [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
   11 Nov 2026
 
 ## Trending tags
@@ -337,8 +347,8 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
-- [Technical SEO](https://ndcompany.in/tags/technical-seo)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
+- [SEO audits](https://ndcompany.in/tags/seo-audits)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -422,6 +432,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/google-core-update-november-2026#article",
+          "headline": "Google's November 2026 core update: what is happening and what to do",
+          "description": "Google's November 2026 core update started 10 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.",
+          "image": "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.png",
+          "url": "https://ndcompany.in/blogs/google-core-update-november-2026",
+          "datePublished": "2026-11-17T00:00:00+05:30",
+          "dateModified": "2026-11-17T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/ai-crawler-blocking-study#article",

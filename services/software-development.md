@@ -266,7 +266,7 @@ Google review
 
 Bivu
 
-a month ago
+2 months ago
 
 Google review
 
