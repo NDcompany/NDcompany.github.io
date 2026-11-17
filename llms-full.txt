@@ -13006,7 +13006,7 @@ Updated: 2026-11-17
 
 Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 17 November 2026 18 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 17 November 2026 19 min read
 
 Google's November 2026 core update started on 10 November 2026 and had not finished when we wrote this on 17 November. It applies to every country and language, and Google says the rollout may take up to two weeks. Google has given no advice specific to it and has not said what it changes. For most sites the right move now is to do nothing drastic: wait until Google marks the rollout complete, wait one more full week, then compare that week with the week before 10 November in Search Console. We will update this post when Google marks it complete.
 
@@ -13060,7 +13060,15 @@ A lot, and mostly the same few lines. On 17 November we read 51 pages written ab
 - No page flatly contradicts Google, but some go past it. One says the two weeks are an estimate, not a limit. Another says the update especially affects content made to rank, which Google has not said. A third credits a three to six month recovery window to a Google engineer with no link.
 - Nobody has winners and losers data. Pages that name exposed groups (shops, affiliate sites, publishers) are guessing or describing earlier updates, and we found no study of this update from Amsive, SISTRIX, SE Ranking, Semrush, seoClarity or Similarweb on day 7.
 
-The community reports are few and mixed. On a [WebmasterWorld thread](https://www.webmasterworld.com/google/5134524.htm), one owner of a shop and a news site reported a large drop on 10 November, while another reported a minor uptick and a travel site saw better traffic but poor conversions. Search Engine Roundtable's [16 November report](https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html) quotes commenters at both ends, from a 10% weekend gain to a fall of more than 20% week over week.
+The community reports in that sample are few and mixed. On a [WebmasterWorld thread](https://www.webmasterworld.com/google/5134524.htm), one owner of a shop and a news site reported a large drop on 10 November, while another reported a minor uptick and a travel site saw better traffic but poor conversions. Search Engine Roundtable's [16 November report](https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html) quotes commenters at both ends, from a 10% weekend gain to a fall of more than 20% week over week.
+
+### What are site owners saying on Reddit?
+
+We also read the 11 Reddit threads about the update in r/SEO, r/bigseo and r/TechSEO from 10 to 17 November, about 130 comments. These are self-reports, not verified data.
+
+- Drops are steep and fast. A [gaming news site](https://www.reddit.com/r/SEO/comments/1xxp3i7/our_gaming_news_site_went_from_94k_to_16k_daily/) says Search clicks fell from about 80,000 a day to 3,000, and a [recipe site](https://www.reddit.com/r/SEO/comments/1xx9tbw/guys_with_google_discover/) lost most of its Discover clicks in 24 hours. Others report a slight gain or no change.
+- The AI claim is contested. When one commenter said Google is cracking down on AI content, the top reply asked for a source.
+- The advice there matches Google's: compare the week before and after, sort pages by the change in clicks, and check Discover separately.
 
 ### What do the volatility trackers show?
 
@@ -13239,7 +13247,7 @@ We read everything on 17 November 2026, the seventh day of the rollout, using we
 
 For what others say, we read 51 distinct pages. The search tool kept returning the same 25 to 30 pages for every query, so 51 is what the first week gave us. We sorted them into 28 sales blogs (agencies, tool vendors and hosts), 17 news pages, 3 community reports, 2 practitioners with data and 1 page of primary data, and recorded each page's claims, advice, sources and whether its site sells SEO, audits, recovery, a related tool or course, or runs an agency directory.
 
-The limits are real. Our research tools could not read Reddit or X, so community evidence is limited to one WebmasterWorld thread and comments quoted by Search Engine Roundtable. More than a dozen pages refused our fetch or returned nothing, and we did not count them. We set aside eight pages about another update or year. No study of this update's winners and losers existed yet. The cost figures come from prices on providers' own pages on the same date; where a page refused our fetch we left the price out and estimated nothing. We did not sign up, log in or submit a form anywhere.
+We read the 11 Reddit threads about the update in r/SEO, r/bigseo and r/TechSEO through Reddit's API, read-only, and quote no usernames. The limits are real. We could not read posts on X, so no X post is used. More than a dozen pages refused our fetch or returned nothing, and we did not count them. We set aside eight pages about another update or year. No study of this update's winners and losers existed yet. The cost figures come from prices on providers' own pages on the same date; where a page refused our fetch we left the price out and estimated nothing. We did not sign up, log in or submit a form anywhere.
 
 ## How N&D Co. works
 
