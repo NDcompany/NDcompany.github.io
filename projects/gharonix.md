@@ -26,7 +26,7 @@ Gharonix is a property marketplace for one city, Lucknow. Its founder, Mumtaz Ah
 
 Buyers search homes, flats, plots, villas and commercial property by type, locality and budget, see them on a live map of the city, save and compare them, and contact the seller by chat or WhatsApp. Sellers list for free. Every listing is checked by Gharonix's team before it goes live. A valuation estimator, a home loan EMI calculator, an Uttar Pradesh stamp duty calculator and a land area converter answer the money questions on the same site.
 
-Gharonix's team now counts 4,500 to 5,300 leads a month across every channel: WhatsApp, calls, the site's chat and forms, and walk-ins. That is their own count, and the website is one part of the business that produces it. The work covers [software development](https://ndcompany.in/services/software-development), [website design and development](https://ndcompany.in/services/website-design-development), [brand identity design](https://ndcompany.in/services/brand-identity-design), [SEO](https://ndcompany.in/services/seo-services) and [content creation](https://ndcompany.in/services/content-creation). The app was written and deployed by [Ayaz Ahmad](https://ndcompany.in/team/ayaz-ahmad), a developer on our team.
+Gharonix's team now counts 4,500 to 5,300 leads a month across every channel: WhatsApp, calls, the site's chat and forms, and walk-ins. That is their own count, and the website is one part of the business that produces it. The work covers [software development](https://ndcompany.in/services/software-development), [website design and development](https://ndcompany.in/services/website-design-development), [brand identity design](https://ndcompany.in/services/brand-identity-design), [SEO](https://ndcompany.in/services/seo-services) and [content creation](https://ndcompany.in/services/content-creation).
 
 [Open it](https://www.gharonix.com/)
 
@@ -176,14 +176,6 @@ Here is the path one listing takes on Gharonix, as the app runs it today:
 | Pusher | Live chat between a buyer and a seller without building a socket server. |
 | Google sign-in | No new password to forget, and a real email address behind every seller. |
 
-## Who built it
-
-![Ayaz Ahmad, developer at N&D Co., in a dark suit and glasses](https://ndcompany.in/assets/images/projects/gharonix-team-ayaz-ahmad.webp)
-
-Ayaz Ahmad, a developer on our team in Lucknow, built Gharonix: the front end and the back end, from the search pages, map and dashboards to the database, sign-in and admin console, and the deployment to Vercel. The work also covered the product's direction, its interface and its visual identity. More about Ayaz is on [the team page](https://ndcompany.in/team/ayaz-ahmad).
-
-To talk about a project like this, [contact N&D Co.](https://ndcompany.in/#contact).
-
 ## Could this work for another city?
 
 Yes. Nothing in Gharonix is tied to Lucknow except its data: the locality list, the map's starting point, the stamp duty rules and the land units. A property portal for Kolkata, Pune or Dubai would swap those (West Bengal's stamp duty and kottah, or Dubai's transfer fee and square feet) and keep the rest: the listing check, the dashboards, the tools page and the map.
@@ -227,10 +219,6 @@ Next.js and React in TypeScript, a PostgreSQL database through Prisma, hosting o
 **Do locality pages help a property website rank on Google?**
 
 They match how people search, by area: flats in Gomti Nagar or plots on Sitapur Road. Gharonix has 62. A locality page helps only when it lists real property in that area and says something specific about it; a page that only swaps the area name is thin and unlikely to rank.
-
-**Who developed the Gharonix web app?**
-
-Ayaz Ahmad, a developer on the N&D Co. team in Lucknow, wrote the front end and the back end and deployed the site to Vercel. To discuss a similar project, contact N&D Co.
 
 **Can you build a property portal like this for another city?**
 
@@ -349,7 +337,7 @@ Tell us about your business in a few lines and we will reply with questions or a
       "name": "Gharonix: a property marketplace built for Lucknow",
       "headline": "Gharonix: a property marketplace built for Lucknow",
       "description": "A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.",
-      "abstract": "Gharonix is a property marketplace for one city, Lucknow. Its founder, Mumtaz Ahmad, wanted what the site now calls \"Lucknow ki apni property website\", Lucknow's own property website, and before it the business had nothing online. N&D Co. built the whole product: the web app, the logo and brand, the search and content work, and the hosting, which we still run; the site's own About page says it is developed and maintained by N&D Co. The live site is at gharonix.com. Buyers search homes, flats, plots, villas and commercial property by type, locality and budget, see them on a live map of the city, save and compare them, and contact the seller by chat or WhatsApp. Sellers list for free. Every listing is checked by Gharonix's team before it goes live. A valuation estimator, a home loan EMI calculator, an Uttar Pradesh stamp duty calculator and a land area converter answer the money questions on the same site. Gharonix's team now counts 4,500 to 5,300 leads a month across every channel: WhatsApp, calls, the site's chat and forms, and walk-ins. That is their own count, and the website is one part of the business that produces it. The work covers software development, website design and development, brand identity design, SEO and content creation. The app was written and deployed by Ayaz Ahmad, a developer on our team.",
+      "abstract": "Gharonix is a property marketplace for one city, Lucknow. Its founder, Mumtaz Ahmad, wanted what the site now calls \"Lucknow ki apni property website\", Lucknow's own property website, and before it the business had nothing online. N&D Co. built the whole product: the web app, the logo and brand, the search and content work, and the hosting, which we still run; the site's own About page says it is developed and maintained by N&D Co. The live site is at gharonix.com. Buyers search homes, flats, plots, villas and commercial property by type, locality and budget, see them on a live map of the city, save and compare them, and contact the seller by chat or WhatsApp. Sellers list for free. Every listing is checked by Gharonix's team before it goes live. A valuation estimator, a home loan EMI calculator, an Uttar Pradesh stamp duty calculator and a land area converter answer the money questions on the same site. Gharonix's team now counts 4,500 to 5,300 leads a month across every channel: WhatsApp, calls, the site's chat and forms, and walk-ins. That is their own count, and the website is one part of the business that produces it. The work covers software development, website design and development, brand identity design, SEO and content creation.",
       "url": "https://ndcompany.in/projects/gharonix",
       "image": [
         "https://ndcompany.in/assets/images/projects/gharonix-home-discovery.webp",

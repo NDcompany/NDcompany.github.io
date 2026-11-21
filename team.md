@@ -204,7 +204,7 @@ Send a few lines about your business and what you need. We will reply with quest
               "@id": "https://ndcompany.in/team/ayaz-ahmad#person",
               "name": "Ayaz Ahmad",
               "jobTitle": "Developer",
-              "description": "Developer at N&D Co., based in Lucknow. Built the Gharonix property marketplace, front end, back end and deployment, and designs interfaces and brand visuals.",
+              "description": "Developer at N&D Co., based in Lucknow, working on web apps, websites, interfaces and brand visuals with the team.",
               "url": "https://ndcompany.in/team/ayaz-ahmad",
               "worksFor": {
                 "@id": "https://ndcompany.in/#ndco-organization"

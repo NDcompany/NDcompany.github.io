@@ -1146,16 +1146,6 @@ They match how people search, by area: flats in Gomti Nagar or plots on Sitapur 
 
 [Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
 
-**Who developed the Gharonix web app? Gharonix case study**
-
-Ayaz Ahmad, a developer on the N&D Co. team in Lucknow, wrote the front end and the back end and deployed the site to Vercel. To discuss a similar project, contact N&D Co.
-
-[Home](https://ndcompany.in/)
-
-[Projects](https://ndcompany.in/projects)
-
-[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
-
 **Can you build a property portal like this for another city? Gharonix case study**
 
 Yes. Only the data is tied to Lucknow: the locality list, the map, the stamp duty rules and the land units. Another city keeps the listing check, dashboards, tools and map and swaps those.

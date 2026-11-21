@@ -22,7 +22,7 @@ Developer at N&D Co., a brand and growth agency in Barrackpore, Kolkata, West Be
 
 Ayaz Ahmad is a developer at N&D Co., based in Lucknow. Ayaz builds web and mobile products from end to end: the interface and visual identity, the code behind them and the deployment.
 
-At N&D Co., Ayaz built Gharonix, a property marketplace for Lucknow: the front end and the back end in Next.js, React and TypeScript with a PostgreSQL database, and the deployment to Vercel. The work also covered the product's direction, its interface and its visual identity.
+At N&D Co., Ayaz works with the team on web apps and websites, from the interface and visual identity to the code in Next.js, React and TypeScript and the deployment. Projects include Gharonix, a property marketplace for Lucknow.
 
 Ayaz has worked as a freelance creative developer since 2025, making portfolio and business websites, landing pages, interface layouts, brand visuals, posters and social media creatives, and uses AI tools when working on ideas, prototypes and designs.
 
@@ -41,7 +41,7 @@ Ayaz's own projects include Revix One, a music app with lyrics, video playback a
 - Prototyping
 - Branding
 
-## Projects built by Ayaz Ahmad
+## Projects Ayaz Ahmad worked on with the team
 
 Software
 
@@ -86,7 +86,7 @@ Send a few lines about your business and what you need. We will reply with quest
         "@id": "https://ndcompany.in/team/ayaz-ahmad#person",
         "name": "Ayaz Ahmad",
         "jobTitle": "Developer",
-        "description": "Developer at N&D Co., based in Lucknow. Built the Gharonix property marketplace, front end, back end and deployment, and designs interfaces and brand visuals.",
+        "description": "Developer at N&D Co., based in Lucknow, working on web apps, websites, interfaces and brand visuals with the team.",
         "url": "https://ndcompany.in/team/ayaz-ahmad",
         "worksFor": {
           "@id": "https://ndcompany.in/#ndco-organization"
