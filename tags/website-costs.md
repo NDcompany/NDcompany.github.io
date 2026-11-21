@@ -1,9 +1,9 @@
 ---
-title: "Website costs: posts and guides | N&D Co."
+title: "Website costs: posts and projects | N&D Co."
 description: "What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure."
 url: "https://ndcompany.in/tags/website-costs"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png"
+image: "https://ndcompany.in/assets/blog/free-online-store-whatsapp-orders-16x9.png"
 ---
 
 Tag
@@ -21,6 +21,16 @@ Build prices are harder to compare, because most agencies keep them off their we
 Where builders do publish, location shows in the price. Shopify partners based in India list a median starting price of $500 for a store build, against $1,150 for partners based in the US ([Shopify development prices by country](https://ndcompany.in/blogs/shopify-development-india)). In Dubai, the two agencies that price a bilingual English and Arabic site charge about 1.6 to 1.9 times their English-only price ([bilingual website prices in Dubai](https://ndcompany.in/blogs/bilingual-websites-dubai)).
 
 ## Latest posts
+
+Websites
+
+Guide · 20 Nov 2026
+
+### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+
+A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+
+Read the guide
 
 Websites
 
@@ -92,8 +102,24 @@ The build price, then the running costs: .com renewals, hosting after the introd
 
 Read the guide
 
+## Projects tagged Website costs
+
+Work of ours this subject was part of.
+
+Websites
+
+Sokher Alankar, Bengal, India
+
+### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+
+A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
+
+See the project
+
 ## Recently updated
 
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+  20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
 - [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
@@ -102,18 +128,16 @@ Read the guide
   14 Nov 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
-- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-  11 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Website costs](https://ndcompany.in/tags/website-costs)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [SEO audits](https://ndcompany.in/tags/seo-audits)
@@ -124,15 +148,15 @@ Read the guide
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
-
-Online store development with payment integration and optimization.
-
-Learn more
-
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
 Responsive websites, e-commerce development, and SEO-optimized web solutions.
+
+Learn more
+
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+
+Online store development with payment integration and optimization.
 
 Learn more
 
@@ -158,7 +182,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       "@type": "CollectionPage",
       "@id": "https://ndcompany.in/tags/website-costs#webpage",
       "url": "https://ndcompany.in/tags/website-costs",
-      "name": "Website costs: posts and guides | N&D Co.",
+      "name": "Website costs: posts and projects | N&D Co.",
       "description": "What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
@@ -173,50 +197,62 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How to run a free online store that takes orders on WhatsApp",
+            "url": "https://ndcompany.in/blogs/free-online-store-whatsapp-orders"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Shopify development in India: what partners charge, from Shopify's own directory",
             "url": "https://ndcompany.in/blogs/shopify-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How do you hire a WordPress developer in India? What 30 agency websites show",
             "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Brand identity and free WhatsApp store for Sokher Alankar",
+            "url": "https://ndcompany.in/projects/sokher-alankar"
           }
         ]
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/free-online-store-whatsapp-orders-16x9.png",
         "width": 1200,
         "height": 675
       }

@@ -115,6 +115,34 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 
 [Everything tagged Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 
+## Website costs
+
+8 posts, 1 project
+
+What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+  20 Nov 2026
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  14 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  25 Oct 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+
+- [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+  Websites
+
+[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
+
 ## Website planning
 
 9 posts
@@ -142,28 +170,27 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
 
 [Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
-## Website costs
+## Brand guidelines
 
-7 posts
+4 posts, 2 projects
 
-What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
 
-- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
+- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
+  3 Nov 2026
+- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
+  23 Oct 2026
+- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
+  23 Oct 2026
 
-[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
+- [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+  Websites
+- [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
+  Branding
+
+[Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
 ## Social media creatives
 
@@ -186,26 +213,6 @@ Social media posts, ad creatives and posters for dishes, offers, events and memb
   Design
 
 [Everything tagged Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-
-## Brand guidelines
-
-4 posts, 1 project
-
-Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
-
-- [Food logo ideas: what the logos of 50 big restaurant chains tell a small food business](https://ndcompany.in/blogs/food-restaurant-logo-ideas)
-  7 Nov 2026
-- [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
-  3 Nov 2026
-- [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
-- [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
-
-- [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
-  Branding
-
-[Everything tagged Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 
 ## Core Web Vitals
 
@@ -343,6 +350,18 @@ How ChatGPT, Claude, Perplexity and Google's AI features find and use web pages,
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   6 Nov 2026
 
+## Blogger
+
+1 post, 1 project
+
+Google's free Blogger platform used for more than a blog: custom themes, labels as collections, pages, robots.txt settings and its limits.
+
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+  20 Nov 2026
+
+- [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+  Websites
+
 ## Online reviews
 
 2 posts
@@ -364,6 +383,18 @@ Fake sign-in pages, fake orders and fake client briefs built to take passwords o
   11 Nov 2026
 - [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
   5 Nov 2026
+
+## WhatsApp orders
+
+1 post, 1 project
+
+Taking orders in a WhatsApp chat instead of a checkout: click-to-chat links with the message already typed, product codes and what the seller still has to handle by hand.
+
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+  20 Nov 2026
+
+- [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+  Websites
 
 ## Case management
 
@@ -486,26 +517,26 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Website planning",
-            "url": "https://ndcompany.in/tags/website-planning"
-          },
-          {
-            "@type": "ListItem",
-            "position": 5,
             "name": "Website costs",
             "url": "https://ndcompany.in/tags/website-costs"
           },
           {
             "@type": "ListItem",
+            "position": 5,
+            "name": "Website planning",
+            "url": "https://ndcompany.in/tags/website-planning"
+          },
+          {
+            "@type": "ListItem",
             "position": 6,
-            "name": "Social media creatives",
-            "url": "https://ndcompany.in/tags/social-media-creatives"
+            "name": "Brand guidelines",
+            "url": "https://ndcompany.in/tags/brand-guidelines"
           },
           {
             "@type": "ListItem",
             "position": 7,
-            "name": "Brand guidelines",
-            "url": "https://ndcompany.in/tags/brand-guidelines"
+            "name": "Social media creatives",
+            "url": "https://ndcompany.in/tags/social-media-creatives"
           },
           {
             "@type": "ListItem",
@@ -558,60 +589,72 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 16,
+            "name": "Blogger",
+            "url": "https://ndcompany.in/tags#blogger"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
             "name": "Online reviews",
             "url": "https://ndcompany.in/tags#online-reviews"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 18,
             "name": "Phishing",
             "url": "https://ndcompany.in/tags#phishing"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
+            "name": "WhatsApp orders",
+            "url": "https://ndcompany.in/tags#whatsapp-orders"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
             "name": "Case management",
             "url": "https://ndcompany.in/tags#case-management"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 21,
             "name": "Community platforms",
             "url": "https://ndcompany.in/tags#community-platforms"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 22,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 21,
+            "position": 23,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
-            "position": 22,
+            "position": 24,
             "name": "Payment fraud",
             "url": "https://ndcompany.in/tags#payment-fraud"
           },
           {
             "@type": "ListItem",
-            "position": 23,
+            "position": 25,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 24,
+            "position": 26,
             "name": "Website security",
             "url": "https://ndcompany.in/tags#website-security"
           },
           {
             "@type": "ListItem",
-            "position": 25,
+            "position": 27,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

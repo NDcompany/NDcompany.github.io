@@ -1074,6 +1074,110 @@ Yes. We read what you have published, note the vocabulary, sentence length and f
 
 [Content Creation](https://ndcompany.in/services/content-creation#svc-faq)
 
+**What did N&D Co. make for Sokher Alankar? Sokher Alankar case study**
+
+A brand identity built around its hand-lettered Bengali logo, and a free online store on Blogger with 42 products, 25 journal posts and an Order on WhatsApp button on every piece.
+
+[Read the full answer on the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**Why build the store on Blogger instead of Shopify or Wix? Sokher Alankar case study**
+
+Because the owner had no budget for a domain, hosting or a store plan. Blogger is free, runs on Google's servers and accepts a custom theme, so the store costs nothing a month.
+
+[Read the full answer on the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**How does a customer order from Sokher Alankar? Sokher Alankar case study**
+
+They open a piece and tap Order on WhatsApp. WhatsApp opens with a message that already holds the product code, the piece's name and its link, and Adrija replies with the current price and answers que…
+
+[Read the full answer on the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**Did the free store bring Sokher Alankar more enquiries? Sokher Alankar case study**
+
+Yes, so far. Before the store, Adrija got 10 to 12 enquiries a month. In the store's first five days she got 15 to 20, by her own count.
+
+[Read the full answer on the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**Why does every WhatsApp message carry a product code like SA-005? Sokher Alankar case study**
+
+Adrija runs the business alone, so the code tells her which piece a buyer means at a glance, even if the buyer edits the rest of the message. She can also search her chats for a code later.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**Where are the product photos hosted, and what does that cost? Sokher Alankar case study**
+
+In a public GitHub repository, served through jsDelivr's free CDN, with every address pinned to a commit so a changed photo never shows an old copy. Both are free.
+
+[Read the full answer on the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**How fast is the Sokher Alankar store? Sokher Alankar case study**
+
+On Google's PageSpeed Insights, on 21 November 2026, every page scored 100 for accessibility, best practices and SEO on phones and desktops, and 100 for performance on desktop.
+
+[Read the full answer on the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**Can the store move to its own domain later? Sokher Alankar case study**
+
+Yes. Blogger supports custom domains, so Sokher Alankar can buy one and point it at the same blog when the budget allows, keeping its pages.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+**Could a seller outside India use the same setup? Sokher Alankar case study**
+
+Yes, if their buyers use WhatsApp. The click-to-chat link takes any number in international format and Blogger is free worldwide.
+
+[Read the full answer on the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Sokher Alankar](https://ndcompany.in/projects/sokher-alankar#work-faq)
+
 **What did N&D Co. build for Bangali Oikya Manch? Bangali Oikya Manch case study**
 
 N&D Co. built a web platform that joins an applicant portal to an internal case management system.

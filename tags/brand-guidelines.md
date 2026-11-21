@@ -66,6 +66,16 @@ Read the guide
 
 Work of ours this subject was part of.
 
+Websites
+
+Sokher Alankar, Bengal, India
+
+### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+
+A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
+
+See the project
+
 Branding
 
 Sea Seven Fish, Northeast India
@@ -78,6 +88,8 @@ See the project
 
 ## Recently updated
 
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+  20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
 - [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
@@ -86,18 +98,16 @@ See the project
   14 Nov 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
-- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-  11 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Website costs](https://ndcompany.in/tags/website-costs)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [SEO audits](https://ndcompany.in/tags/seo-audits)
@@ -181,6 +191,12 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 5,
+            "name": "Brand identity and free WhatsApp store for Sokher Alankar",
+            "url": "https://ndcompany.in/projects/sokher-alankar"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
             "name": "Brand identity for Sea Seven Fish",
             "url": "https://ndcompany.in/projects/sea-seven-fish"
           }

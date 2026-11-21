@@ -1,21 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the projects hub, its categories and every project (18 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the projects hub, its categories and every project (19 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/projects</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/category/branding</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/category/design</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/sokher-alankar</loc>
+    <lastmod>2026-11-21</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-store-home.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-brand-cover.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-brand-logo-story.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-brand-palette.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-brand-logo-variations.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-product-page.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-phone-product.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-journal-post.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-trailer-trunk.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-trailer-code.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-blogger-labels.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-blogger-theme.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-how-to-order.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-collection-page.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-blogger-robots.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-pagespeed-home.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-brand-seal.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-brand-pattern.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-brand-packaging.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-trailer-ashtami.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/bangali-oikya-manch</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-home-page.webp</image:loc>
     </image:image>
@@ -91,7 +155,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/sea-seven-fish</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-primary-logo.webp</image:loc>
     </image:image>
@@ -176,7 +240,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/innovation-texture</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-logo.webp</image:loc>
     </image:image>
@@ -243,7 +307,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/kebabiyana</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/kebabiyana-steamed-momo-poster.webp</image:loc>
     </image:image>
@@ -256,14 +320,14 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/wafflerys</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/wafflerys-chocolate-waffle-poster.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/dream-bar</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/dream-bar-pio-bhai-poster.webp</image:loc>
     </image:image>
@@ -273,7 +337,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/iron-nerve-fitness</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/iron-nerve-fitness-gym-poster.webp</image:loc>
     </image:image>
@@ -283,7 +347,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/food-poster-series</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/bread-and-butter-poster.webp</image:loc>
     </image:image>
@@ -302,7 +366,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/youtube-thumbnail-series</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-bali-travel.webp</image:loc>
     </image:image>
@@ -327,42 +391,42 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/edli-delight</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/edli-delight-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/koustav-kitchen</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/koustav-kitchen-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/north-east-pub-and-bar</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/pub-and-bar-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/style-and-co</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/style-and-co-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/sunfresso</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/sunfresso-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/taste-and-bite</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/taste-and-bite-logo.webp</image:loc>
     </image:image>

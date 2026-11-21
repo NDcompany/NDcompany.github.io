@@ -492,6 +492,16 @@ Read the guide
 
 ## More projects
 
+Websites
+
+Sokher Alankar, Bengal, India
+
+### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+
+A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
+
+See the project
+
 Branding
 
 Sea Seven Fish, Northeast India
@@ -509,16 +519,6 @@ Innovation Texture, Vadodara, Gujarat
 ### [Brand identity for Innovation Texture](https://ndcompany.in/projects/innovation-texture)
 
 A logo and brand identity for Innovation Texture, a wall texture maker in Vadodara: a rising sun that forms the letters I and T, five palettes, lockups and mockups.
-
-See the project
-
-Marketing
-
-Kebabiyana
-
-### [Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
-
-Ads, graphic design, reel editing and social media management for Kebabiyana, a restaurant.
 
 See the project
 

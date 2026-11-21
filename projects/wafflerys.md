@@ -121,6 +121,16 @@ Ads, graphic design, reel editing and social media management for Kebabiyana, a 
 
 See the project
 
+Websites
+
+Sokher Alankar, Bengal, India
+
+### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+
+A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
+
+See the project
+
 Software
 
 Bangali Oikya Manch, Madhyamgram, West Bengal
@@ -128,16 +138,6 @@ Bangali Oikya Manch, Madhyamgram, West Bengal
 ### [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
 
 An applicant portal and case management system for Bangali Oikya Manch, a community service organisation. Reported cases a day: about 5 to 6 by hand and 30 to 40 on a typical day with the platform.
-
-See the project
-
-Branding
-
-Sea Seven Fish, Northeast India
-
-### [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
-
-A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 18 logo concepts, a fish with a fin of mountain peaks, a blue palette, a seal and business cards.
 
 See the project
 

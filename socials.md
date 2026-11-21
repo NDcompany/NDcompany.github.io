@@ -28,9 +28,9 @@ You came from one of our profiles. Here is where to go next.
 
 ## Latest from the blog
 
+- [How to run a free online store that takes orders on WhatsApp: 20 Nov 2026](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
 - [Google's November 2026 core update: what is happening and what to do: 17 Nov 2026](https://ndcompany.in/blogs/google-core-update-november-2026)
 - [How many small business websites block AI crawlers? A study of 4,564 sites: 14 Nov 2026](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-- [The Fiverr fake order scam: a case study of the files, pages and card form: 11 Nov 2026](https://ndcompany.in/blogs/fiverr-fake-order-scam)
 
 [All posts](https://ndcompany.in/blogs)
 

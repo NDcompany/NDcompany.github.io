@@ -5,9 +5,23 @@
 <link href="https://ndcompany.in/blogs" rel="alternate" type="text/html"/>
 <link href="https://ndcompany.in/atom.xml" rel="self" type="application/atom+xml"/>
 <id>https://ndcompany.in/blogs</id>
-<updated>2026-11-17T00:00:00+05:30</updated>
+<updated>2026-11-20T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
+<entry>
+<title>How to run a free online store that takes orders on WhatsApp</title>
+<link href="https://ndcompany.in/blogs/free-online-store-whatsapp-orders" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/free-online-store-whatsapp-orders-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/free-online-store-whatsapp-orders</id>
+<published>2026-11-20T00:00:00+05:30</published>
+<updated>2026-11-20T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="websites" label="Websites" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="whatsapp-orders" label="WhatsApp orders" scheme="https://ndcompany.in/tags/"/>
+<category term="blogger" label="Blogger" scheme="https://ndcompany.in/tags/"/>
+<category term="website-costs" label="Website costs" scheme="https://ndcompany.in/tags/"/>
+<summary>No domain, no hosting, no monthly fee: how we built a free Blogger store where every WhatsApp order arrives with a product code, and how to copy it.</summary>
+</entry>
 <entry>
 <title>Google's November 2026 core update: what is happening and what to do</title>
 <link href="https://ndcompany.in/blogs/google-core-update-november-2026" rel="alternate" type="text/html"/>

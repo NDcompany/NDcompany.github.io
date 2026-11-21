@@ -245,6 +245,22 @@ Learn more
 
 [See all services](https://ndcompany.in/services)
 
+## Related work
+
+Projects where SEO Services was part of the job.
+
+Websites
+
+Sokher Alankar, Bengal, India
+
+### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+
+A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
+
+See the project
+
+[See all projects](https://ndcompany.in/projects)
+
 ## From our blogs
 
 Guides on the work behind SEO Services.

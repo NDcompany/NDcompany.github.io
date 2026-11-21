@@ -244,6 +244,16 @@ Guides on the work behind E-commerce Solutions.
 
 Websites
 
+Guide · 20 Nov 2026
+
+### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+
+A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+
+Read the guide
+
+Websites
+
 Guide · 7 Nov 2026
 
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -259,16 +269,6 @@ Guide · 7 Nov 2026
 ### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
 
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
-
-Read the guide
-
-Business
-
-Guide · 27 Oct 2026
-
-### [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-
-US agencies that publish prices start a monthly SEO plan at a median of $975; Indian agencies pricing in dollars start at $213. What that means, who owns the code, how to pay and how to start small.
 
 Read the guide
 

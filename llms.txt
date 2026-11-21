@@ -33,6 +33,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders): No domain, no hosting, no monthly fee: how we built a free Blogger store where every WhatsApp order arrives with a product code, and how to copy it.
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026): Google's November 2026 core update started 10 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.
 - [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study): We read the robots.txt of 4,564 small business websites in 10 countries: 3.4% block an AI crawler, two thirds through Cloudflare. 20% have an llms.txt.
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam): Seven new Fiverr accounts claimed an order and sent .html and PDF files. We read the code: fake Fiverr pages ending at a bank card form, and where to report it.
@@ -75,6 +76,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 - [Projects](https://ndcompany.in/projects): software, marketing, branding and design work, one page per client with everything we did for them, and the client's review where there is one.
 - [Branding projects](https://ndcompany.in/projects/category/branding): Logos and brand identities for new and growing businesses: a seafood wholesaler, a wall texture maker, food brands, a pub, a hair salon and a coffee shop.
 - [Design projects](https://ndcompany.in/projects/category/design): Social media posts, ad creatives, thumbnails and other graphics.
+- [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar): A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
 - [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch): An applicant portal and case management system for Bangali Oikya Manch, a community service organisation. Reported cases a day: about 5 to 6 by hand and 30 to 40 on a typical day with the platform.
 - [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish): A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 18 logo concepts, a fish with a fin of mountain peaks, a blue palette, a seal and business cards.
 - [Brand identity for Innovation Texture](https://ndcompany.in/projects/innovation-texture): A logo and brand identity for Innovation Texture, a wall texture maker in Vadodara: a rising sun that forms the letters I and T, five palettes, lockups and mockups.
@@ -111,10 +113,10 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency): Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 - [Logos](https://ndcompany.in/tags/logos): The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding): Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
-- [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [Website costs](https://ndcompany.in/tags/website-costs): What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
+- [Website planning](https://ndcompany.in/tags/website-planning): Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief.
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines): Brand style guides that others can follow without asking you: logo rules, colour codes, fonts, voice and templates, kept as one current version.
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives): Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals): How Google measures loading, response to taps and clicks, and layout shifts on real visits, the scores it calls good and how to check your own pages.
 - [Google Search Console](https://ndcompany.in/tags/google-search-console): Setting up Google's free Search Console with the business as owner, then reading its indexing and Core Web Vitals reports and checking that fixes work.
 - [SEO audits](https://ndcompany.in/tags/seo-audits): What an SEO audit checks on a website, how its findings are ranked and scored, and how to read the report it produces.

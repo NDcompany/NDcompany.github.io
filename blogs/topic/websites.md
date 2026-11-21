@@ -3,7 +3,7 @@ title: "Website tips and guides for businesses | N&D Co."
 description: "Website tips and guides from N&D Co. for business owners: planning a site before you hire anyone, page speed and Core Web Vitals, and what to fix first."
 url: "https://ndcompany.in/blogs/topic/websites"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png"
+image: "https://ndcompany.in/assets/blog/free-online-store-whatsapp-orders-16x9.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Planning, building and improving a business website: what to settle before you hire anyone, how page speed affects visitors and search, and what to fix first.
 
 ## Latest posts
+
+Websites
+
+Guide · 20 Nov 2026
+
+### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+
+A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+
+Read the guide
 
 Websites
 
@@ -116,6 +126,8 @@ Read the guide
 
 ## Recently updated
 
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+  20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
 - [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
@@ -124,18 +136,16 @@ Read the guide
   14 Nov 2026
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
-- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-  11 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Website costs](https://ndcompany.in/tags/website-costs)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
 - [SEO audits](https://ndcompany.in/tags/seo-audits)
@@ -195,60 +205,66 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How to run a free online store that takes orders on WhatsApp",
+            "url": "https://ndcompany.in/blogs/free-online-store-whatsapp-orders"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How accessible are US small business websites? A study of 385 sites",
             "url": "https://ndcompany.in/blogs/small-business-website-accessibility-study"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Shopify development in India: what partners charge, from Shopify's own directory",
             "url": "https://ndcompany.in/blogs/shopify-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How do you hire a WordPress developer in India? What 30 agency websites show",
             "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "The Quatgio email: a fake client brief that ends at a fake Google sign-in",
             "url": "https://ndcompany.in/blogs/quatgio-scam-email"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "How healthy are Kolkata small-business websites? We checked 901 businesses",
             "url": "https://ndcompany.in/blogs/kolkata-small-business-websites"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Core Web Vitals explained for business owners",
             "url": "https://ndcompany.in/blogs/core-web-vitals-explained"
           }
@@ -256,7 +272,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png",
+        "url": "https://ndcompany.in/assets/blog/free-online-store-whatsapp-orders-16x9.png",
         "width": 1200,
         "height": 675
       }
