@@ -88,7 +88,7 @@ Create a blog at [blogger.com](https://www.blogger.com/) with your Google accoun
 
 Any clean Blogger theme will work. For Sokher Alankar we wrote a theme from scratch that reads those labels and draws a product page, with Blogger's own stylesheet and scripts switched off for speed. You do not need to go that far to start.
 
-![The Blogger posts list filtered by the Shop label, with product posts each tagged with labels such as Necklaces, Combos, SA-016 and Shop](https://ndcompany.in/assets/images/projects/sokher-alankar-blogger-labels.webp)
+![The Blogger posts list filtered by the Shop label, with product posts each tagged with labels such as Necklaces, Combos, SA-016 and Shop](https://ndcompany.in/assets/images/projects/sokher-alankar-blogger-labels-v2.webp)
 
 *In the Blogger dashboard, each product post carries its collection, its code and Shop as labels.*
 

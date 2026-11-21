@@ -1,6 +1,6 @@
 ---
-title: "Our projects: software, marketing and design | N&D Co."
-description: "Software, marketing, logos, posters and tools N&D Co. has made for businesses in Kolkata and beyond: one page per client, with their review where there is one."
+title: "N&D Co. portfolio: branding, web and software case studies"
+description: "Case studies of the brand identities, websites, software, design and marketing N&D Co. has made for small businesses, with the results clients reported."
 url: "https://ndcompany.in/projects"
 type: "CollectionPage"
 image: "https://ndcompany.in/assets/share/projects.png"
@@ -8,9 +8,9 @@ image: "https://ndcompany.in/assets/share/projects.png"
 
 Projects
 
-# Our work
+# Portfolio and case studies
 
-Software, marketing, branding and design work for businesses in Kolkata and beyond. Each project is one client's work with us: everything we did for them and, where there is one, their own review.
+Brand identities, websites, software, design and marketing we have made for small businesses. Each project is one client's work with us: everything we did, the results where the client shared them and, where there is one, their own review.
 
 ## All projects
 
@@ -170,6 +170,18 @@ A logo for Taste and Bite, a restaurant in Bhopal: a round badge with a flame ov
 
 See the project
 
+## Results clients reported
+
+The figures are the clients' own, not audited. Each case study says where its numbers come from and what else changed at the time.
+
+- **cases on a typical day with the Bangali Oikya Manch platform, against 5 to 6 by hand (the organisation's figures). [Read the Bangali Oikya Manch case study](https://ndcompany.in/projects/bangali-oikya-manch):** 30 to 40
+- **enquiries in the first five days of the Sokher Alankar store, against 10 to 12 a month before (the maker's count). [Read the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar):** 15 to 20
+- **a month to run the Sokher Alankar store: Blogger, a custom theme and orders on WhatsApp. [Read the Sokher Alankar case study](https://ndcompany.in/projects/sokher-alankar):** ₹0
+
+## Projects by service
+
+Each service page lists the projects it was part of, beside what the service includes and what it costs.
+
 ## Open-source work
 
 Code our founder, Nakshatra Ranjan Saha, publishes for anyone to use, read and improve. [See every open-source project](https://ndcompany.in/open-source).
@@ -204,8 +216,8 @@ Send a few lines about what you need and we will reply with questions or a quote
       "@type": "CollectionPage",
       "@id": "https://ndcompany.in/projects#webpage",
       "url": "https://ndcompany.in/projects",
-      "name": "Our projects: software, marketing and design | N&D Co.",
-      "description": "Software, marketing, logos, posters and tools N&D Co. has made for businesses in Kolkata and beyond: one page per client, with their review where there is one.",
+      "name": "N&D Co. portfolio: branding, web and software case studies",
+      "description": "Case studies of the brand identities, websites, software, design and marketing N&D Co. has made for small businesses, with the results clients reported.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
