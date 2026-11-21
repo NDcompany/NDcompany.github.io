@@ -244,6 +244,16 @@ Learn more
 
 Projects where Website Design & Development was part of the job.
 
+Software
+
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
 Websites
 
 Sokher Alankar, Bengal, India
@@ -255,6 +265,18 @@ A brand identity and a free online store on Blogger for Sokher Alankar, handmade
 See the project
 
 [See all projects](https://ndcompany.in/projects)
+
+## What clients say
+
+Public reviews from clients whose work with us included website design & development.
+
+Google review
+
+"they genuinely helped me to scale the business and brought my idea to live. we are getting leads now. definitely recommended"
+
+Mumtaj Ahmad
+
+today
 
 ## From our blogs
 

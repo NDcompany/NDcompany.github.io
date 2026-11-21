@@ -148,7 +148,7 @@ See the project
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
-- [SEO audits](https://ndcompany.in/tags/seo-audits)
+- [Local SEO](https://ndcompany.in/tags/local-seo)
 
 [All tags](https://ndcompany.in/tags)
 

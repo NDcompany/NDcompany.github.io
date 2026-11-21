@@ -331,6 +331,16 @@ Read the post
 
 Software
 
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
+Software
+
 Bangali Oikya Manch, Madhyamgram, West Bengal
 
 ### [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
@@ -346,16 +356,6 @@ Sea Seven Fish, Northeast India
 ### [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
 
 A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 18 logo concepts, a fish with a fin of mountain peaks, a blue palette, a seal and business cards.
-
-See the project
-
-Branding
-
-Innovation Texture, Vadodara, Gujarat
-
-### [Brand identity for Innovation Texture](https://ndcompany.in/projects/innovation-texture)
-
-A logo and brand identity for Innovation Texture, a wall texture maker in Vadodara: a rising sun that forms the letters I and T, five palettes, lockups and mockups.
 
 See the project
 

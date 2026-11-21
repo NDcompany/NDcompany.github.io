@@ -246,6 +246,16 @@ Projects where Software Development was part of the job.
 
 Software
 
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
+Software
+
 Bangali Oikya Manch, Madhyamgram, West Bengal
 
 ### [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
@@ -259,6 +269,14 @@ See the project
 ## What clients say
 
 Public reviews from clients whose work with us included software development.
+
+Google review
+
+"they genuinely helped me to scale the business and brought my idea to live. we are getting leads now. definitely recommended"
+
+Mumtaj Ahmad
+
+today
 
 Google review
 

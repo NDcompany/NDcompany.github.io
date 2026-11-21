@@ -14,6 +14,16 @@ Brand identities, websites, software, design and marketing we have made for smal
 
 ## All projects
 
+Software
+
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
 Websites
 
 Sokher Alankar, Bengal, India
@@ -234,96 +244,102 @@ Send a few lines about what you need and we will reply with questions or a quote
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Property marketplace web app for Gharonix",
+            "url": "https://ndcompany.in/projects/gharonix"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Brand identity and free WhatsApp store for Sokher Alankar",
             "url": "https://ndcompany.in/projects/sokher-alankar"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Case management platform for Bangali Oikya Manch",
             "url": "https://ndcompany.in/projects/bangali-oikya-manch"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Brand identity for Sea Seven Fish",
             "url": "https://ndcompany.in/projects/sea-seven-fish"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Brand identity for Innovation Texture",
             "url": "https://ndcompany.in/projects/innovation-texture"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Ads, design, reels and social media for Kebabiyana",
             "url": "https://ndcompany.in/projects/kebabiyana"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Marketing and design for Wafflery's",
             "url": "https://ndcompany.in/projects/wafflerys"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Pio Bhai offer creative for Dream Bar",
             "url": "https://ndcompany.in/projects/dream-bar"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Gym promotion creative for Iron Nerve Fitness",
             "url": "https://ndcompany.in/projects/iron-nerve-fitness"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Food posts and ad creatives",
             "url": "https://ndcompany.in/projects/food-poster-series"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "YouTube thumbnail series",
             "url": "https://ndcompany.in/projects/youtube-thumbnail-series"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "Logo for Edli Delight",
             "url": "https://ndcompany.in/projects/edli-delight"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 13,
             "name": "Logo for Koustav Kitchen",
             "url": "https://ndcompany.in/projects/koustav-kitchen"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 14,
             "name": "Logo for North East, a pub and bar",
             "url": "https://ndcompany.in/projects/north-east-pub-and-bar"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 15,
             "name": "Logo for Style & Co.",
             "url": "https://ndcompany.in/projects/style-and-co"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 16,
             "name": "Logo for Sunfresso",
             "url": "https://ndcompany.in/projects/sunfresso"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 17,
             "name": "Logo for Taste and Bite",
             "url": "https://ndcompany.in/projects/taste-and-bite"
           }

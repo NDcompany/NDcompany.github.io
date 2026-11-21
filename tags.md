@@ -53,7 +53,7 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 
 ## Logos
 
-4 posts, 8 projects
+4 posts, 9 projects
 
 The logo versions, file formats and sizes a business needs, from a square icon that survives a circle crop to vector files for signs and print.
 
@@ -66,6 +66,8 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
   23 Oct 2026
 
+- [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+  Software
 - [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
   Branding
 - [Brand identity for Innovation Texture](https://ndcompany.in/projects/innovation-texture)
@@ -252,6 +254,26 @@ Setting up Google's free Search Console with the business as owner, then reading
 
 [Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
 
+## Local SEO
+
+4 posts, 1 project
+
+Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
+
+- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
+  30 Oct 2026
+- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
+  30 Oct 2026
+- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
+  28 Oct 2026
+- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
+  28 Oct 2026
+
+- [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+  Software
+
+[Everything tagged Local SEO](https://ndcompany.in/tags/local-seo)
+
 ## SEO audits
 
 5 posts
@@ -289,23 +311,6 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
   30 Oct 2026
 
 [Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
-
-## Local SEO
-
-4 posts
-
-Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.
-
-- [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
-  30 Oct 2026
-- [How healthy are Kolkata small-business websites? We checked 901 businesses](https://ndcompany.in/blogs/kolkata-small-business-websites)
-  30 Oct 2026
-- [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
-  28 Oct 2026
-- [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
-
-[Everything tagged Local SEO](https://ndcompany.in/tags/local-seo)
 
 ## Web accessibility
 
@@ -441,6 +446,15 @@ Fake payout, verification and checkout pages that collect card numbers and one-t
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
   11 Nov 2026
 
+## Property portals
+
+1 project
+
+Websites and web apps for listing and finding property: locality pages, maps, checks before a listing goes live, and the EMI, stamp duty and land unit tools buyers use.
+
+- [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+  Software
+
 ## Trade marks
 
 1 post
@@ -553,20 +567,20 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 10,
+            "name": "Local SEO",
+            "url": "https://ndcompany.in/tags/local-seo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
             "name": "SEO audits",
             "url": "https://ndcompany.in/tags/seo-audits"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "Technical SEO",
             "url": "https://ndcompany.in/tags/technical-seo"
-          },
-          {
-            "@type": "ListItem",
-            "position": 12,
-            "name": "Local SEO",
-            "url": "https://ndcompany.in/tags/local-seo"
           },
           {
             "@type": "ListItem",
@@ -643,18 +657,24 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 25,
+            "name": "Property portals",
+            "url": "https://ndcompany.in/tags#property-portals"
+          },
+          {
+            "@type": "ListItem",
+            "position": 26,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 26,
+            "position": 27,
             "name": "Website security",
             "url": "https://ndcompany.in/tags#website-security"
           },
           {
             "@type": "ListItem",
-            "position": 27,
+            "position": 28,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the projects hub, its categories and every project (19 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the projects hub, its categories and every project (20 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/projects</loc>
@@ -12,6 +12,52 @@
   <url>
     <loc>https://ndcompany.in/projects/category/design</loc>
     <lastmod>2026-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/gharonix</loc>
+    <lastmod>2026-11-21</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-home-discovery.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-listing-verification.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-admin-portals.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-buyer-dashboard.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-buyer-dashboard-mobile.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-home-mobile.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-property-listings.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-live-map.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-sign-in.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-logo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-calculators.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-valuation-estimator.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-guides.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/gharonix-team-ayaz-ahmad.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/sokher-alankar</loc>

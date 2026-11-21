@@ -239,6 +239,16 @@ Learn more
 
 Projects where Brand Identity Design was part of the job.
 
+Software
+
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
 Websites
 
 Sokher Alankar, Bengal, India
@@ -259,17 +269,7 @@ A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 
 
 See the project
 
-Branding
-
-Innovation Texture, Vadodara, Gujarat
-
-### [Brand identity for Innovation Texture](https://ndcompany.in/projects/innovation-texture)
-
-A logo and brand identity for Innovation Texture, a wall texture maker in Vadodara: a rising sun that forms the letters I and T, five palettes, lockups and mockups.
-
-See the project
-
-[See all projects](https://ndcompany.in/projects)
+[See all branding projects](https://ndcompany.in/projects/category/branding)
 
 ## From our blogs
 

@@ -16,7 +16,7 @@ conversions, clients, sales and growth
 
 or [send us a message](https://ndcompany.in/#contact)
 
-5.0 on Google from 5 reviews. [Read them](https://ndcompany.in/#testimonials)
+5.0 on Google from 6 reviews. [Read them](https://ndcompany.in/#testimonials)
 
 ![Illustration of two people presenting a growth chart beside the N&D Co. logo on a large screen](https://ndcompany.in/assets/images/growth-trust.svg)
 
@@ -278,11 +278,37 @@ We use your details only to reply to you, and delete them after 24 months unless
 
 5.0
 
-5 Google reviews
+6 Google reviews
 
 2 recommendations on Facebook · [Read them or recommend us](https://www.facebook.com/NDCo.official/reviews)
 
 Worked with us? [Review us on Trustpilot](https://www.trustpilot.com/evaluate/ndcompany.in)
+
+Google review
+
+"they genuinely helped me to scale the business and brought my idea to live. we are getting leads now. definitely recommended"
+
+Mumtaj Ahmad
+
+today
+
+Google review
+
+"Working with N&D Co has been an absolute game-changer for our business. From the initial discovery phase to the final deployment, their team demonstrated top-tier professionalism, deep technical expertise, and an incredible commitment…"
+
+Axn Sony
+
+2 months ago
+
+Recommends
+
+Facebook review
+
+"Partnering with N&D Co. has been one of the best decisions we've made for our brand. As a growing food venture, we needed more than just a marketing agency, we needed a creative tech partner who understood our vision, our audience, and how to scale our digital presence authentically. Thanks to N&D Co., our customer reach has multiplied, our engagement has skyrocketed, and we're now seeing real results, both in-store and online. If you're a brand looking for real growth through smart, modern marketing and tech execution, we highly recommend N&D Co."
+
+Wafflery's
+
+2025
 
 Google review
 
@@ -325,24 +351,6 @@ Google review
 Rajesh Ghosh
 
 6 months ago
-
-Google review
-
-"Working with N&D Co has been an absolute game-changer for our business. From the initial discovery phase to the final deployment, their team demonstrated top-tier professionalism, deep technical expertise, and an incredible commitment…"
-
-Axn Sony
-
-2 months ago
-
-Recommends
-
-Facebook review
-
-"Partnering with N&D Co. has been one of the best decisions we've made for our brand. As a growing food venture, we needed more than just a marketing agency, we needed a creative tech partner who understood our vision, our audience, and how to scale our digital presence authentically. Thanks to N&D Co., our customer reach has multiplied, our engagement has skyrocketed, and we're now seeing real results, both in-store and online. If you're a brand looking for real growth through smart, modern marketing and tech execution, we highly recommend N&D Co."
-
-Wafflery's
-
-2025
 
 ## Frequently asked questions (FAQs)
 

@@ -1,5 +1,5 @@
 ---
-title: "Local SEO: posts and guides | N&D Co."
+title: "Local SEO: posts and projects | N&D Co."
 description: "Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results."
 url: "https://ndcompany.in/tags/local-seo"
 type: "CollectionPage"
@@ -62,6 +62,20 @@ Who should own your profile, how verification works, what to fill in, how to ask
 
 Read the guide
 
+## Projects tagged Local SEO
+
+Work of ours this subject was part of.
+
+Software
+
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
 ## Recently updated
 
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -86,7 +100,7 @@ Read the guide
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
-- [SEO audits](https://ndcompany.in/tags/seo-audits)
+- [Local SEO](https://ndcompany.in/tags/local-seo)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -128,7 +142,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       "@type": "CollectionPage",
       "@id": "https://ndcompany.in/tags/local-seo#webpage",
       "url": "https://ndcompany.in/tags/local-seo",
-      "name": "Local SEO: posts and guides | N&D Co.",
+      "name": "Local SEO: posts and projects | N&D Co.",
       "description": "Showing up when people nearby search for what you sell, and the relevance, distance and prominence that Google weighs when it ranks local results.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
@@ -163,6 +177,12 @@ Send a few lines about your business and what you want to fix or build. We will 
             "position": 4,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Property marketplace web app for Gharonix",
+            "url": "https://ndcompany.in/projects/gharonix"
           }
         ]
       },

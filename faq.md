@@ -1074,6 +1074,112 @@ Yes. We read what you have published, note the vocabulary, sentence length and f
 
 [Content Creation](https://ndcompany.in/services/content-creation#svc-faq)
 
+**What did N&D Co. build for Gharonix? Gharonix case study**
+
+The whole product: a property marketplace web app for Lucknow with listings, search, a live map, buyer and seller accounts, an admin console and four buyer tools, plus the GharOnix logo, 62 locality p…
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**How many leads does Gharonix get? Gharonix case study**
+
+Gharonix's team counts 4,500 to 5,300 leads a month across every channel: WhatsApp, calls, the site's chat and forms, and walk-ins.
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**What features does a property portal like Gharonix need? Gharonix case study**
+
+On Gharonix: search by property type, locality and budget, property pages, a page for each locality, a live map, saved properties and comparison, a seller listing flow with photo upload, chat and What…
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**How are listings checked before they go live on Gharonix? Gharonix case study**
+
+A new listing is saved as Pending, and Gharonix's team reviews its price, photos and locality in the admin console before approving, rejecting or featuring it.
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**Which tech stack does Gharonix use? Gharonix case study**
+
+Next.js and React in TypeScript, a PostgreSQL database through Prisma, hosting on Vercel, live chat through Pusher and Google sign-in.
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**Do locality pages help a property website rank on Google? Gharonix case study**
+
+They match how people search, by area: flats in Gomti Nagar or plots on Sitapur Road. Gharonix has 62.
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**Who developed the Gharonix web app? Gharonix case study**
+
+Ayaz Ahmad, a developer on the N&D Co. team who lives in Lucknow. He wrote the front end and the back end and deployed the site to Vercel. To discuss a similar project, contact N&D Co.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**Can you build a property portal like this for another city? Gharonix case study**
+
+Yes. Only the data is tied to Lucknow: the locality list, the map, the stamp duty rules and the land units. Another city keeps the listing check, dashboards, tools and map and swaps those.
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
+**Is a clone script cheaper than a custom property portal? Gharonix case study**
+
+Often at the start, because a script for a 99acres or MagicBricks style site is sold ready made.
+
+[Read the full answer on the Gharonix case study](https://ndcompany.in/projects/gharonix#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Gharonix](https://ndcompany.in/projects/gharonix#work-faq)
+
 **What did N&D Co. make for Sokher Alankar? Sokher Alankar case study**
 
 A brand identity built around its hand-lettered Bengali logo, and a free online store on Blogger with 42 products, 25 journal posts and an Order on WhatsApp button on every piece.

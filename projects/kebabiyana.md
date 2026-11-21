@@ -138,6 +138,16 @@ Marketing and graphic design for Wafflery's, a growing food venture in Kolkata.
 
 See the project
 
+Software
+
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
 Websites
 
 Sokher Alankar, Bengal, India
@@ -145,16 +155,6 @@ Sokher Alankar, Bengal, India
 ### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
 
 A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
-
-See the project
-
-Software
-
-Bangali Oikya Manch, Madhyamgram, West Bengal
-
-### [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
-
-An applicant portal and case management system for Bangali Oikya Manch, a community service organisation. Reported cases a day: about 5 to 6 by hand and 30 to 40 on a typical day with the platform.
 
 See the project
 

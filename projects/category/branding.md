@@ -14,6 +14,16 @@ Logos and brand identities for new and growing businesses: a seafood wholesaler,
 
 ## Branding projects
 
+Software
+
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
 Websites
 
 Sokher Alankar, Bengal, India
@@ -142,54 +152,60 @@ Send a few lines about what you need and we will reply with questions or a quote
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Property marketplace web app for Gharonix",
+            "url": "https://ndcompany.in/projects/gharonix"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Brand identity and free WhatsApp store for Sokher Alankar",
             "url": "https://ndcompany.in/projects/sokher-alankar"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Brand identity for Sea Seven Fish",
             "url": "https://ndcompany.in/projects/sea-seven-fish"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Brand identity for Innovation Texture",
             "url": "https://ndcompany.in/projects/innovation-texture"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "Logo for Edli Delight",
             "url": "https://ndcompany.in/projects/edli-delight"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Logo for Koustav Kitchen",
             "url": "https://ndcompany.in/projects/koustav-kitchen"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Logo for North East, a pub and bar",
             "url": "https://ndcompany.in/projects/north-east-pub-and-bar"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Logo for Style & Co.",
             "url": "https://ndcompany.in/projects/style-and-co"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Logo for Sunfresso",
             "url": "https://ndcompany.in/projects/sunfresso"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Logo for Taste and Bite",
             "url": "https://ndcompany.in/projects/taste-and-bite"
           }
