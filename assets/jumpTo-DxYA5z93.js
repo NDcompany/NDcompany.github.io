@@ -1,1 +1,0 @@
-import{p as e}from"./index.esm-DGZJgjq2.js";var t=t=>{let n=document.getElementById(t);n&&(n.scrollIntoView({behavior:`smooth`,block:`start`}),history.replaceState(history.state,``,`#${t}`),e(),n.tabIndex=-1,n.focus({preventScroll:!0}))};export{t};

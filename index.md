@@ -16,7 +16,7 @@ conversions, clients, sales and growth
 
 or [send us a message](https://ndcompany.in/#contact)
 
-5.0 on Google from 6 reviews. [Read them](https://ndcompany.in/#testimonials)
+5.0 on Google from 7 reviews. [Read them](https://ndcompany.in/#testimonials)
 
 ![Illustration of two people presenting a growth chart beside the N&D Co. logo on a large screen](https://ndcompany.in/assets/images/growth-trust.svg)
 
@@ -278,7 +278,7 @@ We use your details only to reply to you, and delete them after 24 months unless
 
 5.0
 
-6 Google reviews
+7 Google reviews
 
 2 recommendations on Facebook · [Read them or recommend us](https://www.facebook.com/NDCo.official/reviews)
 
@@ -289,6 +289,30 @@ Google review
 "they genuinely helped me to scale the business and brought my idea to live. we are getting leads now. definitely recommended"
 
 Mumtaj Ahmad
+
+today
+
+Google review
+
+"Highly recommend 😊"
+
+Sagar Ghorai
+
+2 months ago
+
+Google review
+
+"Can't Imagine that an agency like them helped me closing deals of my real estate business with their full branding solution. really saved me a lot of time and I'll definitely recommend to all. they literally took care of everything of my digital presence."
+
+Rajesh Ghosh
+
+6 months ago
+
+Google review
+
+"I am genuinely surprised about what they did with my business. Wanted a website with some useful features and also I had an raw idea on my business logo and branding. They just awesomely nailed it. First of all the logo and brand identity, just wow, it genuinely represents my business well enough and in a minimal premium look. Next the website, when I told them that I didn't had the budge to pay for a new domain and hosting, they said, "mam let us handle this in our way, if you don't like don't even pay for the branding" and after a day they send me the link of my website. It was a blogger site, at first I thaught it is just an generic blogspot page what more it could be, and when I opened the link, it was looking like I am viewing a premium jewelry online store. The whole experience was great, the team, the understanding, the price, the timeline, and mostly solving my problems, it was a genuine great experience. I'll definitely recommend to all, and in my openion you'll have the best experience what any agency could not give. If there were 10 stars I would give them 10/10. Thanks a lot guys for the best project of my life."
+
+Adrija Rivu
 
 today
 
@@ -335,22 +359,6 @@ Facebook review
 Kebabiyana
 
 2025
-
-Google review
-
-"Highly recommend 😊"
-
-Sagar Ghorai
-
-2 months ago
-
-Google review
-
-"Can't Imagine that an agency like them helped me closing deals of my real estate business with their full branding solution. really saved me a lot of time and I'll definitely recommend to all. they literally took care of everything of my digital presence."
-
-Rajesh Ghosh
-
-6 months ago
 
 ## Frequently asked questions (FAQs)
 
