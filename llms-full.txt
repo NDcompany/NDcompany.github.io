@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (111 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (112 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -84,11 +84,11 @@ Our Work
 
 ## Selected work
 
+[Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
 [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
 
-[Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
-
-[Logo for Sunfresso](https://ndcompany.in/projects/sunfresso)
+[Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
 
 [See all projects](https://ndcompany.in/projects)
 
@@ -10104,6 +10104,65 @@ Send a few lines about your business and what you need. We will reply with quest
 
 ---
 
+Team
+
+# Ayaz Ahmad
+
+Source: https://ndcompany.in/team/ayaz-ahmad
+Updated: 2026-11-21
+
+- Developer
+- Designer
+
+Developer at N&D Co., a brand and growth agency in Barrackpore, Kolkata, West Bengal, India.
+
+![Ayaz Ahmad, Developer at N&D Co.](https://ndcompany.in/assets/images/team/ayaz-ahmad.webp)
+
+## About
+
+Ayaz Ahmad is a developer at N&D Co., based in Lucknow. Ayaz builds web and mobile products from end to end: the interface and visual identity, the code behind them and the deployment.
+
+At N&D Co., Ayaz built Gharonix, a property marketplace for Lucknow: the front end and the back end in Next.js, React and TypeScript with a PostgreSQL database, and the deployment to Vercel. The work also covered the product's direction, its interface and its visual identity.
+
+Ayaz has worked as a freelance creative developer since 2025, making portfolio and business websites, landing pages, interface layouts, brand visuals, posters and social media creatives, and uses AI tools when working on ideas, prototypes and designs.
+
+Ayaz's own projects include Revix One, a music app with lyrics, video playback and dynamic player visuals, and Aris One, an AI companion in development built around natural conversation, personalisation, memory and everyday productivity. Ayaz speaks English, Hindi and Urdu.
+
+- Next.js
+- React
+- TypeScript
+- PostgreSQL
+- Flutter
+- Android Studio
+- Firebase
+- Supabase
+- Figma
+- UI and UX design
+- Prototyping
+- Branding
+
+## Projects built by Ayaz Ahmad
+
+Software
+
+Gharonix, Lucknow, Uttar Pradesh
+
+### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
+A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
+
+See the project
+
+[See all our projects](https://ndcompany.in/projects)
+
+## Work with our team
+
+Send a few lines about your business and what you need. We will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 Software · Gharonix
 
 # Gharonix: a property marketplace built for Lucknow
@@ -10126,7 +10185,7 @@ Gharonix is a property marketplace for one city, Lucknow. Its founder, Mumtaz Ah
 
 Buyers search homes, flats, plots, villas and commercial property by type, locality and budget, see them on a live map of the city, save and compare them, and contact the seller by chat or WhatsApp. Sellers list for free. Every listing is checked by Gharonix's team before it goes live. A valuation estimator, a home loan EMI calculator, an Uttar Pradesh stamp duty calculator and a land area converter answer the money questions on the same site.
 
-Gharonix's team now counts 4,500 to 5,300 leads a month across every channel: WhatsApp, calls, the site's chat and forms, and walk-ins. That is their own count, and the website is one part of the business that produces it. The work covers [software development](https://ndcompany.in/services/software-development), [website design and development](https://ndcompany.in/services/website-design-development), [brand identity design](https://ndcompany.in/services/brand-identity-design), [SEO](https://ndcompany.in/services/seo-services) and [content creation](https://ndcompany.in/services/content-creation). The app was written and deployed by Ayaz Ahmad, a developer on our team; [who built it](https://ndcompany.in/projects/gharonix#work-team) says what he did.
+Gharonix's team now counts 4,500 to 5,300 leads a month across every channel: WhatsApp, calls, the site's chat and forms, and walk-ins. That is their own count, and the website is one part of the business that produces it. The work covers [software development](https://ndcompany.in/services/software-development), [website design and development](https://ndcompany.in/services/website-design-development), [brand identity design](https://ndcompany.in/services/brand-identity-design), [SEO](https://ndcompany.in/services/seo-services) and [content creation](https://ndcompany.in/services/content-creation). The app was written and deployed by [Ayaz Ahmad](https://ndcompany.in/team/ayaz-ahmad), a developer on our team.
 
 [Open it](https://www.gharonix.com/)
 
@@ -10280,14 +10339,7 @@ Here is the path one listing takes on Gharonix, as the app runs it today:
 
 ![Ayaz Ahmad, developer at N&D Co., in a dark suit and glasses](https://ndcompany.in/assets/images/projects/gharonix-team-ayaz-ahmad.webp)
 
-Ayaz Ahmad, a developer on our team who lives in Lucknow, built Gharonix. He wrote the front end and the back end, from the search pages, map and dashboards to the database, sign-in and admin console, and deployed the site to Vercel. He also worked on the product's direction, its interface and its visual identity.
-
-He has also worked as a freelance creative developer since 2025, making portfolio and business websites, landing pages, interface layouts, brand visuals, posters and social media creatives. His own projects include Revix One, a music app with lyrics, video playback and dynamic player visuals, and Aris One, an AI companion in development built around natural conversation, personalisation, memory and everyday productivity.
-
-- Development: web front end, Flutter, Android Studio, GitHub
-- Product and design: UI and UX, Figma, prototyping, visual design and branding
-- Platforms and tools: Firebase, Supabase, Cursor, VS Code, and AI tools for ideas, prototypes and design
-- Languages: English, Hindi and Urdu
+Ayaz Ahmad, a developer on our team in Lucknow, built Gharonix: the front end and the back end, from the search pages, map and dashboards to the database, sign-in and admin console, and the deployment to Vercel. The work also covered the product's direction, its interface and its visual identity. More about Ayaz is on [the team page](https://ndcompany.in/team/ayaz-ahmad).
 
 To talk about a project like this, [contact N&D Co.](https://ndcompany.in/#contact).
 
@@ -10337,7 +10389,7 @@ They match how people search, by area: flats in Gomti Nagar or plots on Sitapur 
 
 **Who developed the Gharonix web app?**
 
-Ayaz Ahmad, a developer on the N&D Co. team who lives in Lucknow. He wrote the front end and the back end and deployed the site to Vercel. To discuss a similar project, contact N&D Co.
+Ayaz Ahmad, a developer on the N&D Co. team in Lucknow, wrote the front end and the back end and deployed the site to Vercel. To discuss a similar project, contact N&D Co.
 
 **Can you build a property portal like this for another city?**
 

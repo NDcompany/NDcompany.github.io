@@ -1148,7 +1148,7 @@ They match how people search, by area: flats in Gomti Nagar or plots on Sitapur 
 
 **Who developed the Gharonix web app? Gharonix case study**
 
-Ayaz Ahmad, a developer on the N&D Co. team who lives in Lucknow. He wrote the front end and the back end and deployed the site to Vercel. To discuss a similar project, contact N&D Co.
+Ayaz Ahmad, a developer on the N&D Co. team in Lucknow, wrote the front end and the back end and deployed the site to Vercel. To discuss a similar project, contact N&D Co.
 
 [Home](https://ndcompany.in/)
 

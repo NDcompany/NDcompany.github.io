@@ -86,11 +86,11 @@ Our Work
 
 ## Selected work
 
+[Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
+
 [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
 
-[Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
-
-[Logo for Sunfresso](https://ndcompany.in/projects/sunfresso)
+[Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
 
 [See all projects](https://ndcompany.in/projects)
 

@@ -129,8 +129,9 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 
 ## Team
 
-- [Team](https://ndcompany.in/team): N&D Co.'s founder and what the team does.
+- [Team](https://ndcompany.in/team): the people at N&D Co. and what the team does.
 - [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha): CEO & Founder of N&D Co. and author of the blogs.
+- [Ayaz Ahmad](https://ndcompany.in/team/ayaz-ahmad): Developer at N&D Co.
 
 ## Company
 

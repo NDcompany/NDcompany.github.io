@@ -1,6 +1,6 @@
 ---
 title: "Our team | N&D Co."
-description: "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet our CEO and see what we do."
+description: "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet the team and see what we do."
 url: "https://ndcompany.in/team"
 type: "AboutPage"
 image: "https://ndcompany.in/assets/share/team.png"
@@ -21,6 +21,15 @@ CEO & Founder
 - CEO
 - Founder
 - Writer
+
+View profile
+
+### [Ayaz Ahmad](https://ndcompany.in/team/ayaz-ahmad)
+
+Developer
+
+- Developer
+- Designer
 
 View profile
 
@@ -123,7 +132,7 @@ Send a few lines about your business and what you need. We will reply with quest
       "@id": "https://ndcompany.in/team#webpage",
       "url": "https://ndcompany.in/team",
       "name": "Our team | N&D Co.",
-      "description": "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet our CEO and see what we do.",
+      "description": "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet the team and see what we do.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -184,6 +193,37 @@ Send a few lines about your business and what you need. We will reply with quest
                   "@type": "EducationalOrganization",
                   "name": "Santinagar High School"
                 }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Person",
+              "@id": "https://ndcompany.in/team/ayaz-ahmad#person",
+              "name": "Ayaz Ahmad",
+              "jobTitle": "Developer",
+              "description": "Developer at N&D Co., based in Lucknow. Built the Gharonix property marketplace, front end, back end and deployment, and designs interfaces and brand visuals.",
+              "url": "https://ndcompany.in/team/ayaz-ahmad",
+              "worksFor": {
+                "@id": "https://ndcompany.in/#ndco-organization"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://ndcompany.in/assets/images/team/ayaz-ahmad.webp",
+                "width": 387,
+                "height": 516
+              },
+              "knowsAbout": [
+                "Web development",
+                "Front-end development",
+                "Back-end development",
+                "Mobile app development",
+                "User interface design",
+                "User experience design",
+                "Prototyping",
+                "Branding"
               ]
             }
           }
