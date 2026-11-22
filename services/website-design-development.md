@@ -276,7 +276,7 @@ Google review
 
 Mumtaj Ahmad
 
-today
+yesterday
 
 Google review
 
@@ -284,7 +284,7 @@ Google review
 
 Adrija Rivu
 
-today
+yesterday
 
 ## From our blogs
 

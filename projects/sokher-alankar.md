@@ -265,7 +265,7 @@ Google review
 
 Adrija Rivu
 
-today
+yesterday
 
 ## Frequently asked questions
 

@@ -192,7 +192,7 @@ Google review
 
 Mumtaj Ahmad
 
-today
+yesterday
 
 ## Frequently asked questions
 

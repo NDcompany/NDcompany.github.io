@@ -276,7 +276,7 @@ Google review
 
 Mumtaj Ahmad
 
-today
+yesterday
 
 Google review
 
