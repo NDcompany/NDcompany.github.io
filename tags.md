@@ -43,7 +43,7 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 - [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
   7 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
+  24 Nov 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
   17 Nov 2026
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
@@ -138,7 +138,7 @@ What a website costs to build and run: design and development, domains, hosting,
 - [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
   7 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
+  24 Nov 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
   25 Oct 2026
 
@@ -166,7 +166,7 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
 - [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
   7 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  25 Oct 2026
+  24 Nov 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
   25 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)

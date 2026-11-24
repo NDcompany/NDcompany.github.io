@@ -17,7 +17,7 @@ An Android app to watch, steer and approve Claude Code, Codex, OpenCode and Anti
 - **Built by:** [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 - **Language:** TypeScript and Rust
 - **Licence:** GPL-3.0
-- **Version:** v0.1.1, released on 22 November 2026
+- **Version:** v0.1.2, released on 24 November 2026
 - **Phone:** Android 7.0 or later, plus a separate client for Android 4.4 tablets
 - **Desktop:** Windows companion, one Rust program
 
@@ -29,7 +29,7 @@ CHERNOBYL is a free, open-source Android app that lets you watch, steer and appr
 
 It works with Claude Code, OpenCode, Codex and Google Antigravity. It is an independent project, not made by or affiliated with Anthropic, OpenAI or Google. When an agent stops to ask whether it may run a command or edit a file, the request appears on your phone with the exact command and its risk, and you approve or reject it there. You can also follow the conversation as it streams, send the next instruction, stop a run, browse the project's files and review its git changes.
 
-The phone app is built with React Native and Expo, the same stack we use for [mobile app development](https://ndcompany.in/services/mobile-app-development) for clients. The desktop companion is a single Rust program with no third-party libraries. The code is free software under the [GNU General Public License v3.0](https://github.com/NDcompany/Chernobyl/blob/main/LICENSE), and its first releases, 0.1.0 and 0.1.1, came out on 22 November 2026.
+The phone app is built with React Native and Expo, the same stack we use for [mobile app development](https://ndcompany.in/services/mobile-app-development) for clients. The desktop companion is a single Rust program with no third-party libraries. The code is free software under the [GNU General Public License v3.0](https://github.com/NDcompany/Chernobyl/blob/main/LICENSE), and its first releases, 0.1.0 and 0.1.1, came out on 22 November 2026, and 0.1.2, which fixed entering the access token before pairing, on 24 November 2026.
 
 ## Links, versions and releases
 
@@ -39,19 +39,19 @@ The phone app is built with React Native and Expo, the same stack we use for [mo
 | --- | --- |
 | Source code | [The CHERNOBYL repository on GitHub](https://github.com/NDcompany/Chernobyl) |
 | Documentation | [The CHERNOBYL documentation](https://github.com/NDcompany/Chernobyl/wiki) |
-| Current version | v0.1.1, released on 22 November 2026: [release notes for v0.1.1](https://github.com/NDcompany/Chernobyl/releases/tag/v0.1.1) |
+| Current version | v0.1.2, released on 24 November 2026: [release notes for v0.1.2](https://github.com/NDcompany/Chernobyl/releases/tag/v0.1.2) |
 | All releases | [Every CHERNOBYL release on GitHub](https://github.com/NDcompany/Chernobyl/releases) |
 | Commit history | [Every CHERNOBYL commit on GitHub](https://github.com/NDcompany/Chernobyl/commits/main), from the first on 21 October 2026 |
 | Licence | [The GPL-3.0 licence](https://github.com/NDcompany/Chernobyl/blob/main/LICENSE) |
 
 ## Download CHERNOBYL
 
-Every build is on [the CHERNOBYL releases page](https://github.com/NDcompany/Chernobyl/releases) on GitHub. These buttons download the current release, 0.1.1, straight from there:
+Every build is on [the CHERNOBYL releases page](https://github.com/NDcompany/Chernobyl/releases) on GitHub. These buttons download the current release, 0.1.2, straight from there:
 
-- [Android app: chernobyl-0.1.0-android.apk, Android 7.0 or later](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/chernobyl-0.1.0-android.apk)
-- [Android 4.4 tablet client: chernobyl-kitkat-0.2.0-android4.4.apk, about 300 KB](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/chernobyl-kitkat-0.2.0-android4.4.apk)
-- [Windows companion: chernobyl-companion-0.1.1-windows-x64.exe, Windows 64-bit](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/chernobyl-companion-0.1.1-windows-x64.exe)
-- [Checksums: SHA256SUMS.txt, to check a download](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/SHA256SUMS.txt)
+- [Android app: chernobyl-0.1.1-android.apk, Android 7.0 or later](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.2/chernobyl-0.1.1-android.apk)
+- [Android 4.4 tablet client: chernobyl-kitkat-0.2.0-android4.4.apk, about 300 KB](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.2/chernobyl-kitkat-0.2.0-android4.4.apk)
+- [Windows companion: chernobyl-companion-0.1.1-windows-x64.exe, Windows 64-bit](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.2/chernobyl-companion-0.1.1-windows-x64.exe)
+- [Checksums: SHA256SUMS.txt, to check a download](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.2/SHA256SUMS.txt)
 
 The Windows companion is not code-signed, so Windows SmartScreen warns before the first run. Check each file against SHA256SUMS.txt if you want to be sure it is the one we published. The steps to set it all up are in How to install CHERNOBYL, further down this page.
 
@@ -182,7 +182,7 @@ CHERNOBYL is not on Google Play. The signed Android app, the Windows companion a
 
 1. Download the APK from the latest release and install it. Android asks you to allow installs from your browser or file manager the first time.
 2. On the PC, download the companion (or build it with Cargo) and the source code, then run the setup script from the source folder with the folders your agents may work in. For a downloaded companion, add -Exe with its path.
-3. Open the app, choose Pair with a host and scan the QR code the setup script prints. Then enter the access token the script printed, as [the pairing guide](https://github.com/NDcompany/Chernobyl/wiki/Pairing) shows: with app 0.1.0 the token goes in after pairing, not before.
+3. Open the app, choose Pair with a host and scan the QR code the setup script prints. Then enter the access token the script printed, as [the pairing guide](https://github.com/NDcompany/Chernobyl/wiki/Pairing) shows: app 0.1.1 keeps a token typed in before you scan, which 0.1.0 dropped.
 
 ```plaintext
 powershell -ExecutionPolicy Bypass -File scripts\setup-windows.ps1 -Workspaces 'C:\Projects\my-app' -Exe "$HOME\Downloads\chernobyl-companion-0.1.1-windows-x64.exe"
@@ -288,12 +288,12 @@ Our [software development](https://ndcompany.in/services/software-development) s
       "@id": "https://ndcompany.in/open-source/chernobyl#code",
       "name": "CHERNOBYL",
       "description": "An Android app to watch, steer and approve Claude Code, Codex, OpenCode and Antigravity agents on your PC, through a local companion with end-to-end encryption and no cloud.",
-      "abstract": "CHERNOBYL is a free, open-source Android app that lets you watch, steer and approve Claude Code, Codex and other AI coding agents running on your PC, from your phone. It talks to a small desktop companion on your own computer, with no cloud server, account or relay in between. Our founder, Nakshatra Ranjan Saha, CEO of N&D Co., designed and built it. It works with Claude Code, OpenCode, Codex and Google Antigravity. It is an independent project, not made by or affiliated with Anthropic, OpenAI or Google. When an agent stops to ask whether it may run a command or edit a file, the request appears on your phone with the exact command and its risk, and you approve or reject it there. You can also follow the conversation as it streams, send the next instruction, stop a run, browse the project's files and review its git changes. The phone app is built with React Native and Expo, the same stack we use for mobile app development for clients. The desktop companion is a single Rust program with no third-party libraries. The code is free software under the GNU General Public License v3.0, and its first releases, 0.1.0 and 0.1.1, came out on 22 November 2026.",
+      "abstract": "CHERNOBYL is a free, open-source Android app that lets you watch, steer and approve Claude Code, Codex and other AI coding agents running on your PC, from your phone. It talks to a small desktop companion on your own computer, with no cloud server, account or relay in between. Our founder, Nakshatra Ranjan Saha, CEO of N&D Co., designed and built it. It works with Claude Code, OpenCode, Codex and Google Antigravity. It is an independent project, not made by or affiliated with Anthropic, OpenAI or Google. When an agent stops to ask whether it may run a command or edit a file, the request appears on your phone with the exact command and its risk, and you approve or reject it there. You can also follow the conversation as it streams, send the next instruction, stop a run, browse the project's files and review its git changes. The phone app is built with React Native and Expo, the same stack we use for mobile app development for clients. The desktop companion is a single Rust program with no third-party libraries. The code is free software under the GNU General Public License v3.0, and its first releases, 0.1.0 and 0.1.1, came out on 22 November 2026, and 0.1.2, which fixed entering the access token before pairing, on 24 November 2026.",
       "url": "https://ndcompany.in/open-source/chernobyl",
       "codeRepository": "https://github.com/NDcompany/Chernobyl",
       "programmingLanguage": "TypeScript and Rust",
       "license": "https://github.com/NDcompany/Chernobyl/blob/main/LICENSE",
-      "version": "v0.1.1",
+      "version": "v0.1.2",
       "dateCreated": "2026-10-21",
       "image": [
         "https://ndcompany.in/assets/images/open-source/chernobyl-v2.webp",

@@ -375,7 +375,7 @@ Our [software development](https://ndcompany.in/services/software-development) s
       "version": "v1.0.0",
       "dateCreated": "2026-11-23",
       "image": [
-        "https://ndcompany.in/assets/images/open-source/shoutingtoad-v2.webp",
+        "https://ndcompany.in/assets/images/open-source/shoutingtoad-v3.webp",
         "https://ndcompany.in/assets/images/open-source/shoutingtoad-overview.webp",
         "https://ndcompany.in/assets/images/open-source/shoutingtoad-urls.webp",
         "https://ndcompany.in/assets/images/open-source/shoutingtoad-issue.webp",

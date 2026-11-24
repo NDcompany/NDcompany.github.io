@@ -58,13 +58,13 @@ Read the guide
 
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  17 Nov 2026
-- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
   17 Nov 2026
 
 ## Trending tags

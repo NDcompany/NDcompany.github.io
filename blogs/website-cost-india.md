@@ -5,7 +5,7 @@ url: "https://ndcompany.in/blogs/website-cost-india"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-25T00:00:00+05:30"
-modified: "2026-10-25T00:00:00+05:30"
+modified: "2026-11-24T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/website-cost-india-16x9.png"
 ---
 
@@ -15,13 +15,13 @@ image: "https://ndcompany.in/assets/blog/website-cost-india-16x9.png"
 
 The build price, then the running costs most quotes leave out: domain and hosting renewals, Shopify and gateway fees, the new UPI charge above ₹2,000, email and GST, with a two-year example.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 October 2026 8 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 October 2026 Updated 24 November 2026 8 min read
 
-A website in India costs two things: the build, paid once, and the running costs, paid every year. With us the build is ₹9,999 for a landing page or small brochure site, ₹19,999 for a multi-page business site on WordPress or another CMS, and from ₹29,000 for an online store or web application. On top of that you pay for a domain (₹899 to ₹1,499 a year at renewal for .in and .com), hosting (₹289 to ₹649 a month at renewal on Hostinger's three main plans), business email if you want it, and payment gateway fees if you sell online. Most of these third-party prices are listed before GST, which adds 18%.
+A website in India costs two things: the build, paid once, and the running costs, paid every year. With us the build is ₹9,999 for a landing page or small brochure site, ₹19,999 for a multi-page business site on WordPress or another CMS, and from ₹29,999 for an online store or web application. On top of that you pay for a domain (₹899 to ₹1,499 a year at renewal for .in and .com), hosting (₹289 to ₹649 a month at renewal on Hostinger's three main plans), business email if you want it, and payment gateway fees if you sell online. Most of these third-party prices are listed before GST, which adds 18%.
 
 Key takeaways
 
-- Build: ₹9,999, ₹19,999 or from ₹29,000 with us, set in a written quote before work starts. Our [pricing page](https://ndcompany.in/pricing) lists every service.
+- Build: ₹9,999, ₹19,999 or from ₹29,999 with us, set in a written quote before work starts. Our [pricing page](https://ndcompany.in/pricing) lists every service.
 - Domains and hosting are cheap in year one and cost more from year two. Price the renewal, not the ₹1 or ₹69 headline.
 - Hostinger's ₹69 a month hosting needs 48 months paid upfront and renews at ₹289 a month.
 - Online payments cost about 2% a transaction through a gateway such as Razorpay, plus 18% GST on that fee. UPI payments above ₹2,000 to merchants are due to carry a 0.4% charge, small merchants excepted, from a date still to be notified.
@@ -37,7 +37,7 @@ The build is the design and development work: page layouts, the content manageme
 | --- | --- | --- | --- |
 | Starter | ₹9,999 | A landing page or small brochure site, custom designed, with a contact form and on-page SEO basics | 1 to 2 weeks |
 | Business | ₹19,999 | A multi-page site on WordPress, Shopify or another CMS, with a blog, two to three revision rounds and one year of hosting and domain included | 2 to 4 weeks |
-| Custom | from ₹29,000 | An online store or web application with payments, accounts or integrations | 4 to 6 weeks |
+| Custom | from ₹29,999 | An online store or web application with payments, accounts or integrations | 4 to 6 weeks |
 
 A dedicated store with a large catalogue has its own [e-commerce development](https://ndcompany.in/services/ecommerce-solutions) packages, from ₹14,999 for a Shopify or WooCommerce store. The full list of what each website plan includes is on the [website design and development](https://ndcompany.in/services/website-design-development) page.
 
@@ -246,7 +246,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-25T00:00:00+05:30",
-      "dateModified": "2026-10-25T00:00:00+05:30",
+      "dateModified": "2026-11-24T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
