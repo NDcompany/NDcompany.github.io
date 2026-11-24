@@ -14771,6 +14771,8 @@ Tell us about your business in a few lines and we will reply with questions or a
 
 ---
 
+![ShoutingToad logo: an engraved toad with its mouth open on a green square](https://ndcompany.in/assets/images/open-source/shoutingtoad-icon.webp)
+
 Open source · Rust
 
 # ShoutingToad SEO Spider: a free, open-source website crawler
@@ -15098,6 +15100,8 @@ Our [software development](https://ndcompany.in/services/software-development) s
 
 ---
 
+![MailGrab logo: a red @ between green square brackets on a dark teal tile](https://ndcompany.in/assets/images/open-source/mailgrab-icon.webp)
+
 Open source · Python
 
 # MailGrab: an open-source email extractor in Python
@@ -15115,7 +15119,7 @@ A crawler for checking which email addresses your own websites publish, and on w
 - **Automated tests:** 43 in v2.0.0
 - **Started:** January 2022
 
-[MailGrab on GitHub](https://github.com/OCEANOFANYTHING/MailGrab)[MailGrab website](https://oceanofanything.github.io/MailGrab/)[MailGrab documentation](https://github.com/OCEANOFANYTHING/MailGrab/wiki)
+[MailGrab on GitHub](https://github.com/OCEANOFANYTHING/MailGrab)[MailGrab documentation](https://github.com/OCEANOFANYTHING/MailGrab/wiki)
 
 ## Overview
 
@@ -15131,7 +15135,6 @@ MailGrab is released under the [MIT licence](https://github.com/OCEANOFANYTHING/
 
 | Item | Details |
 | --- | --- |
-| Website | [MailGrab's own website](https://oceanofanything.github.io/MailGrab/) |
 | Source code | [The MailGrab repository on GitHub](https://github.com/OCEANOFANYTHING/MailGrab) |
 | Documentation | [The MailGrab documentation](https://github.com/OCEANOFANYTHING/MailGrab/wiki) |
 | Current version | v2.0.0, released on 3 September 2026: [release notes for v2.0.0](https://github.com/OCEANOFANYTHING/MailGrab/releases/tag/v2.0.0) |
@@ -15161,6 +15164,28 @@ MailGrab starts from a URL or a list of them, follows the links it finds, collec
 - Lowercases addresses so each is listed once, and drops 10 known placeholder addresses, such as email@example.com, along with every address at example.com, example.org, example.net and wixpress.com.
 - On request, drops addresses whose domain has no mail server (MX) record.
 - Saves text, CSV and JSON files, can build on an earlier run and keeps what it found if you stop it with Ctrl+C.
+
+## A real MailGrab run on our own website
+
+On 24 November 2026 we ran MailGrab 2.0.0 from its repository against our own website, ndcompany.in, on a Windows PC with Python 3.13: up to 30 pages, on the same domain only, half a second between requests, and a user agent that said who was crawling and why. It read 30 pages, listed 25 different URLs and found one address, hello@ndcompany.in, on every page it read. This is the console output, unchanged apart from leaving out the lines in between and the computer's system details printed at the end.
+
+*The start of the run: the command, the banner and the first pages crawled.*
+
+*The end of the run: one address found and the four result files saved.*
+
+The first lines of the _emails.csv file it wrote, one row for each page an address was found on:
+
+```plaintext
+email,found_on_url
+hello@ndcompany.in,https://ndcompany.in
+hello@ndcompany.in,https://ndcompany.in/
+hello@ndcompany.in,https://ndcompany.in/about
+hello@ndcompany.in,https://ndcompany.in/blogs
+hello@ndcompany.in,https://ndcompany.in/book-a-call
+hello@ndcompany.in,https://ndcompany.in/pricing
+```
+
+Installing the requirements failed that day: requirements.txt pinned yarl 1.22.0, while the pinned aiohttp 3.14.5 needs yarl 1.25.1 or newer. We fixed the pin in the repository the same day, so pip install -r requirements.txt works again.
 
 ## How does a MailGrab crawl work?
 
@@ -15239,7 +15264,7 @@ python MailGrab.py \
 
 Run it again with --resume to skip the pages it visited before, apart from the start page. To crawl several sites, list one URL per line in _inputUrls.txt, or in a file you name with --input, and leave out --url: MailGrab crawls them in turn, up to 200 pages each, skipping links it already crawled for an earlier site.
 
-At startup MailGrab checks that it can reach oceanofanything.github.io, our founder's GitHub Pages site, by ping on Windows or curl on Linux and macOS, then with two HTTPS requests. If the ping or curl check fails, it prints "Internet Not Connected" and exits with code 0 without writing any files. If an HTTPS request fails, it stops with a Python error. A script should check that _results.json is new rather than trust the exit code. No option skips these checks. They do not go through --proxy, and neither do the DNS lookups of --verify-mx. [The wiki's FAQ and troubleshooting page](https://github.com/OCEANOFANYTHING/MailGrab/wiki/FAQ-and-Troubleshooting) covers this and other common problems.
+At startup MailGrab checks that it can reach oceanofanything.github.io, our founder's GitHub Pages address, by ping on Windows or curl on Linux and macOS, then with two HTTPS requests. That address now forwards to ndcompany.in, so the two requests end at our website; they carry nothing about your crawl. If the ping or curl check fails, it prints "Internet Not Connected" and exits with code 0 without writing any files. If an HTTPS request fails, it stops with a Python error. A script should check that _results.json is new rather than trust the exit code. No option skips these checks. They do not go through --proxy, and neither do the DNS lookups of --verify-mx. [The wiki's FAQ and troubleshooting page](https://github.com/OCEANOFANYTHING/MailGrab/wiki/FAQ-and-Troubleshooting) covers this and other common problems.
 
 ## MailGrab command-line options
 
@@ -15409,7 +15434,7 @@ Testing during the work on version 2 found two regular expressions open to catas
 
 The repository lists these itself: the [at] and [dot] decoder can, rarely, turn ordinary prose into an address; sitemap indexes are followed one level down, with no size cap; and the MCP tool keeps nothing between calls and shows no progress.
 
-We checked this page against the MailGrab repository, its wiki and the v2.0.0 release notes on 9 October 2026.
+We checked this page against the MailGrab repository, its wiki and the v2.0.0 release notes on 9 October 2026, and again on 24 November 2026, when nothing in the code, the wiki or the release had changed.
 
 ## How to report a bug or contribute to MailGrab
 
@@ -15486,6 +15511,8 @@ Our [software development](https://ndcompany.in/services/software-development) s
 [Get a quote](https://ndcompany.in/#contact)
 
 ---
+
+![CHERNOBYL logo: a white rounded tile with a black mark of circuit lines meeting at a dot](https://ndcompany.in/assets/images/open-source/chernobyl-icon.webp)
 
 Open source · TypeScript and Rust
 

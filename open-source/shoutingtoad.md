@@ -6,6 +6,8 @@ type: "SoftwareSourceCode"
 image: "https://ndcompany.in/assets/open-source/shoutingtoad-16x9.png"
 ---
 
+![ShoutingToad logo: an engraved toad with its mouth open on a green square](https://ndcompany.in/assets/images/open-source/shoutingtoad-icon.webp)
+
 Open source · Rust
 
 # ShoutingToad SEO Spider: a free, open-source website crawler
@@ -371,7 +373,7 @@ Our [software development](https://ndcompany.in/services/software-development) s
       "version": "v1.0.0",
       "dateCreated": "2026-11-23",
       "image": [
-        "https://ndcompany.in/assets/images/open-source/shoutingtoad.webp",
+        "https://ndcompany.in/assets/images/open-source/shoutingtoad-v2.webp",
         "https://ndcompany.in/assets/images/open-source/shoutingtoad-overview.webp",
         "https://ndcompany.in/assets/images/open-source/shoutingtoad-urls.webp",
         "https://ndcompany.in/assets/images/open-source/shoutingtoad-issue.webp",

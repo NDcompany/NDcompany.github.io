@@ -6,6 +6,8 @@ type: "SoftwareSourceCode"
 image: "https://ndcompany.in/assets/open-source/chernobyl-16x9.png"
 ---
 
+![CHERNOBYL logo: a white rounded tile with a black mark of circuit lines meeting at a dot](https://ndcompany.in/assets/images/open-source/chernobyl-icon.webp)
+
 Open source · TypeScript and Rust
 
 # CHERNOBYL: approve your AI coding agents from your phone
@@ -282,7 +284,7 @@ Our [software development](https://ndcompany.in/services/software-development) s
       "version": "v0.1.1",
       "dateCreated": "2026-10-21",
       "image": [
-        "https://ndcompany.in/assets/images/open-source/chernobyl.webp",
+        "https://ndcompany.in/assets/images/open-source/chernobyl-v2.webp",
         "https://ndcompany.in/assets/images/open-source/chernobyl-phone-session-approval.webp",
         "https://ndcompany.in/assets/images/open-source/chernobyl-phone-approval-options.webp",
         "https://ndcompany.in/assets/images/open-source/chernobyl-phone-plan.webp",

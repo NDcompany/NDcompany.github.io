@@ -883,7 +883,10 @@
     <loc>https://ndcompany.in/open-source/shoutingtoad</loc>
     <lastmod>2026-11-24</lastmod>
     <image:image>
-      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad.webp</image:loc>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-icon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-v2.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-overview.webp</image:loc>
@@ -929,7 +932,16 @@
     <loc>https://ndcompany.in/open-source/mailgrab</loc>
     <lastmod>2026-11-24</lastmod>
     <image:image>
-      <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab.webp</image:loc>
+      <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-icon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-v2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-run-start.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-run-result.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
@@ -939,7 +951,10 @@
     <loc>https://ndcompany.in/open-source/chernobyl</loc>
     <lastmod>2026-11-24</lastmod>
     <image:image>
-      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl.webp</image:loc>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-icon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-v2.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-session-approval.webp</image:loc>
