@@ -162,7 +162,7 @@ Starting prices in US dollars. Your written quote confirms the final price, its 
 
 ### Graphic Design
 
-**Graphic Design starting prices, per project**
+**Graphic Design starting prices**
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |

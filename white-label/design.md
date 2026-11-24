@@ -1,6 +1,6 @@
 ---
 title: "White Label Logo, Branding & Graphic Design | N&D Co."
-description: "White label design for agencies: logos, brand identities, guidelines and graphics, unbranded, with editable source files and your NDA signed. USD prices."
+description: "White label design for agencies: logos, brand identities, guidelines and graphics, unbranded, with editable files and your NDA signed. USD prices."
 url: "https://ndcompany.in/white-label/design"
 type: "Service"
 image: "https://ndcompany.in/assets/share/white-label-design.png"
@@ -48,7 +48,7 @@ Brochures, flyers, menus, posters, roll-up banners and signage, as print-ready P
 
 Static ad sets for Google Display, Meta and print in every agreed size, and labels, boxes or pouches laid out on the dieline from your client's packaging supplier.
 
-### Editable source files
+### Editable design files
 
 AI, EPS, SVG and PDF files with fonts outlined, plus PNG exports with transparent backgrounds, organized in a folder you hand to your client.
 
@@ -224,7 +224,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@id": "https://ndcompany.in/white-label/design#webpage",
       "url": "https://ndcompany.in/white-label/design",
       "name": "White Label Logo, Branding & Graphic Design | N&D Co.",
-      "description": "White label design for agencies: logos, brand identities, guidelines and graphics, unbranded, with editable source files and your NDA signed. USD prices.",
+      "description": "White label design for agencies: logos, brand identities, guidelines and graphics, unbranded, with editable files and your NDA signed. USD prices.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

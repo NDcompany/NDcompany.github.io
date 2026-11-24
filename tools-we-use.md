@@ -26,7 +26,7 @@ Page layouts, UI design and clickable prototypes for our website projects. Clien
 
 ### [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 
-Logo marks, lockups and the vector source files clients get at handover.
+Logo marks, lockups and the editable vector files clients get at handover.
 
 ### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 

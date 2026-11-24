@@ -68,7 +68,7 @@ Titles, meta descriptions, heading structure, image alt text, sitemap and robots
 
 ### Launch and handover
 
-We deploy the site to your domain, test forms and links on the live server, and hand over logins and source files. A 7-day support window follows delivery.
+We deploy the site to your domain, test forms and links on the live server, and hand over the logins and files named in your quote. A 7-day support window follows delivery.
 
 ## Website design and development pricing
 
@@ -142,7 +142,7 @@ written quote before work starts · delivered in 4 to 6 weeks
 - Third-party integrations as scoped
 - Staging site and full testing pass
 - 3 months of our Growth SEO package, free
-- Handover of source files and documentation
+- Handover of the files named in your quote, with documentation
 - Maintenance package available separately
 - Custom AWS or VPS hosting available separately
 

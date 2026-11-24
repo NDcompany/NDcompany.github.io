@@ -222,7 +222,7 @@ Often combined with Software Development.
 
 ### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
 
-Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
+Android and iOS apps for restaurants, shops and other businesses, built once and published on both stores.
 
 Learn more
 

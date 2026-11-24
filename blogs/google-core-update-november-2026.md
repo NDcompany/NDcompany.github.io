@@ -1,11 +1,11 @@
 ---
 title: "Google November 2026 Core Update: What To Do | N&D Co."
-description: "Google's November 2026 core update started 10 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost."
+description: "Google's November 2026 core update ran 10 to 24 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost."
 url: "https://ndcompany.in/blogs/google-core-update-november-2026"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-11-17T00:00:00+05:30"
-modified: "2026-11-17T00:00:00+05:30"
+modified: "2026-11-24T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.png"
 ---
 
@@ -13,15 +13,15 @@ image: "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.p
 
 # Google's November 2026 core update: what is happening and what to do
 
-Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 17 November 2026 19 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 17 November 2026 Updated 24 November 2026 19 min read
 
-Google's November 2026 core update started on 10 November 2026 and had not finished when we wrote this on 17 November. It applies to every country and language, and Google says the rollout may take up to two weeks. Google has given no advice specific to it and has not said what it changes. For most sites the right move now is to do nothing drastic: wait until Google marks the rollout complete, wait one more full week, then compare that week with the week before 10 November in Search Console. We will update this post when Google marks it complete.
+Google's November 2026 core update started on 10 November 2026, and Google marked the rollout complete on 24 November, about two weeks later. It applies to every country and language. Google has given no advice specific to it and has not said what it changes. For most sites the right move now is still to do nothing drastic: wait one more full week, then compare 25 November to 1 December with the week before 10 November in Search Console. We wrote this on 17 November, day 7 of the rollout, and added Google's completion notice on 24 November.
 
 Key takeaways
 
-- Google's dashboard showed no completion notice on 17 November, day 7. The three previous core updates in its history took 11 days 21 hours, 12 days 4 hours and 18 days 2 hours.
+- Google marked the rollout complete on 24 November, about 14 days after it started. The three previous core updates in its history took 11 days 21 hours, 12 days 4 hours and 18 days 2 hours.
 - We read 51 pages about the update. 31 (61%) sell SEO, audits, recovery or a related tool, 30 (59%) carry advice or claims with no source, and none has data on which sites won or lost.
 - One of the 51 pages, a forum comment, links AI-written content to drops, with no data. Google's pages say quality matters, not how a page was made.
 - AI detectors misfire: one study found an average false-positive rate of 61.3% on essays by non-native English writers. Check facts, sources and first-hand content instead.
@@ -29,13 +29,13 @@ Key takeaways
 
 ## What has Google said about the November 2026 core update?
 
-Very little, and all of it on the [Google Search Status Dashboard](https://status.search.google.com/incidents/WLxcJyC6jMWMfryxsKMc), which we read on 17 November 2026. The incident opened at 10:06 US Pacific time on 10 November with one update: the core update "applies globally and to all languages" and the rollout "may take up to 2 weeks" to complete. It showed no end time, no "complete" label and no advice. Two weeks from the start is about 24 November. The [ranking history on the same dashboard](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) shows how long recent core updates took:
+Very little, and all of it on the [Google Search Status Dashboard](https://status.search.google.com/incidents/WLxcJyC6jMWMfryxsKMc), which we read on 17 November 2026. The incident opened at 10:06 US Pacific time on 10 November with one update: the core update "applies globally and to all languages" and the rollout "may take up to 2 weeks" to complete. That day it showed no end time, no "complete" label and no advice. A second update at 06:03 Pacific time on 24 November said "The rollout was complete as of November 24, 2026", again with no advice. The [ranking history on the same dashboard](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history) shows how long recent core updates took:
 
-**Core updates on Google's Search Status Dashboard, read 17 November 2026**
+**Core updates on Google's Search Status Dashboard, read 17 and 24 November 2026**
 
 | Core update | Started | Duration shown |
 | --- | --- | --- |
-| November 2026 | 10 Nov 2026 | Not reported yet (day 7) |
+| November 2026 | 10 Nov 2026 | Marked complete 24 Nov 2026 (about 14 days) |
 | May 2026 | 21 May 2026 | 11 days 21 hours |
 | March 2026 | 27 Mar 2026 | 12 days 4 hours |
 | December 2025 | 11 Dec 2025 | 18 days 2 hours |
@@ -252,7 +252,7 @@ Before you spend, do the free first pass from the section above. Then you can ju
 
 ## How we did this study
 
-We read everything on 17 November 2026, the seventh day of the rollout, using web search and automated page fetching. For what Google says, we read Google's own pages: the dashboard, the core updates page, the helpful content guide, the spam policies, the AI guides, the debugging page, the rater guidelines and the "Do you need an SEO?" page.
+We read everything on 17 November 2026, the seventh day of the rollout, using web search and automated page fetching. On 24 November we read Google's dashboard again and added its completion notice; everything else is as read on 17 November. For what Google says, we read Google's own pages: the dashboard, the core updates page, the helpful content guide, the spam policies, the AI guides, the debugging page, the rater guidelines and the "Do you need an SEO?" page.
 
 For what others say, we read 51 distinct pages. The search tool kept returning the same 25 to 30 pages for every query, so 51 is what the first week gave us. We sorted them into 28 sales blogs (agencies, tool vendors and hosts), 17 news pages, 3 community reports, 2 practitioners with data and 1 page of primary data, and recorded each page's claims, advice, sources and whether its site sells SEO, audits, recovery, a related tool or course, or runs an agency directory.
 
@@ -276,7 +276,7 @@ We are an agency based in India that works with clients abroad. If you want a se
 - [Share on Threads](https://www.threads.net/intent/post?text=Google%27s%20November%202026%20core%20update%3A%20what%20is%20happening%20and%20what%20to%20do%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-core-update-november-2026)
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Google%27s%20November%202026%20core%20update%3A%20what%20is%20happening%20and%20what%20to%20do%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-core-update-november-2026)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-core-update-november-2026&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fgoogle-core-update-november-2026-16x9.png&description=Google%27s%20November%202026%20core%20update%3A%20what%20is%20happening%20and%20what%20to%20do)
-- [Share by email](mailto:?subject=Google%27s%20November%202026%20core%20update%3A%20what%20is%20happening%20and%20what%20to%20do&body=Google%27s%20November%202026%20core%20update%20started%2010%20November.%20What%20Google%20says%2C%20what%2051%20pages%20claim%2C%20how%20to%20check%20a%20drop%20and%20what%20recovery%20offers%20cost.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-core-update-november-2026)
+- [Share by email](mailto:?subject=Google%27s%20November%202026%20core%20update%3A%20what%20is%20happening%20and%20what%20to%20do&body=Google%27s%20November%202026%20core%20update%20ran%2010%20to%2024%20November.%20What%20Google%20says%2C%20what%2051%20pages%20claim%2C%20how%20to%20check%20a%20drop%20and%20what%20recovery%20offers%20cost.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-core-update-november-2026)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -348,7 +348,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "BlogPosting",
       "@id": "https://ndcompany.in/blogs/google-core-update-november-2026#article",
       "headline": "Google's November 2026 core update: what is happening and what to do",
-      "description": "Google's November 2026 core update started 10 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.",
+      "description": "Google's November 2026 core update ran 10 to 24 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.",
       "image": [
         {
           "@type": "ImageObject",
@@ -370,7 +370,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-11-17T00:00:00+05:30",
-      "dateModified": "2026-11-17T00:00:00+05:30",
+      "dateModified": "2026-11-24T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -390,7 +390,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Google Search Console, SEO audits",
       "genre": "News",
-      "wordCount": 4112,
+      "wordCount": 4155,
       "inLanguage": "en-IN"
     },
     {
@@ -398,7 +398,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@id": "https://ndcompany.in/blogs/google-core-update-november-2026#webpage",
       "url": "https://ndcompany.in/blogs/google-core-update-november-2026",
       "name": "Google November 2026 Core Update: What To Do | N&D Co.",
-      "description": "Google's November 2026 core update started 10 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.",
+      "description": "Google's November 2026 core update ran 10 to 24 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

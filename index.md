@@ -44,7 +44,7 @@ Custom web applications, CRMs and internal tools for the way your business runs.
 
 ### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
 
-Android and iOS apps for restaurants, shops, and businesses, built once and published on both stores.
+Android and iOS apps for restaurants, shops and other businesses, built once and published on both stores.
 
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 

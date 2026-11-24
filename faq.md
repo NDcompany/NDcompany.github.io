@@ -922,7 +922,7 @@ Your logo in vector format if you have it, brand colors and fonts, the final tex
 
 **What file formats will I receive, and who owns the designs? Graphic Design**
 
-Print pieces come as PDF with bleed and crop marks, digital pieces as PNG or JPG, and everything comes with editable vector or layered source files.
+Print pieces come as PDF with bleed and crop marks, digital pieces as PNG or JPG, and everything comes with editable vector or layered files.
 
 [Read the full answer on the Graphic Design page](https://ndcompany.in/services/graphic-design#svc-faq)
 

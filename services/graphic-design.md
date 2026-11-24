@@ -34,7 +34,7 @@ Print pieces go out with bleed, crop marks and CMYK color, so the press gets wha
 
 ### Assets your team can edit
 
-Templates for recurring pieces come as editable source files, so a new post or a price change does not need a designer. Your team swaps text and images; the layout holds.
+Templates for recurring pieces come as editable files, so a new post or a price change does not need a designer. Your team swaps text and images; the layout holds.
 
 ## What is included
 
@@ -126,7 +126,7 @@ billed monthly
 - Packaging laid out on your supplier dieline
 - Ad creatives in every platform size
 - Revision rounds agreed per piece
-- All source files and a handover note
+- Editable files and a handover note
 - Monthly scope for ongoing design needs
 
 ---
@@ -184,7 +184,7 @@ Your logo in vector format if you have it, brand colors and fonts, the final tex
 
 **What file formats will I receive, and who owns the designs?**
 
-Print pieces come as PDF with bleed and crop marks, digital pieces as PNG or JPG, and everything comes with editable vector or layered source files. Ownership of the final deliverables transfers to you once the invoice is paid in full. We may show the work in our portfolio unless you ask us in writing not to.
+Print pieces come as PDF with bleed and crop marks, digital pieces as PNG or JPG, and everything comes with editable vector or layered files. Ownership of the final deliverables transfers to you once the invoice is paid in full. We may show the work in our portfolio unless you ask us in writing not to.
 
 **Do you design for print as well as digital?**
 

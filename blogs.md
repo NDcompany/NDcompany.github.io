@@ -40,7 +40,7 @@ News · 17 Nov 2026
 
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
 
-Google's November 2026 core update had not finished by day 7. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
 
 Read the post
 
@@ -348,12 +348,12 @@ Read the guide
 
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
+- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+  24 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
-- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-  17 Nov 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
   17 Nov 2026
 
@@ -482,11 +482,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/google-core-update-november-2026#article",
           "headline": "Google's November 2026 core update: what is happening and what to do",
-          "description": "Google's November 2026 core update started 10 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.",
+          "description": "Google's November 2026 core update ran 10 to 24 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.",
           "image": "https://ndcompany.in/assets/blog/google-core-update-november-2026-16x9.png",
           "url": "https://ndcompany.in/blogs/google-core-update-november-2026",
           "datePublished": "2026-11-17T00:00:00+05:30",
-          "dateModified": "2026-11-17T00:00:00+05:30",
+          "dateModified": "2026-11-24T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }
