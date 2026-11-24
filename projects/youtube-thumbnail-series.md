@@ -89,7 +89,7 @@ Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
 
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
+Logo sizes for each platform, colour pairs that pass WCAG, font licences, Arabic and English type, voice rules, public examples from GOV.UK and the NHS, and a handover list.
 
 Read the guide
 

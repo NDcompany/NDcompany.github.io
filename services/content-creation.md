@@ -204,7 +204,7 @@ Yes. We read what you have published, note the vocabulary, sentence length and f
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Content Creation remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Content Creation remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -212,19 +212,19 @@ Often combined with Content Creation.
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Content planning, posting, and audience growth strategies.
+A monthly content calendar, designed posts and captions, reels, scheduled publishing and replies to your audience.
 
 Learn more
 
 ### [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
 
-Video ads, reels, and promotional content production.
+Promotional and product videos, reels and motion graphics, shot for you or edited from your footage.
 
 Learn more
 
@@ -276,7 +276,7 @@ Guide · 23 Oct 2026
 
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
+Decide the site's one job, keep accounts in your name, set speed and accessibility targets, know your privacy duties, and brief every provider alike.
 
 Read the guide
 
@@ -302,6 +302,22 @@ Send a few lines about your business and we will reply with questions or a quote
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"

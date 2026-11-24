@@ -88,8 +88,6 @@ Create a blog at [blogger.com](https://www.blogger.com/) with your Google accoun
 
 Any clean Blogger theme will work. For Sokher Alankar we wrote a theme from scratch that reads those labels and draws a product page, with Blogger's own stylesheet and scripts switched off for speed. You do not need to go that far to start.
 
-![The Blogger posts list filtered by the Shop label, with product posts each tagged with labels such as Necklaces, Combos, SA-016 and Shop](https://ndcompany.in/assets/images/projects/sokher-alankar-blogger-labels-v2.webp)
-
 *In the Blogger dashboard, each product post carries its collection, its code and Shop as labels.*
 
 Now the setting almost everyone misses. Blogger's default robots.txt tells search engines not to crawl anything under /search, and every label page lives under /search/label/. So a store that uses labels as collections hides all of its collections from Google. In Settings, under Crawlers and indexing, switch on Enable custom robots.txt and use this, with your own address:
@@ -124,8 +122,6 @@ WhatsApp documents the link format: `https://wa.me/`, then your full number in i
 Paste it into each post in HTML view and change the code, name and address. If you are not sure about the encoding, type the message in any free URL encoder, or ask whoever helps you with the site to generate the links from the post title, as our theme does.
 
 Adding the page's address does more than you might think. WhatsApp turns it into a preview with the product photo, so the first thing you see in the chat is the piece itself. This is the button on Sokher Alankar:
-
-![A Sokher Alankar product page with a photo of a thread choker set, the title, Product code SA-005, Price on request and a maroon Order on WhatsApp button](https://ndcompany.in/assets/images/projects/sokher-alankar-product-page.webp)
 
 *The code sits above the price note, and the button opens a chat with the code, name and link.*
 
@@ -257,13 +253,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 

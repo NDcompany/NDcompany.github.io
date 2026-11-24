@@ -161,12 +161,12 @@ After the balance is paid we deliver print-ready PDFs, web-ready PNG or JPG file
 
 ## Who this is for
 
-- Small businesses in Kolkata, across India and worldwide that need a steady supply of posters, social posts and print pieces without hiring a designer.
+- Businesses of any size in Kolkata, across India and worldwide that need a steady supply of posters, social posts and print pieces without hiring a designer.
 - Startups with a logo but nothing else that need business cards, a one-page profile and social templates before launch.
 - Marketing teams with more requests than in-house capacity that want a designer who follows their brand guidelines.
 - Businesses comparing graphic design companies that want one agency for both print and social media work, instead of a different freelancer for each job.
 - Product businesses that need labels and packaging laid out correctly on the supplier dieline.
-- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
+- Agencies that resell this work under their own name: see our [white label design](https://ndcompany.in/white-label/design) page.
 
 ## Frequently asked questions
 
@@ -198,7 +198,7 @@ No. Each piece is designed from your brand assets and brief. Stock photography o
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Graphic Design remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Graphic Design remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -206,19 +206,19 @@ Often combined with Graphic Design.
 
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
-Logo design, brand guidelines, and visual identity systems.
+A logo with its palette, typefaces and supporting graphics, written up in a guidelines document your team can follow.
 
 Learn more
 
 ### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Content planning, posting, and audience growth strategies.
+A monthly content calendar, designed posts and captions, reels, scheduled publishing and replies to your audience.
 
 Learn more
 
 ### [Logo Design](https://ndcompany.in/services/logo-design)
 
-Custom logo design and brand identity creation.
+Logo concepts, refinement and lockups, delivered as vector files with the colors and typefaces to use them.
 
 Learn more
 
@@ -294,7 +294,7 @@ Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
 
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
+Logo sizes for each platform, colour pairs that pass WCAG, font licences, Arabic and English type, voice rules, public examples from GOV.UK and the NHS, and a handover list.
 
 Read the guide
 
@@ -320,6 +320,22 @@ Send a few lines about your business and we will reply with questions or a quote
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"

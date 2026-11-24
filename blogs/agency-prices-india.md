@@ -176,6 +176,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+Business
+
 News · 11 Nov 2026
 
 ### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
@@ -194,16 +204,6 @@ Paying an agency does not make the code yours. What US, UK and Indian law say ab
 
 Read the guide
 
-Business
-
-Guide · 31 Oct 2026
-
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
-
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
-
-Read the guide
-
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
 ## How we can help
@@ -212,19 +212,19 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 

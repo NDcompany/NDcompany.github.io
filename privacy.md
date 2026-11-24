@@ -4,13 +4,13 @@ description: "What our contact and SEO audit forms collect, what we keep when yo
 url: "https://ndcompany.in/privacy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-11-06"
+modified: "2026-11-24"
 image: "https://ndcompany.in/assets/share/privacy.png"
 ---
 
 # Privacy policy
 
-Effective date: 23 October 2026 · Last updated: 6 November 2026
+Effective date: 23 October 2026 · Last updated: 24 November 2026
 
 This privacy policy explains what personal data N&D Co. ("we", "our", "us") collects through https://ndcompany.in, including our free tools at ndcompany.in/tools, and when you hire us, and how we use, keep and share it, and your rights over it. N&D Co. is based in Barrackpore, Kolkata, West Bengal, India, and is responsible for the personal data described here.
 
@@ -187,6 +187,8 @@ Google Analytics deletes the user-level and event-level data it holds for us onc
 
 Microsoft Clarity keeps recordings of visits for 30 days. It keeps a random sample of them, and any we mark as favourites, for up to 9 months. PostHog keeps what it records for 1 year, and its cookie also lasts 1 year.
 
+We also keep a copy of the visits PostHog records in our own internal analytics tool: the pages you viewed, the site you came from, campaign tags, your device, browser, operating system and country, and the random ID PostHog gives your browser. We never copy your IP address, name or email address. After 25 months we delete those records and keep only totals, such as daily visits by page, source, device type and country, which cannot be linked to you. From Google Analytics and Microsoft Clarity we copy only totals, never recordings or data about single visitors. If you switch analytics off, we stop collecting at once. To have the visits already linked to your browser's ID deleted, email us at [hello@ndcompany.in](mailto:hello@ndcompany.in) and we will tell you how to find that ID.
+
 Messages sent through our contact form, and free SEO audit requests, are deleted from our databases automatically 24 months after they arrive, unless you became our client, in which case they stay with your project records. Our database provider can restore deleted data for up to 30 days, after which it is gone. We email ourselves a backup of each form's entries each month and keep only the latest one, so a deleted entry leaves our backups within a month. We delete the copies in our email inbox and our own business systems on the same schedule. Our Cloudflare database keeps a free SEO audit request in full until 30 days after it is sent, fails or is cancelled, and then only its number, dates and status; our audit tool keeps the request and its report for the 24 months. When the tool deletes a request, it destroys the request's key, which also makes its encrypted backups unreadable; the keys themselves are backed up apart, encrypted with a passphrase only we hold, and a destroyed key leaves those backups within 30 days. If you unsubscribe, our Cloudflare database and the tool keep a coded fingerprint of your email address, which cannot be turned back into the address, for as long as we send emails, so that we never send you our offers again. The tool's security logs record sign-ins, administrator actions and errors, without report contents or full email addresses, and are kept for one year.
 
 Sentry deletes error reports 30 days after it receives them.
@@ -319,7 +321,7 @@ To help us understand, sort, look into and resolve grievances, we may use AI-ass
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-11-06",
+      "dateModified": "2026-11-24",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/privacy.png",

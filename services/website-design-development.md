@@ -214,7 +214,7 @@ You do. Once the final payment clears, ownership of the final deliverables named
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Website Design & Development remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Website Design & Development remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -222,19 +222,19 @@ Often combined with Website Design & Development.
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
@@ -276,7 +276,7 @@ Google review
 
 Mumtaj Ahmad
 
-yesterday
+3 days ago
 
 Google review
 
@@ -284,7 +284,7 @@ Google review
 
 Adrija Rivu
 
-yesterday
+3 days ago
 
 ## From our blogs
 
@@ -342,6 +342,22 @@ Send a few lines about your business and we will reply with questions or a quote
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"

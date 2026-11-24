@@ -3,7 +3,7 @@ title: "Technical SEO: posts and guides | N&D Co."
 description: "Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings that decide whether Google can find, read and show your pages."
 url: "https://ndcompany.in/tags/technical-seo"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png"
+image: "https://ndcompany.in/assets/share/tag-technical-seo.png"
 ---
 
 Tag
@@ -68,22 +68,22 @@ Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
 
-Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
+Twelve checks, in order, to find out if Google can crawl, index and show your pages, with October 2026 Core Web Vitals data for the US and UK.
 
 Read the guide
 
 ## Recently updated
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
-- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-  14 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  17 Nov 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  17 Nov 2026
 
 ## Trending tags
 
@@ -106,19 +106,19 @@ If you would rather have the work done for you, these are the services that cove
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [Content Creation](https://ndcompany.in/services/content-creation)
 
-SEO content, blogs, and social media content.
+SEO blog posts, website copy, product descriptions and social captions, planned in a content calendar.
 
 Learn more
 
@@ -184,7 +184,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/ai-crawler-blocking-study-16x9.png",
+        "url": "https://ndcompany.in/assets/share/tag-technical-seo.png",
         "width": 1200,
         "height": 675
       }

@@ -3,7 +3,7 @@ title: "Google Business Profile: posts and guides | N&D Co."
 description: "Claiming, verifying and keeping your free Google listing accurate on Search and Maps, from categories and hours to suspensions and appeals."
 url: "https://ndcompany.in/tags/google-business-profile"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/seo-for-educational-institutions-16x9.png"
+image: "https://ndcompany.in/assets/share/tag-google-business-profile.png"
 ---
 
 Tag
@@ -48,22 +48,22 @@ Guide · 23 Oct 2026
 
 ### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
 
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
+Eligibility, verification, categories, hours, photos, reviews within Google's and the FTC's rules, agency rules, and Bing Places and Apple Business Connect.
 
 Read the guide
 
 ## Recently updated
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
-- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-  14 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  17 Nov 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  17 Nov 2026
 
 ## Trending tags
 
@@ -86,19 +86,19 @@ If you would rather have the work done for you, these are the services that cove
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
@@ -152,7 +152,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/seo-for-educational-institutions-16x9.png",
+        "url": "https://ndcompany.in/assets/share/tag-google-business-profile.png",
         "width": 1200,
         "height": 675
       }

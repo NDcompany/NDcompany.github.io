@@ -152,6 +152,7 @@ Store submission is included in every tier of our [mobile app development](https
 Rules change, so check Google's and Apple's pages again before you rely on any date here.
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [App stores](https://ndcompany.in/tags#app-stores)
 
 ## Share this post
 
@@ -174,6 +175,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+Business
+
 News · 11 Nov 2026
 
 ### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
@@ -192,16 +203,6 @@ Paying an agency does not make the code yours. What US, UK and Indian law say ab
 
 Read the guide
 
-Business
-
-Insight · 29 Oct 2026
-
-### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-
-Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
-
-Read the post
-
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
 ## How we can help
@@ -216,7 +217,7 @@ Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
@@ -276,7 +277,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         "@id": "https://ndcompany.in/blogs#blog"
       },
       "articleSection": "Business",
-      "keywords": "Working with an agency",
+      "keywords": "Working with an agency, App stores",
       "genre": "Guide",
       "wordCount": 2595,
       "inLanguage": "en-IN"

@@ -3,7 +3,7 @@ title: "Nakshatra Ranjan Saha, CEO & Founder | N&D Co."
 description: "Nakshatra Ranjan Saha is the CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata: profile and articles on SEO, websites and branding."
 url: "https://ndcompany.in/team/nakshatra-ranjan-saha"
 type: "ProfilePage"
-modified: "2026-11-20T00:00:00+05:30"
+modified: "2026-11-24T00:00:00+05:30"
 image: "https://ndcompany.in/assets/share/team.png"
 ---
 
@@ -27,7 +27,7 @@ Before and alongside the agency, Nakshatra's work has been writing and code. Fre
 
 Nakshatra studied electrical engineering at Hooghly Institute of Technology on a diploma course from August 2023 to September 2026, after Santinagar High School, and completed Udemy's SEO Strategy 2025 course in December 2025.
 
-Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [OCEANOFANYTHING](https://github.com/OCEANOFANYTHING). [MailGrab](https://ndcompany.in/open-source/mailgrab) is the first project on our [open-source page](https://ndcompany.in/open-source).
+Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [OCEANOFANYTHING](https://github.com/OCEANOFANYTHING). [ShoutingToad](https://ndcompany.in/open-source/shoutingtoad) is the first project on our [open-source page](https://ndcompany.in/open-source).
 
 - [LinkedIn profile](https://www.linkedin.com/in/nakshatra-ranjan-saha-93a31b262/)
 - [GitHub profile](https://github.com/OCEANOFANYTHING)
@@ -39,6 +39,16 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
 
 Websites
 
@@ -306,7 +316,7 @@ Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
 
-Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
+Twelve checks, in order, to find out if Google can crawl, index and show your pages, with October 2026 Core Web Vitals data for the US and UK.
 
 Read the guide
 
@@ -316,7 +326,7 @@ Guide · 23 Oct 2026
 
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
+Decide the site's one job, keep accounts in your name, set speed and accessibility targets, know your privacy duties, and brief every provider alike.
 
 Read the guide
 
@@ -326,7 +336,7 @@ Guide · 23 Oct 2026
 
 ### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
 
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
+What a logo job and a full identity should each hand over, the sizes and files a logo needs, how to compare quotes, and who owns the logo in the US and UK.
 
 Read the guide
 
@@ -336,7 +346,7 @@ Guide · 23 Oct 2026
 
 ### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
 
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
+October 2026 data on how websites score on phones in the US, UK and worldwide, what LCP, INP and CLS measure, what Google says about rankings and how to check yours.
 
 Read the guide
 
@@ -346,7 +356,7 @@ Guide · 23 Oct 2026
 
 ### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
 
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
+Eligibility, verification, categories, hours, photos, reviews within Google's and the FTC's rules, agency rules, and Bing Places and Apple Business Connect.
 
 Read the guide
 
@@ -356,7 +366,7 @@ Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
 
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
+Logo sizes for each platform, colour pairs that pass WCAG, font licences, Arabic and English type, voice rules, public examples from GOV.UK and the NHS, and a handover list.
 
 Read the guide
 
@@ -387,7 +397,7 @@ Send a few lines about your business and what you need. We will reply with quest
         "@id": "https://ndcompany.in/team/nakshatra-ranjan-saha#breadcrumb"
       },
       "inLanguage": "en-IN",
-      "dateModified": "2026-11-20T00:00:00+05:30",
+      "dateModified": "2026-11-24T00:00:00+05:30",
       "mainEntity": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

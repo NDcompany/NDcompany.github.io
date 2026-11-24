@@ -3,7 +3,7 @@ title: "Website costs: posts and projects | N&D Co."
 description: "What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure."
 url: "https://ndcompany.in/tags/website-costs"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/free-online-store-whatsapp-orders-16x9.png"
+image: "https://ndcompany.in/assets/share/tag-website-costs.png"
 ---
 
 Tag
@@ -118,16 +118,16 @@ See the project
 
 ## Recently updated
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
-- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-  14 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  17 Nov 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  17 Nov 2026
 
 ## Trending tags
 
@@ -150,19 +150,19 @@ If you would rather have the work done for you, these are the services that cove
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
@@ -252,7 +252,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/free-online-store-whatsapp-orders-16x9.png",
+        "url": "https://ndcompany.in/assets/share/tag-website-costs.png",
         "width": 1200,
         "height": 675
       }

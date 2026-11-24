@@ -3,7 +3,7 @@ title: "Design projects by N&D Co., Kolkata"
 description: "Social media posts, ad creatives, thumbnails and other graphics. 7 projects by N&D Co. in Kolkata, each with what we made."
 url: "https://ndcompany.in/projects/category/design"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/projects.png"
+image: "https://ndcompany.in/assets/share/category-design.png"
 ---
 
 Projects
@@ -161,7 +161,7 @@ Send a few lines about what you need and we will reply with questions or a quote
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/projects.png",
+        "url": "https://ndcompany.in/assets/share/category-design.png",
         "width": 1200,
         "height": 675
       }

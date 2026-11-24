@@ -60,7 +60,7 @@ Projects are billed fixed-price or hourly, with a custom quote based on scope. A
 
 **Where are you based? General**
 
-We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients worldwide remotely, including India, the United States, the Netherlands, Bangladesh, the UAE and more. Office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. [See the countries we work with](https://ndcompany.in/locations).
+We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients worldwide remotely, including the United States, the Netherlands, Bangladesh, India and more. Office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. [See the countries we work with](https://ndcompany.in/locations).
 
 [Home](https://ndcompany.in/)
 
@@ -382,6 +382,30 @@ A Starter app is our smallest tier: Android and iOS from one codebase, up to 8 s
 
 [Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
 
+**Do you build apps for clients in the US, UK and Europe? Mobile App Development**
+
+Yes. We work remotely from India with clients abroad: you get a written scope and a quote in your own currency before work starts, and pay our invoices by PayPal, through Wise or by bank transfer.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+**Why hire an app developer in India? Mobile App Development**
+
+Mostly for the price: our starting prices are on this page, and a written quote sets the final one before work starts.
+
+[Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Mobile App Development](https://ndcompany.in/services/mobile-app-development#svc-faq)
+
 **How long does it take to build an app? Mobile App Development**
 
 A Starter app usually takes 4 to 6 weeks, a restaurant ordering app 6 to 10, and a Business or e-commerce app 8 to 12. A custom app is timed in your quote.
@@ -396,7 +420,7 @@ A Starter app usually takes 4 to 6 weeks, a restaurant ordering app 6 to 10, and
 
 **What do the Google Play and Apple developer accounts cost, and who pays? Mobile App Development**
 
-You do, directly, and the accounts are in your name. Google Play charges US$25 once.
+You do, directly, and the accounts are in your name. Google Play charges US$25 once. The Apple Developer Program is US$99 for each membership year, in local currency where Apple offers it.
 
 [Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
 
@@ -478,7 +502,7 @@ Bug fixes are free for the first month. After that, the monthly care plan covers
 
 **Do you build restaurant ordering and e-commerce apps? Mobile App Development**
 
-Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI or Razorpay payments, an order list and a basic admin.
+Yes, as two named packages. The restaurant ordering app has a menu, a cart, payments through a gateway for your market, an order list and a basic admin.
 
 [Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
 
@@ -490,7 +514,7 @@ Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI 
 
 **Can I see an app you have built? Mobile App Development**
 
-Not yet. Mobile app development is a new service for us, and we have no app of our own to show.
+Yes: CHERNOBYL, an open-source Android app our founder designed and built with React Native and Expo, the stack we use for client apps.
 
 [Read the full answer on the Mobile App Development page](https://ndcompany.in/services/mobile-app-development#svc-faq)
 
@@ -1546,6 +1570,268 @@ No. Innovation Texture uses the identity, but photos of it in use are covered by
 
 [Innovation Texture](https://ndcompany.in/projects/innovation-texture#work-faq)
 
+**What did N&D Co. build for Michael L.? Michael L. case study**
+
+A small Windows program for filling Excel price lists. He copies a value once and presses End, and from then on every left click on a cell pastes the value and confirms it.
+
+[Read the full answer on the Michael L. case study](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**Why Python and not the VBScript the job asked for? Michael L. case study**
+
+VBScript cannot listen to mouse clicks across Windows on its own, which is what a click that pastes needs.
+
+[Read the full answer on the Michael L. case study](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**Was the tool written with AI? Michael L. case study**
+
+No. We wrote every line by hand in Python in August 2024, and tested each build ourselves on a spreadsheet, with a screen recording, before sending it.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**Is a tool that takes over the mouse safe to use? Michael L. case study**
+
+This one starts paused, so nothing changes until you press End. End switches it off again at any moment, and Esc closes it at once.
+
+[Read the full answer on the Michael L. case study](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**Why does only the first click paste when I copy a cell in Excel? Michael L. case study**
+
+Because Excel holds a copied cell only until you edit another cell, and each paste is confirmed with Enter, which counts as an edit.
+
+[Read the full answer on the Michael L. case study](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**How long did it take, and what did it cost? Michael L. case study**
+
+Three days, from 22 to 24 August 2024, with five builds. The job had a fixed price of $75, and a second round of changes the client asked for cost $45, so $120 in all, paid through Freelancer.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**Does the tool still work today? Michael L. case study**
+
+Yes. On 23 November 2026 we ran the build we delivered in 2024, unchanged, on Windows 10 with current Excel from Microsoft 365, and seven clicks pasted into seven rows.
+
+[Read the full answer on the Michael L. case study](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**Can you build a tool like this for a team in the US or UK? Michael L. case study**
+
+Yes. We build small Windows tools and internal software for clients abroad, agree the price in writing before we start, quote in your currency and send a manual or a recording with every build.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Michael L.](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
+
+**What does the Affidavit Generator do? Axn Sony case study**
+
+It is a Windows app for Axn Sony's office. A member of his team fills in one form with the applicant's and the introducer's details, and the app writes three affidavits from Word templates into a fold…
+
+[Read the full answer on the Axn Sony case study](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Axn Sony](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+**Why build a desktop app when the Bangali Oikya Manch platform already generates these documents? Axn Sony case study**
+
+Because many of the people who come to Axn Sony never use the platform. Most are elderly with little experience of computers, so they visit his office and his team prepares their papers.
+
+[Read the full answer on the Axn Sony case study](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Axn Sony](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+**How much faster is it than preparing the documents by hand? Axn Sony case study**
+
+Axn Sony saw 3 or 4 clients a day when every document was prepared by hand, and 20 to 30 with the app. Once, with a team, his office saw 150 in one day. These are his own figures, not audited.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Axn Sony](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+**Does the app send applicants' details anywhere? Axn Sony case study**
+
+No. It runs offline on the office's own PCs, with no accounts and no server. What the team types goes into Word files in a folder on that PC.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Axn Sony](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+**What changed in version 1.1? Axn Sony case study**
+
+One document that used to run onto a second page now prints on one, a tick copies the applicant's address to the introducer's, the form scrolls to keep the cursor in view, the text and buttons are lar…
+
+[Read the full answer on the Axn Sony case study](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Axn Sony](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+**Does it need to be installed? Axn Sony case study**
+
+No. It comes as a Windows installer with Start menu shortcuts and an uninstaller, and as a portable zip that runs from any folder, shared drive or USB stick.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Axn Sony](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+**Can you build something like this for our office? Axn Sony case study**
+
+Yes. If your office fills the same documents again and again, we can build a tool around your own templates, with the checks your work needs, for Windows or the web, in India or abroad.
+
+[Home](https://ndcompany.in/)
+
+[Projects](https://ndcompany.in/projects)
+
+[Axn Sony](https://ndcompany.in/projects/affidavit-generator-software#work-faq)
+
+**What is ShoutingToad SEO Spider? ShoutingToad (open source)**
+
+ShoutingToad SEO Spider is a free, open-source website crawler for SEO audits.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+**Is ShoutingToad really free? Is there a URL limit? ShoutingToad (open source)**
+
+Yes. It is free and open source under the AGPL-3.0 licence, with no account, no licence key and no paid tier.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+**Which operating systems does ShoutingToad run on? ShoutingToad (open source)**
+
+Windows 10 and 11 (64-bit), macOS 11 or newer on Apple Silicon and Intel, and 64-bit Linux on x86.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+**Why does Windows or macOS warn me when I open it? ShoutingToad (open source)**
+
+The builds are not code-signed on Windows or notarised on macOS, because signing costs money and this is a free project.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+**Does ShoutingToad send my data anywhere? ShoutingToad (open source)**
+
+No. It has no telemetry, no account and no licence server, and it never checks for updates in the background.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+**Does it respect robots.txt? ShoutingToad (open source)**
+
+Yes, by default. It reads robots.txt before the first page and follows its rules. You can switch that off for a site you own or have permission to audit, and the app then shows a warning.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+**Can ShoutingToad crawl JavaScript sites? ShoutingToad (open source)**
+
+Yes. Turn on JavaScript rendering and it uses a Chromium-based browser already on your computer (Chrome, Chromium, Edge or Brave) in headless mode, in a temporary profile it deletes afterwards.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+**Can I use ShoutingToad in CI or GitHub Actions? ShoutingToad (open source)**
+
+Yes. The command line can fail a build when a site has Issues at or above a chosen priority, when a named check fires, or only when Issues are new since the last crawl.
+
+[Read the full answer on the ShoutingToad page](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[ShoutingToad](https://ndcompany.in/open-source/shoutingtoad#work-faq)
+
 **What is MailGrab? MailGrab (open source)**
 
 MailGrab is a free, open-source Python tool that crawls a website and lists the email addresses published on its pages, with the page where each one was found.
@@ -1663,6 +1949,96 @@ Yes. Report bugs as issues in the MailGrab repository on GitHub, or fork it and 
 [Open source](https://ndcompany.in/open-source)
 
 [MailGrab](https://ndcompany.in/open-source/mailgrab#work-faq)
+
+**What is CHERNOBYL? CHERNOBYL (open source)**
+
+CHERNOBYL is a free, open-source Android app that shows you what the AI coding agents on your PC are doing and lets you answer their permission requests.
+
+[Read the full answer on the CHERNOBYL page](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+**Which AI agents does CHERNOBYL work with? CHERNOBYL (open source)**
+
+Claude Code, OpenCode, Codex and Google Antigravity. The companion starts Claude Code, Codex and Antigravity in the folders you allow and attaches to an OpenCode server you already run.
+
+[Read the full answer on the CHERNOBYL page](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+**Does CHERNOBYL need an account or a cloud server? CHERNOBYL (open source)**
+
+No. There is no CHERNOBYL account, relay, hosted database, analytics or telemetry. The phone talks only to the companion on your PC, over your own network or a tunnel you run yourself.
+
+[Read the full answer on the CHERNOBYL page](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+**How is the connection between phone and PC protected? CHERNOBYL (open source)**
+
+You pair the phone by scanning a QR code that works once and expires after 5 minutes.
+
+[Read the full answer on the CHERNOBYL page](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+**Which phones and computers does CHERNOBYL run on? CHERNOBYL (open source)**
+
+The app needs Android 7.0 or later, and a separate small client covers Android 4.4 tablets. The companion runs on Windows. There is no iPhone release.
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+**Is CHERNOBYL on Google Play? CHERNOBYL (open source)**
+
+No. The signed APK, the Windows companion and their SHA-256 checksums are published on the project's GitHub releases page. Obtainium, a free Android app, can install it from there and keep it updated.
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+**Can I try CHERNOBYL without setting up a PC? CHERNOBYL (open source)**
+
+Yes. Choose Explore the demo on the first screen. The demo shows sample hosts, agents, sessions and approvals, marked Simulation on every screen, and runs nothing on any computer.
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+**Who built CHERNOBYL, and what is its licence? CHERNOBYL (open source)**
+
+Our founder, Nakshatra Ranjan Saha, CEO of N&D Co., designed and built it, and N&D Co. publishes it on GitHub.
+
+[Read the full answer on the CHERNOBYL page](https://ndcompany.in/open-source/chernobyl#work-faq)
+
+[Home](https://ndcompany.in/)
+
+[Open source](https://ndcompany.in/open-source)
+
+[CHERNOBYL](https://ndcompany.in/open-source/chernobyl#work-faq)
 
 ## Still have a question?
 

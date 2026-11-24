@@ -3,12 +3,12 @@ title: "White Label PPC Outsourcing & Google Ads | N&D Co."
 description: "PPC outsourcing for agencies: white label Google Ads and Meta ads management, setup, tracking, weekly optimization and reports under your brand. USD prices."
 url: "https://ndcompany.in/white-label/google-ads"
 type: "Service"
-image: "https://ndcompany.in/assets/share/digital-marketing.png"
+image: "https://ndcompany.in/assets/share/white-label-google-ads.png"
 ---
 
 White label PPC
 
-# White label Google Ads and PPC management for agencies
+# PPC outsourcing for agencies: white label Google Ads and Meta ads management
 
 We run Google Ads and Meta ads campaigns for your clients under your agency's name: setup, conversion tracking, weekly optimization and a monthly report with your branding or none. Your client pays the platforms directly, and we never contact them.
 
@@ -20,7 +20,7 @@ We run Google Ads and Meta ads campaigns for your clients under your agency's na
 
 Our white-label PPC is the same work as our own digital marketing packages, with your agency's name on the reports instead of ours. Campaigns run in ad accounts that belong to your client, and ads go live only after you approve the copy and creative. Each client runs month to month on a scope set in writing, and you can end it with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -112,6 +112,10 @@ Invoices are in US dollars, paid by PayPal, through Wise or by bank transfer.
 
 ## Frequently asked questions
 
+**What is PPC outsourcing?**
+
+PPC outsourcing means an agency hands the day-to-day running of its clients' pay-per-click ads, such as Google Ads and Meta ads, to another company. The agency keeps the client and the relationship; the outside team sets up the campaigns and tracking, adjusts them every week and writes the reports. In white label PPC, as we do it, those reports carry the agency's name or none, and we never contact the client.
+
 **Who pays the ad spend?**
 
 Your client, directly to Google or Meta from their own ad account. It is never part of our fee, so the platform's invoice shows exactly what was spent.
@@ -147,7 +151,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
     {
       "@type": "Service",
       "@id": "https://ndcompany.in/white-label/google-ads#service",
-      "name": "White label Google Ads and PPC management for agencies",
+      "name": "PPC outsourcing for agencies: white label Google Ads and Meta ads management",
       "serviceType": "White label PPC",
       "description": "We run Google Ads and Meta ads campaigns for your clients under your agency's name: setup, conversion tracking, weekly optimization and a monthly report with your branding or none. Your client pays the platforms directly, and we never contact them.",
       "provider": {
@@ -199,7 +203,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/digital-marketing.png",
+        "url": "https://ndcompany.in/assets/share/white-label-google-ads.png",
         "width": 1200,
         "height": 675
       }

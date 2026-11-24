@@ -3,7 +3,7 @@ title: "Our team | N&D Co."
 description: "N&D Co. is a brand and growth agency in Barrackpore, Kolkata, with one team for branding, websites, SEO and marketing: meet the team and see what we do."
 url: "https://ndcompany.in/team"
 type: "AboutPage"
-image: "https://ndcompany.in/assets/share/team.png"
+image: "https://ndcompany.in/assets/share/team-hub.png"
 ---
 
 N&D Co.
@@ -39,25 +39,25 @@ Our team in Kolkata handles every service below. Read [about N&D Co.](https://nd
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 See the service
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 See the service
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 See the service
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 See the service
 
@@ -69,49 +69,49 @@ See the service
 
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
-Logo design, brand guidelines, and visual identity systems.
+A logo with its palette, typefaces and supporting graphics, written up in a guidelines document your team can follow.
 
 See the service
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 See the service
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 See the service
 
 ### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Content planning, posting, and audience growth strategies.
+A monthly content calendar, designed posts and captions, reels, scheduled publishing and replies to your audience.
 
 See the service
 
 ### [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
 
-Video ads, reels, and promotional content production.
+Promotional and product videos, reels and motion graphics, shot for you or edited from your footage.
 
 See the service
 
 ### [Graphic Design](https://ndcompany.in/services/graphic-design)
 
-Posters, banners, ad creatives, and marketing graphics.
+Social media and ad creatives, posters, brochures, stationery and packaging, print-ready and in every platform size.
 
 See the service
 
 ### [Logo Design](https://ndcompany.in/services/logo-design)
 
-Custom logo design and brand identity creation.
+Logo concepts, refinement and lockups, delivered as vector files with the colors and typefaces to use them.
 
 See the service
 
 ### [Content Creation](https://ndcompany.in/services/content-creation)
 
-SEO content, blogs, and social media content.
+SEO blog posts, website copy, product descriptions and social captions, planned in a content calendar.
 
 See the service
 
@@ -231,7 +231,7 @@ Send a few lines about your business and what you need. We will reply with quest
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/team.png",
+        "url": "https://ndcompany.in/assets/share/team-hub.png",
         "width": 1200,
         "height": 675
       }

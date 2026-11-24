@@ -3,7 +3,7 @@ title: "Business insights for owners and founders | N&D Co."
 description: "Business insights from N&D Co. for owners and founders: working with agencies and freelancers, budgeting for marketing, choosing tools and lessons learned."
 url: "https://ndcompany.in/blogs/topic/business"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/fiverr-fake-order-scam-16x9.png"
+image: "https://ndcompany.in/assets/share/topic-business.png"
 ---
 
 Topic
@@ -13,6 +13,16 @@ Topic
 Notes on running and growing a business: working with agencies and freelancers, budgeting for marketing, choosing tools, and the lessons we pick up along the way.
 
 ## Latest posts
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
 
 Business
 
@@ -66,16 +76,16 @@ Read the guide
 
 ## Recently updated
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
-- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-  14 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  17 Nov 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  17 Nov 2026
 
 ## Trending tags
 
@@ -98,19 +108,19 @@ If you would rather have the work done for you, these are the services that cove
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
@@ -145,30 +155,36 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How much does app development cost in India? A guide for US and UK buyers",
+            "url": "https://ndcompany.in/blogs/app-development-cost-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "The Fiverr fake order scam: a case study of the files, pages and card form",
             "url": "https://ndcompany.in/blogs/fiverr-fake-order-scam"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "NDAs, IP and ownership when you outsource to an agency",
             "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           }
@@ -176,7 +192,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/fiverr-fake-order-scam-16x9.png",
+        "url": "https://ndcompany.in/assets/share/topic-business.png",
         "width": 1200,
         "height": 675
       }

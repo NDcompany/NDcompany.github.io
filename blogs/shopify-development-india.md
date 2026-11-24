@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/shopify-development-india-16x9.png"
 
 What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 7 November 2026 10 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 7 November 2026 11 min read
 
 Shopify development in India costs about half of what the same work costs from a US partner, going by the prices partners publish themselves. On 7 November 2026 we read 160 profiles in Shopify's own Partner Directory and sorted each partner by where it is based. The 30 based in India publish a median "starting at" price of $500 for a store build or redesign, against $1,150 for the 58 based in the US. Theme customization is the exception: $100 in both countries. This post is part of our wider guide to [outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india).
 
@@ -149,7 +149,7 @@ The 160 rows are in [a CSV file (shopify-partners-2026.csv)](https://ndcompany.i
 
 ## How we work on Shopify stores
 
-We are a brand and growth agency in Kolkata. Our [ecommerce solutions](https://ndcompany.in/services/ecommerce-solutions) page lists what a store project includes, and every project has a quote set in writing before work starts, with the scope, apps and support named. We ask you to own the store, and we work through a collaborator account. Agencies that want a Shopify build delivered under their own name can read about our [white label Shopify](https://ndcompany.in/white-label/shopify) service. We make no promise about sales or rankings, because neither depends on a build alone.
+We are a brand and growth agency in Kolkata. Our [ecommerce solutions](https://ndcompany.in/services/ecommerce-solutions) page lists what a store project includes, and every project has a quote set in writing before work starts, with the scope, apps and support named. We ask you to own the store, and we work through a collaborator account. Agencies that want a Shopify build delivered under their own name can read about our [white label Shopify](https://ndcompany.in/white-label/shopify) service. Once the store is live, our [Shopify marketing](https://ndcompany.in/shopify-marketing) page covers the SEO, ads and email work that brings it visitors. We make no promise about sales or rankings, because neither depends on a build alone.
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Website costs](https://ndcompany.in/tags/website-costs)
@@ -212,13 +212,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
@@ -280,7 +280,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Websites",
       "keywords": "Working with an agency, Website costs, Website planning",
       "genre": "Guide",
-      "wordCount": 2302,
+      "wordCount": 2322,
       "inLanguage": "en-IN"
     },
     {

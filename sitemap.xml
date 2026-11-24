@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (142 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (153 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/growth-trust.svg</image:loc>
     </image:image>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/website-design-development</loc>
@@ -38,11 +38,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services/software-development</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/mobile-app-development</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/brand-identity-design</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services/digital-marketing</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/social-media-management</loc>
@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/services/graphic-design</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/services/logo-design</loc>
@@ -78,31 +78,31 @@
   </url>
   <url>
     <loc>https://ndcompany.in/locations</loc>
-    <lastmod>2026-11-10</lastmod>
-  </url>
-  <url>
-    <loc>https://ndcompany.in/locations/india</loc>
-    <lastmod>2026-11-10</lastmod>
-  </url>
-  <url>
-    <loc>https://ndcompany.in/locations/bangladesh</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/locations/usa</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/locations/netherlands</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/locations/uae</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/bangladesh</loc>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/locations/india</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/faq</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools-we-use</loc>
@@ -110,135 +110,151 @@
   </url>
   <url>
     <loc>https://ndcompany.in/book-a-call</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/about</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/pricing</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/restaurant-marketing</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/shopify-marketing</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/webshop-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/logo-laten-ontwerpen</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/huisstijl-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-vernieuwen</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/wordpress-website-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/maatwerk-website-laten-maken</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/dashboard-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/brandbook-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/software-op-maat-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/social-media-video-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/aannemer-website-laten-maken</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken-friesland</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken-zoetermeer</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/seo-bureau-zoetermeer</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/seo-bureau-nijmegen</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/seo-roosendaal</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/herroepingsrecht</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/seo</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/google-ads</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/web-development</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/white-label/app-development</loc>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/white-label/design</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/wordpress</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/shopify</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/website-cost-calculator</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/rankguru</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/invoice-generator</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools/image-to-pdf</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
@@ -250,7 +266,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/branding</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/marketing</loc>
@@ -258,43 +274,43 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/business</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/website-costs</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/website-planning</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/brand-guidelines</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/social-media-creatives</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/core-web-vitals</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/google-search-console</loc>
@@ -302,7 +318,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags/local-seo</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/seo-audits</loc>
@@ -310,23 +326,23 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags/technical-seo</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/web-accessibility</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/google-business-profile</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/team</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
@@ -340,19 +356,23 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/category/software</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/category/branding</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/category/design</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/gharonix</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/gharonix-home-discovery.webp</image:loc>
     </image:image>
@@ -395,7 +415,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/sokher-alankar</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/sokher-alankar-store-home.webp</image:loc>
     </image:image>
@@ -459,7 +479,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/bangali-oikya-manch</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/bangali-oikya-manch-home-page.webp</image:loc>
     </image:image>
@@ -534,8 +554,52 @@
     </image:image>
   </url>
   <url>
+    <loc>https://ndcompany.in/projects/affidavit-generator-software</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-form-v11.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-same-address.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-generated.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-schedule-v10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-schedule-v11.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-form-v10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-tab-scroll.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/axn-sony-affidavit-generator-age-check.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/projects/excel-click-to-paste-tool</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/excel-click-to-paste-tool-pasting.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/excel-click-to-paste-tool-manual.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/excel-click-to-paste-tool-paused.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/projects/excel-click-to-paste-tool-activated.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://ndcompany.in/projects/sea-seven-fish</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/sea-seven-fish-primary-logo.webp</image:loc>
     </image:image>
@@ -620,7 +684,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/innovation-texture</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/innovation-texture-logo.webp</image:loc>
     </image:image>
@@ -687,7 +751,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/kebabiyana</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/kebabiyana-steamed-momo-poster.webp</image:loc>
     </image:image>
@@ -700,14 +764,14 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/wafflerys</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/wafflerys-chocolate-waffle-poster.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/dream-bar</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/dream-bar-pio-bhai-poster.webp</image:loc>
     </image:image>
@@ -717,7 +781,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/iron-nerve-fitness</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/iron-nerve-fitness-gym-poster.webp</image:loc>
     </image:image>
@@ -727,7 +791,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/food-poster-series</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/bread-and-butter-poster.webp</image:loc>
     </image:image>
@@ -746,7 +810,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/youtube-thumbnail-series</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/thumbnail-bali-travel.webp</image:loc>
     </image:image>
@@ -771,59 +835,161 @@
   </url>
   <url>
     <loc>https://ndcompany.in/projects/edli-delight</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/edli-delight-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/koustav-kitchen</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/koustav-kitchen-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/north-east-pub-and-bar</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/pub-and-bar-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/style-and-co</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/style-and-co-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/sunfresso</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/sunfresso-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/projects/taste-and-bite</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/projects/taste-and-bite-logo.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/open-source</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/open-source/shoutingtoad</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-overview.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-urls.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-issue.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-serp.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-checks.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-report.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-wcag.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-ai.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-rendered.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-compare.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-migrate.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-links.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-ci.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/open-source/mailgrab</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/open-source/chernobyl</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-session-approval.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-approval-options.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-plan.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-session-running.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-home.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-approvals.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-audit.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-entry.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-inline-approval.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-conversation.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-home.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-approvals.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-sessions.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-alerts.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-pair.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/app-development-cost-india</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/free-online-store-whatsapp-orders</loc>
@@ -1066,7 +1232,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/technical-seo-checklist</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-why-not-indexed.webp</image:loc>
     </image:image>
@@ -1082,15 +1248,15 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/plan-a-business-website</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/logo-vs-brand-identity</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/core-web-vitals-explained</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/blog/core-web-vitals-explained/pagespeed-insights-mobile.webp</image:loc>
     </image:image>
@@ -1100,7 +1266,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/google-business-profile-guide</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/blog/google-business-profile-guide/business-profile-name-category.webp</image:loc>
     </image:image>
@@ -1110,7 +1276,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/brand-style-guide</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/terms</loc>
@@ -1118,11 +1284,11 @@
   </url>
   <url>
     <loc>https://ndcompany.in/privacy</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/cookies-policy</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-15</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/disclaimer</loc>
@@ -1148,7 +1314,14 @@
   </url>
   <url>
     <loc>https://ndcompany.in/socials</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/reviews</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/reviews/google-review-qr.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/free-seo-audit-conditions</loc>

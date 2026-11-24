@@ -3,7 +3,7 @@ title: "Web Design & Digital Marketing in Dubai and the UAE | N&D Co."
 description: "N&D Co. builds websites in Arabic and English, online stores, brand identities and SEO for businesses in Dubai and the UAE, remotely from Kolkata."
 url: "https://ndcompany.in/locations/uae"
 type: "Service"
-image: "https://ndcompany.in/assets/share/locations.png"
+image: "https://ndcompany.in/assets/share/locations-uae.png"
 ---
 
 Serving Dubai and the UAE from Kolkata
@@ -44,37 +44,37 @@ Every service is delivered remotely to businesses in the United Arab Emirates.
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
@@ -100,11 +100,15 @@ Our quotes and invoices are in dirhams or US dollars, whichever you prefer. You 
 
 Each service page shows its starting prices in UAE dirhams to visitors in the UAE. Your written quote confirms the final price and its currency before any work starts.
 
+**How much do a website and SEO cost in Dubai?**
+
+Among Dubai agencies that publish prices, the cheapest website package had a median of AED 4,250 and monthly SEO a median of AED 3,700, in our check of 40 agency websites on 5 November 2026. Only 15 of the 37 we could read showed any price. Agencies found by searching for "packages" were cheaper: a median of AED 1,750 for a website and AED 2,000 a month for SEO. Our post on bilingual websites in Dubai has the full figures and what to compare beyond the price.
+
 [Browse all questions, for every service](https://ndcompany.in/faq)
 
 ## We also work with businesses in
 
-[India](https://ndcompany.in/locations/india) · [Bangladesh](https://ndcompany.in/locations/bangladesh) · [USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands)
+[USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands) · [Bangladesh](https://ndcompany.in/locations/bangladesh) · [India](https://ndcompany.in/locations/india)
 
 [Every country we work with, and how remote projects run](https://ndcompany.in/locations)
 
@@ -156,7 +160,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/locations.png",
+        "url": "https://ndcompany.in/assets/share/locations-uae.png",
         "width": 1200,
         "height": 675
       }

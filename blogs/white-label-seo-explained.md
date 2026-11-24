@@ -136,7 +136,7 @@ The log matters most. A report that shows rankings without saying what changed o
 
 ## How much does white label SEO cost?
 
-Most providers do not say. 13 of the 16 give no monthly white label price on their sites and price by quote, by volume or by project. The three that publish one price in very different ways.
+Where a provider publishes a price, white label SEO costs $99 to $349 a month per website at one, $355 to $2,219 a month at another's member rate, and 1,300 to 2,500 pounds a month per client at a third. Those are the only three of the 16 we read that publish a monthly price. The other 13 price by quote, by volume or by project, and the three that do publish price in very different ways.
 
 **White label SEO prices published on 3 of 16 provider websites, 11 November 2026**
 
@@ -233,7 +233,7 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
@@ -295,7 +295,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Working with an agency, SEO audits",
       "genre": "Guide",
-      "wordCount": 2776,
+      "wordCount": 2816,
       "inLanguage": "en-IN"
     },
     {

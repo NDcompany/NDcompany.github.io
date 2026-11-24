@@ -3,7 +3,7 @@ title: "Web Design & Digital Marketing Agency in India | N&D Co."
 description: "Brand and growth agency in Kolkata serving businesses across India, from West Bengal to the Seven Sisters: websites, e-commerce, SEO, branding and marketing."
 url: "https://ndcompany.in/locations/india"
 type: "Service"
-image: "https://ndcompany.in/assets/share/locations.png"
+image: "https://ndcompany.in/assets/share/locations-india.png"
 ---
 
 From Kolkata, across India
@@ -62,37 +62,37 @@ Every service is delivered remotely to businesses across India.
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
@@ -122,7 +122,7 @@ We work remotely over calls and email during our office hours, Mon to Sat, 9:00 
 
 ## We also work with businesses in
 
-[Bangladesh](https://ndcompany.in/locations/bangladesh) · [USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands) · [UAE](https://ndcompany.in/locations/uae)
+[USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands) · [UAE](https://ndcompany.in/locations/uae) · [Bangladesh](https://ndcompany.in/locations/bangladesh)
 
 [Every country we work with, and how remote projects run](https://ndcompany.in/locations)
 
@@ -174,7 +174,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/locations.png",
+        "url": "https://ndcompany.in/assets/share/locations-india.png",
         "width": 1200,
         "height": 675
       }

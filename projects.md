@@ -44,6 +44,26 @@ An applicant portal and case management system for Bangali Oikya Manch, a commun
 
 See the project
 
+Software
+
+Axn Sony
+
+### [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
+
+A Windows app for Axn Sony, an advocate with Bangali Oikya Manch: one form writes all three affidavits an applicant needs. His office went from 3 or 4 clients a day to 20 to 30.
+
+See the project
+
+Software
+
+Michael L., United States
+
+### [Click-to-paste tool for Excel price lists](https://ndcompany.in/projects/excel-click-to-paste-tool)
+
+A Windows tool for a US client who fills long supplier price lists in Excel: copy a value once, then one click pastes it into any cell. Five builds in three days, rated five stars on Freelancer.
+
+See the project
+
 Branding
 
 Sea Seven Fish, Northeast India
@@ -194,7 +214,17 @@ Each service page lists the projects it was part of, beside what the service inc
 
 ## Open-source work
 
-Code our founder, Nakshatra Ranjan Saha, publishes for anyone to use, read and improve. [See every open-source project](https://ndcompany.in/open-source).
+Code that we and our founder, Nakshatra Ranjan Saha, publish for anyone to use, read and improve. [See every open-source project](https://ndcompany.in/open-source).
+
+Rust
+
+By N&D Co., AGPL-3.0 licence
+
+### [ShoutingToad](https://ndcompany.in/open-source/shoutingtoad)
+
+A free, open-source SEO spider for Windows, macOS and Linux. It crawls your site like a search engine and audits every page against 474 checks, with reports you can hand to a client.
+
+See the project
 
 Python
 
@@ -203,6 +233,16 @@ By Nakshatra Ranjan Saha, MIT licence
 ### [MailGrab](https://ndcompany.in/open-source/mailgrab)
 
 A crawler for checking which email addresses your own websites publish, and on which pages. It checks robots.txt by default and also runs as an MCP server.
+
+See the project
+
+TypeScript and Rust
+
+By Nakshatra Ranjan Saha, GPL-3.0 licence
+
+### [CHERNOBYL](https://ndcompany.in/open-source/chernobyl)
+
+An Android app to watch, steer and approve Claude Code, Codex, OpenCode and Antigravity agents on your PC, through a local companion with end-to-end encryption and no cloud.
 
 See the project
 
@@ -262,84 +302,96 @@ Send a few lines about what you need and we will reply with questions or a quote
           {
             "@type": "ListItem",
             "position": 4,
+            "name": "Affidavit generator desktop app for an advocate's office",
+            "url": "https://ndcompany.in/projects/affidavit-generator-software"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Click-to-paste tool for Excel price lists",
+            "url": "https://ndcompany.in/projects/excel-click-to-paste-tool"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
             "name": "Brand identity for Sea Seven Fish",
             "url": "https://ndcompany.in/projects/sea-seven-fish"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 7,
             "name": "Brand identity for Innovation Texture",
             "url": "https://ndcompany.in/projects/innovation-texture"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 8,
             "name": "Ads, design, reels and social media for Kebabiyana",
             "url": "https://ndcompany.in/projects/kebabiyana"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 9,
             "name": "Marketing and design for Wafflery's",
             "url": "https://ndcompany.in/projects/wafflerys"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 10,
             "name": "Pio Bhai offer creative for Dream Bar",
             "url": "https://ndcompany.in/projects/dream-bar"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 11,
             "name": "Gym promotion creative for Iron Nerve Fitness",
             "url": "https://ndcompany.in/projects/iron-nerve-fitness"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 12,
             "name": "Food posts and ad creatives",
             "url": "https://ndcompany.in/projects/food-poster-series"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 13,
             "name": "YouTube thumbnail series",
             "url": "https://ndcompany.in/projects/youtube-thumbnail-series"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 14,
             "name": "Logo for Edli Delight",
             "url": "https://ndcompany.in/projects/edli-delight"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 15,
             "name": "Logo for Koustav Kitchen",
             "url": "https://ndcompany.in/projects/koustav-kitchen"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 16,
             "name": "Logo for North East, a pub and bar",
             "url": "https://ndcompany.in/projects/north-east-pub-and-bar"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 17,
             "name": "Logo for Style & Co.",
             "url": "https://ndcompany.in/projects/style-and-co"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 18,
             "name": "Logo for Sunfresso",
             "url": "https://ndcompany.in/projects/sunfresso"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 19,
             "name": "Logo for Taste and Bite",
             "url": "https://ndcompany.in/projects/taste-and-bite"
           }

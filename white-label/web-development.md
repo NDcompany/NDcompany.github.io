@@ -3,7 +3,7 @@ title: "White Label Web Development for Agencies | N&D Co."
 description: "White label web development for agencies: WordPress, Shopify, WooCommerce and custom sites built to your brief, unbranded, your NDA signed, USD prices."
 url: "https://ndcompany.in/white-label/web-development"
 type: "Service"
-image: "https://ndcompany.in/assets/share/website-design-development.png"
+image: "https://ndcompany.in/assets/share/white-label-web-development.png"
 ---
 
 White label web development
@@ -20,7 +20,7 @@ We design and build websites and online stores for your clients under your agenc
 
 Our white-label web development is the same work as our own website and e-commerce projects. You send the brief and your client's brand files, we design and build to them, and you hand the site over as your own. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -209,7 +209,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/website-design-development.png",
+        "url": "https://ndcompany.in/assets/share/white-label-web-development.png",
         "width": 1200,
         "height": 675
       }

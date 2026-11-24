@@ -363,6 +363,28 @@ That depends on where you are, whose addresses they are and what you do with the
 
 Yes. Report bugs as issues in the MailGrab repository on GitHub, or fork it and send a pull request. TODO.md in the repository lists the open items and asks you to claim one with an issue before you start.
 
+## More open-source work
+
+Rust
+
+By N&D Co., AGPL-3.0 licence
+
+### [ShoutingToad](https://ndcompany.in/open-source/shoutingtoad)
+
+A free, open-source SEO spider for Windows, macOS and Linux. It crawls your site like a search engine and audits every page against 474 checks, with reports you can hand to a client.
+
+See the project
+
+TypeScript and Rust
+
+By Nakshatra Ranjan Saha, GPL-3.0 licence
+
+### [CHERNOBYL](https://ndcompany.in/open-source/chernobyl)
+
+An Android app to watch, steer and approve Claude Code, Codex, OpenCode and Antigravity agents on your PC, through a local companion with end-to-end encryption and no cloud.
+
+See the project
+
 ## Need a tool built for your business?
 
 Our [software development](https://ndcompany.in/services/software-development) service builds web applications and internal tools. Tell us what you need in a few lines and we will reply with questions or a quote.

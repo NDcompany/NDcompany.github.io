@@ -36,8 +36,6 @@ An SEO audit is a check of the things that decide whether search engines can fin
 
 It is meant for business owners who want a straight answer to "what is wrong with my site, and what should I fix first?" without a sales call first. The report is yours to keep. You can fix things yourself, hand it to your developer, or ask us for a quote.
 
-![The pipeline page of the audit dashboard: four counters at the top, then nine numbered stages, in line, email check with its mail server lookup and delivery check, safety check, read website, find issues, write report, send email, delivered and follow-ups, with notes where a row continues on the next line, and needs you, declined and failed as exits at the bottom](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-stages.webp)
-
 *The pipeline in our private audit dashboard. Every request moves through these nine numbered stages, and any stage can stop it. Taken from an empty demo copy, so every count is zero.*
 
 ## How to ask for a free website SEO audit
@@ -62,8 +60,6 @@ First, your email address. The tool checks that its domain accepts email, that i
 Second, your website. The tool looks the site up on public lists of phishing and other dangerous websites, which it keeps up to date every day. A listed site is declined and not visited. While the pages are being read, the tool also watches for signs that a site has been hacked or is posing as another business. If it sees any, the request is held, and one of our team looks at the site before deciding whether to carry on.
 
 We may also decline a request when the website does not answer, or when the same website had a free audit in the last 90 days. If we decline and your email address works, we email you to say why.
-
-![One request in the audit dashboard for a made-up bakery website: a row of completed stages from in line to delivered, who asked, the report language, the checks showing the email looks valid, a company address and the website on no phishing list, and an audit result of 68 with scores for technical, on-page, indexing, speed, links and structured data](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-request.webp)
 
 *One request from start to finish, with the email and safety checks and the scores. Sample data: the bakery, its owner and the email address are made up.*
 
@@ -101,8 +97,6 @@ Many of these checks come straight from Google's documentation. Google asks for 
 
 For speed, the tool asks Google's PageSpeed Insights to test every page it reads, once on a phone and once on a computer. PageSpeed Insights reports two kinds of data. [Lab data from Lighthouse](https://developers.google.com/speed/docs/insights/v5/about) comes from a test run in a controlled setting, which is useful for finding the cause of a problem. Field data comes from real Chrome visitors over the previous 28 days, measured at the 75th percentile, and appears only when Google has enough of it for your site. A page passes Core Web Vitals when LCP is 2.5 seconds or less, INP 200 milliseconds or less and CLS 0.1 or less. The report shows both kinds of data and labels them as Google's, and says so plainly when Google has no real-visitor data for your site. Our guide to [Core Web Vitals](https://ndcompany.in/blogs/core-web-vitals-explained) explains what those three measures mean.
 
-![The audit result for our own website in the dashboard: an overall score of 100, a findings by severity chart with two info notes, a crawl summary showing 10 pages read and 10 opened in a browser in 68 seconds, gauges for technical, on-page, indexing, speed, links, structured data and design, and two search readiness gauges for Google Discover and AI search, each marked as our own score, not a Google score](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-audit-result.webp)
-
 *The result block of an audit of our own website: the overall score, the seven area scores and the two readiness scores.*
 
 ### Design and conversion, with a predicted attention map
@@ -110,8 +104,6 @@ For speed, the tool asks Google's PageSpeed Insights to test every page it reads
 Because each page is opened on a phone-sized and a computer-sized screen, the tool can measure what a visitor sees first: where the buttons are, how much they stand out from the page, how big the text and tap targets are, and whether anything overlaps or runs off the side of a phone screen. It also runs an automatic accessibility check on each page, so problems such as low-contrast text or buttons without names show up.
 
 From the first screen of your homepage it draws a predicted attention map: warmer colours where a visitor's eye is likely to land first, judged from the size, contrast and position of each thing on the screen. It is a prediction, not data about real visitors, and the report says so beside every map. An AI model then turns the measured design findings into a few plain suggestions, such as where a button could go and what it could say. It works from the measurements alone.
-
-![The design and conversion card for our own homepage: predicted attention maps over a phone screenshot and a computer screenshot, labelled predicted attention, not real visitor data, with warm colours over the heading and the main button, followed by written advice, a short list of what to change first and two suggestions for button placement and wording](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-design.webp)
 
 *The design and conversion check on our own homepage. The colours are a prediction from the page's layout, not visitor data.*
 
@@ -132,8 +124,6 @@ The report explains the most important findings one by one: what is wrong, why i
 
 The overall score is our own measure, built from the six weighted area scores. It is not a Google score, and the report says so on its first page. Use it to compare your site with itself after you fix things, not with other sites.
 
-![The findings list for a sample audit, sorted by severity: two high findings, duplicate page titles across four pages and broken internal links on two, then medium findings for render-blocking scripts, missing image alt text, missing meta descriptions and sitemap errors, then two low ones; the first is open to show why it matters, the fix and four example pages](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-findings.webp)
-
 *Findings sorted by severity, then by the number of pages affected. Sample data from a made-up website.*
 
 ## What is in the SEO audit report: a sample
@@ -149,15 +139,9 @@ The report is a PDF of about ten pages, kept under 1 MB so it reaches any inbox,
 7. A page on how we could fix these for you, with links to the matching services and their starting prices. If you unsubscribed from our offers earlier, this page is left out.
 8. The scope and its limits: the pages we read, how many were opened in a browser, whether your sitemap, robots.txt and llms.txt were found, and what the report does not promise.
 
-![The first page of a free SEO audit report on our own website, ndcompany.in: the N&D Co. logo, the homepage shown on a computer, a tablet and a phone, an overall SEO score of 100 out of 100 with a note that it is our own score and not a Google score, and a short summary of what matters most](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-cover.webp)
-
 *Page one of a report on our own website, with the homepage on three screen sizes and the overall score. The report number is blurred.*
 
-![The scores page of the same report: bars for technical SEO, indexability, on-page SEO, links and images, structured data, performance and design and conversion, a donut chart of problems by severity, and cards for Google Discover readiness and AI search readiness, each explaining that it is our own score](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-scores.webp)
-
 *Scores by area, problems by severity and the two readiness scores.*
-
-![The speed page of the same report: a table of every page checked with its PageSpeed Insights performance score on a computer and on a phone, and a bar chart comparing the two for each page](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/report-speed.webp)
 
 *Every page's PageSpeed Insights score on a computer and on a phone.*
 
@@ -168,8 +152,6 @@ The summary at the top, the design advice and the page about our services are dr
 Every request lives in a private dashboard that only our team can open. It shows where each request is, which checks it passed, its score, the exact PDF that was sent and every email that went out. Each request also carries its deadline, so a report that is running late is easy to see. If we will miss the 5 working days, the tool emails you to say so and when to expect the report.
 
 Most of the work is automatic. A person steps in when a request is held: a site that looks suspicious, a request that looks like spam, a site we audited recently or an email that could not be delivered.
-
-![The requests list in the audit dashboard: eight made-up websites with first names and initials, each with a status such as delivered, reading the website, finding issues, checking site safety, waiting in line or writing the PDF, a score for the delivered ones, the report language, the deadline and when it was received](https://ndcompany.in/assets/blog/free-seo-audit-how-it-works/dashboard-requests.webp)
 
 *The requests list, with each request's status, language and deadline. Sample data: every website and name is made up.*
 
@@ -257,13 +239,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 

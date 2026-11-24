@@ -1,9 +1,9 @@
 ---
 title: "White Label SEO Services for Agencies | N&D Co."
-description: "White label SEO for agencies: audits from $149, on-page work, content, local SEO and monthly reports under your brand. Your NDA signed, no client contact."
+description: "White label SEO for agencies: monthly SEO from $199 per client, audits from $149, reports under your brand. Your NDA signed, no client contact."
 url: "https://ndcompany.in/white-label/seo"
 type: "Service"
-image: "https://ndcompany.in/assets/share/seo-services.png"
+image: "https://ndcompany.in/assets/share/white-label-seo.png"
 ---
 
 White label SEO
@@ -18,9 +18,9 @@ We run SEO for your clients under your agency's name: the audit, on-page fixes, 
 
 ## White label SEO, the way we run it
 
-Our white-label SEO is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice. You can also buy audits on their own, from $149 each.
+White label SEO from us costs from $199 a month per client, or from $149 for a one-off audit. It is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice. You can also buy audits on their own, from $149 each.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -245,7 +245,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@id": "https://ndcompany.in/white-label/seo#webpage",
       "url": "https://ndcompany.in/white-label/seo",
       "name": "White Label SEO Services for Agencies | N&D Co.",
-      "description": "White label SEO for agencies: audits from $149, on-page work, content, local SEO and monthly reports under your brand. Your NDA signed, no client contact.",
+      "description": "White label SEO for agencies: monthly SEO from $199 per client, audits from $149, reports under your brand. Your NDA signed, no client contact.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -258,7 +258,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/seo-services.png",
+        "url": "https://ndcompany.in/assets/share/white-label-seo.png",
         "width": 1200,
         "height": 675
       }

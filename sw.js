@@ -26,9 +26,10 @@ const precache = (cache) => cache.addAll(PRECACHE.map((url) => new Request(url, 
 // Hashed build files may come from the HTTP cache; everything else asks the server, because an
 // old-site copy can still sit in the HTTP cache after the cutover.
 const inflight = new Map();
-const fetchOnce = (path) => {
+// Saving a page for later (cacheAssets) asks at low priority so it never competes with what the visitor loads.
+const fetchOnce = (path, priority) => {
     if (!inflight.has(path)) {
-        inflight.set(path, fetch(path, /^\/assets\/[^/?]+$/.test(path) ? {} : { cache: 'no-cache' }).finally(() => inflight.delete(path)));
+        inflight.set(path, fetch(path, { ...(/^\/assets\/[^/?]+$/.test(path) ? {} : { cache: 'no-cache' }), ...(priority && { priority }) }).finally(() => inflight.delete(path)));
     }
     return inflight.get(path).then((response) => response.clone());
 };
@@ -61,7 +62,7 @@ const cacheAssets = async (text, withMedia = true) => {
         // save the 640px copy only (a screen that wants another size fetches it, and the fetch handler
         // stores it then; offline the 640px copy answers for every size).
         .filter((url, _, all) => !(/(?<!-640)\.webp$/.test(url) && all.includes(url.replace(/(-320|-360|-480|-560)?\.webp$/, '-640.webp'))));
-    await Promise.all(assets.map(async (url) => (await cache.match(url)) || fetchOnce(url).then((r) => r.ok && cache.put(url, r)).catch(() => {})));
+    await Promise.all(assets.map(async (url) => (await cache.match(url)) || fetchOnce(url, 'low').then((r) => r.ok && cache.put(url, r)).catch(() => {})));
     // Background images are referenced from the stylesheets, not the HTML.
     if (withMedia) {
         for (const url of assets.filter((asset) => asset.endsWith('.css'))) {
@@ -218,4 +219,4 @@ self.addEventListener('fetch', (event) => {
         return hit || refresh;
     }));
 });
-// precache e6eb75ebda1b
+// precache 49b951460576

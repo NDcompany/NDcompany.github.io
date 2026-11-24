@@ -3,7 +3,7 @@ title: "Marketing tips and insights for businesses | N&D Co."
 description: "Marketing tips and insights from N&D Co. for small and growing businesses: digital marketing, social media and content, what to try and what to measure."
 url: "https://ndcompany.in/blogs/topic/marketing"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png"
+image: "https://ndcompany.in/assets/share/topic-marketing.png"
 ---
 
 Topic
@@ -26,16 +26,16 @@ Read the post
 
 ## Recently updated
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
-- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-  14 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  17 Nov 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  17 Nov 2026
 
 ## Trending tags
 
@@ -58,19 +58,19 @@ If you would rather have the work done for you, these are the services that cove
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
 ### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Content planning, posting, and audience growth strategies.
+A monthly content calendar, designed posts and captions, reels, scheduled publishing and replies to your audience.
 
 Learn more
 
 ### [Content Creation](https://ndcompany.in/services/content-creation)
 
-SEO content, blogs, and social media content.
+SEO blog posts, website copy, product descriptions and social captions, planned in a content calendar.
 
 Learn more
 
@@ -112,7 +112,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png",
+        "url": "https://ndcompany.in/assets/share/topic-marketing.png",
         "width": 1200,
         "height": 675
       }

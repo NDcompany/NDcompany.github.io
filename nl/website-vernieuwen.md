@@ -1,9 +1,9 @@
 ---
 title: "Website vernieuwen vanaf € 349 | N&D Co."
-description: "Je website laten vernieuwen: een nieuw ontwerp vanaf € 349, een vernieuwde zakelijke website met CMS voor € 699, of een webshop of webapp vanaf € 1.499."
+description: "Je website laten vernieuwen: een nieuw ontwerp vanaf € 349, een vernieuwde zakelijke website met CMS voor € 699, of een webapp vanaf € 1.499."
 url: "https://ndcompany.in/nl/website-vernieuwen"
 type: "Service"
-image: "https://ndcompany.in/assets/share/website-design-development.png"
+image: "https://ndcompany.in/assets/share/nl-website-vernieuwen.png"
 ---
 
 Website vernieuwen
@@ -18,7 +18,7 @@ Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We
 
 ## Wat kost het?
 
-Je website laten vernieuwen kost bij ons hetzelfde als een nieuwe website: € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. We beginnen met wat je al hebt: je teksten, je beelden en wat bezoekers nu op je site zoeken. In de offerte spreken we af welke pagina's blijven, welke verdwijnen en hoe bestaande adressen naar de nieuwe pagina's verwijzen.
+Je website laten vernieuwen kost bij ons hetzelfde als een nieuwe website: € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webapplicatie op maat. We beginnen met wat je al hebt: je teksten, je beelden en wat bezoekers nu op je site zoeken. In de offerte spreken we af welke pagina's blijven, welke verdwijnen en hoe bestaande adressen naar de nieuwe pagina's verwijzen.
 
 ## Pakketten en prijzen
 
@@ -72,7 +72,7 @@ Vanaf
 
 schriftelijke offerte vooraf · klaar in 4 tot 6 weken
 
-- Webshop of webapplicatie op maat
+- Webapplicatie op maat
 - Betaalprovider en orderbeheer
 - Gebruikersaccounts, dashboards of boekingssystemen
 - Koppelingen met andere software, zoals afgesproken
@@ -136,7 +136,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost een website vernieuwen?**
 
-Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webapplicatie op maat; een webshop begint bij € 1.299. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
 
 **Blijft mijn huidige website online tijdens het vernieuwen?**
 
@@ -156,7 +156,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -175,7 +175,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/website-vernieuwen#service",
       "name": "Website vernieuwen: een nieuw ontwerp voor je bestaande site",
       "serviceType": "Website vernieuwen",
-      "description": "Je website laten vernieuwen kost bij ons hetzelfde als een nieuwe website: € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. We beginnen met wat je al hebt: je teksten, je beelden en wat bezoekers nu op je site zoeken. In de offerte spreken we af welke pagina's blijven, welke verdwijnen en hoe bestaande adressen naar de nieuwe pagina's verwijzen.",
+      "description": "Je website laten vernieuwen kost bij ons hetzelfde als een nieuwe website: € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webapplicatie op maat. We beginnen met wat je al hebt: je teksten, je beelden en wat bezoekers nu op je site zoeken. In de offerte spreken we af welke pagina's blijven, welke verdwijnen en hoe bestaande adressen naar de nieuwe pagina's verwijzen.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -226,7 +226,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/website-vernieuwen#webpage",
       "url": "https://ndcompany.in/nl/website-vernieuwen",
       "name": "Website vernieuwen vanaf € 349 | N&D Co.",
-      "description": "Je website laten vernieuwen: een nieuw ontwerp vanaf € 349, een vernieuwde zakelijke website met CMS voor € 699, of een webshop of webapp vanaf € 1.499.",
+      "description": "Je website laten vernieuwen: een nieuw ontwerp vanaf € 349, een vernieuwde zakelijke website met CMS voor € 699, of een webapp vanaf € 1.499.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -239,7 +239,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "inLanguage": "nl-NL",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/website-design-development.png",
+        "url": "https://ndcompany.in/assets/share/nl-website-vernieuwen.png",
         "width": 1200,
         "height": 675
       }

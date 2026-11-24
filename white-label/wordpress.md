@@ -3,7 +3,7 @@ title: "White Label WordPress Development in India | N&D Co."
 description: "White label WordPress development from India for agencies: sites and WooCommerce stores built to your brief, unbranded, your NDA signed, USD prices."
 url: "https://ndcompany.in/white-label/wordpress"
 type: "Service"
-image: "https://ndcompany.in/assets/share/website-design-development.png"
+image: "https://ndcompany.in/assets/share/white-label-wordpress.png"
 ---
 
 White label WordPress
@@ -20,7 +20,7 @@ We build WordPress sites and WooCommerce stores for your clients under your agen
 
 Our white-label WordPress work is the same as our own WordPress builds. You send the brief and your client's brand files, we design and build to them, and your client gets an admin login to change pages, posts and media without a developer. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## What you can resell
 
@@ -205,7 +205,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/website-design-development.png",
+        "url": "https://ndcompany.in/assets/share/white-label-wordpress.png",
         "width": 1200,
         "height": 675
       }

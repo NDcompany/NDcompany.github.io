@@ -3,7 +3,7 @@ title: "Website laten maken voor aannemers vanaf € 349 | N&D Co."
 description: "Website laten maken voor je aannemersbedrijf: projectfoto's, werkgebied en een aanvraagformulier, vanaf € 349, of € 699 met CMS en een jaar hosting."
 url: "https://ndcompany.in/nl/aannemer-website-laten-maken"
 type: "Service"
-image: "https://ndcompany.in/assets/share/website-design-development.png"
+image: "https://ndcompany.in/assets/share/nl-aannemer-website-laten-maken.png"
 ---
 
 Website voor aannemers
@@ -104,7 +104,7 @@ Vanaf
 
 schriftelijke offerte vooraf · klaar in 4 tot 6 weken
 
-- Webshop of webapplicatie op maat
+- Webapplicatie op maat
 - Betaalprovider en orderbeheer
 - Gebruikersaccounts, dashboards of boekingssystemen
 - Koppelingen met andere software, zoals afgesproken
@@ -192,7 +192,7 @@ Met een ingevuld Google Bedrijfsprofiel, reviews van klanten en een pagina per d
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -275,7 +275,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "inLanguage": "nl-NL",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/website-design-development.png",
+        "url": "https://ndcompany.in/assets/share/nl-aannemer-website-laten-maken.png",
         "width": 1200,
         "height": 675
       }

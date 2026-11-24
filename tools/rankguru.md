@@ -50,7 +50,7 @@ No. Your browser fetches the pages and RankGuru checks them on your device. We n
 
 **How is this different from an SEO audit?**
 
-RankGuru checks one page at a time against a fixed list of on-page basics. It does not crawl a whole site, measure speed or look at links from other sites. The technical audit in our SEO services starts with a full crawl of the site.
+RankGuru checks one page at a time against a fixed list of on-page basics. It does not crawl a whole site, measure speed or look at links from other sites. The technical audit in our SEO services starts with a full crawl of the site. To crawl a whole site yourself, use ShoutingToad, our free and open-source SEO spider for Windows, macOS and Linux, listed on our open-source page.
 
 [![Featured on LaunchBuff](https://launchbuff.com/badge-featured-light.svg)](https://launchbuff.com/products/rankguru-mmnibe)[![Launched with Favors.dev](https://favors.dev/api/badge/n-d-co?theme=light)](https://favors.dev/b/n-d-co)[![RankGuru on Nick Launches](https://nicklaunches.com/badges/featured.png)](https://nicklaunches.com/products/rankguru/)
 
@@ -76,7 +76,7 @@ Open the tool
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 See the service
 

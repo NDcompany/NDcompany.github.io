@@ -1,16 +1,16 @@
 ---
-title: "Mobile App Development Company in Kolkata | N&D Co."
-description: "Mobile app development in Kolkata: Android and iOS apps from one codebase for restaurants, shops and businesses, with store submission included and a written quote first."
+title: "Mobile App Development Company in India | N&D Co."
+description: "Android and iOS apps built in India for businesses in the US, UK, Europe and the UAE: one codebase, store submission included, a written quote first."
 url: "https://ndcompany.in/services/mobile-app-development"
 type: "Service"
 image: "https://ndcompany.in/assets/share/mobile-app-development.png"
 ---
 
-Android and iOS apps
+Android and iOS apps for clients worldwide
 
-# Mobile app development company in Kolkata
+# Mobile app development company in India
 
-We build Android and iOS apps for restaurants, shops and growing businesses in Kolkata, across India and worldwide. One codebase serves both stores, and we prepare and submit the app to Google Play and the App Store. Scope, timeline and price are set in writing before work starts.
+We build Android and iOS apps for businesses in the US, the UK, Europe, the UAE and India, working remotely from India. One codebase serves both stores, we submit the app to Google Play and the App Store in your own accounts, and you see working builds on your phone as we go. Scope, timeline and price are set in writing before work starts.
 
 [Get a quote](https://ndcompany.in/?service=mobile-app-development#contact)
 
@@ -18,7 +18,7 @@ We build Android and iOS apps for restaurants, shops and growing businesses in K
 
 ## What is Mobile App Development?
 
-Mobile App Development at N&D Co. is the design and build of Android and iOS apps for businesses: restaurant ordering apps, e-commerce apps, booking apps and custom apps with separate roles for customers, staff and delivery. We build with React Native and Expo by default, so one codebase serves both Google Play and the App Store, and we build native Kotlin or Swift apps on request at extra cost. Every tier includes store submission, and your developer accounts are in your name. N&D Co. is an app development company in India, based in Barrackpore, Kolkata, and works remotely with clients worldwide. It is a new service for us, and we have no app of our own in our portfolio yet.
+Mobile App Development at N&D Co. is the design and build of Android and iOS apps for businesses: restaurant ordering apps, e-commerce apps, booking apps and custom apps with separate roles for customers, staff and delivery. We build with React Native and Expo by default, so one codebase serves both Google Play and the App Store, and we build native Kotlin or Swift apps on request at extra cost. Every tier includes store submission, and your developer accounts are in your name. N&D Co. is an app development company in India, based in Barrackpore, Kolkata, and works remotely with clients worldwide. It is a new service for us: we have no client app to show yet, and the app we can show is [CHERNOBYL](https://ndcompany.in/open-source/chernobyl), our founder's open-source Android app for approving AI coding agents, built with React Native and Expo.
 
 ## What changes for your business
 
@@ -58,7 +58,7 @@ A web admin panel, built by us, to manage orders, users and content without a de
 
 ### Payments and push notifications
 
-Payments through Razorpay or UPI for the food, products or services you sell in the app, and push notifications to your customers, from the Business tier up.
+Payments for the food, products or services you sell in the app, through a gateway for your market, such as Stripe or PayPal abroad or Razorpay and UPI in India, and push notifications to your customers, from the Business tier up.
 
 ### Store submission
 
@@ -70,7 +70,7 @@ Both accounts are registered to your business, never to us. We help you apply fo
 
 ### Restaurant ordering app package
 
-Menu, cart, UPI or Razorpay payments, an order list for your staff and a basic admin, on Android and iOS. Usually 6 to 10 weeks, quoted in writing.
+Menu, cart, payments through a gateway for your market, an order list for your staff and a basic admin, on Android and iOS. Usually 6 to 10 weeks, quoted in writing.
 
 ### E-commerce app package
 
@@ -122,7 +122,7 @@ written quote before work starts · delivered in 8 to 12 weeks
 - Android and iOS apps from one codebase
 - Up to 20 screens
 - Web admin panel for orders, users and content
-- Payments through Razorpay or UPI
+- Payments through a gateway for your market
 - Push notifications
 - Backend in your own Firebase or Supabase account
 - Store submission, with up to 2 rounds if a store rejects it
@@ -194,8 +194,9 @@ The balance is due before final delivery. Bug fixes are free for the first month
 - Restaurant, cafe and cloud kitchen owners who want customers ordering from their own app.
 - Shops and D2C brands that want a catalogue, cart and payments in an app next to their website.
 - Service businesses that take bookings or deliveries and need one view for customers and another for staff.
-- Founders with a validated idea who need a first version on Android and iOS, built from a written scope by a team in Kolkata.
-- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
+- Founders with a validated idea who need a first version on Android and iOS, built from a written scope by a team in India.
+- Businesses in the US, UK, Europe and the UAE that want an app built in India, quoted in their own currency, with written updates between calls.
+- Agencies that resell this work under their own name: see our [white label app development](https://ndcompany.in/white-label/app-development) page.
 
 ## Frequently asked questions
 
@@ -203,13 +204,21 @@ The balance is due before final delivery. Bug fixes are free for the first month
 
 A Starter app is our smallest tier: Android and iOS from one codebase, up to 8 screens, login and a Firebase backend, with no admin panel. The pricing section on this page shows each tier's starting price. Every quote is set in writing before work starts, and most projects start with a 50% advance. The tiers on this page are starting points.
 
+**Do you build apps for clients in the US, UK and Europe?**
+
+Yes. We work remotely from India with clients abroad: you get a written scope and a quote in your own currency before work starts, and pay our invoices by PayPal, through Wise or by bank transfer. We keep part of our evening free for calls in US morning hours, send written updates between calls, and share a working build at each stage so you can try the app on your own phone.
+
+**Why hire an app developer in India?**
+
+Mostly for the price: our starting prices are on this page, and a written quote sets the final one before work starts. What makes a project abroad work is the same as at home: a clear written scope, builds you can test as you go, and code and store accounts in your name. Our guide to app development costs in India walks through what drives the price and what to check before you hire.
+
 **How long does it take to build an app?**
 
 A Starter app usually takes 4 to 6 weeks, a restaurant ordering app 6 to 10, and a Business or e-commerce app 8 to 12. A custom app is timed in your quote. Store review comes on top: Apple says it typically reviews at least half of submissions in under 24 hours and 90% in under 48 hours, and Google gives no fixed time and says some accounts take up to seven days or longer in exceptional cases.
 
 **What do the Google Play and Apple developer accounts cost, and who pays?**
 
-You do, directly, and the accounts are in your name. Google Play charges US$25 once. The Apple Developer Program is US$99 for each membership year, and Apple shows the rupee amount when you enrol in India. Neither fee is part of our price.
+You do, directly, and the accounts are in your name. Google Play charges US$25 once. The Apple Developer Program is US$99 for each membership year, in local currency where Apple offers it. Neither fee is part of our price.
 
 **Does my business need a D-U-N-S number?**
 
@@ -237,17 +246,17 @@ Bug fixes are free for the first month. After that, the monthly care plan covers
 
 **Do you build restaurant ordering and e-commerce apps?**
 
-Yes, as two named packages. The restaurant ordering app has a menu, a cart, UPI or Razorpay payments, an order list and a basic admin. The e-commerce app has a catalogue, a cart, payments, orders and an admin panel. Apple's App Review Guidelines say physical goods and services used outside the app can be paid for with methods other than in-app purchase, such as cards, while digital items need Apple's in-app purchase, so we check which applies in discovery.
+Yes, as two named packages. The restaurant ordering app has a menu, a cart, payments through a gateway for your market, an order list and a basic admin. The e-commerce app has a catalogue, a cart, payments, orders and an admin panel. Apple's App Review Guidelines say physical goods and services used outside the app can be paid for with methods other than in-app purchase, such as cards, while digital items need Apple's in-app purchase, so we check which applies in discovery.
 
 **Can I see an app you have built?**
 
-Not yet. Mobile app development is a new service for us, and we have no app of our own to show. What we can show is our web application work, such as the case management platform in the Bangali Oikya Manch case study on our projects page, which is a web application and not a mobile app. We will not describe it as one.
+Yes: CHERNOBYL, an open-source Android app our founder designed and built with React Native and Expo, the stack we use for client apps. It lets developers watch and approve AI coding agents running on their PC, and its code, screenshots and releases are public on our open-source page and on GitHub. We have no client app to show yet, because mobile app development is a new service for us. Our web application work, such as the case management platform in the Bangali Oikya Manch case study, is a web application, not a mobile app.
 
 ## Who you will work with
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Mobile App Development remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Mobile App Development remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -255,19 +264,19 @@ Often combined with Mobile App Development.
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
@@ -276,6 +285,16 @@ Learn more
 ## From our blogs
 
 Guides on the work behind Mobile App Development.
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
 
 Business
 
@@ -314,11 +333,27 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/mobile-app-development#service",
       "name": "Mobile App Development",
       "serviceType": "Mobile App Development",
-      "description": "Mobile App Development at N&D Co. is the design and build of Android and iOS apps for businesses: restaurant ordering apps, e-commerce apps, booking apps and custom apps with separate roles for customers, staff and delivery. We build with React Native and Expo by default, so one codebase serves both Google Play and the App Store, and we build native Kotlin or Swift apps on request at extra cost. Every tier includes store submission, and your developer accounts are in your name. N&D Co. is an app development company in India, based in Barrackpore, Kolkata, and works remotely with clients worldwide. It is a new service for us, and we have no app of our own in our portfolio yet.",
+      "description": "Mobile App Development at N&D Co. is the design and build of Android and iOS apps for businesses: restaurant ordering apps, e-commerce apps, booking apps and custom apps with separate roles for customers, staff and delivery. We build with React Native and Expo by default, so one codebase serves both Google Play and the App Store, and we build native Kotlin or Swift apps on request at extra cost. Every tier includes store submission, and your developer accounts are in your name. N&D Co. is an app development company in India, based in Barrackpore, Kolkata, and works remotely with clients worldwide. It is a new service for us: we have no client app to show yet, and the app we can show is CHERNOBYL, our founder's open-source Android app for approving AI coding agents, built with React Native and Expo.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"
@@ -335,8 +370,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/mobile-app-development#webpage",
       "url": "https://ndcompany.in/services/mobile-app-development",
-      "name": "Mobile App Development Company in Kolkata | N&D Co.",
-      "description": "Mobile app development in Kolkata: Android and iOS apps from one codebase for restaurants, shops and businesses, with store submission included and a written quote first.",
+      "name": "Mobile App Development Company in India | N&D Co.",
+      "description": "Android and iOS apps built in India for businesses in the US, UK, Europe and the UAE: one codebase, store submission included, a written quote first.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

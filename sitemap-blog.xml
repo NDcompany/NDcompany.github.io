@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (56 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (57 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/branding</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/marketing</loc>
@@ -23,43 +23,43 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/business</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/website-costs</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/website-planning</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/brand-guidelines</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/social-media-creatives</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/core-web-vitals</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/google-search-console</loc>
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags/local-seo</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/seo-audits</loc>
@@ -75,23 +75,23 @@
   </url>
   <url>
     <loc>https://ndcompany.in/tags/technical-seo</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/web-accessibility</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/google-business-profile</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/team</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
@@ -102,6 +102,10 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/ayaz-ahmad.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/app-development-cost-india</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/free-online-store-whatsapp-orders</loc>
@@ -344,7 +348,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/technical-seo-checklist</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/blog/technical-seo-checklist/search-console-why-not-indexed.webp</image:loc>
     </image:image>
@@ -360,15 +364,15 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/plan-a-business-website</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/logo-vs-brand-identity</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/core-web-vitals-explained</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/blog/core-web-vitals-explained/pagespeed-insights-mobile.webp</image:loc>
     </image:image>
@@ -378,7 +382,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/google-business-profile-guide</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/blog/google-business-profile-guide/business-profile-name-category.webp</image:loc>
     </image:image>
@@ -388,6 +392,6 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/brand-style-guide</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
 </urlset>

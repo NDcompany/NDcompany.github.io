@@ -1,11 +1,11 @@
 ---
 title: "Logo vs brand identity: what you get and own | N&D Co."
-description: "A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark."
+description: "A logo is one mark; a brand identity is the system around it. See what each includes, how to compare quotes, and who owns a logo in the US and UK."
 url: "https://ndcompany.in/blogs/logo-vs-brand-identity"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-23T00:00:00+05:30"
-modified: "2026-10-23T00:00:00+05:30"
+modified: "2026-11-17T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/logo-vs-brand-identity-16x9.png"
 ---
 
@@ -13,21 +13,21 @@ image: "https://ndcompany.in/assets/blog/logo-vs-brand-identity-16x9.png"
 
 # Logo vs brand identity: what you are paying for
 
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
+What a logo job and a full identity should each hand over, the sizes and files a logo needs, how to compare quotes, and who owns the logo in the US and UK.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 13 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 17 November 2026 14 min read
 
-A logo is one mark: a symbol, your name set in a particular way, or both. A brand identity is the system around it: the logo in several layouts and colour versions, a palette, typefaces, an imagery style, often a tone of voice, and written rules that let other people use them correctly. Paying more for an identity buys more deliverables and fewer open decisions. Either way, you should come away with editable files and a written transfer of the rights.
+A logo is one mark: a symbol, your name set in a particular way, or both. A brand identity is the system around it: the logo in several layouts and colour versions, a palette, typefaces, an imagery style, often a tone of voice, and written rules that let other people use them correctly. Paying more for an identity buys more deliverables and fewer open decisions. Either way, the quote should name the files you will receive and say when the rights in them pass to you.
 
-Every figure below links to the source we checked in October 2026. The sections on ownership and trade marks are general information, not legal advice.
+We read the platform help pages, official guidance and statutes linked below on 17 November 2026. The sections on ownership and trade marks give general information for buyers in the US, UK and Netherlands, not legal advice, and other countries differ.
 
 Key takeaways
 
 - Even a logo-only job should hand over at least one alternate layout, black and white versions and vector files, and you should ask for a square icon.
 - Plan a full identity once two or more people or suppliers make material in your name, or before you print packaging or build a website.
-- In India the copyright in a logo stays with the outside designer or their agency until they assign it in writing, and an assignment that names no period or territory is [read as five years, India only](https://copyright.gov.in/Documents/Copyright_Act_1957.pdf).
-- Canva says logos made from its templates [cannot be registered as trade marks](https://www.canva.com/en_in/help/trademarks-logo/).
-- A trade mark costs [₹4,500 or ₹9,000 per class](https://ipindia.gov.in/pages/trade-marks/learn/forms-and-official-fees) in official fees to file online and [lasts ten years](https://ipindia.gov.in/tm-act-1999). Search the register before you approve the final artwork.
+- In the US, copyright starts with the person who made the work, and a transfer is [not valid unless it is in writing](https://www.law.cornell.edu/uscode/text/17/204) and signed by the owner. GOV.UK says the same about a [sale or transfer in the UK](https://www.gov.uk/copyright/license-and-sell-your-copyright): write and sign a document.
+- You do not need to register a trade mark to have rights in the US, but [unregistered rights are limited to the area where you trade](https://www.uspto.gov/trademarks/basics/what-trademark).
+- Search the trade mark registers before you approve the final artwork, because a clash found after launch means redoing signs, packaging and profiles.
 
 ## The difference between a logo, a brand identity and a brand
 
@@ -36,8 +36,6 @@ A logo is the mark itself: what goes on your sign, website header, invoices and 
 A brand identity is the set of visual and verbal decisions that make everything you publish look and sound like one business: the logo plus colour, type, imagery, graphic elements, the way you write, and a guide to combining them.
 
 A brand is what people think and say about you, built by your product, prices and service. An identity helps people recognise you; it cannot make up for a poor experience. Our [branding guides](https://ndcompany.in/blogs/topic/branding) cover the identity layer in more depth.
-
-In [a 2024 study in the Journal of Brand Management](https://eprints.bournemouth.ac.uk/38862/), researchers removed the brand names from 44 assets of the 12 biggest UK car brands by market share and showed them to 206 people in the UK who owned a car or planned to buy one within two years. Ten of the 12 logos passed the study's threshold for being linked mainly to one brand; one of the 32 fonts, colours and slogans did. The authors conclude that those other assets need strong creative work and consistent use before people tie them to a brand, and consistent use is what an identity's rules are for. It is one study, in one industry, with a small sample recruited through the lead researcher's contacts.
 
 ## What each job should hand over
 
@@ -56,31 +54,13 @@ Use this table to check any quote you receive:
 | Tone of voice | Not included | Sometimes; check the quote |
 | Guidelines | A short usage sheet at most | A guidelines document with examples |
 | Templates and stationery | Not included | Stationery and social media templates |
-| Rights | A written assignment | A written assignment |
+| Rights | A written transfer of the final deliverables | A written transfer of the final deliverables |
 
-Our [logo design service](https://ndcompany.in/services/logo-design) covers the deliverables in the logo job column, and its middle tier adds a palette and a usage guide. [Brand identity design](https://ndcompany.in/services/brand-identity-design) covers those in the identity column, and [full branding solutions](https://ndcompany.in/services/full-branding-solutions) add print collateral, packaging and tone of voice.
+Our [logo design service](https://ndcompany.in/services/logo-design) covers the deliverables in the logo job column. [Brand identity design](https://ndcompany.in/services/brand-identity-design) covers those in the identity column, and [full branding solutions](https://ndcompany.in/services/full-branding-solutions) add print collateral, packaging and tone of voice. The service pages list the tiers and show prices in your currency.
 
 ## Where your logo has to work
 
 ### Small squares and circles
-
-In India most web browsing happens on phones. In 2025, [77.9% of web page views in India came from mobile devices](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/india/#yearly-2019-2025), and mobile's share was between about 70% and 78% in every full year from 2019 to 2025. For January to September 2026, StatCounter puts it lower, at 68.4%.
-
-Share of web page views in India by device, 2019 to 2025
-
-**Share of web page views in India by device, 2019 to 2025**
-
-| Period | Mobile (%) | Desktop (%) |
-| --- | --- | --- |
-| 2019 | 74.2 | 25.4 |
-| 2020 | 69.5 | 30 |
-| 2021 | 76 | 23.6 |
-| 2022 | 75.1 | 24.5 |
-| 2023 | 76.4 | 23.2 |
-| 2024 | 78.5 | 21 |
-| 2025 | 77.9 | 21.6 |
-
-*Share of page views by device type on websites that use StatCounter's tracking code, per calendar year. Tablets stayed under 1% every year; for January to September 2026 the mobile figure is 68.4%. Source: [StatCounter Global Stats, desktop vs mobile vs tablet market share in India, yearly](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/india/#yearly-2019-2025).*
 
 On a phone your logo appears small, and each platform sets its own size:
 
@@ -89,23 +69,23 @@ On a phone your logo appears small, and each platform sets its own size:
 | Place | What the platform asks for |
 | --- | --- |
 | Favicon in Google Search | Square, at least 8 x 8 px; [larger than 48 x 48 px recommended](https://developers.google.com/search/docs/appearance/favicon-in-search) |
-| Logo in Google results and knowledge panels | [At least 112 x 112 px](https://developers.google.com/search/docs/appearance/structured-data/organization), and it must look right on a plain white background |
+| Logo in Google results and knowledge panels | [At least 112 x 112 px](https://developers.google.com/search/docs/appearance/structured-data/organization), and it must look right on a purely white background |
 | Google Business Profile photos, logo included | JPG or PNG, 10 KB to 5 MB; [720 x 720 px recommended](https://support.google.com/business/answer/6103862), 250 x 250 px minimum |
 | Facebook Page profile picture | [Shown at 176 x 176 px](https://www.facebook.com/help/125379114252045?locale=en_US) on computers and 196 x 196 px on phones, cropped to a circle; upload at 320 x 320 px |
 | YouTube channel | Profile picture [renders at 98 x 98 px](https://support.google.com/youtube/answer/10456525?hl=en) |
 | LinkedIn Page logo | [At least 268 x 268 px](https://www.linkedin.com/help/linkedin/answer/a563309/image-specifications-for-your-linkedin-pages-and-career-pages), 400 x 400 px recommended |
 
-Every size there is a square, and Facebook crops yours to a circle. Shrink a wide logo to 98 pixels across and the letters become too small to read. You need a compact version too, such as an icon or monogram. Google asks for a [stable favicon URL](https://developers.google.com/search/docs/appearance/favicon-in-search) and says recrawling can take from several days to several weeks. Settle the icon before your site launches. Our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist) covers favicons and logo markup; for the listing itself, see our [Google Business Profile guide](https://ndcompany.in/blogs/google-business-profile-guide).
+Every size there is a square, and Facebook crops yours to a circle. Shrink a wide logo to 98 pixels across and the letters become too small to read. You need a compact version too, such as an icon or monogram. Google asks for a [stable favicon URL](https://developers.google.com/search/docs/appearance/favicon-in-search) and says recrawling can take from several days to several weeks, so settle the icon before your site launches. Our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist) covers favicons and logo markup; for the listing itself, see our [Google Business Profile guide](https://ndcompany.in/blogs/google-business-profile-guide).
 
 ### White backgrounds and one colour
 
-Google asks that the logo it shows in results look right [on a purely white background](https://developers.google.com/search/docs/appearance/structured-data/organization), and warns that a mostly white or grey logo may not. If your logo is white and normally sits on a coloured background, you need a version that works on white.
+Google asks that the logo it shows in results [look how you intend on a purely white background](https://developers.google.com/search/docs/appearance/structured-data/organization), and a light or grey logo can wash out there. If your logo is white and normally sits on a coloured background, you need a version that works on white.
 
 Stamps, embroidery and one-colour print need a single-colour version, and photos and dark packaging need a reversed one.
 
 ### Files that scale
 
-Ask for vector files (SVG, EPS or PDF) as well as PNG. Mozilla's web documentation notes that [SVG images can be rendered at any size without loss of quality](https://developer.mozilla.org/en-US/docs/Web/SVG), which is what a signboard printer needs. Transparent PNGs cover uploads (Facebook suggests PNG for profile pictures [with a logo or text](https://www.facebook.com/help/125379114252045?locale=en_US)). Keep the editable source files too. Our guide to [logo file types](https://ndcompany.in/blogs/logo-file-types) explains each format and which one to send where.
+Ask for vector files (SVG, EPS or PDF) as well as PNG. Mozilla's web documentation says [SVG vector images can be rendered at any size without loss of quality](https://developer.mozilla.org/en-US/docs/Web/SVG) compared with JPEG or PNG, which is what a signboard printer needs. Transparent PNGs cover uploads; Facebook suggests PNG for a profile picture [with a logo or text](https://www.facebook.com/help/125379114252045?locale=en_US). If you or a later designer will need to edit the artwork, ask the quote to name the editable files. Our guide to [logo file types](https://ndcompany.in/blogs/logo-file-types) explains each format and which one to send where.
 
 ## What a brand identity adds
 
@@ -117,7 +97,7 @@ Under the Web Content Accessibility Guidelines (WCAG 2.2), [text that is part of
 
 ### Fonts you are allowed to use
 
-Fonts under the SIL Open Font License [can be used in any kind of design work, logos included](https://openfontlicense.org/how-to-use-ofl-fonts/), with no extra permission, and the artwork's copyright stays with its maker, not the font's author. [Most fonts in the Google Fonts collection](https://github.com/google/fonts) use that licence. For a paid font, ask which licence covers it, whether it extends to your website, print and any app, and whose name it is in.
+The SIL Open Font License FAQ says OFL fonts can be used in logos and other design work, and that [no additional permission is required](https://openfontlicense.org/how-to-use-ofl-fonts/) for that use. The artwork's copyright stays with its maker, not the font's author. For a paid font, ask which licence covers it, whether it extends to your website, print and any app, and whose name it is in.
 
 ### Rules other people can follow
 
@@ -128,7 +108,7 @@ The rest of an identity serves whoever makes things in your name later, such as 
 This is our rule of thumb, not data. A logo with its variations is usually enough when:
 
 - one person makes everything you publish
-- you sell in one or two places, such as a marketplace and WhatsApp
+- you sell in one or two places, such as a marketplace and a social profile
 - your name, offer or audience may still change this year
 
 Plan a full identity when:
@@ -138,107 +118,83 @@ Plan a full identity when:
 - you are rebranding and old material must be replaced at the same time
 - you plan to register the mark and sell next to competitors in shops or marketplaces
 
-A middle path (a logo with a palette, typefaces and a one-page usage guide) suits a business that has settled its name but produces little material yet.
+A middle path (a logo with a palette, typefaces and a one-page usage guide) suits a business that has settled its name but produces little material yet. A restaurant or cafe has its own extra needs, such as menus and takeaway packaging, which our [food and restaurant logo guide](https://ndcompany.in/blogs/food-restaurant-logo-ideas) covers.
 
-We give no price ranges, because we have found no public survey of logo or branding prices in India that states its method. Compare quotes against the table instead: one quote for "a logo" may include the square icon, one-colour versions, source files and a written assignment, and another may not.
+## How do you judge a logo or branding quote?
+
+Compare scope, not the total. We give no price ranges here, because prices differ by market and a figure without its scope tells you nothing. One quote for "a logo" may include the square icon, one-colour versions, editable files and a written transfer of rights, and another may not. Line each quote up against the table above and look for gaps:
+
+- The number of concepts and revision rounds, and what an extra round costs.
+- Every layout, colour version and file format, named rather than implied.
+- Whether the guidelines are a sheet or a document, and what is in them.
+- Who pays for fonts, stock images and any trade mark search.
+- When the final files are released, which should be after the last payment, and in whose name the licences sit.
+- What the contract says about ownership of the final files, covered next.
 
 ## Who owns a logo after you pay a designer?
 
-Under India's Copyright Act, 1957, a drawing such as a logo is [an artistic work](https://copyright.gov.in/Documents/Copyright_Act_1957.pdf) (section 2(c)), and the designer, as its author, is the first owner of the copyright (section 17). If your own employee designs the logo as part of their job, you own it as the employer unless you agreed otherwise. A freelancer's logo belongs to the freelancer, and an agency designer's logo to the agency.
+Paying a designer does not by itself make you the copyright owner. In the US and the UK the starting point is that the person who creates a work owns it, and a transfer to you has to be written down and signed. The details differ by country, so treat this as a list of questions for your contract, not as legal advice, and have a lawyer read it.
 
-Paying does not change this by itself. The Act's rule for commissioned work (section 17(b)) covers photographs, paintings, drawn portraits, engravings and films, not drawings in general. The safe reading is that a logo becomes yours only through a written assignment.
+### The US position
 
-### What the assignment should say
+The US Copyright Act says copyright [vests initially in the author](https://www.law.cornell.edu/uscode/text/17/201). The exception is a work made for hire, where the employer or the person who ordered the work is treated as the author. The Copyright Office's [Circular 30](https://www.copyright.gov/circs/circ30.pdf) says there are two situations: an employee's work within the regular duties of the job, and a work created under an express written agreement where a certain type of work was specially ordered or commissioned. The statute's [definition of a work made for hire](https://www.law.cornell.edu/uscode/text/17/101) lists those types, and they include a contribution to a collective work, part of a motion picture or other audiovisual work, a translation, a supplementary work, a compilation and an instructional text.
 
-Under section 19, an assignment is [valid only in writing](https://copyright.gov.in/Documents/Copyright_Act_1957.pdf), signed by the designer or the agency, and must identify the work and state the rights, duration, territory and payment. With no period stated it is deemed to last five years, and with no territory stated it covers India only. Ask for wording that:
+A freelancer is not an employee just because you pay them; Circular 30 lists questions courts consider, such as who supplied the tools, how long the relationship lasted and whether the creator has their own business. A stand-alone logo from an outside designer does not obviously sit in one of the listed types. That is our reading, and the reason buyers commonly rely on a written transfer of ownership instead, which the law says [must be in writing and signed by the owner](https://www.law.cornell.edu/uscode/text/17/204) or the owner's authorised agent. A lawyer can tell you which route fits your job.
 
-- names the final logo, with a sheet showing every version attached
-- assigns all rights in it for the full term of copyright
-- covers the world, or at least every country you sell in
-- says the assignment does not lapse if you leave some of the rights unused for a year (section 19(4) otherwise treats it as lapsed for those rights)
-- states the fee and is signed by the designer or for the agency
+### The UK position
 
-Have a lawyer read it, especially before you file a trade mark.
+GOV.UK says that, for commissioned images, [the first legal owner of copyright will usually be the person or business that created](https://www.gov.uk/government/publications/copyright-notice-digital-images-photographs-and-the-internet/copyright-notice-digital-images-photographs-and-the-internet) the work unless there is an agreement to the contrary. To take ownership you would need [to write and sign a document](https://www.gov.uk/copyright/license-and-sell-your-copyright), sometimes called an assignment. That guidance rests on the Copyright, Designs and Patents Act 1988.
+
+### Elsewhere
+
+Other countries, including the Netherlands, the UAE and Australia, have their own rules on who owns commissioned work and how a transfer is made. We do not cover them here. If you are buying from an agency in another country, or selling in several, ask a lawyer where you operate to read the contract.
+
+### What the contract should say
+
+Whatever the law, a contract that leaves you comfortable usually does these things:
+
+- It names the final logo, with a sheet showing every version attached.
+- It says when the rights pass to you, for example on full payment.
+- It states the territory and duration of the rights, or says there is no limit, so nothing is left to a default.
+- It says what happens to unused concepts, which usually stay with the designer.
+- It is signed by the designer or for the agency.
+
+If an agency is reselling work made by a subcontractor, the same chain applies one step back, which is why agencies ask us for [white-label design](https://ndcompany.in/white-label/design) under a written agreement. Our [guide to NDAs and ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers that chain.
 
 ### Templates, stock graphics and AI
 
-Some logos cannot be fully yours. Canva's help centre says its logo templates [can be used by anyone](https://www.canva.com/en_in/help/trademarks-logo/). That makes your rights in a logo built from one non-exclusive, and you cannot register it as a trade mark. Canva rules out its stock graphics for the same reason: "Elements in a logo need to be exclusive to you."
+Some logos cannot be fully yours. A logo built from a template that other customers can also use gives you no exclusive design, and the same goes for stock graphics. Ask your designer to say in writing what in the final logo is original and what is not.
 
-As for AI, the US Copyright Office concluded in January 2025 that, with today's tools, [prompts alone do not give a user enough control](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) to be the author of the output, and that purely AI-generated material is not protected by copyright. That is the Office's reading of US law. India's Act names ["the person who causes the work to be created"](https://copyright.gov.in/Documents/Copyright_Act_1957.pdf) as the author of a computer-generated work (section 2(d)(vi)); how that applies to an AI logo is a question for a lawyer. Whatever the source, ask your designer to confirm in writing whether any template, stock or AI material is in the final logo.
+As for AI, the US Copyright Office concluded in January 2025 that, based on how current technology works, [prompts do not alone provide sufficient control](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) over the output, and that human authors are entitled to copyright in the parts of their own work that show in AI output. That is the Office's reading of US law, and other countries may see it differently. Ask whether any AI tool was used, and for which part.
 
-Watch out
+## Do you need to register your logo as a trade mark?
 
-- A logo built from a template or stock graphics, if you might ever want to register it.
-- An assignment that leaves out the period or the territory.
-- The ® symbol before registration. Representing an unregistered mark as registered is [an offence in India](https://ipindia.gov.in/tm-act-1999) (section 107), punishable with up to three years in prison, a fine, or both.
+Copyright protects the logo as a drawing. A trade mark protects its use as a sign for your goods or services. Whether to register is a business decision, and it works differently in each office:
 
-## How to register your logo as a trademark in India
+**What the official pages say about trade marks in three places**
 
-Copyright protects the logo as a drawing. A trade mark registration under the Trade Marks Act, 1999, gives you [the exclusive right to use the mark](https://ipindia.gov.in/tm-act-1999) for the goods or services it covers, and to seek relief for infringement (section 28). Without one, you cannot sue for infringement of the trade mark (section 27); you can still bring an action for passing off, and rely on the copyright in the artwork if you own it.
-
-IP India lists [device marks (logos, symbols and stylised text)](https://ipindia.gov.in/page-content/basics-of-trademarks) as one type you can register, alongside word marks, and you can apply before you start using a mark.
-
-### Classes and fees
-
-Marks are registered by class, and the Nice Classification has [34 classes of goods and 11 of services](https://www.wipo.int/en/web/classification-nice/faq). A café that sells its own packaged coffee, for example, would look at Class 43 (food and drink services) and Class 30 (coffee and tea).
-
-Filing online costs [₹4,500 per class](https://ipindia.gov.in/pages/trade-marks/learn/forms-and-official-fees) for an individual, a recognised startup or a small enterprise, as the [Trade Marks Rules](https://ipindia.gov.in/tm-rules-2017) define them, and ₹9,000 for everyone else (₹5,000 and ₹10,000 on paper). The fee is per class and per mark: your name as a word mark and your logo as a device mark are two fees. A registration is [dated from the day you applied](https://ipindia.gov.in/tm-act-1999) (section 23), which is a reason to file as soon as the logo is final. It lasts ten years (section 25) and renews for [₹9,000 per class](https://ipindia.gov.in/pages/trade-marks/learn/forms-and-official-fees) online.
-
-Trade mark applications filed and marks registered in India, 2020-21 to 2024-25
-
-**Trade mark applications filed and marks registered in India, 2020-21 to 2024-25**
-
-| Period | Applications filed | Marks registered |
-| --- | --- | --- |
-| 2020-21 | 4,31,213 | 2,55,976 |
-| 2021-22 | 4,47,805 | 2,61,408 |
-| 2022-23 | 4,66,580 | 2,31,977 |
-| 2023-24 | 4,76,089 | 2,79,717 |
-| 2024-25 | 5,52,190 | 3,82,834 |
-
-*Financial years, April to March. Marks registered in a year can come from applications filed in earlier years. Trade Marks chapter, table on page 65 and Appendix I on page 77. Source: [Office of the Controller General of Patents, Designs and Trade Marks (IP India), Annual Report 2024-25](https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf).*
-
-[IP India's annual report for 2024-25](https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf) shows applications rising from 4,31,213 in 2020-21 to 5,52,190 in 2024-25: up 28% in four years and 16% in the last year. The Registry registered 3,82,834 marks in 2024-25, and its register held 34,55,496 on 31 March 2025. About one in five applications that reached an outcome that year ended without registration (88,885 were refused, abandoned or withdrawn), and 82,915 notices of opposition were filed.
-
-Closer to us, [the same report](https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf) shows the Kolkata office receiving 37,513 applications in 2024-25, and applicants based in West Bengal filing 19,383.
-
-Some classes are much busier than others: in 2024-25, Class 5 (pharmaceutical and health products) drew [82,469 applications](https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf), almost 15% of the total.
-
-Trade mark classes with the most applications in India, 2024-25
-
-**Trade mark classes with the most applications in India, 2024-25**
-
-| Category | Value |
+| Where | What the office says |
 | --- | --- |
-| Class 5: pharmaceutical and health products | 82,469 |
-| Class 35: advertising and business services | 57,852 |
-| Class 25: clothing, footwear and headgear | 38,431 |
-| Class 30: tea, coffee, rice, flour, spices and bakery | 30,204 |
-| Class 3: soaps, cosmetics and cleaning products | 29,342 |
-| Class 9: scientific and electrical apparatus, computers | 26,868 |
-| Class 41: education, training and entertainment | 26,299 |
-| Class 43: food and drink services, accommodation | 20,894 |
+| United States (USPTO) | A trade mark [can be any word, phrase, symbol, design or a combination](https://www.uspto.gov/trademarks/basics/what-trademark). You are not required to register, and unregistered rights are limited to where you provide the goods or services. Federal registration [creates rights throughout the United States](https://www.uspto.gov/trademarks/basics/why-register-your-trademark), lets you use the ® symbol and lets you sue in federal court. A foreign-domiciled applicant [must have a US-licensed attorney](https://www.uspto.gov/trademarks/basics/trademark-process). |
+| United Kingdom (UKIPO) | A trade mark [can include words, sounds, logos and colours](https://www.gov.uk/how-to-register-a-trade-mark/what-you-can-register), but not a mark that describes your goods or is too similar to another business's. A registration [lasts 10 years](https://www.gov.uk/how-to-register-a-trade-mark) and must be renewed. |
+| Benelux, including the Netherlands (BOIP) | Registration gives you the exclusive right to your name [in the whole of the Netherlands, Belgium and Luxembourg](https://www.boip.int/en/entrepreneurs/trademarks). You can file yourself online or through a representative. BOIP gives a basic fee of 244 euros for 10 years for one class, and says the procedure takes about 3 months. |
 
-*Applications filed with the Trade Marks Registry in 2024-25, by Nice class. A multi-class application is counted once in each class it names. Table on pages 69 to 72. Source: [Office of the Controller General of Patents, Designs and Trade Marks (IP India), Annual Report 2024-25](https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf).*
+The EU also has an EU-wide trade mark system run by EUIPO. If you sell across the EU, check EUIPO's own site or ask a trade mark attorney. Fees and rules change, so confirm them on the office's own site before you apply.
 
-Each of these classes drew more than 20,000 applications that year. In a class that busy, a clash with an existing mark is more likely.
+Two points come up at the design stage. First, a name or sign that only describes what you sell is hard to register: UKIPO's page uses "Apple" for a company selling apples as its example of a description. Avoid a purely descriptive name, however good the logo. Second, the ® symbol belongs with a registered mark. The USPTO lists using it as one benefit of registration, so do not add it to a logo before registration.
 
 ### Search before you approve the final artwork
 
-IP India runs a [public trade mark search](https://tmrsearch.ipindia.gov.in/tmrpublicsearch/), which needs a one-time password sent to your email or phone. It also lists the Vienna Code Classification, the [international classification of the figurative elements of marks](https://www.wipo.int/en/web/classification-vienna) (the pictures in a logo). In IP India's [application workflow](https://ipindia.gov.in/trademark-application-workflow), device marks get Vienna codes when they are filed.
-
-Two grounds for refusal matter at the design stage. Under section 9 of the Act, unless use has already made it distinctive, a mark cannot be registered if it has [no distinctive character](https://ipindia.gov.in/tm-act-1999) or is made only of words or signs that describe the goods or services, such as their kind, quality or origin. Avoid a purely descriptive name, however good the logo. IP India also lists [marks identical or deceptively similar to registered marks](https://ipindia.gov.in/page-content/basics-of-trademarks) among those that cannot be registered.
-
-After examination, and your reply to any objection, an accepted mark is published, and anyone may oppose it [within three months](https://ipindia.gov.in/tm-act-1999) (section 21), extendable by one month. If no one does, or the opposition fails, it is registered.
+UKIPO says it will [check that your mark is not the same as or similar to](https://www.gov.uk/how-to-register-a-trade-mark) any existing one, and the USPTO's [trademark search page](https://www.uspto.gov/trademarks/search) links to clearance search guidance. BOIP advises asking a trade mark specialist when searching is difficult. A search by you is a first filter and not a clearance opinion. Run it before the logo is final, since changing a clashing logo later means redoing signs, packaging and profiles. For a brand you plan to build on, a trade mark attorney in the country where you sell can search properly.
 
 ## Questions to ask before you pay anyone
 
-1. Which logo layouts, colour versions and file formats will we receive, including editable source files?
+1. Which logo layouts, colour versions and file formats will we receive, and which editable files, if any?
 2. How many concepts and revision rounds are included, and what does an extra round cost?
-3. Will you sign an assignment of all rights in the final logo, for the full term, worldwide?
+3. When do the rights in the final logo pass to us, and in which document?
 4. Which fonts are used, under which licence, and in whose name?
 5. Does any part come from a template, a stock library or an AI tool?
-6. Who checks the trade marks register before the design is final?
+6. Who checks the trade mark registers before the design is final?
 7. Will you show the work in your portfolio, and can we say no?
 8. What are the timeline and payment schedule, and when are the final files released?
 9. What support do we get after handover, and for how long?
@@ -246,12 +202,16 @@ After examination, and your reply to any objection, an accepted mark is publishe
 ## Where to start
 
 1. List every place your name and logo appear now or will within two years: sign, packaging, website, social profiles, Google Business Profile, uniforms, vehicles.
-2. Search the trade marks register for your name and for similar logos in your classes.
+2. Search the trade mark registers for your name and for similar logos where you sell.
 3. Choose a logo with variations, the middle path or a full identity, using the checklist above.
 4. Collect what you already have: old logo files, colour codes, fonts and photos you like.
 5. Send that list and your brief to the designers you are considering, with the questions above.
 
-If a website is on the list, our guide to [planning a business website](https://ndcompany.in/blogs/plan-a-business-website) covers what to settle before anyone builds it. To get our quote as well, [send us your list and brief](https://ndcompany.in/#contact); we will follow up with a call and a fixed written quote.
+If a website is on the list, our guide to [planning a business website](https://ndcompany.in/blogs/plan-a-business-website) covers what to settle before anyone builds it.
+
+## How we work
+
+We are an agency based in India and we work with clients abroad, including in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands) and the [UAE](https://ndcompany.in/locations/uae). We work in English, and our quotes are set in writing before work starts and name the deliverables. Under our terms, ownership of the final deliverables named in your quote passes to you on full payment. To get a quote, [send us your list and brief](https://ndcompany.in/#contact) and we will follow up with a call.
 
 - [Logos](https://ndcompany.in/tags/logos)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
@@ -269,7 +229,7 @@ If a website is on the list, our guide to [planning a business website](https://
 - [Share on Threads](https://www.threads.net/intent/post?text=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for%20https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for%20https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Flogo-vs-brand-identity-16x9.png&description=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for)
-- [Share by email](mailto:?subject=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for&body=A%20logo%20is%20one%20mark%3B%20a%20brand%20identity%20is%20the%20system%20around%20it.%20See%20what%20each%20includes%2C%20who%20owns%20your%20logo%20in%20India%20and%20how%20to%20register%20it%20as%20a%20trademark.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
+- [Share by email](mailto:?subject=Logo%20vs%20brand%20identity%3A%20what%20you%20are%20paying%20for&body=A%20logo%20is%20one%20mark%3B%20a%20brand%20identity%20is%20the%20system%20around%20it.%20See%20what%20each%20includes%2C%20how%20to%20compare%20quotes%2C%20and%20who%20owns%20a%20logo%20in%20the%20US%20and%20UK.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Flogo-vs-brand-identity)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -303,7 +263,7 @@ Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
 
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
+Logo sizes for each platform, colour pairs that pass WCAG, font licences, Arabic and English type, voice rules, public examples from GOV.UK and the NHS, and a handover list.
 
 Read the guide
 
@@ -315,19 +275,19 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
-Logo design, brand guidelines, and visual identity systems.
+A logo with its palette, typefaces and supporting graphics, written up in a guidelines document your team can follow.
 
 Learn more
 
 ### [Logo Design](https://ndcompany.in/services/logo-design)
 
-Custom logo design and brand identity creation.
+Logo concepts, refinement and lockups, delivered as vector files with the colors and typefaces to use them.
 
 Learn more
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 Learn more
 
@@ -347,7 +307,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "BlogPosting",
       "@id": "https://ndcompany.in/blogs/logo-vs-brand-identity#article",
       "headline": "Logo vs brand identity: what you are paying for",
-      "description": "A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark.",
+      "description": "A logo is one mark; a brand identity is the system around it. See what each includes, how to compare quotes, and who owns a logo in the US and UK.",
       "image": [
         {
           "@type": "ImageObject",
@@ -369,7 +329,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-23T00:00:00+05:30",
-      "dateModified": "2026-10-23T00:00:00+05:30",
+      "dateModified": "2026-11-17T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -389,7 +349,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Branding",
       "keywords": "Logos, Brand guidelines, Trade marks, Working with an agency",
       "genre": "Guide",
-      "wordCount": 2913,
+      "wordCount": 3022,
       "inLanguage": "en-IN"
     },
     {
@@ -397,7 +357,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@id": "https://ndcompany.in/blogs/logo-vs-brand-identity#webpage",
       "url": "https://ndcompany.in/blogs/logo-vs-brand-identity",
       "name": "Logo vs brand identity: what you get and own | N&D Co.",
-      "description": "A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark.",
+      "description": "A logo is one mark; a brand identity is the system around it. See what each includes, how to compare quotes, and who owns a logo in the US and UK.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

@@ -203,7 +203,7 @@ We design the graphics and edit reels from the footage and photos you supply. Fi
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Social Media Management remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Social Media Management remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -211,19 +211,19 @@ Often combined with Social Media Management.
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
 ### [Graphic Design](https://ndcompany.in/services/graphic-design)
 
-Posters, banners, ad creatives, and marketing graphics.
+Social media and ad creatives, posters, brochures, stationery and packaging, print-ready and in every platform size.
 
 Learn more
 
 ### [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
 
-Video ads, reels, and promotional content production.
+Promotional and product videos, reels and motion graphics, shot for you or edited from your footage.
 
 Learn more
 
@@ -279,7 +279,7 @@ Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
 
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
+Logo sizes for each platform, colour pairs that pass WCAG, font licences, Arabic and English type, voice rules, public examples from GOV.UK and the NHS, and a handover list.
 
 Read the guide
 
@@ -305,6 +305,22 @@ Send a few lines about your business and we will reply with questions or a quote
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"

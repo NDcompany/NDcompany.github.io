@@ -265,7 +265,7 @@ Google review
 
 Adrija Rivu
 
-yesterday
+3 days ago
 
 ## Frequently asked questions
 
@@ -361,13 +361,13 @@ An applicant portal and case management system for Bangali Oikya Manch, a commun
 
 See the project
 
-Branding
+Software
 
-Sea Seven Fish, Northeast India
+Axn Sony
 
-### [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
+### [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
 
-A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 18 logo concepts, a fish with a fin of mountain peaks, a blue palette, a seal and business cards.
+A Windows app for Axn Sony, an advocate with Bangali Oikya Manch: one form writes all three affidavits an applicant needs. His office went from 3 or 4 clients a day to 20 to 30.
 
 See the project
 

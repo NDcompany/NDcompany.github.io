@@ -177,7 +177,7 @@ Files and guidelines are delivered on final payment. A 7-day post-delivery suppo
 - Established businesses whose logo dates from an earlier stage and no longer matches what they sell.
 - Businesses that have a logo but no system around it, so every new piece of material looks slightly different.
 - Companies preparing for a website redesign, a product launch or a funding round that want the identity settled first.
-- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
+- Agencies that resell this work under their own name: see our [white label design](https://ndcompany.in/white-label/design) page.
 
 ## Frequently asked questions
 
@@ -209,7 +209,7 @@ Yes. On full payment, ownership of the final deliverables transfers to you, incl
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Brand Identity Design remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Brand Identity Design remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -217,19 +217,19 @@ Often combined with Brand Identity Design.
 
 ### [Logo Design](https://ndcompany.in/services/logo-design)
 
-Custom logo design and brand identity creation.
+Logo concepts, refinement and lockups, delivered as vector files with the colors and typefaces to use them.
 
 Learn more
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 Learn more
 
 ### [Graphic Design](https://ndcompany.in/services/graphic-design)
 
-Posters, banners, ad creatives, and marketing graphics.
+Social media and ad creatives, posters, brochures, stationery and packaging, print-ready and in every platform size.
 
 Learn more
 
@@ -281,7 +281,7 @@ Google review
 
 Adrija Rivu
 
-yesterday
+3 days ago
 
 ## From our blogs
 
@@ -313,7 +313,7 @@ Guide · 23 Oct 2026
 
 ### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
 
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
+What a logo job and a full identity should each hand over, the sizes and files a logo needs, how to compare quotes, and who owns the logo in the US and UK.
 
 Read the guide
 
@@ -339,6 +339,22 @@ Send a few lines about your business and we will reply with questions or a quote
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"

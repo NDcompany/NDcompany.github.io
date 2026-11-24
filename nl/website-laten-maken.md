@@ -1,16 +1,16 @@
 ---
-title: "Maatwerkwebsite laten maken vanaf € 349 | N&D Co."
-description: "Maatwerkwebsite laten maken: eigen ontwerp vanaf € 349, zakelijke website met CMS voor € 699, webshop of webapp vanaf € 1.499. Met een schriftelijke offerte."
+title: "Website laten maken vanaf € 349 | N&D Co."
+description: "Website laten maken: eigen ontwerp vanaf € 349, zakelijke website met CMS voor € 699, webapp vanaf € 1.499. Met een schriftelijke offerte."
 url: "https://ndcompany.in/nl/website-laten-maken"
 type: "Service"
-image: "https://ndcompany.in/assets/share/website-design-development.png"
+image: "https://ndcompany.in/assets/share/nl-website-laten-maken.png"
 ---
 
 Website laten maken
 
 # Website laten maken: maatwerk met heldere startprijzen
 
-Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We ontwerpen en bouwen maatwerkwebsites voor bedrijven in Nederland, volledig op afstand: van een landingspagina vanaf € 349 tot een webshop of webapplicatie op maat.
+Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We ontwerpen en bouwen maatwerkwebsites voor bedrijven in Nederland, volledig op afstand: van een landingspagina vanaf € 349 tot een webapplicatie op maat.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -18,7 +18,7 @@ Wij zijn N&D Co., een bureau voor branding en online groei in Kolkata, India. We
 
 ## Wat kost het?
 
-Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk, ook wel een custom website genoemd: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.
+Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webapplicatie op maat. Een webshop laten maken begint bij € 1.299. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk, ook wel een custom website genoemd: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.
 
 ## Pakketten en prijzen
 
@@ -72,7 +72,7 @@ Vanaf
 
 schriftelijke offerte vooraf · klaar in 4 tot 6 weken
 
-- Webshop of webapplicatie op maat
+- Webapplicatie op maat
 - Betaalprovider en orderbeheer
 - Gebruikersaccounts, dashboards of boekingssystemen
 - Koppelingen met andere software, zoals afgesproken
@@ -136,7 +136,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost een website laten maken?**
 
-Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webapplicatie op maat; een webshop begint bij € 1.299. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
 
 **Is elke website maatwerk?**
 
@@ -168,7 +168,7 @@ Bij het Business-pakket zitten hosting en domeinnaam het eerste jaar bij de prij
 
 ## Ook in het Nederlands
 
-[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -187,7 +187,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/website-laten-maken#service",
       "name": "Website laten maken: maatwerk met heldere startprijzen",
       "serviceType": "Website laten maken",
-      "description": "Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webshop of webapplicatie. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk, ook wel een custom website genoemd: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.",
+      "description": "Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, en vanaf € 1.499 voor een webapplicatie op maat. Een webshop laten maken begint bij € 1.299. Daarna betaal je alleen nog voor hosting en je domeinnaam; bij het Business-pakket is het eerste jaar inbegrepen. Elke website is maatwerk, ook wel een custom website genoemd: een eigen ontwerp voor jouw bedrijf, ook wanneer we in WordPress bouwen.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -237,8 +237,8 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@type": "WebPage",
       "@id": "https://ndcompany.in/nl/website-laten-maken#webpage",
       "url": "https://ndcompany.in/nl/website-laten-maken",
-      "name": "Maatwerkwebsite laten maken vanaf € 349 | N&D Co.",
-      "description": "Maatwerkwebsite laten maken: eigen ontwerp vanaf € 349, zakelijke website met CMS voor € 699, webshop of webapp vanaf € 1.499. Met een schriftelijke offerte.",
+      "name": "Website laten maken vanaf € 349 | N&D Co.",
+      "description": "Website laten maken: eigen ontwerp vanaf € 349, zakelijke website met CMS voor € 699, webapp vanaf € 1.499. Met een schriftelijke offerte.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -251,7 +251,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "inLanguage": "nl-NL",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/website-design-development.png",
+        "url": "https://ndcompany.in/assets/share/nl-website-laten-maken.png",
         "width": 1200,
         "height": 675
       }

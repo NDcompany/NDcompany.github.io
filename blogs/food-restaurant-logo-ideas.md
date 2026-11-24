@@ -124,15 +124,11 @@ These are logos we designed for food and drink businesses. We describe only what
 
 The [Sunfresso logo](https://ndcompany.in/projects/sunfresso) is drawn in one dark coffee brown on white. A steaming cup on a saucer sits inside a thin arc, with the name below in heavy, rounded capitals and the words Coffee Shop under it. It is lettering plus one simple symbol, and one colour, which makes it the easiest kind of logo to print, stamp or put on a cup.
 
-![Logo of Sunfresso coffee shop: a steaming cup inside a circle](https://ndcompany.in/assets/images/projects/sunfresso-logo.webp)
-
 *Sunfresso, a coffee shop in Kolkata: one brown, a cup and the name.*
 
 ### A restaurant logo as a round badge
 
 The [Taste and Bite logo](https://ndcompany.in/projects/taste-and-bite) for a restaurant in Bhopal is a round badge in black and muted gold on white. A flame burns above a crossed fork and spatula, the name curves around the top, Food and Drink runs along the bottom, and ESTD and 2015 sit on either side. A badge has a lot of fine detail, so it is the kind of logo that needs the small-size test below most.
-
-![Logo of Taste and Bite restaurant: a round badge with a flame, fork and spatula](https://ndcompany.in/assets/images/projects/taste-and-bite-logo.webp)
 
 *Taste and Bite, a restaurant in Bhopal: black and muted gold in a round badge.*
 
@@ -140,23 +136,17 @@ The [Taste and Bite logo](https://ndcompany.in/projects/taste-and-bite) for a re
 
 The [Koustav Kitchen logo](https://ndcompany.in/projects/koustav-kitchen) is a round badge with a cartoon chef in a large cream hat and a black apron, holding up a whisk, with the name on two grey labels below. Koustav Kitchen is a cloud kitchen that sells through Zomato, and a logo on a delivery app is a small picture. A character is one way to be recognised at that size, and it is the rarest choice in our study: 3 of 50.
 
-![Logo of Koustav Kitchen: a chef with a whisk inside a round badge](https://ndcompany.in/assets/images/projects/koustav-kitchen-logo.webp)
-
 *Koustav Kitchen, a cloud kitchen: a cartoon chef in a round badge.*
 
 ### A pub logo with brush lettering
 
 The [North East logo](https://ndcompany.in/projects/north-east-pub-and-bar) for a pub and bar in Jaipur sets the name in a red-orange brush script that arches over two beer mugs clinking, with PUB and BAR in thin capitals underneath. It has no frame or badge, so it stands on a sign or a menu on its own. Script lettering is one of the three most common styles in the chain data (12 of 50), and the thin capitals under it keep the descriptor readable.
 
-![Logo of North East pub and bar: two clinking beer mugs under the name](https://ndcompany.in/assets/images/projects/pub-and-bar-logo.webp)
-
 *North East, a pub and bar in Jaipur: brush script over two beer mugs.*
 
 ### A food chain logo built on a green wordmark
 
 The [Edli Delight logo](https://ndcompany.in/projects/edli-delight) for a South Indian food chain sets edli in heavy, deep green lowercase letters, with delight in white on a green bar below. A drawing of three stacked idlis sits on the right, inside an open brushed ring. Apart from the drawing, it uses two colours, deep green and white, in line with the 16 chains in our study that use two.
-
-![Logo of Edli Delight: the name in green inside a brushed circle, beside a stack of idlis](https://ndcompany.in/assets/images/projects/edli-delight-logo.webp)
 
 *Edli Delight, a South Indian food chain: a green wordmark beside a stack of idlis.*
 
@@ -228,7 +218,7 @@ Guide · 23 Oct 2026
 
 ### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
 
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
+What a logo job and a full identity should each hand over, the sizes and files a logo needs, how to compare quotes, and who owns the logo in the US and UK.
 
 Read the guide
 
@@ -238,7 +228,7 @@ Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
 
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
+Logo sizes for each platform, colour pairs that pass WCAG, font licences, Arabic and English type, voice rules, public examples from GOV.UK and the NHS, and a handover list.
 
 Read the guide
 
@@ -250,13 +240,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [Logo Design](https://ndcompany.in/services/logo-design)
 
-Custom logo design and brand identity creation.
+Logo concepts, refinement and lockups, delivered as vector files with the colors and typefaces to use them.
 
 Learn more
 
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
-Logo design, brand guidelines, and visual identity systems.
+A logo with its palette, typefaces and supporting graphics, written up in a guidelines document your team can follow.
 
 Learn more
 

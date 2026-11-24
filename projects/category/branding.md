@@ -3,7 +3,7 @@ title: "Branding projects by N&D Co., Kolkata"
 description: "Logos and brand identities for new and growing businesses: a seafood wholesaler, a wall texture maker, food brands, a pub, a hair salon and a coffee shop."
 url: "https://ndcompany.in/projects/category/branding"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/share/projects.png"
+image: "https://ndcompany.in/assets/share/category-branding.png"
 ---
 
 Projects
@@ -213,7 +213,7 @@ Send a few lines about what you need and we will reply with questions or a quote
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/projects.png",
+        "url": "https://ndcompany.in/assets/share/category-branding.png",
         "width": 1200,
         "height": 675
       }

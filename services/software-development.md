@@ -18,7 +18,7 @@ We design and build custom software: web applications, CRM systems, customer por
 
 ## What is Software Development?
 
-Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, portals and internal admin tools. Android and iOS apps are a separate service, mobile app development. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for small and mid-sized businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.
+Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, portals and internal admin tools. Android and iOS apps are a separate service, mobile app development. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
 
@@ -214,7 +214,7 @@ Every project includes a 7-day post-delivery support window for minor correction
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Software Development remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Software Development remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -228,13 +228,13 @@ Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
@@ -264,7 +264,17 @@ An applicant portal and case management system for Bangali Oikya Manch, a commun
 
 See the project
 
-[See all projects](https://ndcompany.in/projects)
+Software
+
+Axn Sony
+
+### [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
+
+A Windows app for Axn Sony, an advocate with Bangali Oikya Manch: one form writes all three affidavits an applicant needs. His office went from 3 or 4 clients a day to 20 to 30.
+
+See the project
+
+[See all software projects](https://ndcompany.in/projects/category/software)
 
 ## What clients say
 
@@ -276,13 +286,21 @@ Google review
 
 Mumtaj Ahmad
 
-yesterday
+3 days ago
 
 Google review
 
 "Amazing work, never knew the codebase can be fixed so reliably. Highly recommended"
 
 Bivu
+
+2 months ago
+
+Google review
+
+"Working with N&D Co has been an absolute game-changer for our business. From the initial discovery phase to the final deployment, their team demonstrated top-tier professionalism, deep technical expertise, and an incredible commitment to our vision.They didn't just write code; they took the time to truly understand our business goals and user needs. The communication was seamless throughout the entire software development lifecycle, with regular updates and quick turnarounds on feedback. What impressed me most was their ability to solve complex technical challenges with clean, scalable, and efficient solutions.Thanks to their hard work, our software was delivered on time and within budget, exceeding all of our performance expectations. If you are looking for a reliable, highly skilled, and proactive software development partner, I cannot recommend N&D Co highly enough"
+
+Axn Sony
 
 2 months ago
 
@@ -297,6 +315,16 @@ Bangali Oikya Manch
 ## From our blogs
 
 Guides on the work behind Software Development.
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
 
 Business
 
@@ -318,16 +346,6 @@ Paying an agency does not make the code yours. What US, UK and Indian law say ab
 
 Read the guide
 
-Business
-
-Guide · 31 Oct 2026
-
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
-
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
-
-Read the guide
-
 ## Ready to start?
 
 Send a few lines about your business and we will reply with questions or a quote. Monday to Saturday, 9:00 AM to 6:00 PM IST.
@@ -345,11 +363,27 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/software-development#service",
       "name": "Software Development",
       "serviceType": "Software Development",
-      "description": "Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, portals and internal admin tools. Android and iOS apps are a separate service, mobile app development. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for small and mid-sized businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.",
+      "description": "Software Development at N&D Co. is the design and build of custom business software: web applications, CRM systems, portals and internal admin tools. Android and iOS apps are a separate service, mobile app development. Each project starts with a written agreement covering scope, timeline and price (fixed or hourly), and includes testing, deployment and a post-delivery support window. The service is for businesses that have outgrown spreadsheets and off-the-shelf tools. N&D Co. is based in Barrackpore, Kolkata, and works remotely with businesses worldwide.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"

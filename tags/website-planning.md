@@ -3,7 +3,7 @@ title: "Website planning: posts and guides | N&D Co."
 description: "Decisions to settle before anyone designs or builds your site: its one job, its pages, the content you supply, the platform and a written brief."
 url: "https://ndcompany.in/tags/website-planning"
 type: "CollectionPage"
-image: "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png"
+image: "https://ndcompany.in/assets/share/tag-website-planning.png"
 ---
 
 Tag
@@ -108,22 +108,22 @@ Guide · 23 Oct 2026
 
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
+Decide the site's one job, keep accounts in your name, set speed and accessibility targets, know your privacy duties, and brief every provider alike.
 
 Read the guide
 
 ## Recently updated
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
-- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-  14 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  17 Nov 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  17 Nov 2026
 
 ## Trending tags
 
@@ -146,13 +146,13 @@ If you would rather have the work done for you, these are the services that cove
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
@@ -248,7 +248,7 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/blog/small-business-website-accessibility-study-16x9.png",
+        "url": "https://ndcompany.in/assets/share/tag-website-planning.png",
         "width": 1200,
         "height": 675
       }

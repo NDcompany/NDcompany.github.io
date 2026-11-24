@@ -1,18 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the open-source hub and every open-source project (2 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the open-source hub and every open-source project (4 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/open-source</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/open-source/shoutingtoad</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-overview.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-urls.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-issue.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-serp.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-checks.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-report.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-wcag.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-ai.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-rendered.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-compare.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-migrate.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-links.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/shoutingtoad-ci.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://ndcompany.in/open-source/mailgrab</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/open-source/mailgrab-mcp-architecture.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/open-source/chernobyl</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-session-approval.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-approval-options.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-plan.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-session-running.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-home.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-approvals.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-audit.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-phone-entry.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-inline-approval.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-conversation.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-home.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-approvals.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-sessions.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-alerts.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ndcompany.in/assets/images/open-source/chernobyl-tablet-pair.webp</image:loc>
     </image:image>
   </url>
 </urlset>

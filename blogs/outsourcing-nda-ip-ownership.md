@@ -142,6 +142,8 @@ An NDA (non-disclosure agreement) is a contract that says what information is co
 - Return or deletion of your files and logins at the end, confirmed in writing.
 - Which country's law governs it and where a dispute would be heard.
 
+Logins are easier to take back if you never shared them. Our guide to what access to give a developer, SEO or ads agency shows the right role on each platform and how to remove it.
+
 ### If the agency will handle personal data
 
 If the agency processes personal data for you, such as customer details in a store, an NDA is not enough. For an EU business, the GDPR says that processing by a processor ["shall be governed by a contract or other legal act"](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) setting out the processing and the types of data (article 28(3)), and that the contract "shall be in writing, including in electronic form" (article 28(9)). Ask your data protection adviser to check the rest of the GDPR's rules for your project.
@@ -212,6 +214,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+Business
+
 News · 11 Nov 2026
 
 ### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
@@ -230,16 +242,6 @@ Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36
 
 Read the guide
 
-Business
-
-Insight · 29 Oct 2026
-
-### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-
-Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
-
-Read the post
-
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
 ## How we can help
@@ -248,13 +250,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
@@ -322,7 +324,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "Business",
       "keywords": "Working with an agency, Website planning",
       "genre": "Guide",
-      "wordCount": 2826,
+      "wordCount": 2862,
       "inLanguage": "en-IN"
     },
     {

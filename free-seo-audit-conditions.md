@@ -5,7 +5,7 @@ url: "https://ndcompany.in/free-seo-audit-conditions"
 type: "WebPage"
 published: "2026-10-24"
 modified: "2026-10-26"
-image: "https://ndcompany.in/assets/share/free-seo-audit.png"
+image: "https://ndcompany.in/assets/share/free-seo-audit-conditions.png"
 ---
 
 # Free SEO audit conditions
@@ -97,7 +97,7 @@ Phone: [+91 89021 09455](tel:+918902109455)
       "dateModified": "2026-10-26",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/free-seo-audit.png",
+        "url": "https://ndcompany.in/assets/share/free-seo-audit-conditions.png",
         "width": 1200,
         "height": 675
       }

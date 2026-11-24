@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
 Websites
 
 Guide · 20 Nov 2026
@@ -280,7 +290,7 @@ Guide · 23 Oct 2026
 
 ### [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
 
-Twelve checks in priority order, built on Google's own rules and 2025 and 2026 data: Search Console ownership, indexing, robots.txt, HTTPS, phones, speed in India and schema.
+Twelve checks, in order, to find out if Google can crawl, index and show your pages, with October 2026 Core Web Vitals data for the US and UK.
 
 Read the guide
 
@@ -290,7 +300,7 @@ Guide · 23 Oct 2026
 
 ### [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
 
-Decide the site's one job, sketch it at phone width, keep the domain and logins in the business's name, and send every provider one brief with speed and accessibility targets.
+Decide the site's one job, keep accounts in your name, set speed and accessibility targets, know your privacy duties, and brief every provider alike.
 
 Read the guide
 
@@ -300,7 +310,7 @@ Guide · 23 Oct 2026
 
 ### [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
 
-What a logo job and a full identity should each hand over, the sizes and files a logo needs, who owns it under Indian law, and what registering it as a trade mark costs.
+What a logo job and a full identity should each hand over, the sizes and files a logo needs, how to compare quotes, and who owns the logo in the US and UK.
 
 Read the guide
 
@@ -310,7 +320,7 @@ Guide · 23 Oct 2026
 
 ### [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
 
-September 2026 data on how websites score on phones for visitors in India, what LCP, INP and CLS measure, why pages load slowly and what to ask your developer.
+October 2026 data on how websites score on phones in the US, UK and worldwide, what LCP, INP and CLS measure, what Google says about rankings and how to check yours.
 
 Read the guide
 
@@ -320,7 +330,7 @@ Guide · 23 Oct 2026
 
 ### [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
 
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
+Eligibility, verification, categories, hours, photos, reviews within Google's and the FTC's rules, agency rules, and Bing Places and Apple Business Connect.
 
 Read the guide
 
@@ -330,22 +340,22 @@ Guide · 23 Oct 2026
 
 ### [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
 
-Logo sizes for each platform, colour pairs that pass WCAG, font licences and Indian-script fonts, voice rules, a review checklist and a handover list.
+Logo sizes for each platform, colour pairs that pass WCAG, font licences, Arabic and English type, voice rules, public examples from GOV.UK and the NHS, and a handover list.
 
 Read the guide
 
 ## Recently updated
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   17 Nov 2026
-- [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-  14 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
-  14 Nov 2026
+- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
+  17 Nov 2026
+- [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
+  17 Nov 2026
 
 ## Trending tags
 
@@ -368,31 +378,31 @@ If you would rather have the work done for you, these are the services that cove
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
-Logo design, brand guidelines, and visual identity systems.
+A logo with its palette, typefaces and supporting graphics, written up in a guidelines document your team can follow.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 Learn more
 
@@ -442,6 +452,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/app-development-cost-india#article",
+          "headline": "How much does app development cost in India? A guide for US and UK buyers",
+          "description": "What app development costs in India in 2026: our US dollar prices, 22 Indian agencies, US and UK developer pay, store fees and running costs buyers forget.",
+          "image": "https://ndcompany.in/assets/blog/app-development-cost-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/app-development-cost-india",
+          "datePublished": "2026-11-24T00:00:00+05:30",
+          "dateModified": "2026-11-24T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/free-online-store-whatsapp-orders#article",
@@ -784,11 +807,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/technical-seo-checklist#article",
           "headline": "Technical SEO checklist for small business websites",
-          "description": "Twelve technical SEO checks for a small business website, in priority order: Search Console, indexing, robots.txt, sitemap, HTTPS, phones, speed and schema.",
+          "description": "A 12-step technical SEO checklist for small business sites: Search Console, robots.txt, sitemaps, HTTPS, Core Web Vitals, AI crawlers and Bing.",
           "image": "https://ndcompany.in/assets/blog/technical-seo-checklist-16x9.png",
           "url": "https://ndcompany.in/blogs/technical-seo-checklist",
           "datePublished": "2026-10-23T00:00:00+05:30",
-          "dateModified": "2026-10-30T00:00:00+05:30",
+          "dateModified": "2026-11-17T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }
@@ -797,11 +820,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/plan-a-business-website#article",
           "headline": "How to plan a business website before you hire anyone",
-          "description": "Plan a business website before you hire: set its one job, sketch pages for phones, keep the domain in your name and copy our one-page brief for quotes.",
+          "description": "Plan a business website before you hire: set its one job, own your domain, build in accessibility and privacy, and send every provider one brief.",
           "image": "https://ndcompany.in/assets/blog/plan-a-business-website-16x9.png",
           "url": "https://ndcompany.in/blogs/plan-a-business-website",
           "datePublished": "2026-10-23T00:00:00+05:30",
-          "dateModified": "2026-10-23T00:00:00+05:30",
+          "dateModified": "2026-11-17T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }
@@ -810,11 +833,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/logo-vs-brand-identity#article",
           "headline": "Logo vs brand identity: what you are paying for",
-          "description": "A logo is one mark; a brand identity is the system around it. See what each includes, who owns your logo in India and how to register it as a trademark.",
+          "description": "A logo is one mark; a brand identity is the system around it. See what each includes, how to compare quotes, and who owns a logo in the US and UK.",
           "image": "https://ndcompany.in/assets/blog/logo-vs-brand-identity-16x9.png",
           "url": "https://ndcompany.in/blogs/logo-vs-brand-identity",
           "datePublished": "2026-10-23T00:00:00+05:30",
-          "dateModified": "2026-10-23T00:00:00+05:30",
+          "dateModified": "2026-11-17T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }
@@ -823,11 +846,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/core-web-vitals-explained#article",
           "headline": "Core Web Vitals explained for business owners",
-          "description": "What LCP, INP and CLS measure, the marks a page must hit to pass, how websites score on phones in India and what to ask your developer to fix.",
+          "description": "What LCP, INP and CLS measure, Google's thresholds, how websites score on phones in the US, UK and worldwide in October 2026, and how to check yours.",
           "image": "https://ndcompany.in/assets/blog/core-web-vitals-explained-16x9.png",
           "url": "https://ndcompany.in/blogs/core-web-vitals-explained",
           "datePublished": "2026-10-23T00:00:00+05:30",
-          "dateModified": "2026-10-28T00:00:00+05:30",
+          "dateModified": "2026-11-17T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }
@@ -836,11 +859,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/google-business-profile-guide#article",
           "headline": "Google Business Profile: a setup and upkeep guide for local businesses",
-          "description": "Set up and verify a Google Business Profile (formerly Google My Business) in India, ask for reviews within Google's rules and avoid suspensions.",
+          "description": "Set up, verify and keep a Google Business Profile current: eligibility, categories, reviews within Google's rules, agencies, plus Bing Places and Apple.",
           "image": "https://ndcompany.in/assets/blog/google-business-profile-guide-16x9.png",
           "url": "https://ndcompany.in/blogs/google-business-profile-guide",
           "datePublished": "2026-10-23T00:00:00+05:30",
-          "dateModified": "2026-10-28T00:00:00+05:30",
+          "dateModified": "2026-11-17T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }
@@ -849,11 +872,11 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/brand-style-guide#article",
           "headline": "What goes into a brand style guide, and how to use one",
-          "description": "What brand guidelines need: logo versions and platform sizes, colour pairs that pass contrast checks, font licences, Indian scripts, voice rules and templates.",
+          "description": "What brand guidelines need: logo versions and platform sizes, colour pairs that pass WCAG contrast, font licences, Arabic type notes, voice rules and templates.",
           "image": "https://ndcompany.in/assets/blog/brand-style-guide-16x9.png",
           "url": "https://ndcompany.in/blogs/brand-style-guide",
           "datePublished": "2026-10-23T00:00:00+05:30",
-          "dateModified": "2026-10-23T00:00:00+05:30",
+          "dateModified": "2026-11-17T00:00:00+05:30",
           "author": {
             "@id": "https://ndcompany.in/#founder"
           }

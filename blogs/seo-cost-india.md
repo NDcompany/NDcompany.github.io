@@ -15,7 +15,7 @@ image: "https://ndcompany.in/assets/blog/seo-cost-india-16x9.png"
 
 Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 31 October 2026 Updated 6 November 2026 11 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 31 October 2026 Updated 6 November 2026 12 min read
 
 The SEO price in India is usually a monthly charge: a retainer costs a median of ₹25,000 across published packages, and ₹15,000 at the cheapest tier of the agencies that publish prices. On 29 October 2026 we read the websites of 108 Indian agencies, and 15 of them showed monthly SEO prices in rupees, 37 packages in all. The cheapest package was ₹5,000 a month and the dearest ₹2,00,000, with the middle half between ₹15,000 and ₹45,000. Almost all of it is sold by the month: 37 of the 38 SEO prices we recorded were monthly. Our own SEO packages start at ₹7,999 a month.
 
@@ -26,6 +26,8 @@ Key takeaways
 - Price follows scope: the number of keywords, content pieces and links, and the kind of site. One agency charged ₹35,000, ₹45,000 and ₹65,000 for a small business, a mid-size business and an online store.
 - Google says "No one can guarantee a #1 ranking on Google" and counts bulk or bought links as spam.
 - GST of 18% is added by registered agencies. Only 2 of the 16 agencies with an SEO price said so on their site.
+
+Hiring from the US, the UK or Europe? Indian agencies that sell abroad usually price in US dollars, not rupees. In our [study of 37 Indian SEO agencies that target clients abroad](https://ndcompany.in/blogs/choose-seo-agency-india), the 10 that publish dollar prices start their entry packages between $150 and $525 a month, with a median of $213, and the median of all 24 dollar packages is $362 a month. The rupee figures below are what the same market charges businesses in India.
 
 ## What ways are there to pay for SEO?
 
@@ -40,7 +42,7 @@ There are four models. Our survey found one of them in real use.
 | One-off audit | A written review of what is wrong and what to fix | No paid audit price. Several agencies offer a free audit before you commit. |
 | Hourly | Time, billed as used | No SEO price was hourly. The only hourly rates we saw were for other work, such as ₹1,200 an hour for extra social media time. |
 
-Retainers dominate because SEO work pays off slowly. Google's SEO starter guide says "some changes might take effect in a few hours, others could take several months" ([Google's SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)). Work that never ends is sold by the month. If you want a price for a single audit or a few hours of advice, you will have to ask for a quote, because you will not find a benchmark on most agency sites. At N&D Co. the audit is the first step of every monthly package, and our [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) gives you a first look before you decide.
+Retainers dominate because SEO work pays off slowly. Google's SEO starter guide says "some changes might take effect in a few hours, others could take several months" ([Google's SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)). Our guide to how long SEO takes sets out Google's own timings and our new site's first weeks. Work that never ends is sold by the month. If you want a price for a single audit or a few hours of advice, you will have to ask for a quote, because you will not find a benchmark on most agency sites. At N&D Co. the audit is the first step of every monthly package, and our [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) gives you a first look before you decide.
 
 ## What are SEO charges per month in India?
 
@@ -162,7 +164,7 @@ For most businesses, yes, as long as you judge it against sites like yours. Kevi
 
 ## What do our SEO packages cost?
 
-We are an agency, so here are our own published prices, in rupees and dollars a month. Starter is ₹7,999 ($129) for a small local business or a new site, and includes an initial technical audit, on-page work on core pages, Google Business Profile setup, Search Console and Analytics, a monthly report and 3 blog posts a month. Growth is ₹14,999 ($239) and adds monthly keyword research, 8 blog posts a month, schema, internal linking and link outreach. Custom starts at ₹24,999 for large or multi-location sites and online stores. Of the 37 packages in the survey, 2 started below Starter, 4 below Growth and 17 below Custom. We do not guarantee rankings, and each fee is set in a written quote before work starts. Every tier is on our [SEO services](https://ndcompany.in/services/seo-services) page and our [pricing page](https://ndcompany.in/pricing).
+We are an agency, so here are our own published prices for businesses in India, a month. Starter is ₹7,999 for a small local business or a new site, and includes an initial technical audit, on-page work on core pages, Google Business Profile setup, Search Console and Analytics, a monthly report and 3 blog posts a month. Growth is ₹14,999 and adds monthly keyword research, 8 blog posts a month, schema, internal linking and link outreach. Custom starts at ₹24,999 for large or multi-location sites and online stores. Clients outside India see our prices in their own currency on the SEO services page. Of the 37 packages in the survey, 2 started below Starter, 4 below Growth and 17 below Custom. We do not guarantee rankings, and each fee is set in a written quote before work starts. Every tier is on our [SEO services](https://ndcompany.in/services/seo-services) page and our [pricing page](https://ndcompany.in/pricing).
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [SEO audits](https://ndcompany.in/tags/seo-audits)
@@ -224,13 +226,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
@@ -292,7 +294,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Working with an agency, SEO audits",
       "genre": "Guide",
-      "wordCount": 2460,
+      "wordCount": 2570,
       "inLanguage": "en-IN"
     },
     {

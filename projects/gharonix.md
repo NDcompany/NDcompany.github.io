@@ -15,7 +15,7 @@ A property marketplace for Lucknow: listings checked before they go live, 62 loc
 - **Client:** Gharonix
 - **Place:** Lucknow, Uttar Pradesh
 - **Services:** [Software Development](https://ndcompany.in/services/software-development), [Website Design & Development](https://ndcompany.in/services/website-design-development), [Brand Identity Design](https://ndcompany.in/services/brand-identity-design), [SEO Services](https://ndcompany.in/services/seo-services), [Content Creation](https://ndcompany.in/services/content-creation)
-- **Categories:** [Software](https://ndcompany.in/projects?category=software), [Websites](https://ndcompany.in/projects?category=web), [Branding](https://ndcompany.in/projects/category/branding), [SEO](https://ndcompany.in/projects?category=seo)
+- **Categories:** [Software](https://ndcompany.in/projects/category/software), [Websites](https://ndcompany.in/projects?category=web), [Branding](https://ndcompany.in/projects/category/branding), [SEO](https://ndcompany.in/projects?category=seo)
 - **Leads:** 4,500 to 5,300 a month, by Gharonix's count
 - **Locality pages:** 62
 - **Built with:** Next.js, PostgreSQL, Prisma, Vercel
@@ -192,7 +192,7 @@ Google review
 
 Mumtaj Ahmad
 
-yesterday
+3 days ago
 
 ## Frequently asked questions
 
@@ -232,6 +232,16 @@ Often at the start, because a script for a 99acres or MagicBricks style site is 
 
 Guides from our blogs on the same kind of work.
 
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
 Websites
 
 Guide · 20 Nov 2026
@@ -252,16 +262,6 @@ Google's November 2026 core update had not finished by day 7. What Google says, 
 
 Read the post
 
-SEO
-
-Insight · 14 Nov 2026
-
-### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-
-Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
-
-Read the post
-
 ## More projects
 
 Software
@@ -274,23 +274,23 @@ An applicant portal and case management system for Bangali Oikya Manch, a commun
 
 See the project
 
-Websites
+Software
 
-Sokher Alankar, Bengal, India
+Axn Sony
 
-### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+### [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
 
-A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
+A Windows app for Axn Sony, an advocate with Bangali Oikya Manch: one form writes all three affidavits an applicant needs. His office went from 3 or 4 clients a day to 20 to 30.
 
 See the project
 
-Branding
+Software
 
-Sea Seven Fish, Northeast India
+Michael L., United States
 
-### [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
+### [Click-to-paste tool for Excel price lists](https://ndcompany.in/projects/excel-click-to-paste-tool)
 
-A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 18 logo concepts, a fish with a fin of mountain peaks, a blue palette, a seal and business cards.
+A Windows tool for a US client who fills long supplier price lists in Excel: copy a value once, then one click pastes it into any cell. Five builds in three days, rated five stars on Freelancer.
 
 See the project
 
@@ -473,6 +473,12 @@ Tell us about your business in a few lines and we will reply with questions or a
         {
           "@type": "ListItem",
           "position": 3,
+          "name": "Software",
+          "item": "https://ndcompany.in/projects/category/software"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
           "name": "Gharonix"
         }
       ]

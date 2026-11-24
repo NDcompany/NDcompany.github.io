@@ -1,9 +1,9 @@
 ---
 title: "White Label Shopify Development in India | N&D Co."
-description: "White label Shopify development from India for agencies: stores built to your brief, plus Shopify SEO and ads, unbranded, your NDA signed, USD prices."
+description: "White label Shopify and e-commerce development from India for agencies: stores built to your brief, plus Shopify SEO and ads, unbranded, your NDA signed."
 url: "https://ndcompany.in/white-label/shopify"
 type: "Service"
-image: "https://ndcompany.in/assets/share/ecommerce-solutions.png"
+image: "https://ndcompany.in/assets/share/white-label-shopify.png"
 ---
 
 White label Shopify
@@ -20,7 +20,7 @@ We build Shopify stores for your clients under your agency's name, then run thei
 
 Our white-label Shopify work is the same as our own e-commerce, SEO and digital marketing work, with your agency's name on everything instead of ours. You send the brief and your client's brand files, we build and test the store, and you hand it over as your own. Store builds are quoted per project with a 7-day support window after delivery; SEO and ads run month to month on a scope set in writing, and you can end them with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
 
 ## What you can resell
 
@@ -218,7 +218,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "@id": "https://ndcompany.in/white-label/shopify#webpage",
       "url": "https://ndcompany.in/white-label/shopify",
       "name": "White Label Shopify Development in India | N&D Co.",
-      "description": "White label Shopify development from India for agencies: stores built to your brief, plus Shopify SEO and ads, unbranded, your NDA signed, USD prices.",
+      "description": "White label Shopify and e-commerce development from India for agencies: stores built to your brief, plus Shopify SEO and ads, unbranded, your NDA signed.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
@@ -231,7 +231,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/ecommerce-solutions.png",
+        "url": "https://ndcompany.in/assets/share/white-label-shopify.png",
         "width": 1200,
         "height": 675
       }

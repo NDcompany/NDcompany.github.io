@@ -174,7 +174,7 @@ Make two decisions, separately, and then check that your site says what you deci
 3. **Check what your site actually says.** Open `yourdomain.com/robots.txt` in a browser. If it shows `Disallow: /` under `User-agent: *` and you are not a site in progress, fix it today. If it shows Cloudflare's marker, the rules came from your Cloudflare settings, so change them there. If the address shows an error page with a 5xx code, ask whoever hosts your site to fix it.
 4. **Do not pay for an llms.txt.** If your platform makes one, leave it. If it does not, it is optional, and Google says its search ignores it.
 
-Our [free SEO audit](https://ndcompany.in/free-seo-audit) checks robots.txt, whether pages are blocked from crawlers and how ready a site is for AI search, and emails the report as a PDF. For the rest of the basics, see our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist).
+Our [free SEO audit](https://ndcompany.in/free-seo-audit) checks robots.txt, whether pages are blocked from crawlers and how ready a site is for AI search, and emails the report as a PDF. For the rest of the basics, see our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist). To test a site yourself, [ShoutingToad, our free and open-source SEO spider](https://ndcompany.in/open-source/shoutingtoad), requests your pages as the AI crawlers do after a crawl and shows whether robots.txt or a firewall is turning each one away.
 
 ## The data
 
@@ -248,13 +248,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
@@ -316,7 +316,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "AI search, Technical SEO",
       "genre": "Insight",
-      "wordCount": 2461,
+      "wordCount": 2497,
       "inLanguage": "en-IN"
     },
     {

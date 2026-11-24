@@ -31,15 +31,11 @@ Key takeaways
 
 One dish, one price and one button. The steamed momo creative we designed for [Kebabiyana, a restaurant whose ads and social media we ran](https://ndcompany.in/projects/kebabiyana), does exactly that. The dish name runs across a mustard yellow square in tall white capitals, a black plate of six momos overlaps it, and a dark brown burst reads "ONLY 59/-", which is ₹59. A hand-drawn arrow leads to a white "Order now!" button. Apart from two small labels in the top corners and the logo, there are no other words. Someone who stops scrolling for a second learns what it is, what it costs and what to do.
 
-![Steamed momo post for Kebabiyana: the dish on a black plate with a 59 rupee price and an Order now button](https://ndcompany.in/assets/images/projects/kebabiyana-steamed-momo-poster.webp)
-
 *Kebabiyana's steamed momo creative: one dish, one price, one button.*
 
 ## 2. A limited-time discount on one dish
 
 A discount gives people a reason to act this week rather than someday. Our BBQ chicken wings creative for Kebabiyana goes dark: a black background with orange embers, a white plate of glazed wings in the middle, a red "10% DISCOUNT" starburst on one side and a red "PRICE 89/-" tag on the other. One line of copy starts with "Limited Time Offer", and the button reads "Visit Now!" instead of asking for an order. Where the momo creative sells delivery, this one asks people to come in. Decide which you want before the design starts, because the button and the copy follow from it.
-
-![BBQ chicken wings offer creative for Kebabiyana: a plate of glazed wings on a black background with a 10% discount badge and a price tag reading 89](https://ndcompany.in/assets/images/projects/kebabiyana-bbq-chicken-wings.webp)
 
 *The BBQ chicken wings offer: a discount, a price and a Visit Now button.*
 
@@ -49,15 +45,11 @@ Weekend hours, a happy hour or a slow weekday evening are easy to fill with a fi
 
 If your ad shows alcohol, check the platform rules first. [Meta's alcohol ad policy](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/alcohol/) says such ads may not target anyone under 18, sets higher ages in some countries (21 in the US) and bans alcohol ads in others, including the UAE, Bangladesh and some Indian states. Google's [Business Profile posts policy](https://support.google.com/business/answer/7662907?hl=en) lets bars post but asks them to leave alcohol out of the content. This is a summary of the platforms' pages, not legal advice.
 
-![Pio Bhai offer creative for Dream Bar: weekend hours and a 30% off stamp beside a glass of beer](https://ndcompany.in/assets/images/projects/dream-bar-pio-bhai-poster.webp)
-
 *Dream Bar's Pio Bhai offer: days, hours and address on the left, the drink on the right.*
 
 ## 4. Your best seller, with a badge
 
 Calling a dish your best seller tells a new customer what to try first. In our medu vada creative, from a set of [food posts and ad creatives we made as samples](https://ndcompany.in/projects/food-poster-series), BEST SELLER curves over a plate of medu vada on banana leaves, a red scalloped badge reads "GET 50% OFF" and a green "ORDER NOW" button sits below. Marigolds hang across the top. The restaurant name is a stand-in, as this was a sample. Only use the words best seller if it is true of your menu.
-
-![Medu vada offer post: a plate of medu vada on banana leaves, a red Get 50% off badge, Best Seller and Medu Vada in green and an Order now button](https://ndcompany.in/assets/images/projects/medu-vada-poster.webp)
 
 *A 4:5 best seller post with a 50% off badge, from our food samples.*
 
@@ -65,15 +57,11 @@ Calling a dish your best seller tells a new customer what to try first. In our m
 
 Not every ad needs a discount. Our square creative for [Wafflery's, a waffle shop in Kolkata](https://ndcompany.in/projects/wafflerys), shows a chocolate waffle on a fork in front of the shop's name, with the tagline "Indulge in goodness like never before" and the address beside a map pin. There is no price and no offer. The ad is about one product and where to buy it. Mixing a few of these in with your offer ads keeps the feed from reading like a price list.
 
-![Chocolate waffle creative for Wafflery's: a waffle on a fork in front of the shop's name](https://ndcompany.in/assets/images/projects/wafflerys-chocolate-waffle-poster.webp)
-
 *Wafflery's: one product, a tagline and the address, with no offer.*
 
 ## 6. A recurring event, like a weekly brunch
 
 For a weekly event, the day and the hours matter most. Our Kolkata Brunch design announces a brunch every Saturday from 10am to 2pm: a top-down photo of a brunch table in a tall rounded frame, a ribbon reading "Every Saturday Morning" and the hours on a pink-red block. The same event can go on your Google listing. Google lets a Business Profile publish [updates, offers and events](https://support.google.com/business/answer/7662907?hl=en), and our [Google Business Profile guide](https://ndcompany.in/blogs/google-business-profile-guide) covers setting the listing up.
-
-![Kolkata Brunch design: a top-down brunch spread in a tall rounded frame, a ribbon reading Every Saturday Morning and From 10am-2pm on a pink-red block](https://ndcompany.in/assets/images/projects/kolkata-brunch-poster.webp)
 
 *Kolkata Brunch: a weekly slot, the day and the hours.*
 
@@ -81,15 +69,11 @@ For a weekly event, the day and the hours matter most. Our Kolkata Brunch design
 
 A short line about how the food feels can carry a post that has no offer. Our biryani creative sets "It's not just food, it's an emotion." above BIRYANI in very large dark red capitals. A clay bowl of chicken biryani sits in front of the word, with steam drifting across the last letters, and two lines below describe the rice, meat and spices. The line is short and the dish is still the largest thing on screen.
 
-![Biryani post: a clay bowl of chicken biryani in front of the word Biryani in large dark red letters on red, with steam drifting across the last letters](https://ndcompany.in/assets/images/projects/biryani-poster.webp)
-
 *The biryani post: a one-line craving headline over the dish.*
 
 ## 8. A dark, close food shot that stands out in the feed
 
 A dark frame is one way to look different from the posts around it. Our Healthy Chicken Wrap creative puts two halves of a grilled chicken wrap on a wooden table at the bottom of a black frame, with flames on one side and "Healthy" in an orange brush script over CHICKEN WRAP in heavy white capitals. It has no restaurant name, price or address, which is fine for a brand post but not for an ad: before you pay to show it, add your logo and one reason to act.
-
-![Healthy Chicken Wrap post: two halves of a chicken wrap on a wooden table below the headline, with flames on the left of a black background](https://ndcompany.in/assets/images/projects/chicken-wrap-poster.webp)
 
 *The chicken wrap post: dark, close and simple. As an ad it would need a name and an offer.*
 
@@ -131,8 +115,6 @@ Most of our creatives above are 1:1 squares or 4:5 portraits. Both fit Meta's fe
 
 Read your Page's own insights in Meta, before and after a change, rather than counting likes. The screenshot below is the Facebook Page insights we posted for [Kebabiyana](https://ndcompany.in/projects/kebabiyana) on 11 June 2025, covering 13 May to 9 June 2025: 3.7K views and 2K reach, with 93% of the views from people who did not follow the Page, 115 content interactions and 22 follows. Under the totals, Meta lists each recent post with its own figures, which is where you see which creative pulled its weight. These are Meta's figures for the whole Page, not a measure of the creatives alone, and one restaurant's month says nothing certain about yours.
 
-![Meta insights for the Kebabiyana Facebook Page, 13 May to 9 June 2025: 3.7K views, 2K reach, 115 content interactions and 22 follows, above five recent posts including Lahori Tangdi Kabab and Flavorsome Kebab creatives](https://ndcompany.in/assets/images/projects/kebabiyana-facebook-insights-2025.webp)
-
 *Kebabiyana's Facebook Page insights, 13 May to 9 June 2025, as Meta reported them.*
 
 ## A checklist before you run a restaurant ad
@@ -154,6 +136,7 @@ We design posts and ad creatives, edit reels, run ads and manage social media fo
 
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
+- [Online advertising](https://ndcompany.in/tags#online-advertising)
 
 ## Share this post
 
@@ -173,6 +156,16 @@ We design posts and ad creatives, edit reels, run ads and manage social media fo
 CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
 
 ## Keep reading
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
 
 Websites
 
@@ -194,16 +187,6 @@ Google's November 2026 core update had not finished by day 7. What Google says, 
 
 Read the post
 
-SEO
-
-Insight · 14 Nov 2026
-
-### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-
-Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
-
-Read the post
-
 [More on Marketing](https://ndcompany.in/blogs/topic/marketing)
 
 ## How we can help
@@ -212,19 +195,19 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Content planning, posting, and audience growth strategies.
+A monthly content calendar, designed posts and captions, reels, scheduled publishing and replies to your audience.
 
 Learn more
 
 ### [Graphic Design](https://ndcompany.in/services/graphic-design)
 
-Posters, banners, ad creatives, and marketing graphics.
+Social media and ad creatives, posters, brochures, stationery and packaging, print-ready and in every platform size.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
@@ -284,7 +267,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         "@id": "https://ndcompany.in/blogs#blog"
       },
       "articleSection": "Marketing",
-      "keywords": "Social media creatives, Food and drink branding",
+      "keywords": "Social media creatives, Food and drink branding, Online advertising",
       "genre": "Tips",
       "wordCount": 2112,
       "inLanguage": "en-IN"

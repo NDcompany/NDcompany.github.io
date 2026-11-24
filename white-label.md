@@ -20,7 +20,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Mobile apps are custom apps only, built for your client and published in your client's own Google Play and App Store accounts. Every quote is set in writing before work starts.
 
-These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [white label Google Ads and PPC management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
 
 ## How it works
 
@@ -99,6 +99,14 @@ We do the work and your agency sells it as its own. Your client deals only with 
 **Will my client ever know you did the work?**
 
 Not from us. We sign your NDA, leave our name off every file, report and site, and never contact your client. If you want us on a call with them, we join as part of your team.
+
+**What do you need from us to start?**
+
+The brief, the scope and the deadline you agreed with your client, the client's brand files and any content they supply, and access to their accounts arranged through you, with an email address of your choosing if you want one. Send your NDA first if you want it signed before you share client details. We reply with questions or a written quote.
+
+**Can we try you on one small job first?**
+
+Yes. Any single job is quoted in writing like a larger one, so you can start small: one white label SEO audit from $149, with your logo or no branding on the report, lets you judge our work before a bigger project.
 
 **Which services can we buy white label?**
 

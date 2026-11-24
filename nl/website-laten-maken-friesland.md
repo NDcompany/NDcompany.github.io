@@ -3,7 +3,7 @@ title: "Website laten maken in Friesland vanaf € 349 | N&D Co."
 description: "Website laten maken of webdesign voor je bedrijf in Friesland, van Leeuwarden tot Heerenveen en Sneek: op afstand, vanaf € 349, met een schriftelijke offerte."
 url: "https://ndcompany.in/nl/website-laten-maken-friesland"
 type: "Service"
-image: "https://ndcompany.in/assets/share/website-design-development.png"
+image: "https://ndcompany.in/assets/share/nl-website-laten-maken-friesland.png"
 ---
 
 Webdesign voor Friesland
@@ -18,7 +18,7 @@ We hebben geen kantoor in Friesland: we werken volledig op afstand vanuit Kolkat
 
 ## Wat kost het?
 
-Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webshop of webapplicatie. Waar in Friesland je zit, maakt voor de prijs geen verschil.
+Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webapplicatie op maat. Waar in Friesland je zit, maakt voor de prijs geen verschil.
 
 ## Een website voor je bedrijf in Friesland
 
@@ -90,7 +90,7 @@ Vanaf
 
 schriftelijke offerte vooraf · klaar in 4 tot 6 weken
 
-- Webshop of webapplicatie op maat
+- Webapplicatie op maat
 - Betaalprovider en orderbeheer
 - Gebruikersaccounts, dashboards of boekingssystemen
 - Koppelingen met andere software, zoals afgesproken
@@ -158,7 +158,7 @@ Nee. We zitten in Kolkata, India, en werken volledig op afstand: gesprekken via 
 
 **Wat kost een website laten maken in Friesland?**
 
-Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webshop of webapplicatie, overal in Friesland hetzelfde. Je definitieve prijs staat in een schriftelijke offerte.
+Bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met CMS en vanaf € 1.499 voor een webapplicatie op maat; een webshop begint bij € 1.299. Die prijzen gelden overal in Friesland. Je definitieve prijs staat in een schriftelijke offerte.
 
 **Kan mijn website ook in het Fries?**
 
@@ -174,7 +174,7 @@ Ja. Een boekings- of reserveringssysteem, eventueel met een online betaalmogelij
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -193,7 +193,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/website-laten-maken-friesland#service",
       "name": "Website laten maken in Friesland",
       "serviceType": "Website laten maken in Friesland",
-      "description": "Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webshop of webapplicatie. Waar in Friesland je zit, maakt voor de prijs geen verschil.",
+      "description": "Een website laten maken kost bij ons € 349 voor een landingspagina of kleine website, € 699 voor een zakelijke website met meerdere pagina's en een CMS, met het eerste jaar hosting en domeinnaam inbegrepen, en vanaf € 1.499 voor een webapplicatie op maat. Waar in Friesland je zit, maakt voor de prijs geen verschil.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -257,7 +257,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "inLanguage": "nl-NL",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/website-design-development.png",
+        "url": "https://ndcompany.in/assets/share/nl-website-laten-maken-friesland.png",
         "width": 1200,
         "height": 675
       }

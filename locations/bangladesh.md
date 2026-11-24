@@ -3,7 +3,7 @@ title: "Web Design & Digital Marketing in Bangladesh | N&D Co."
 description: "N&D Co. serves businesses in Bangladesh remotely from Kolkata: websites, e-commerce, branding, SEO and marketing, in Bengali and English, in your timezone."
 url: "https://ndcompany.in/locations/bangladesh"
 type: "Service"
-image: "https://ndcompany.in/assets/share/locations.png"
+image: "https://ndcompany.in/assets/share/locations-bangladesh.png"
 ---
 
 Serving Bangladesh from Kolkata
@@ -44,37 +44,37 @@ Every service is delivered remotely to businesses in Bangladesh.
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 
@@ -104,7 +104,7 @@ Everything runs remotely over calls and email. Our hours are Mon to Sat, 9:00 AM
 
 ## We also work with businesses in
 
-[India](https://ndcompany.in/locations/india) · [USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands) · [UAE](https://ndcompany.in/locations/uae)
+[USA](https://ndcompany.in/locations/usa) · [Netherlands](https://ndcompany.in/locations/netherlands) · [UAE](https://ndcompany.in/locations/uae) · [India](https://ndcompany.in/locations/india)
 
 [Every country we work with, and how remote projects run](https://ndcompany.in/locations)
 
@@ -156,7 +156,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/locations.png",
+        "url": "https://ndcompany.in/assets/share/locations-bangladesh.png",
         "width": 1200,
         "height": 675
       }

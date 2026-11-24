@@ -210,13 +210,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Content Creation](https://ndcompany.in/services/content-creation)
 
-SEO content, blogs, and social media content.
+SEO blog posts, website copy, product descriptions and social captions, planned in a content calendar.
 
 Learn more
 

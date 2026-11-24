@@ -15,7 +15,7 @@ An applicant portal and case management system for Bangali Oikya Manch, a commun
 - **Client:** Bangali Oikya Manch
 - **Place:** Madhyamgram, West Bengal
 - **Service:** [Software Development](https://ndcompany.in/services/software-development)
-- **Categories:** [Software](https://ndcompany.in/projects?category=software), [Systems](https://ndcompany.in/projects?category=systems)
+- **Categories:** [Software](https://ndcompany.in/projects/category/software), [Systems](https://ndcompany.in/projects?category=systems)
 - **Roles:** Applicant, admin, super admin
 - **Built with:** PHP, MySQL-compatible database
 - **Access:** Private
@@ -90,7 +90,7 @@ Everything about a case is linked to one record: the applicant's details, docume
 - Document management linked to each case
 - Notifications in the portal and by email
 - Appointment records linked to each case
-- Supporting documents generated from Word templates
+- Supporting documents generated from Word templates (and, for people who visit an advocate's office instead, a [desktop app that writes the same documents](https://ndcompany.in/projects/affidavit-generator-software))
 - Reports with PDF and CSV export
 - Activity and system logs
 
@@ -462,6 +462,16 @@ Guides from our blogs on the same kind of work.
 
 Business
 
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+Business
+
 News · 11 Nov 2026
 
 ### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
@@ -480,17 +490,27 @@ Paying an agency does not make the code yours. What US, UK and Indian law say ab
 
 Read the guide
 
-Business
-
-Guide · 31 Oct 2026
-
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
-
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
-
-Read the guide
-
 ## More projects
+
+Software
+
+Axn Sony
+
+### [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
+
+A Windows app for Axn Sony, an advocate with Bangali Oikya Manch: one form writes all three affidavits an applicant needs. His office went from 3 or 4 clients a day to 20 to 30.
+
+See the project
+
+Software
+
+Michael L., United States
+
+### [Click-to-paste tool for Excel price lists](https://ndcompany.in/projects/excel-click-to-paste-tool)
+
+A Windows tool for a US client who fills long supplier price lists in Excel: copy a value once, then one click pastes it into any cell. Five builds in three days, rated five stars on Freelancer.
+
+See the project
 
 Software
 
@@ -499,26 +519,6 @@ Gharonix, Lucknow, Uttar Pradesh
 ### [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
 
 A property marketplace for Lucknow: listings checked before they go live, 62 locality pages, a live map, buyer tools and an admin console. Gharonix counts 4,500 to 5,300 leads a month.
-
-See the project
-
-Websites
-
-Sokher Alankar, Bengal, India
-
-### [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
-
-A brand identity and a free online store on Blogger for Sokher Alankar, handmade Bengali jewellery by one maker: 42 products, orders on WhatsApp by product code, ₹0 a month to run.
-
-See the project
-
-Branding
-
-Sea Seven Fish, Northeast India
-
-### [Brand identity for Sea Seven Fish](https://ndcompany.in/projects/sea-seven-fish)
-
-A brand identity for Sea Seven Fish, a seafood wholesaler from Northeast India: 18 logo concepts, a fish with a fin of mountain peaks, a blue palette, a seal and business cards.
 
 See the project
 
@@ -593,7 +593,7 @@ Tell us about your business in a few lines and we will reply with questions or a
         "https://ndcompany.in/assets/images/projects/bangali-oikya-manch-activity-log.webp"
       ],
       "genre": "Software, Systems",
-      "keywords": "Case management, Data management, Community platforms",
+      "keywords": "Case management, Data management, Community platforms, Document generation",
       "creator": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -646,6 +646,12 @@ Tell us about your business in a few lines and we will reply with questions or a
         {
           "@type": "ListItem",
           "position": 3,
+          "name": "Software",
+          "item": "https://ndcompany.in/projects/category/software"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
           "name": "Bangali Oikya Manch"
         }
       ]

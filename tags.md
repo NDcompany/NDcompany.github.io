@@ -14,10 +14,12 @@ Every subject our posts and projects cover, most used first, with the posts and 
 
 ## Working with an agency
 
-15 posts
+16 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
 - [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
   11 Nov 2026
 - [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
@@ -43,11 +45,11 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   25 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
+  17 Nov 2026
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
+  17 Nov 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
+  17 Nov 2026
 
 [Everything tagged Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
@@ -62,9 +64,9 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
+  17 Nov 2026
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
+  17 Nov 2026
 
 - [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
   Software
@@ -168,7 +170,7 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
   25 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
+  17 Nov 2026
 
 [Everything tagged Website planning](https://ndcompany.in/tags/website-planning)
 
@@ -183,9 +185,9 @@ Brand style guides that others can follow without asking you: logo rules, colour
 - [Logo file types: which format to use where](https://ndcompany.in/blogs/logo-file-types)
   3 Nov 2026
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
+  17 Nov 2026
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
+  17 Nov 2026
 
 - [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
   Websites
@@ -227,11 +229,11 @@ How Google measures loading, response to taps and clicks, and layout shifts on r
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  30 Oct 2026
+  17 Nov 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
+  17 Nov 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  28 Oct 2026
+  17 Nov 2026
 
 [Everything tagged Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
@@ -248,9 +250,9 @@ Setting up Google's free Search Console with the business as owner, then reading
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   6 Nov 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  30 Oct 2026
+  17 Nov 2026
 - [Core Web Vitals explained for business owners](https://ndcompany.in/blogs/core-web-vitals-explained)
-  28 Oct 2026
+  17 Nov 2026
 
 [Everything tagged Google Search Console](https://ndcompany.in/tags/google-search-console)
 
@@ -267,7 +269,7 @@ Showing up when people nearby search for what you sell, and the relevance, dista
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
+  17 Nov 2026
 
 - [Property marketplace web app for Gharonix](https://ndcompany.in/projects/gharonix)
   Software
@@ -308,7 +310,7 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 - [How our free SEO audit works, from request to report](https://ndcompany.in/blogs/free-seo-audit-how-it-works)
   14 Nov 2026
 - [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  30 Oct 2026
+  17 Nov 2026
 
 [Everything tagged Technical SEO](https://ndcompany.in/tags/technical-seo)
 
@@ -323,9 +325,9 @@ WCAG in plain words: contrast ratios for text, alt text, labelled form fields an
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
   25 Oct 2026
 - [How to plan a business website before you hire anyone](https://ndcompany.in/blogs/plan-a-business-website)
-  23 Oct 2026
+  17 Nov 2026
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
+  17 Nov 2026
 
 [Everything tagged Web accessibility](https://ndcompany.in/tags/web-accessibility)
 
@@ -340,7 +342,7 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
 - [How to run a local SEO audit: a checklist for small businesses](https://ndcompany.in/blogs/local-seo-audit)
   28 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
+  17 Nov 2026
 
 [Everything tagged Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
@@ -355,6 +357,17 @@ How ChatGPT, Claude, Perplexity and Google's AI features find and use web pages,
 - [How do you optimize content for LLMs?](https://ndcompany.in/blogs/optimize-content-for-llms)
   6 Nov 2026
 
+## App stores
+
+2 posts
+
+Publishing on Google Play and the App Store: developer accounts and fees, D-U-N-S numbers, review rules, yearly update requirements and the commission on digital sales.
+
+- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+  24 Nov 2026
+- [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+  31 Oct 2026
+
 ## Blogger
 
 1 post, 1 project
@@ -367,6 +380,28 @@ Google's free Blogger platform used for more than a blog: custom themes, labels 
 - [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
   Websites
 
+## Community platforms
+
+2 projects
+
+Software and systems built for community organisations and the people they serve.
+
+- [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
+  Software
+- [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
+  Software
+
+## Document generation
+
+2 projects
+
+Software that fills standard documents, such as affidavits and declarations, from one form or one stored record, so nobody retypes the same details into every file.
+
+- [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
+  Software
+- [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
+  Software
+
 ## Online reviews
 
 2 posts
@@ -376,7 +411,7 @@ Asking customers for reviews, replying to them and reporting the ones that break
 - [How do schools and colleges do SEO?](https://ndcompany.in/blogs/seo-for-educational-institutions)
   30 Oct 2026
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
-  28 Oct 2026
+  17 Nov 2026
 
 ## Phishing
 
@@ -410,15 +445,6 @@ Software that keeps everything about a case in one record, from intake and docum
 - [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
   Software
 
-## Community platforms
-
-1 project
-
-Software and systems built for community organisations and the people they serve.
-
-- [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
-  Software
-
 ## Data management
 
 1 project
@@ -428,6 +454,15 @@ Internal systems that keep an organisation's records, members and documents in o
 - [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
   Software
 
+## Desktop automation
+
+1 project
+
+Small Windows programs that repeat mouse and keyboard steps for you, with one key to pause them and another to stop them.
+
+- [Click-to-paste tool for Excel price lists](https://ndcompany.in/projects/excel-click-to-paste-tool)
+  Software
+
 ## Fonts
 
 1 post
@@ -435,7 +470,25 @@ Internal systems that keep an organisation's records, members and documents in o
 Naming brand fonts with their licences, choosing fallbacks for documents and websites, and picking matching fonts for Hindi, Bengali and other scripts.
 
 - [What goes into a brand style guide, and how to use one](https://ndcompany.in/blogs/brand-style-guide)
-  23 Oct 2026
+  17 Nov 2026
+
+## Microsoft Excel
+
+1 project
+
+Spreadsheet chores in Excel that a small tool can take over: supplier price lists, long columns filled by hand and the same paste repeated row after row.
+
+- [Click-to-paste tool for Excel price lists](https://ndcompany.in/projects/excel-click-to-paste-tool)
+  Software
+
+## Online advertising
+
+1 post
+
+Google and Meta ads for small businesses: what to advertise, how conversions and ROAS are counted, and how to check an agency's ad report against your own sales.
+
+- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
 
 ## Payment fraud
 
@@ -462,7 +515,7 @@ Websites and web apps for listing and finding property: locality pages, maps, ch
 Protecting a business name or logo as a trade mark: classes and fees, searching the register before final artwork, and when to use the ® symbol.
 
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
-  23 Oct 2026
+  17 Nov 2026
 
 ## Website security
 
@@ -603,78 +656,108 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 16,
+            "name": "App stores",
+            "url": "https://ndcompany.in/tags#app-stores"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
             "name": "Blogger",
             "url": "https://ndcompany.in/tags#blogger"
           },
           {
             "@type": "ListItem",
-            "position": 17,
-            "name": "Online reviews",
-            "url": "https://ndcompany.in/tags#online-reviews"
-          },
-          {
-            "@type": "ListItem",
             "position": 18,
-            "name": "Phishing",
-            "url": "https://ndcompany.in/tags#phishing"
-          },
-          {
-            "@type": "ListItem",
-            "position": 19,
-            "name": "WhatsApp orders",
-            "url": "https://ndcompany.in/tags#whatsapp-orders"
-          },
-          {
-            "@type": "ListItem",
-            "position": 20,
-            "name": "Case management",
-            "url": "https://ndcompany.in/tags#case-management"
-          },
-          {
-            "@type": "ListItem",
-            "position": 21,
             "name": "Community platforms",
             "url": "https://ndcompany.in/tags#community-platforms"
           },
           {
             "@type": "ListItem",
+            "position": 19,
+            "name": "Document generation",
+            "url": "https://ndcompany.in/tags#document-generation"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "name": "Online reviews",
+            "url": "https://ndcompany.in/tags#online-reviews"
+          },
+          {
+            "@type": "ListItem",
+            "position": 21,
+            "name": "Phishing",
+            "url": "https://ndcompany.in/tags#phishing"
+          },
+          {
+            "@type": "ListItem",
             "position": 22,
+            "name": "WhatsApp orders",
+            "url": "https://ndcompany.in/tags#whatsapp-orders"
+          },
+          {
+            "@type": "ListItem",
+            "position": 23,
+            "name": "Case management",
+            "url": "https://ndcompany.in/tags#case-management"
+          },
+          {
+            "@type": "ListItem",
+            "position": 24,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 23,
+            "position": 25,
+            "name": "Desktop automation",
+            "url": "https://ndcompany.in/tags#desktop-automation"
+          },
+          {
+            "@type": "ListItem",
+            "position": 26,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
-            "position": 24,
+            "position": 27,
+            "name": "Microsoft Excel",
+            "url": "https://ndcompany.in/tags#microsoft-excel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 28,
+            "name": "Online advertising",
+            "url": "https://ndcompany.in/tags#online-advertising"
+          },
+          {
+            "@type": "ListItem",
+            "position": 29,
             "name": "Payment fraud",
             "url": "https://ndcompany.in/tags#payment-fraud"
           },
           {
             "@type": "ListItem",
-            "position": 25,
+            "position": 30,
             "name": "Property portals",
             "url": "https://ndcompany.in/tags#property-portals"
           },
           {
             "@type": "ListItem",
-            "position": 26,
+            "position": 31,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 27,
+            "position": 32,
             "name": "Website security",
             "url": "https://ndcompany.in/tags#website-security"
           },
           {
             "@type": "ListItem",
-            "position": 28,
+            "position": 33,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

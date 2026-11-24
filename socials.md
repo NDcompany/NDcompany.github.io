@@ -3,7 +3,7 @@ title: "N&D Co. links: free audit, a call, our work"
 description: "Everything from our social profiles in one place: a free SEO audit, a 15-minute call, our projects, prices, our latest posts and where to follow us."
 url: "https://ndcompany.in/socials"
 type: "WebPage"
-image: "https://ndcompany.in/assets/share/home.png"
+image: "https://ndcompany.in/assets/share/socials.png"
 ---
 
 **N&D Co.** Run by Nakshatra Ranjan Saha from Kolkata, India
@@ -28,9 +28,9 @@ You came from one of our profiles. Here is where to go next.
 
 ## Latest from the blog
 
+- [How much does app development cost in India? A guide for US and UK buyers: 24 Nov 2026](https://ndcompany.in/blogs/app-development-cost-india)
 - [How to run a free online store that takes orders on WhatsApp: 20 Nov 2026](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
 - [Google's November 2026 core update: what is happening and what to do: 17 Nov 2026](https://ndcompany.in/blogs/google-core-update-november-2026)
-- [How many small business websites block AI crawlers? A study of 4,564 sites: 14 Nov 2026](https://ndcompany.in/blogs/ai-crawler-blocking-study)
 
 [All posts](https://ndcompany.in/blogs)
 
@@ -77,7 +77,7 @@ Ask an SEO question in our subreddit, [r/ProperSEO](https://www.reddit.com/r/Pro
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/home.png",
+        "url": "https://ndcompany.in/assets/share/socials.png",
         "width": 1200,
         "height": 675
       }

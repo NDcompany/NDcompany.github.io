@@ -3,7 +3,7 @@ title: "Restaurant Marketing & Branding Agency in India | N&D Co."
 description: "Restaurant marketing and branding: logos, social media posts and reels, ads, menus and websites for restaurants, cafes, bars and cloud kitchens."
 url: "https://ndcompany.in/restaurant-marketing"
 type: "Service"
-image: "https://ndcompany.in/assets/share/social-media-management.png"
+image: "https://ndcompany.in/assets/share/restaurant-marketing.png"
 ---
 
 For restaurants, cafes, bars and cloud kitchens
@@ -164,7 +164,7 @@ Kebabiyana
 
 ## Starting prices
 
-The first tier of each service, in rupees for India and US dollars elsewhere. Your written quote confirms the final price.
+The first tier of each service, in your currency. Your written quote confirms the final price.
 
 **Starting prices for the services restaurants use most**
 
@@ -253,7 +253,7 @@ Tell us about your restaurant and what you need, and we will reply with question
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://ndcompany.in/assets/share/social-media-management.png",
+        "url": "https://ndcompany.in/assets/share/restaurant-marketing.png",
         "width": 1200,
         "height": 675
       }

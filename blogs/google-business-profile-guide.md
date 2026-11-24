@@ -1,11 +1,11 @@
 ---
-title: "How to set up a Google Business Profile in India | N&D Co."
-description: "Set up and verify a Google Business Profile (formerly Google My Business) in India, ask for reviews within Google's rules and avoid suspensions."
+title: "Google Business Profile Setup and Upkeep Guide | N&D Co."
+description: "Set up, verify and keep a Google Business Profile current: eligibility, categories, reviews within Google's rules, agencies, plus Bing Places and Apple."
 url: "https://ndcompany.in/blogs/google-business-profile-guide"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
 published: "2026-10-23T00:00:00+05:30"
-modified: "2026-10-28T00:00:00+05:30"
+modified: "2026-11-17T00:00:00+05:30"
 image: "https://ndcompany.in/assets/blog/google-business-profile-guide-16x9.png"
 ---
 
@@ -13,144 +13,141 @@ image: "https://ndcompany.in/assets/blog/google-business-profile-guide-16x9.png"
 
 # Google Business Profile: a setup and upkeep guide for local businesses
 
-Who should own your profile, how verification works, what to fill in, how to ask for reviews within Google's rules, and what to check every few days and every month.
+Eligibility, verification, categories, hours, photos, reviews within Google's and the FTC's rules, agency rules, and Bing Places and Apple Business Connect.
 
-By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 28 October 2026 13 min read
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 23 October 2026 Updated 17 November 2026 17 min read
 
-A Google Business Profile (formerly Google My Business) is the listing that shows your business on Google Search and Maps, with your hours, phone number, photos and reviews, and Google [charges nothing](https://support.google.com/business/answer/2911778?hl=en) for it. To set one up, search Maps for your business, claim the listing or add a new one, verify it with the method Google offers, and fill in every field accurately. To keep it current, answer reviews and suggested edits every few days and read the Performance report once a month. Until [November 2021](https://blog.google/products/ads-commerce/connect-local-holiday-shoppers/) it was called Google My Business.
+A Google Business Profile is the free listing that shows your business on Google Search and Maps, with your hours, phone number, photos and reviews. Google says you can [add or claim your business at no charge](https://support.google.com/business/answer/2911778?hl=en). To set one up, search Maps for your business, claim the listing or add a new one, verify it with a method Google offers, and fill in every field accurately. To keep it current, answer reviews and suggested edits every few days and read the Performance report once a month. Google renamed it from Google My Business in [November 2021](https://blog.google/products/ads-commerce/connect-local-holiday-shoppers/).
 
-We checked each rule below against Google's help pages in October 2026. More guides like this are on our [SEO topic page](https://ndcompany.in/blogs/topic/seo).
+We read each Google help page below on 17 November 2026. Google changes this product often, so where a rule varies by country or category, we say so. More guides like this are on our [SEO topic page](https://ndcompany.in/blogs/topic/seo).
 
 Key takeaways
 
-- The profile is free, and the verification review [takes up to 5 business days](https://support.google.com/business/answer/7107242?hl=en).
-- The business should own it; staff and agencies get [manager access](https://support.google.com/business/answer/3403100?hl=en).
-- Use your signboard name, the most specific category and [special hours](https://support.google.com/business/answer/6303076?hl=en) for closures of up to 6 days.
-- Send every customer the same review link and offer nothing in return. Google [blocked or removed over 292 million policy-violating reviews in 2025](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/).
-- Answer suggested edits within [4 days](https://support.google.com/business/answer/3480441?hl=en) and read the Performance report monthly.
+- The profile is free, and Google says verification reviews [take up to 5 business days](https://support.google.com/business/answer/7107242?hl=en).
+- Only businesses that [meet customers in person](https://support.google.com/business/answer/13763036?hl=en) during stated hours qualify. Online-only businesses do not.
+- The business should own the profile. Staff and agencies get [manager access](https://support.google.com/business/answer/3403100?hl=en) on their own Google Accounts.
+- Ask every customer for a review in the same way and offer nothing in return. Google [blocked or removed over 292 million policy-violating reviews in 2025](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/).
+- Answer suggested edits within [4 days](https://support.google.com/business/answer/3480441?hl=en), and keep Bing Places and Apple Business Connect in step with the Google profile.
 
-## Why the profile matters, especially in India
+## Why the profile matters
 
-Almost every search visit in India comes from Google. StatCounter puts Google's share of search engine referrals there at [97.31% for 2025](https://gs.statcounter.com/search-engine-market-share/all/india/#yearly-2025-2025-bar), a wider lead than in the UK, the US or worldwide. Google said in 2024 that [over 35 million Indian businesses](https://blog.google/intl/en-in/company-news/outreach-initiatives/google-for-india-2024-bringing-ai-to-every-indian-across-our-products/) were online across Search and Maps. For a business here, this is the listing to get right first.
+Google says its local results are [mainly based on relevance, distance, and popularity](https://support.google.com/business/answer/7091?hl=en). Relevance is how well a profile matches what someone searches for, distance is how far you are from the searcher, and prominence is how well known a business is. You cannot change the distance. The same page says there is [no way to request or pay for a better local ranking](https://support.google.com/business/answer/7091?hl=en), so the work is in the parts you do control: accurate details, the right category, and reviews you earned. We cover how to check all of that across the web in our [local SEO audit checklist](https://ndcompany.in/blogs/local-seo-audit).
 
-Google's share of search engine referrals in 2025
-
-**Google's share of search engine referrals in 2025**
-
-| Category | Value (%) |
-| --- | --- |
-| India | 97.3 |
-| United Kingdom | 93 |
-| Worldwide | 89.9 |
-| United States | 86.2 |
-
-*StatCounter counts visits from search results to the sites that run its tracking code, not searches. Full year 2025, all platforms; for the other regions, change the region on the same report. Source: [StatCounter Global Stats, search engine market share, all platforms, 2025](https://gs.statcounter.com/search-engine-market-share/all/india/#yearly-2025-2025-bar).*
-
-Google says there is [no way to request or pay for a better local ranking](https://support.google.com/business/answer/7091?hl=en). Results are mainly based on relevance (how well a profile matches the search), distance from the searcher and prominence, which Google also calls popularity: how well known the business is, including how many websites link to it and how many reviews it has. You can't change distance, but complete details, the right category, reviews and links all count.
+The rules below come from Google's help centre and apply in the US, UK, Netherlands, UAE and Australia alike, except where we say a feature is limited to certain regions.
 
 ## Three decisions to make before you start
 
 ### Who will own the profile
 
-Create or claim the profile from a Google Account that belongs to the business, not to an employee or an agency. A profile has [only one primary owner](https://support.google.com/business/answer/3403100?hl=en). Everyone else who helps gets manager access on their own Google Account, so nobody shares a password. Managers can do nearly everything except add or remove users and remove the profile. New owners and managers wait 7 days before they can transfer ownership or delete the profile, and Google [may revoke ownership](https://support.google.com/business/answer/13763036?hl=en) if you haven't signed in recently. Our guide to [planning a business website](https://ndcompany.in/blogs/plan-a-business-website) gives the same advice for domains.
+Create or claim the profile from a Google Account that belongs to the business, not to an employee or an agency. A profile can have several owners but [only one primary owner](https://support.google.com/business/answer/3403100?hl=en). Managers have nearly the same access, with the exception that they cannot add or remove users or remove the profile. New owners and managers must wait 7 days before they can manage some features, including taking over as primary owner. Google can also [revoke ownership](https://support.google.com/business/answer/13763036?hl=en) if you have not signed in to your account recently. Our guide to agency access covers the right role to give on each platform.
 
-### Storefront, service area or both
+### Eligibility: storefront, service area or both
 
-Only businesses that [make in-person contact with customers](https://support.google.com/business/answer/13763036?hl=en) during their stated hours qualify, so online-only businesses can't have a profile. If customers come to an address with [permanent signage](https://support.google.com/business/answer/3038177?hl=en), you are a storefront. A virtual office isn't eligible, and a co-working desk needs signage, visiting customers and your own staff during business hours. If you go to customers instead, you are a service-area business: hide the address and list [up to 20 areas](https://support.google.com/business/answer/9157481?hl=en) by city or PIN code, with no radius, within about 2 hours' drive of your base. Do both and you are hybrid.
+To qualify, a business [must make in-person contact with customers](https://support.google.com/business/answer/13763036?hl=en) during its stated hours. Google lists "brands, organizations, artists, and other online-only businesses" as ineligible, and it excludes lead generation companies too. If customers come to an address, show it and keep permanent signage with your business name there. A [virtual office is not eligible](https://support.google.com/business/answer/3038177?hl=en), and a co-working space qualifies only with clear signage, customers visiting during business hours and your own team on site.
 
-Say you run a bakery with a counter in Salt Lake, Kolkata. People walk in, so you show the address. If you repair air conditioners in customers' homes and work from your own home in Barrackpore, you hide the address and list the towns you cover.
+If you go to customers instead, you are a service-area business: hide your address and set your area by city, postal code or another type of area. Google allows [up to 20 service areas](https://support.google.com/business/answer/9157481?hl=en), does not accept a radius around your business, and says the overall area should stay within about 2 hours of driving time. Do both and you are a hybrid business.
+
+Say you run a bakery with a counter on a high street. People walk in, so you show the address. If you fit boilers in customers' homes and work from your own, you hide the address and list the towns or postcodes you cover.
 
 ### The name and phone number you will use
 
-Use the name on your signboard, website and stationery, and nothing more: no taglines, product or place words, or legal terms such as Pvt Ltd unless your signage and invoices carry them. Google's example is that ["Midas" is acceptable and "Midas Auto Service Experts" is not](https://support.google.com/business/answer/3038177?hl=en). Nor may you repeat the name in two scripts, even if your board shows it in English and Bengali. Extra words can get a profile suspended, and if a competitor stuffs keywords into their name, you can [suggest an edit](https://support.google.com/business/answer/3039617?hl=en).
+Use the name customers know from your signage, website and stationery. Google's [guidelines](https://support.google.com/business/answer/3038177?hl=en) say marketing taglines, store codes, hours and phone numbers do not belong in it, and give the example that "Midas" is acceptable and "Midas Auto Service Experts" is not. Special characters or legal terms such as LLC need real-world proof, like signage or invoices, that they are part of the name. Extra words can get a profile suspended, and if a competitor stuffs keywords into their name, you can [suggest an edit](https://support.google.com/business/answer/3039617?hl=en) to their profile.
 
-For the phone, the [guidelines](https://support.google.com/business/answer/3038177?hl=en) ask for a local number under the business's direct control, and someone should answer it, because an [IVR system can't receive a verification code](https://support.google.com/business/answer/7107242?hl=en). You can add [up to 2 more numbers](https://support.google.com/business/answer/3039617?hl=en), and in India Google double-checks the number to make sure it is correct.
+For the phone, Google asks for a local number for the individual location where possible, under the business's direct control, and it does not accept premium-rate numbers. Someone should answer it, because an [IVR system will not receive a verification code](https://support.google.com/business/answer/7107242?hl=en). You can add [up to 2 more numbers](https://support.google.com/business/answer/3039617?hl=en).
 
 ## How to create or claim a Google Business Profile
 
-1. Search Google Maps for your business name and town. A listing may exist already, because anyone can [add a missing place](https://support.google.com/business/answer/3039617?hl=en).
-2. If it is unverified, select Claim this business and follow Google's [claiming steps](https://support.google.com/business/answer/2911778?hl=en).
-3. If someone else verified it, such as a former employee or agency, [request ownership](https://support.google.com/business/answer/4566671?hl=en). The current owner has 3 days to respond. For a service-area business with no shop or office, Google asks you to contact its support instead.
+1. Search Google Maps for your business name and city. A listing may exist already, because anyone can [add a missing place](https://support.google.com/business/answer/3039617?hl=en).
+2. If it is unverified, select Claim this business, then Manage now, and follow Google's [claiming steps](https://support.google.com/business/answer/2911778?hl=en).
+3. If someone else verified it, such as a former employee or agency, [request ownership](https://support.google.com/business/answer/4566671?hl=en). The current owner has 3 days to respond, and if they do not, you may be able to claim it. A service-area business has to contact Google support instead.
 4. If there is no listing, add one at [business.google.com/add](https://business.google.com/add).
-5. Keep to one profile per business. Google [doesn't show duplicates](https://support.google.com/business/answer/12756178?hl=en) on Search or Maps.
+5. Keep to one profile per business. A duplicate [won't show on Google Search or Maps](https://support.google.com/business/answer/12756178?hl=en), and a business that moved should update its address on the existing profile.
 
 ## How to verify a Google Business Profile
 
-Google decides which methods you see, based on your business type, region and hours, and [you can't change them](https://support.google.com/business/answer/7107242?hl=en).
+Google's [verification page](https://support.google.com/business/answer/7107242?hl=en) names the methods below. Use the options shown on your own verification screen.
 
 **Verification methods and what each one involves**
 
 | Method | What it involves |
 | --- | --- |
-| Phone or text | A code sent to the business number. An IVR menu won't receive it. |
+| Phone or text | A code sent to the business number. An IVR menu will not receive it. |
 | Email | A message to the address shown on the verification screen. |
-| Video recording | [One unedited take of at least 30 seconds](https://support.google.com/business/answer/14271705?hl=en), recorded on a phone through the profile, with no other people's faces or ID numbers. |
-| Live video call | A call with Google support during business hours, from the premises. |
-| Postcard | A 5-digit code by post. [Most arrive within 14 days, and each code expires after 30 days](https://support.google.com/business/answer/7107242?hl=en). Don't edit the name, address or category while you wait. |
+| Video recording | Google recommends it when your business is eligible. The [recording must be](https://support.google.com/business/answer/14271705?hl=en) at least 30 seconds, unedited and complete, with no breaks. |
+| Live video call | A call with a Google support representative, available only within your location's business hours and not for every business. |
+| Postcard | A code by post. Most arrive within 14 days and the code expires 30 days after it is sent. Do not change the name, address or category while you wait, and do not request a second code, which cancels the first. |
 
-For a video, plan the shots against Google's [requirements](https://support.google.com/business/answer/14271705?hl=en). A storefront shows street signs or neighbouring shops, the name on a permanent sign that matches the profile, and something only staff can open, such as the cash register. A service-area business films landmarks near its base, its tools or branded vehicle, and an invoice or utility bill in the business name.
+For a video, a storefront shows street signs or nearby businesses, its signage, and something only an employee can access, such as opening a cash register. A service-area business records street signs or landmarks at its address, the tools and equipment it uses, and itself performing a service. Keep out bank, tax or ID numbers, private information and other people's faces.
 
-Google's review then [takes up to 5 business days](https://support.google.com/business/answer/7107242?hl=en), or can be instant if your website is verified in Search Console (our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist) covers setting it up). Never share the code, even with people who manage the profile; Google will never ask for it.
+Google then says reviews [take up to 5 business days](https://support.google.com/business/answer/7107242?hl=en), and in some cases verification is instant, for example when you have verified your website in Search Console (our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist) covers setting it up). Do not share the code with anyone, even people who manage the profile. Google will never ask for it.
 
 ## Fill in the profile
 
 ### Categories
 
-Choose the most specific primary category for the whole business: Google's example is [Nail salon, not Salon](https://support.google.com/business/answer/7249669?hl=en). Add others only for distinct departments or services, [up to 9 more](https://support.google.com/business/answer/3039617?hl=en), using the test in Google's [guidelines](https://support.google.com/business/answer/3038177?hl=en): a category completes "This business IS a", not "This business HAS a". Categories affect your local ranking, and changing one can send you back through verification.
-
-![The About tab of the Business information editor for N&D Co.'s profile: business name N&D Co. and business category Branding agency](https://ndcompany.in/assets/blog/google-business-profile-guide/business-profile-name-category.webp)
+Choose a specific primary category: Google's example is [Nail salon instead of Salon](https://support.google.com/business/answer/7249669?hl=en), and if the exact one is missing you pick a general one, because you cannot create your own. Add others only for distinct departments or services, [up to 9 more](https://support.google.com/business/answer/3039617?hl=en), using the test in Google's [guidelines](https://support.google.com/business/answer/3038177?hl=en): a category should complete "This business IS a", not "This business HAS a". Categories [affect your local ranking](https://support.google.com/business/answer/7249669?hl=en), and changing one may mean you are asked to verify again.
 
 *Our own profile's name and category: the business's real name with nothing added, and one specific primary category.*
 
 ### Address and map pin
 
-Enter the official address with building and floor numbers, and add landmarks [only where the address alone doesn't pinpoint you](https://support.google.com/business/answer/3038177?hl=en). Check that the map pin sits on your door, and move it if it doesn't. Google's India blog says dropping a pin on Maps and sharing it with friends and family is ["a very common practice in India"](https://blog.google/intl/en-in/products/explore-communicate/ai-continues-to-supercharge-google-maps-for-india/). Changes [usually show within about 10 minutes](https://support.google.com/business/answer/2853879?hl=en) but can take up to 30 days.
+Enter the official address. Google does not accept P.O. boxes or remote mailboxes, and says a mailbox or suite number goes in Address line 2. Check that the map pin sits on your entrance and move it if it does not. Changes [usually take about 10 minutes](https://support.google.com/business/answer/2853879?hl=en) to show, though in some cases it can take up to 30 days. If you move, update the existing profile and [verify again](https://support.google.com/business/answer/3039617?hl=en).
 
-### Hours, holidays and festival closures
+### Hours and holiday closures
 
-Set your regular hours, then use [special hours](https://support.google.com/business/answer/6303076?hl=en) for changes or closures of up to 6 days in a row, such as Durga Puja, and mark the business temporarily closed for 7 days or more. Special hours show only when the profile is set to "Open with main hours".
+Provide your regular customer-facing hours. Google says some businesses should not list hours at all, including hotels, schools and businesses that operate only by appointment. Use [special hours](https://support.google.com/business/answer/6303076?hl=en) for changes or closures of up to 6 days in a row, and mark the business temporarily closed for 7 or more days in a row. Special hours show only when the profile is set to "Open with main hours".
 
 ### Description, services and products
 
-Use the description's [750 characters](https://support.google.com/business/answer/3039617?hl=en) for what you offer, what sets you apart and how long you have been in business, with no links and no focus on prices or offers. Some service categories get a [services editor](https://support.google.com/business/answer/9455399?hl=en) for listing services with prices. [Google's guidelines](https://support.google.com/business/answer/3038177?hl=en) limit in-store products to retailers in the US, Canada, the UK and Ireland, but the [product editor](https://support.google.com/business/answer/9124203?hl=en) page names no country, so check whether Edit products appears.
+The description has a [750 character limit](https://support.google.com/business/answer/3039617?hl=en) and may not include URLs or HTML code. Use it for what you offer and what sets you apart. Businesses in certain categories, such as service businesses, can use a [services editor](https://support.google.com/business/answer/9455399?hl=en) to list services with prices. For products, Google's guidelines say in-store product showcasing is [available only to retailers in the US, Canada, the UK and Ireland](https://support.google.com/business/answer/3038177?hl=en). The [product editor page](https://support.google.com/business/answer/9124203?hl=en) names no general country limit, so in the Netherlands, UAE or Australia, check whether Edit products appears for your profile.
 
 ### Photos and videos
 
-Add a logo, a cover photo and real photos of the shopfront, the inside and your work. Google's [photo guidelines](https://support.google.com/business/answer/6103862?hl=en) ask for JPG or PNG files of 10 KB to 5 MB, ideally 720 by 720 pixels, in focus and without heavy filters, and videos of up to 30 seconds. Uploads appear only after verification and can take 24 to 48 hours. Keep the logo and name consistent with your signboard; a [brand style guide](https://ndcompany.in/blogs/brand-style-guide) helps.
+Add a logo and real photos of the shopfront, the inside and your work. Google's [photo guidelines](https://support.google.com/business/answer/6103862?hl=en) accept JPG and PNG files from 10 KB to 5 MB, recommend 720 by 720 pixels, and allow videos of up to 30 seconds, up to 75 MB and at least 720p. Uploads show only after you verify the profile and can take 24 to 48 hours. Keep the logo consistent with your signage; a [brand style guide](https://ndcompany.in/blogs/brand-style-guide) helps.
 
 ### Website, chat and social links
 
-Link your own website and [check that Googlebot isn't blocked](https://support.google.com/business/answer/3039617?hl=en) on it. Tag the link so Google Analytics can separate profile visits. Google says to [always use utm_source, utm_medium and utm_campaign](https://support.google.com/analytics/answer/10917952?hl=en); a medium of `organic` keeps the visits in the [Organic Search channel](https://support.google.com/analytics/answer/9756891?hl=en), and the campaign name tells them apart.
+Link your own website, one that represents the individual location and does not redirect to other pages such as social media. [Make sure Googlebot is not blocked](https://support.google.com/business/answer/3039617?hl=en) on it. Tag the link so Google Analytics can separate profile visits. Google says to [always use utm_source, utm_medium and utm_campaign](https://support.google.com/analytics/answer/10917952?hl=en), and traffic whose medium is `organic` falls in the [Organic Search channel](https://support.google.com/analytics/answer/9756891?hl=en).
 
 ```plaintext
-https://www.example.in/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing
+https://www.example.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing
 ```
 
-People who tap it on a phone need a page that loads fast; our [Core Web Vitals guide](https://ndcompany.in/blogs/core-web-vitals-explained) explains how Google measures that. No website yet? See our [website design and development](https://ndcompany.in/services/website-design-development) service.
+People who tap the link on a phone need a page that loads quickly; our [Core Web Vitals guide](https://ndcompany.in/blogs/core-web-vitals-explained) explains how Google measures that. No website yet? See our [website design and development](https://ndcompany.in/services/website-design-development) service.
 
-Where your profile offers them, add a [WhatsApp or text chat option](https://support.google.com/business/answer/15013580?hl=en) (pick one, since Google shows only the text option if you add both) and [one social link per platform](https://support.google.com/business/answer/3039617?hl=en), from accounts the business owns, even when an agency handles your [social media management](https://ndcompany.in/services/social-media-management).
+Chat options are [available for select regions](https://support.google.com/business/answer/15013580?hl=en) only. Where you have them, you pick WhatsApp or text, because if you add both Google shows only the text option. You can add [one social link per platform](https://support.google.com/business/answer/3039617?hl=en), from accounts the business owns, even when an agency handles your [social media management](https://ndcompany.in/services/social-media-management).
+
+### Questions and answers
+
+Google's edit page says owners and managers [can answer questions](https://support.google.com/business/answer/3039617?hl=en) in a Q&A section of the profile. It also says the feature is available only for select business categories and regions and that its appearance might change. If your editor shows it, answer questions with facts you could print on your website. If it does not, do not count on it.
+
+### Posts
+
+Google's [posts help page](https://support.google.com/business/answer/7342169?hl=en) describes updates, offers and events. Posts older than 6 months are archived unless a date range is set. A post that includes a phone number might be rejected if Google cannot verify the number is connected to the business, and each post shows as Live, Pending or Not approved.
 
 ## Reviews: asking, replying and the rules
 
 ### Asking for reviews
 
-Google's tips suggest [asking customers for reviews](https://support.google.com/business/answer/3474122?hl=en) with a link or QR code. Get both in a computer browser, the [only place Google makes the QR code](https://support.google.com/business/answer/16816815?hl=en): open Read reviews, then Get more reviews. Put them on receipts, in thank-you emails and WhatsApp chats and on a counter card, for every customer, not only the happy ones. Ask steadily rather than in bursts. In BrightLocal's 2026 survey, [74% of US adults](https://www.brightlocal.com/research/local-consumer-review-survey/) look for reviews from the last three months, and Google's systems watch for [a sudden spike in 1 or 5-star reviews](https://blog.google/products-and-platforms/products/maps/how-machine-learning-keeps-contributed-content-helpful/).
+Google's [review tips](https://support.google.com/business/answer/3474122?hl=en) say you can ask customers to visit a Google link or scan a QR code, and that customers must be signed in to a Google Account. Get both in a computer browser: Google says QR codes [can only be generated on a computer browser](https://support.google.com/business/answer/16816815?hl=en), under Read reviews, then Get more reviews. Put the link on receipts, in thank-you emails and on a counter card, for every customer. Google's systems also look for [a sudden spike in 1 or 5-star reviews](https://blog.google/products-and-platforms/products/maps/how-machine-learning-keeps-contributed-content-helpful/), so ask steadily instead of in bursts.
 
 ### What Google does not allow
 
-Google's [Maps content policy](https://support.google.com/contributionpolicy/answer/7400114?hl=en) rules out:
+The Maps [prohibited and restricted content policy](https://support.google.com/contributionpolicy/answer/7400114?hl=en) rules out:
 
-- discounts, freebies or payment for a review, or for changing or removing a negative one
-- asking only the customers you expect to be happy, or discouraging negative reviews
-- pressuring customers to review while they are on the premises, or telling them what to write
-- review targets for staff, or asking for reviews that name a staff member
-- reviews from current or former employees, competitors, family or anyone else with a conflict of interest
+- reviews or ratings paid for, directly or in kind, including incentives for posting a review or for changing or removing a negative one
+- review gating: discouraging negative reviews, or selectively soliciting positive reviews from customers
+- pressuring customers to review while on the premises, or asking staff to meet a review quota or to ask for reviews with specific content
+- reviews based on a conflict of interest, such as current or former employment, family ties or a competing business
+- posting from several accounts for one person, or reviews not based on a real experience
+
+Review gating deserves a plain example. Sending a satisfaction survey first and the review link only to the people who scored you highly is selective solicitation, and Google lists it as prohibited. Send the same link to everyone.
 
 Watch out
 
-If Google finds fake reviews, or reviews traded for payment, discounts or freebies, it can do more than delete them. Under its fake engagement policy it can [stop the profile receiving new reviews](https://support.google.com/business/answer/14114287?hl=en) for a set period, unpublish its existing reviews and show customers a warning that fake reviews were removed. It emails the owner before applying a restriction, and you can appeal.
+If Google finds fake reviews or reviews traded for payment, it can do more than delete them. Under its fake engagement policy it can [stop the profile receiving new reviews](https://support.google.com/business/answer/14114287?hl=en) for a set period, unpublish existing reviews for a set period and show customers a warning that fake reviews were removed. It emails the owner before applying a restriction, and you can appeal.
 
-By its own count, Google blocked or removed [over 115 million policy-violating reviews in 2022](https://blog.google/products-and-platforms/products/maps/google-maps-fake-contributions-ai-machine-learning/), [over 170 million in 2023](https://blog.google/products-and-platforms/products/maps/how-machine-learning-keeps-contributed-content-helpful/), [more than 240 million in 2024](https://blog.google/products-and-platforms/products/maps/google-business-profiles-ai-fake-reviews/) and [over 292 million in 2025](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/), and it credits new machine-learning models for catching more of them.
+By its own count, Google blocked or removed [over 115 million policy-violating reviews in 2022](https://blog.google/products-and-platforms/products/maps/google-maps-fake-contributions-ai-machine-learning/), [over 170 million in 2023](https://blog.google/products-and-platforms/products/maps/how-machine-learning-keeps-contributed-content-helpful/), [more than 240 million in 2024](https://blog.google/products-and-platforms/products/maps/google-business-profiles-ai-fake-reviews/) and [over 292 million in 2025](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/).
 
 Policy-violating reviews Google blocked or removed, by year
 
@@ -165,33 +162,21 @@ Policy-violating reviews Google blocked or removed, by year
 
 *Google gives each figure as a minimum (over or more than). The 2025 figure is from the post linked here (16 April 2026); 2022 to 2024 come from Google's posts of 31 March 2023, 13 February 2024 and 7 April 2025, linked in the paragraph above. Source: [Google, annual Maps trust and safety posts, 2023 to 2026](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/).*
 
-The 2025 figure is about two and a half times 2022's. By April 2025 Google was also showing alerts in the US, UK and India when, in some cases, it had [recently removed suspicious five-star reviews](https://blog.google/products-and-platforms/products/maps/google-business-profiles-ai-fake-reviews/) from a place.
+In April 2025 Google also said it had begun showing alerts in the US, UK and India, in some cases, when it had recently removed suspicious five-star reviews for a business.
+
+### The US rule on fake reviews
+
+If you trade in the US or sell to US customers, there is a federal rule as well. The Federal Trade Commission's [consumer reviews and testimonials rule](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers) went into effect on 21 October 2024, covers fake or false reviews, incentives tied to a particular sentiment, insider reviews and review suppression, and lets courts impose civil penalties for knowing violations. The FTC's answers add that the rule has no specific ban on asking only customers you think are happy, but that this could still violate the FTC Act. Other countries have their own consumer-protection laws, and a lawyer in your country can tell you how they apply to you.
 
 ### Replying to reviews
 
-Reply to every review, and soon. [BrightLocal's 2026 survey](https://www.brightlocal.com/research/local-consumer-review-survey/) asked US adults how quickly they expect a business to answer:
-
-How quickly people expect a business to reply to their review
-
-**How quickly people expect a business to reply to their review**
-
-| Category | Value (%) |
-| --- | --- |
-| On the same day | 19 |
-| By the next day | 32 |
-| Within a week | 81 |
-
-*Survey of 1,002 US adults via SurveyMonkey, published February 2026. The bars are cumulative: anyone who expects a same-day reply also counts in the later bars. Source: [BrightLocal, Local Consumer Review Survey 2026](https://www.brightlocal.com/research/local-consumer-review-survey/).*
-
-Four in five expect a reply within a week, so checking at least every few days, as the routine below suggests, keeps you inside that window. In the [same survey](https://www.brightlocal.com/research/local-consumer-review-survey/), the same-day share rose from 6% to 19% in a year, and half said generic or templated replies put them off. Google's [reply tips](https://support.google.com/business/answer/3474122?hl=en) say much the same. Keep replies short and polite, answer the specific point rather than sending everyone the same thank-you, don't push offers, and apologise where it is fair. Google [checks replies before they appear](https://support.google.com/business/answer/3474050?hl=en), usually within 10 minutes, and they show as the business, not under your name.
+Reply to every review, and soon. Google's [reply tips](https://support.google.com/business/answer/3474122?hl=en) say to keep it short and simple, to skip the identical thank-you for everyone, to stay conversational instead of pushing deals, and never to share a reviewer's private information. For a negative review, acknowledge real mistakes, explain what you can and cannot do, apologise where it fits and sign with your name or initials. Google [reviews replies before they appear](https://support.google.com/business/answer/3474050?hl=en), usually within about 10 minutes, and they show as the business and not under your personal name.
 
 ### Reporting a review
 
-Report a review only if it breaks the policy, [not because you disagree with it](https://support.google.com/business/answer/4596773?hl=en). Checks typically take several days, and if Google finds no violation, you get a one-time appeal covering up to 10 reviews. If someone posts fake one-star reviews and then [demands payment to remove them](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/), don't pay. Google's reporting page links to separate steps for extortion.
+Report a review only if it breaks the policy: [only violating reviews are eligible for removal](https://support.google.com/business/answer/4596773?hl=en), and disagreeing with one is not a reason. Checks typically take several days, and if Google finds no violation you get a one-time appeal covering up to 10 reviews. If someone posts fake one-star reviews and demands money to remove them, do not pay. Google says it has upgraded its systems against this kind of [scam](https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/), and the reporting page links to a separate process for extortion.
 
 ## Upkeep: what to check, and how often
-
-![The Your business on Google panel that a profile's managers see in Google Search: buttons for Edit profile, Read reviews, Photos, Posts, Performance, Advertise, Edit services, Ask for reviews and Profiles, with 8 customer interactions and a profile strength meter](https://ndcompany.in/assets/blog/google-business-profile-guide/business-profile-manager.webp)
 
 *The panel managers of a profile see when they search for the business on Google, here for our own profile. Everything in the routine below starts from these buttons.*
 
@@ -199,54 +184,63 @@ Report a review only if it breaks the policy, [not because you disagree with it]
 
 | When | What to do |
 | --- | --- |
-| Every few days | Reply to new reviews. Accept or reject suggested edits within [4 days](https://support.google.com/business/answer/3480441?hl=en), or Google may publish them if your website or other public sources back them up. Blue text in the editor marks Google's changes. |
-| Every month | Read the Performance report (Google [suggests a monthly look](https://support.google.com/business/answer/7163406?hl=en)), check photos, hours, services and links, and sign in even if nothing changed. Posts are [archived after 6 months](https://support.google.com/business/answer/7342169?hl=en) unless they have a date range. |
-| Before festivals | Set special hours, or confirm your regular ones. |
-| When things change | After a move, edit the address and [verify again](https://support.google.com/business/answer/3039617?hl=en). A rename that changes the proper nouns or services in the name, or the category, means [closing the profile and creating a new one](https://support.google.com/business/answer/3038177?hl=en). |
+| Every few days | Reply to new reviews. Accept or reject suggested edits within [4 days](https://support.google.com/business/answer/3480441?hl=en), or Google may publish them if other public information, such as your website, supports them. Blue text in the editor marks information Google has changed. |
+| Every month | Read the Performance report: Google says to [spend time each month](https://support.google.com/business/answer/7163406?hl=en) reviewing your profile's performance and to check photos, hours and how customers find you. Sign in even if nothing changed. Posts are [archived after 6 months](https://support.google.com/business/answer/7342169?hl=en) unless they have a date range. |
+| Before holidays | Set special hours for closures of up to 6 days, or mark the business temporarily closed for 7 or more. |
+| When things change | After a move, edit the address and verify again. Per Google's guidelines, a name change that alters the proper nouns, the services described or the category makes the business [a new business](https://support.google.com/business/answer/3038177?hl=en): close the old profile and create a new one. |
 
-The Performance report's figures [include Google Ads](https://support.google.com/business/answer/9918094?hl=en) as well as unpaid results, and its views figure counts a person once a day however often they look.
+The Performance data [includes Google Ads](https://support.google.com/business/answer/9918094?hl=en) as well as unpaid results, and a person is counted only once a day.
+
+## Bing Places and Apple Business Connect
+
+Google is not the only map people open. Two more listings are worth an hour of your time, and both should show the same name, address, phone number and hours as your Google profile.
+
+Bing Places for Business is what Microsoft calls [a free online platform](https://blogs.bing.com/search/2025/10/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners,-Powered-by-Research/), and it puts listings in Bing search results and Bing Maps. Its relaunch post says owners need to claim their business in Bing and that importing listings from Google now preserves details such as name, hours and contact information better. Compare the imported listing with your Google profile line by line before you rely on it.
+
+Apple Business Connect lets a business claim its place card on Apple Maps. Apple called it [a free tool](https://www.apple.com/newsroom/2023/01/introducing-apple-business-connect/) when it launched in January 2023, and says Apple verifies the business before a location can be claimed. Apple's support pages now call the product [Apple Business](https://support.apple.com/en-gb/guide/business/abcb98816a34/web). To add a location you give a name, address and map pin, a primary category, a status and a phone number. For a place already on Maps, Apple calls the phone number it has on record and asks for a four-digit code. Customers can [report errors to Apple](https://support.apple.com/en-gb/guide/business/abcb91c1d565/web), which edits the place card and emails your organisation about changes to name, status or hours, so check those emails.
 
 ## Working with agencies, and fake Google calls
 
 ### What to ask a provider
 
-If you hire help, Google's [third-party policies](https://support.google.com/business/answer/7353941?hl=en) set the rules, and they apply to us too, since we manage profiles as part of our [SEO services](https://ndcompany.in/services/seo-services). Ask any provider, including us:
+If you hire help, Google's [third-party policies](https://support.google.com/business/answer/7353941?hl=en) set the rules, and they apply to us too, since we manage profiles as part of our [SEO services](https://ndcompany.in/services/seo-services) and [digital marketing](https://ndcompany.in/services/digital-marketing). Google also publishes a notice for owners, [Working with a third party](https://support.google.com/business/answer/7163406), which we link in our site footer as the policy asks. Ask any provider, including us:
 
-1. Will I stay the owner? The business must keep ownership or co-ownership at all times, and it chooses what access the agency gets.
-2. Will you confirm in writing that the profile is free? A provider that charges a management fee must tell new clients in writing, before it starts, that Business Profile costs nothing extra, and must show its fee on invoices. Google also [advises owners](https://support.google.com/business/answer/7163406?hl=en) to get an agreement that lists the services and their costs.
-3. Will you ask before replying to reviews? Google requires explicit approval, and verbal consent isn't enough.
-4. Can I leave easily? [Within 7 business days](https://support.google.com/business/answer/7353941?hl=en) of your notice, the provider must hand back exclusive control.
+1. Will I stay the owner? Google says customers must keep ownership or co-ownership of their profile at all times, and the business decides whether a partner gets co-owner, manager or no access.
+2. Will you confirm in writing that the profile is free? A provider that charges a fee must tell customers that Business Profile is a service provided at no extra cost, and must show the fee on invoices. Google also advises owners to [get an official copy of the agreement](https://support.google.com/business/answer/7163406?hl=en) that details the services and their costs.
+3. Will you ask before replying to reviews? Google requires explicit approval.
+4. Can I leave easily? Within 7 business days of your notice, the provider must let you disassociate its Google Account from your profile.
 
-Walk away from anyone who guarantees top placement, claims to be Google, threatens that you will lose your profile or holds a profile hostage for money. Google's policies prohibit all four.
+Walk away from anyone who guarantees top placement on Google, pretends to be Google through robocalls, threatens that you will lose your profile if you do not sign up, or keeps a profile hostage for money. Google's policies prohibit all four. Our [free SEO audit](https://ndcompany.in/free-seo-audit) is one way to see how a provider works before you hand over any access, and how long SEO takes explains why nobody can promise a date.
 
 ### Calls that claim to be from Google
 
-Google does use automated calls, texts and WhatsApp messages to confirm business details, but it [never asks for payment, card details or passwords](https://support.google.com/business/answer/7690269?hl=en), and a caller asking for money to keep you on Google is not Google. Its [official WhatsApp account](https://support.google.com/business/answer/6212928?hl=en) shows a blue tick and the name Google Maps, sometimes followed by the country name. If someone pretends to be Google, hang up without pressing any buttons. In India, report fraud calls and messages within 30 days on [Chakshu](https://sancharsaathi.gov.in/sfc/), the Department of Telecommunications' reporting service, and if you have lost money, call 1930 or use cybercrime.gov.in.
+Google does use automated calls, texts and WhatsApp messages to confirm details such as opening hours, but it [never asks for payment, credit card information or account passwords](https://support.google.com/business/answer/7690269?hl=en). A caller who asks for money to keep your business on Google is not Google. Google's [official WhatsApp account](https://support.google.com/business/answer/6212928?hl=en) carries a blue verification checkmark and the name Google Maps, sometimes followed by a country name. For a suspicious call or text, do not respond, click links or share anything.
 
 ## Why profiles get suspended, and how to appeal
 
-Google can suspend profiles that [don't follow its guidelines](https://support.google.com/business/answer/4569145?hl=en), and a restriction on your Google Account suspends every profile it manages. These breaches of the [guidelines](https://support.google.com/business/answer/3038177?hl=en) put a profile at risk:
+Google can [suspend or disable profiles](https://support.google.com/business/answer/4569145?hl=en) that do not follow its guidelines, and a restriction on your Google Account suspends the profiles it manages. These problems put a profile at risk:
 
 **Guideline breaches and what Google expects instead**
 
 | Problem | What the guidelines expect |
 | --- | --- |
-| Keywords, a tagline or a place added to the name | The real-world name only |
-| A virtual office, P.O. box or unstaffed desk as the address | A staffed location with signage, or a hidden address with service areas |
-| A home address shown when customers never visit | Address hidden, service areas set |
-| A phone number or link that redirects elsewhere | The business's own number and website |
+| Keywords or a tagline added to the name | The real-world name only |
+| A virtual office or P.O. box as the address | A staffed location with signage, or a hidden address with service areas |
+| An address shown when customers never visit | Address hidden, service areas set |
+| A website link that redirects elsewhere | A website that represents the individual location |
 
-To appeal, use Google's appeals tool and attach the kinds of evidence Google lists: business registration, a business licence, tax certificates or utility bills, with the name and address matching the profile. In India that might be a GST registration certificate, a trade licence or an electricity bill in the business name (Google names electricity bills; the other two are our examples). Submit the evidence form [within 60 minutes](https://support.google.com/business/answer/4569145?hl=en) of opening it, and don't create a new profile while the appeal is under review.
+To appeal, use Google's appeals tool and send the evidence Google lists: business registration papers, a business licence, tax certificates, or utility bills for electricity, phone, water or internet, with the name and address matching the profile. Do not create a new profile for the same business while you appeal, and note that Google says an appeal can only be submitted once.
 
 ## Where to start this week
 
 1. Search Maps for your business and check whether a listing exists and whether someone has already claimed it.
-2. Decide on the primary owner and the business type.
-3. Claim or create the profile with your signboard name, the most specific category and a local number.
+2. Decide on the primary owner and whether you are a storefront, a service-area or a hybrid business.
+3. Claim or create the profile with your real business name, the most specific category and a number someone answers.
 4. Verify, and leave the name, address and category alone until it finishes.
 5. Fill in hours, description, services, photos and a tagged website link, then print a review QR code for the counter.
+6. Copy the same details to Bing Places and Apple Business Connect.
 
-Step 1 takes one search, so start there today. If you find a listing you can't get into, or two listings for one business, [send us the Maps link](https://ndcompany.in/#contact) and ask what we would do. We set up and manage profiles for [businesses across India](https://ndcompany.in/locations/india).
+Step 1 takes one search, so start there today. We are an agency based in India and work with clients in the [USA](https://ndcompany.in/locations/usa) and other countries. If you find a listing you cannot get into, or two listings for one business, [send us the Maps link](https://ndcompany.in/#contact) and we will tell you what we would do.
 
 - [Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 - [Local SEO](https://ndcompany.in/tags/local-seo)
@@ -264,7 +258,7 @@ Step 1 takes one search, so start there today. If you find a listing you can't g
 - [Share on Threads](https://www.threads.net/intent/post?text=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fgoogle-business-profile-guide-16x9.png&description=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses)
-- [Share by email](mailto:?subject=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses&body=Set%20up%20and%20verify%20a%20Google%20Business%20Profile%20(formerly%20Google%20My%20Business)%20in%20India%2C%20ask%20for%20reviews%20within%20Google%27s%20rules%20and%20avoid%20suspensions.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
+- [Share by email](mailto:?subject=Google%20Business%20Profile%3A%20a%20setup%20and%20upkeep%20guide%20for%20local%20businesses&body=Set%20up%2C%20verify%20and%20keep%20a%20Google%20Business%20Profile%20current%3A%20eligibility%2C%20categories%2C%20reviews%20within%20Google%27s%20rules%2C%20agencies%2C%20plus%20Bing%20Places%20and%20Apple.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fgoogle-business-profile-guide)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -310,13 +304,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
@@ -336,7 +330,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "BlogPosting",
       "@id": "https://ndcompany.in/blogs/google-business-profile-guide#article",
       "headline": "Google Business Profile: a setup and upkeep guide for local businesses",
-      "description": "Set up and verify a Google Business Profile (formerly Google My Business) in India, ask for reviews within Google's rules and avoid suspensions.",
+      "description": "Set up, verify and keep a Google Business Profile current: eligibility, categories, reviews within Google's rules, agencies, plus Bing Places and Apple.",
       "image": [
         {
           "@type": "ImageObject",
@@ -358,7 +352,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
         }
       ],
       "datePublished": "2026-10-23T00:00:00+05:30",
-      "dateModified": "2026-10-28T00:00:00+05:30",
+      "dateModified": "2026-11-17T00:00:00+05:30",
       "author": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",
@@ -378,15 +372,15 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Google Business Profile, Local SEO, Online reviews, Working with an agency",
       "genre": "Guide",
-      "wordCount": 2910,
+      "wordCount": 3663,
       "inLanguage": "en-IN"
     },
     {
       "@type": "WebPage",
       "@id": "https://ndcompany.in/blogs/google-business-profile-guide#webpage",
       "url": "https://ndcompany.in/blogs/google-business-profile-guide",
-      "name": "How to set up a Google Business Profile in India | N&D Co.",
-      "description": "Set up and verify a Google Business Profile (formerly Google My Business) in India, ask for reviews within Google's rules and avoid suspensions.",
+      "name": "Google Business Profile Setup and Upkeep Guide | N&D Co.",
+      "description": "Set up, verify and keep a Google Business Profile current: eligibility, categories, reviews within Google's rules, agencies, plus Bing Places and Apple.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

@@ -4,13 +4,13 @@ description: "Cookies policy for ndcompany.in: the browser storage we use, the a
 url: "https://ndcompany.in/cookies-policy"
 type: "WebPage"
 published: "2026-10-23"
-modified: "2026-11-10"
+modified: "2026-11-15"
 image: "https://ndcompany.in/assets/share/cookies.png"
 ---
 
 # Cookies policy
 
-Effective date: 23 October 2026 · Last updated: 10 November 2026
+Effective date: 23 October 2026 · Last updated: 15 November 2026
 
 This policy lists the cookies and other browser storage that https://ndcompany.in uses, what each one does and how long it lasts. A few small items are always on. Google Analytics, Microsoft Clarity, PostHog and offline copies of our pages wait until you allow them in our cookie box. Our free tools at ndcompany.in/tools are part of the site and follow the same rules.
 
@@ -47,9 +47,9 @@ Lasts: until you clear this site's data.
 
 ### `theme`
 
-Local storage. Remembers whether you use light or dark mode.
+Local storage. Remembers that you chose light or dark mode over your device's own setting, which the site follows otherwise.
 
-Set: only when you switch between light and dark mode.
+Set: only when you switch to the mode your device is not using. Switching back removes it.
 
 Lasts: until you clear this site's data.
 
@@ -277,7 +277,7 @@ Our [privacy policy](https://ndcompany.in/privacy) explains your rights over you
       },
       "inLanguage": "en-IN",
       "datePublished": "2026-10-23",
-      "dateModified": "2026-11-10",
+      "dateModified": "2026-11-15",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "url": "https://ndcompany.in/assets/share/cookies.png",

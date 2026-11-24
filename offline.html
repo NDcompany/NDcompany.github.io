@@ -8,8 +8,9 @@
 <title>You're offline | N&amp;D Co.</title>
 <link rel="icon" type="image/png" href="/assets/favicon/favicon-32x32.png" sizes="32x32">
 <script>
-  // Same theme choice as the main site (ThemeContext stores it in localStorage).
-  try { if (localStorage.getItem('theme') === 'dark') document.documentElement.classList.add('dark'); } catch (e) {}
+  // Same theme as the main site: the visitor's stored choice (ThemeContext), else the system setting.
+  var t = null; try { t = localStorage.getItem('theme'); } catch (e) {}
+  if (t ? t === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches) document.documentElement.classList.add('dark');
 </script>
 <style>
   :root {
@@ -18,10 +19,12 @@
     --pill: rgba(229, 229, 229, 0.75); --pill-border: rgba(255, 255, 255, 0.6);
     --pill-shadow: 0 20px 40px -5px rgba(0, 0, 0, 0.1), 0 10px 20px -5px rgba(0, 0, 0, 0.05), inset 0 0 20px rgba(255, 255, 255, 0.5);
     --btn: #000000; --glow: rgba(130, 87, 229, 0.12);
+    color-scheme: light;
     --display: 'Syne', 'Segoe UI', system-ui, sans-serif;
     --body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   }
   .dark {
+    color-scheme: dark;
     --bg: #0a0a0f; --text: #ffffff; --muted: rgba(255, 255, 255, 0.8); --soft: rgba(255, 255, 255, 0.68);
     --line: rgba(130, 87, 229, 0.3); --chip: #16162a; --focus: #a78bfa;
     --pill: rgba(20, 20, 35, 0.85); --pill-border: rgba(100, 100, 200, 0.4);

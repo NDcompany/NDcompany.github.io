@@ -42,17 +42,11 @@ The gig was "I will design and develop a fast responsive business website". The 
 | 8:00 | Catherine P. | France | "All done! The deposit is paid and the my order is in." | .pdf, 2 KB |
 | 8:00 | dla_j_7576 | United Kingdom | "Could you create a piece in a similar style?" | .pdf, 175 KB |
 
-![Fiverr inbox with seven new conversations. The open one, from dan1418_rg in Morocco, says I've just placed an order for your services and Everything is already set from my side, while the side panel says This client has no orders with you and On Fiverr since Nov 2026](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-order-message.webp)
-
 *The open conversation claims an order. Fiverr's own panel on the right says there is none, and the account is days old.*
 
 Three details give it away before you open anything. Fiverr's panel beside each conversation said "This client has no orders with you", and two accounts sent word for word the same message a minute apart. One account used the display name "Catherine P." while its username was a different name altogether.
 
-![Conversation with Catherine P. from France: All done! The deposit is paid and the my order is in. I've attached the project file please review it and let me know it's all good by confirming through Fiverr, with a PDF attachment](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/deposit-paid-message.webp)
-
 *'The deposit is paid': there is no deposit on Fiverr. A buyer pays when they place the order, and the order shows on your Orders page.*
-
-![Conversation with dla_j_7576 from the United Kingdom: this design and develop a fast responsive business website sparked my interest. Could you create a piece in a similar style? with a PDF named 66.pdf showing a Client details cover](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/client-brief-pdf-message.webp)
 
 *The softer version: a compliment, a request and a PDF that looks like a client brief.*
 
@@ -65,8 +59,6 @@ To see where the links go, [our founder](https://ndcompany.in/team/nakshatra-ran
 ## Inside the .html "project file"
 
 A file ending in .html is a web page. Double-click it and it opens in your browser, with your browser's full power to load things and move you to other sites. That is the whole trick here. When the 268 KB file opens, you see this:
-
-![A fake Fiverr page opened from the .html file: Congratulations! The buyer has purchased your service, with three steps, Verification: Pending and a copyright line for Fiverr International Ltd., then Redirecting in 3s and a green Continue button](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-order-confirmation.webp)
 
 *The page inside the .html file. Fiverr does not send order confirmations as files, and it never asks you to verify an order outside fiverr.com.*
 
@@ -329,21 +321,15 @@ Renee J.'s file is shorter and does one job: it forwards you to a page hosted on
 
 The Netlify page shows a "Continue to Website" card with the next address written on it. Free hosting on a known service makes the first hop look less suspicious, and the page can be swapped for another the moment it is reported.
 
-![A page on detail-paym.netlify.app titled Continue to Website, reading Click the button below to open the external page, with the address individual-continue.com/project/63453 and a green Open Website button](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/netlify-continue-page.webp)
-
 *The Netlify page between the 1 KB file and the scam site. The green button copies Fiverr's colour.*
 
 ## The two PDFs
 
 The 175 KB PDF from dla_j_7576 is the most polished part of the operation. It is a two-page "Client details" brief with a Fiverr-style icon, a contents list, a message from "the client" and a box saying the client's website is attached "for reference". Its footer reads "mira by FIVERR". Mira is real: Fiverr's own help page calls it "Fiverr's AI headhunter", and genuine Mira job descriptions reach sellers as PDFs ([Fiverr's page on finding talent with Mira](https://help.fiverr.com/hc/en-us/articles/48756531483537-Finding-talent-with-Mira)). That is what makes this costume convincing. A seller warned on the Fiverr Community forum in August 2026 that a PDF exported from Mira can be edited to add outside links while keeping the branding ([the forum post about Mira PDFs](https://community.fiverr.com/public/forum/boards/feedback-and-suggestions-mdo/posts/mira-a-new-tool-for-buyers-and-scammers-greater-than-be-on-your-guard-0oh1bw3cmz)). Every link in it goes to `prodomainblog[.]com`. The file's own details say it was printed from a headless Chrome browser on 10 November 2026, the day before it reached us.
 
-![The two pages of the fake brief PDF side by side: a cover reading Client details, Engagement brief, prepared 10 November 2026, and a page with Message from the client, About the project and Delivery, and a reference box for the client's website](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-client-brief-pdf.webp)
-
 *The fake brief. 'I have already purchased the basic package', it says, but no order existed.*
 
 Catherine P.'s PDF is the opposite: 1.6 KB, a blank page and one blue box reading "Click Here to check out the project". The box is a link to `zelendor[.]pro`. Its title, stored inside the file, is "Just a moment...", the same title Cloudflare's bot check page has, which suggests whoever made it printed that page to PDF and then added the link by hand.
-
-![A blank PDF page in Chrome's viewer with one blue-bordered box reading Click Here to check out the project](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/blank-pdf-link.webp)
 
 *The whole of MyProject.pdf: a blank page and a link.*
 
@@ -371,8 +357,6 @@ endobj
 
 Each file starts on a different address, but they all end up in the same few pages. The order is always the same:
 
-![Diagram of the scam in six steps: 1, a brand-new account messages you that it placed an order and attaches a file; 2, the file opens a fake Fiverr page and redirects after 7 seconds; 3, a look-alike site behind a bot check; 4, It needs a human touch, a press-and-hold check and a box for your Fiverr username; 5, a fake Resolution Center and support chat; 6, the real goal, a form for your bank card number, expiry date, CVC and name](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/attack-chain.svg)
-
 *The chain, from the message to the card form.*
 
 **Where each file led (followed 11 November 2026, addresses defanged)**
@@ -387,13 +371,9 @@ Each file starts on a different address, but they all end up in the same few pag
 
 Chrome warned us about the first hop of 5254.html, a bare IP address on plain HTTP with no secure connection:
 
-![Chrome's warning on 196.251.107.8: This site doesn't support a secure connection, with Continue to site and Go back buttons](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/chrome-not-secure-warning.webp)
-
 *When Chrome stops you on an address with no secure connection, go back.*
 
 Every domain except the Netlify page sat behind Cloudflare, and three of them showed its "Performing security verification" check. Cloudflare is a normal service used by millions of sites, and here it does a job for the scammers too: some automated security scanners stop at the check and never see the page behind it.
-
-![A Cloudflare check on bubble-identification.com reading Performing security verification, This website uses a security service to protect against malicious bots](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/cloudflare-check.webp)
 
 *A real Cloudflare check in front of a fake page.*
 
@@ -401,17 +381,11 @@ Every domain except the Netlify page sat behind Cloudflare, and three of them sh
 
 Every domain then showed the same page with Fiverr's logo: a "Hold to continue" button, and the text "The request to proceed to the funds collection step for your listed services could not be completed. No signs of fraud were detected, however the system requires a short verification".
 
-![A page with the Fiverr logo titled It needs a human touch, with a HOLD TO CONTINUE button and text about the funds collection step for your listed services](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/hold-to-continue.webp)
-
 *A press-and-hold check copied from real bot protection, to make the page feel official.*
 
 After the hold, it asks for your Fiverr username, with a little guide showing where to find it. We don't know exactly what they do with it. A real username lets the next page greet you by name and show your own profile, which makes the card form far more convincing.
 
-![The same page asking Enter your Fiverr username, with a made-up username definately_not_dumb_freelancer typed in](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/username-prompt.webp)
-
 *We typed a made-up username. Never give a real one to a page that is not fiverr.com.*
-
-![The username page on bubble-identification.com with a Where to find your username panel showing a sample Fiverr profile card with the @username underlined in red](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/where-to-find-username.webp)
 
 *The 'where to find it' helper. Real Fiverr pages already know who you are.*
 
@@ -419,19 +393,11 @@ After the hold, it asks for your Fiverr username, with a little guide showing wh
 
 The last pages copy Fiverr's header, menu and footer closely. One calls itself the "Resolution Center" and says "Your order has already been confirmed and is waiting for a final security check". A "Customer Support" chat opens by itself and repeats the message in several ways.
 
-![A fake Fiverr Resolution Center on fv.customeroom.shop with Secure verification requested, @verified_seller, a Start verification now button, an order overview with status Paid and verification mode Card release, and a Customer Support chat](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/fake-resolution-center.webp)
-
 *'Funds secured', 'Card release': the words of a payout, on a domain that is not Fiverr's. The support agent's photo is blurred by us.*
-
-![A fake Fiverr page on individual-continue.com titled How you'll verify, with card logos, This verification only supports bank cards, and a chat saying You will be asked to provide your card information to verify your account](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/card-verification-chat.webp)
 
 *'This verification only supports bank cards.' PayPal and Google Pay are shown and then ruled out.*
 
-![An Add a bank card form asking for card number, card expiry date, CVC and cardholder, claiming All operations are protected by PCI DSS standards, beside a chat explaining the 3D-Secure verification](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/add-bank-card.webp)
-
 *The goal of the whole chain: card number, expiry date and the three-digit code from the back.*
-
-![A Receive Your Payout form on fv.customeroom.shop asking for cardholder name, card number, expiration date and security code, with a support chat saying a new rule requires verification with a bank card and warning not to accept new orders or click other links](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/receive-payout-form.webp)
 
 *The chat even tells you not to accept other orders or click other links until you finish, so you stay on their page.*
 
@@ -488,8 +454,6 @@ Report inside Fiverr first, then report the pages so browsers start warning othe
 ### In Fiverr
 
 On a computer, hover over the message, click the three dots, choose Report, pick a reason and submit. You can block the user in the same step. On the app, press and hold the message and tap Report Spam. Fiverr says reports are "reviewed by our Trust & Safety team", and that spam won't affect your response rate if you report it "within 24 hours" ([Fiverr's spam and safety page](https://help.fiverr.com/hc/en-us/articles/360010978898-Avoiding-spam-and-staying-safe-on-Fiverr)). Its [reporting help page](https://help.fiverr.com/hc/en-us/articles/9596156809105-Reporting-content-or-behavior-on-Fiverr) notes that you report from your Inbox, one message at a time. We chose "The user asked for payment or wanted to communicate outside of Fiverr" and ticked the box to block the user.
-
-![Fiverr's report dialog over the conversation with Renee J.: Why do you wish to report this message? with four reasons and a note that the report will be kept anonymous](https://ndcompany.in/assets/blog/fiverr-fake-order-scam/report-dialog.webp)
 
 *Fiverr's report dialog. The report is anonymous, and the next screen lets you block the user.*
 
@@ -597,6 +561,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+Business
+
 Guide · 11 Nov 2026
 
 ### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
@@ -615,16 +589,6 @@ Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36
 
 Read the guide
 
-Business
-
-Insight · 29 Oct 2026
-
-### [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-
-Only 35 of 101 agency websites we could read show any price. The rest of what we found: website builds from a median ₹15,000, SEO from ₹15,000 a month, and GST that almost nobody mentions.
-
-Read the post
-
 [More on Business](https://ndcompany.in/blogs/topic/business)
 
 ## How we can help
@@ -633,13 +597,13 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 Learn more
 

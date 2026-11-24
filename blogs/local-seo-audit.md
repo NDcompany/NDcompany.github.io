@@ -87,7 +87,7 @@ Structured data tells Google your details in a form it reads directly. For a loc
 
 ### Location pages, not doorway pages
 
-A business with several branches can have one useful page per branch. Pages made only to rank for city after city are a problem: Google's spam policies list "having multiple domain names or pages targeted at specific regions or cities that funnel users to one page" as doorway abuse ([Google Search spam policies](https://developers.google.com/search/docs/essentials/spam-policies)). If your location pages differ only in the city name, merge them or give each one real, local content. To check a page's title, description, headings and structured data, and compare its words with a competitor's page, run it through [RankGuru, our free on-page SEO checker](https://ndcompany.in/tools/rankguru).
+A business with several branches can have one useful page per branch. Pages made only to rank for city after city are a problem: Google's spam policies list "having multiple domain names or pages targeted at specific regions or cities that funnel users to one page" as doorway abuse ([Google Search spam policies](https://developers.google.com/search/docs/essentials/spam-policies)). If your location pages differ only in the city name, merge them or give each one real, local content. To check a page's title, description, headings and structured data, and compare its words with a competitor's page, run it through [RankGuru, our free on-page SEO checker](https://ndcompany.in/tools/rankguru). To check every page of the site at once, crawl it with [ShoutingToad, our free and open-source SEO spider](https://ndcompany.in/open-source/shoutingtoad).
 
 ## Step 5: review your reviews
 
@@ -119,11 +119,7 @@ Take a baseline before you change anything, so you can see what worked.
 - **Business Profile performance.** Available "only for verified Business Profiles", it shows the searches people used to find you, views, direction requests, calls and website clicks ([Google's help on profile performance](https://support.google.com/business/answer/9918094?hl=en)). The searches figure "is updated at the start of each month".
 - **Search Console.** Filter the Performance report to your country and to your location or contact pages to see the local searches that reach your site: "Filter by multiple countries or devices to see their combined data" ([Search Console Help on filtering](https://support.google.com/webmasters/answer/17011165?hl=en)). No Search Console yet? The first step of our [technical SEO checklist](https://ndcompany.in/blogs/technical-seo-checklist#own-search-console) covers setting it up.
 
-![The Performance view of N&D Co.'s Business Profile for May 2026 to October 2026: 8 Business Profile interactions, with tabs for calls, chat clicks, bookings and website clicks and a monthly line chart](https://ndcompany.in/assets/blog/local-seo-audit/business-profile-performance.webp)
-
 *Our own Business Profile performance for May to October 2026: 8 interactions in six months, the kind of baseline to note before changing anything.*
-
-![Search Console's Performance report for ndcompany.in over 3 months, filtered to Country: India: 21 total clicks, 355 total impressions, 5.9% average CTR and an average position of 10.7, with daily lines for clicks, impressions and position from late July to late October 2026](https://ndcompany.in/assets/blog/local-seo-audit/search-console-performance-india.webp)
 
 *Our own Performance report filtered to India, three months to 25 October 2026. Write down the four totals on the day you start, then compare the same filter a month later.*
 
@@ -215,7 +211,7 @@ If you would rather have this handled for you, these are the services that cover
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
@@ -277,7 +273,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "articleSection": "SEO",
       "keywords": "Local SEO, SEO audits, Google Business Profile",
       "genre": "Guide",
-      "wordCount": 1966,
+      "wordCount": 1986,
       "inLanguage": "en-IN"
     },
     {

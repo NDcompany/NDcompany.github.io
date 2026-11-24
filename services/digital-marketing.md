@@ -169,7 +169,7 @@ At the end of every month you receive the report and a short call to walk throug
 
 ## Who this is for
 
-- Small and mid-sized businesses in Kolkata, across India and worldwide that want leads from paid search and social ads.
+- Businesses of any size in Kolkata, across India and worldwide that want leads from paid search and social ads.
 - Online stores and D2C (direct-to-consumer) brands that need someone to run product campaigns and report on cost per order.
 - Service businesses such as clinics, coaching institutes, real estate agencies and professional firms that depend on a steady flow of leads.
 - Founders who have run ads themselves and want to hand the account to a team that reports back every month.
@@ -205,7 +205,7 @@ Those are separate services. SEO Services covers search rankings and organic tra
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. One team plans and delivers your branding, website, SEO and marketing, so the parts fit each other, and you get one quote for all of it, set in writing before work starts. Read more [about us](https://ndcompany.in/about).
 
-We deliver Digital Marketing & Performance Marketing remotely to clients in [India](https://ndcompany.in/locations/india), [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), and [other countries](https://ndcompany.in/locations).
+We deliver Digital Marketing & Performance Marketing remotely to clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh), [India](https://ndcompany.in/locations/india), and [other countries](https://ndcompany.in/locations).
 
 ## Related services
 
@@ -213,19 +213,19 @@ Often combined with Digital Marketing & Performance Marketing.
 
 ### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Content planning, posting, and audience growth strategies.
+A monthly content calendar, designed posts and captions, reels, scheduled publishing and replies to your audience.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 Learn more
 
 ### [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
 
-Video ads, reels, and promotional content production.
+Promotional and product videos, reels and motion graphics, shot for you or edited from your footage.
 
 Learn more
 
@@ -327,6 +327,22 @@ Send a few lines about your business and we will reply with questions or a quote
         "@id": "https://ndcompany.in/#ndco-organization"
       },
       "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "Netherlands"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Bangladesh"
+        },
         {
           "@type": "Country",
           "name": "India"

@@ -1,6 +1,6 @@
 ---
-title: "N&D Co. | Web Design, SEO & Marketing Agency in Kolkata"
-description: "All-in-one brand and growth agency in Barrackpore, Kolkata: website design and development, SEO, branding, digital marketing and video for clients worldwide."
+title: "N&D Co. | Web Design & SEO Agency for US and European Businesses"
+description: "Brand and growth agency for businesses in the USA, Europe and the UAE: websites, SEO, branding, marketing and video, run from Kolkata, India."
 url: "https://ndcompany.in/"
 type: "WebPage"
 image: "https://ndcompany.in/assets/share/home.png"
@@ -8,7 +8,7 @@ image: "https://ndcompany.in/assets/share/home.png"
 
 # We build brands that convert
 
-N&D Co. is a brand and growth agency in Kolkata, India, with clients in India and abroad. We design brand identities, build websites and run SEO and marketing, all focused on
+N&D Co. is a brand and growth agency for businesses in the US, Europe and the UAE, working from Kolkata, India. We design brand identities, build websites and run SEO and marketing, all focused on
 
 conversions, clients, sales and growth
 
@@ -20,7 +20,7 @@ or [send us a message](https://ndcompany.in/#contact)
 
 ![Illustration of two people presenting a growth chart beside the N&D Co. logo on a large screen](https://ndcompany.in/assets/images/growth-trust.svg)
 
-Brand identities. Websites. SEO. Marketing. Video. • Made in Kolkata for businesses in India and abroad. •
+Brand identities. Websites. SEO. Marketing. Video. • Made in Kolkata for businesses worldwide. •
 
 ![Illustration of N&D Co.'s design, development and marketing services](https://ndcompany.in/assets/images/services.svg)
 
@@ -28,19 +28,19 @@ Brand identities. Websites. SEO. Marketing. Video. • Made in Kolkata for busin
 
 ### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Responsive websites, e-commerce development, and SEO-optimized web solutions.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
-On-page, off-page, and technical SEO to improve rankings and drive organic traffic.
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
 
 ### [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions)
 
-Complete branding including logo design, identity, and marketing materials.
+A whole brand in one project: logo, colors and type, guidelines, stationery, social templates, print and packaging.
 
 ### [Software Development](https://ndcompany.in/services/software-development)
 
-Custom web applications, CRM systems, and internal business software.
+Custom web applications, CRMs and internal tools for the way your business runs.
 
 ### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
 
@@ -48,35 +48,35 @@ Android and iOS apps for restaurants, shops, and businesses, built once and publ
 
 ### [Brand Identity Design](https://ndcompany.in/services/brand-identity-design)
 
-Logo design, brand guidelines, and visual identity systems.
+A logo with its palette, typefaces and supporting graphics, written up in a guidelines document your team can follow.
 
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
-Online store development with payment integration and optimization.
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 ### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-Google Ads, social media marketing, and ROI-focused campaigns.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 ### [Social Media Management](https://ndcompany.in/services/social-media-management)
 
-Content planning, posting, and audience growth strategies.
+A monthly content calendar, designed posts and captions, reels, scheduled publishing and replies to your audience.
 
 ### [Video Production & Editing](https://ndcompany.in/services/video-production-editing)
 
-Video ads, reels, and promotional content production.
+Promotional and product videos, reels and motion graphics, shot for you or edited from your footage.
 
 ### [Graphic Design](https://ndcompany.in/services/graphic-design)
 
-Posters, banners, ad creatives, and marketing graphics.
+Social media and ad creatives, posters, brochures, stationery and packaging, print-ready and in every platform size.
 
 ### [Logo Design](https://ndcompany.in/services/logo-design)
 
-Custom logo design and brand identity creation.
+Logo concepts, refinement and lockups, delivered as vector files with the colors and typefaces to use them.
 
 ### [Content Creation](https://ndcompany.in/services/content-creation)
 
-SEO content, blogs, and social media content.
+SEO blog posts, website copy, product descriptions and social captions, planned in a content calendar.
 
 [View all services](https://ndcompany.in/services)
 
@@ -100,7 +100,7 @@ Our Work
 
 About us
 
-N&D Co. is a brand and growth agency based in Barrackpore, Kolkata, West Bengal, India, founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We design brand identities and logos, build websites, e-commerce stores and custom software, and run SEO, performance marketing, social media and video for small and mid-sized businesses across [India](https://ndcompany.in/locations/india) and [worldwide](https://ndcompany.in/locations), including [Bangladesh](https://ndcompany.in/locations/bangladesh), the [USA](https://ndcompany.in/locations/usa) and the [Netherlands](https://ndcompany.in/locations/netherlands). [More about how we work](https://ndcompany.in/about).
+N&D Co. is a brand and growth agency founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We design brand identities and logos, build websites, e-commerce stores and custom software, and run SEO, performance marketing, social media and video for businesses of every size [worldwide](https://ndcompany.in/locations), with clients in the [USA](https://ndcompany.in/locations/usa), the [Netherlands](https://ndcompany.in/locations/netherlands), [Bangladesh](https://ndcompany.in/locations/bangladesh) and [India](https://ndcompany.in/locations/india). We work from Kolkata, India, and agencies can resell our work under their own name through our [white label service](https://ndcompany.in/white-label). [More about how we work](https://ndcompany.in/about).
 
 ### Growth that trends upward
 
@@ -112,7 +112,7 @@ Services under one roof
 
 ### N&D Co.
 
-A brand and growth agency in Barrackpore, Kolkata. One team plans your branding, website, SEO and marketing together, from the brief to the launch.
+A brand and growth agency for clients worldwide, working from Kolkata. One team plans your branding, website, SEO and marketing together, from the brief to the launch.
 
 ![N&D Co. logo mark](https://ndcompany.in/assets/images/about/ndco-logo-mark.webp)
 
@@ -122,7 +122,7 @@ From a few days for a logo to a few months for custom software, agreed in writin
 
 #### Who we work with
 
-Small and mid-sized businesses, in India and abroad.
+Businesses of every size worldwide, and agencies that resell our work.
 
 ![Laptop showing an N&D Co. website design in progress](https://ndcompany.in/assets/images/about/design-work-laptop.webp)
 
@@ -284,13 +284,15 @@ We use your details only to reply to you, and delete them after 24 months unless
 
 Worked with us? [Review us on Trustpilot](https://www.trustpilot.com/evaluate/ndcompany.in)
 
+[Read all reviews](https://ndcompany.in/reviews)
+
 Google review
 
 "they genuinely helped me to scale the business and brought my idea to live. we are getting leads now. definitely recommended"
 
 Mumtaj Ahmad
 
-yesterday
+3 days ago
 
 Google review
 
@@ -308,17 +310,25 @@ Rajesh Ghosh
 
 6 months ago
 
+Freelancer review
+
+"Great job. Did what others couldn't do."
+
+Michael L.
+
+2024
+
 Google review
 
 "I am genuinely surprised about what they did with my business. Wanted a website with some useful features and also I had an raw idea on my business logo and branding. They just awesomely nailed it. First of all the logo and brand identity, just wow, it genuinely represents my business well enough and in a minimal premium look. Next the website, when I told them that I didn't had the budge to pay for a new domain and hosting, they said, "mam let us handle this in our way, if you don't like don't even pay for the branding" and after a day they send me the link of my website. It was a blogger site, at first I thaught it is just an generic blogspot page what more it could be, and when I opened the link, it was looking like I am viewing a premium jewelry online store. The whole experience was great, the team, the understanding, the price, the timeline, and mostly solving my problems, it was a genuine great experience. I'll definitely recommend to all, and in my openion you'll have the best experience what any agency could not give. If there were 10 stars I would give them 10/10. Thanks a lot guys for the best project of my life."
 
 Adrija Rivu
 
-yesterday
+3 days ago
 
 Google review
 
-"Working with N&D Co has been an absolute game-changer for our business. From the initial discovery phase to the final deployment, their team demonstrated top-tier professionalism, deep technical expertise, and an incredible commitment…"
+"Working with N&D Co has been an absolute game-changer for our business. From the initial discovery phase to the final deployment, their team demonstrated top-tier professionalism, deep technical expertise, and an incredible commitment to our vision.They didn't just write code; they took the time to truly understand our business goals and user needs. The communication was seamless throughout the entire software development lifecycle, with regular updates and quick turnarounds on feedback. What impressed me most was their ability to solve complex technical challenges with clean, scalable, and efficient solutions.Thanks to their hard work, our software was delivered on time and within budget, exceeding all of our performance expectations. If you are looking for a reliable, highly skilled, and proactive software development partner, I cannot recommend N&D Co highly enough"
 
 Axn Sony
 
@@ -388,7 +398,7 @@ Projects are billed fixed-price or hourly, with a custom quote based on scope. A
 
 **Where are you based?**
 
-We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients worldwide remotely, including India, the United States, the Netherlands, Bangladesh, the UAE and more. Office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. [See the countries we work with](https://ndcompany.in/locations).
+We are based in Barrackpore, Kolkata, West Bengal, India, and work with clients worldwide remotely, including the United States, the Netherlands, Bangladesh, India and more. Office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. [See the countries we work with](https://ndcompany.in/locations).
 
 **Are you hiring?**
 
@@ -406,8 +416,8 @@ Not right now. You can send your CV and a few work samples to hello@ndcompany.in
       "@type": "WebPage",
       "@id": "https://ndcompany.in/#webpage",
       "url": "https://ndcompany.in/",
-      "name": "N&D Co. | Web Design, SEO & Marketing Agency in Kolkata",
-      "description": "All-in-one brand and growth agency in Barrackpore, Kolkata: website design and development, SEO, branding, digital marketing and video for clients worldwide.",
+      "name": "N&D Co. | Web Design & SEO Agency for US and European Businesses",
+      "description": "Brand and growth agency for businesses in the USA, Europe and the UAE: websites, SEO, branding, marketing and video, run from Kolkata, India.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
