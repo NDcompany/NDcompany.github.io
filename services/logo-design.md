@@ -1,6 +1,6 @@
 ---
 title: "Logo Design Company in Kolkata: Custom Logos | N&D Co."
-description: "Custom logo design by N&D Co., Barrackpore, Kolkata: concept directions, refinement, vector source files and a usage guide for businesses in India and abroad."
+description: "Custom logo design by N&D Co., Barrackpore, Kolkata: concept directions, refinement, editable vector files and a usage guide for businesses in India and abroad."
 url: "https://ndcompany.in/services/logo-design"
 type: "Service"
 image: "https://ndcompany.in/assets/share/logo-design.png"
@@ -10,7 +10,7 @@ Custom logo design
 
 # Logo design in Kolkata for new and growing businesses
 
-We design logos from scratch for businesses starting out or replacing a mark that no longer fits. You receive a primary logo, alternate lockups, a color palette and vector source files, and the rights to the final design once the project is paid in full.
+We design logos from scratch for businesses starting out or replacing a mark that no longer fits. You receive a primary logo, alternate lockups, a color palette and editable vector files, and the rights to the final design once the project is paid in full.
 
 [Get a quote](https://ndcompany.in/?service=logo-design#contact)
 
@@ -18,7 +18,7 @@ We design logos from scratch for businesses starting out or replacing a mark tha
 
 ## What is Logo Design?
 
-Logo Design at N&D Co. is a custom service that produces an original logo and the basic identity elements around it. It includes market research, concept sketches, refinement of a chosen direction, a primary logo with horizontal, stacked and icon-only versions, a color palette, and vector source files in AI, EPS, SVG and PDF. It is for startups and small businesses that need a first logo or a redesign. N&D Co. is based in Barrackpore, Kolkata, and works with businesses worldwide.
+Logo Design at N&D Co. is a custom service that produces an original logo and the basic identity elements around it. It includes market research, concept sketches, refinement of a chosen direction, a primary logo with horizontal, stacked and icon-only versions, a color palette, and editable vector files in AI, EPS, SVG and PDF. It is for startups and small businesses that need a first logo or a redesign. N&D Co. is based in Barrackpore, Kolkata, and works with businesses worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
 
@@ -58,7 +58,7 @@ The primary logo plus horizontal, stacked and icon-only versions, each in full c
 
 Primary and secondary colors in CMYK, RGB and HEX, and the typefaces used in the logo with notes on where to license them.
 
-### Vector source files
+### Editable vector files
 
 Editable AI and EPS files, SVG for web, PDF for print, and PNG exports with transparent backgrounds, with fonts outlined so the files open anywhere.
 
@@ -84,7 +84,7 @@ written quote before work starts · delivered in 3 to 5 days
 - Two revision rounds
 - Primary logo plus one alternate lockup
 - Full color and black-and-white versions
-- Vector source files (AI, EPS, SVG, PDF) and PNG exports
+- Editable vector files (AI, EPS, SVG, PDF) and PNG exports
 
 ---
 
@@ -168,7 +168,7 @@ After the balance is paid, you receive every lockup in AI, EPS, SVG, PDF and PNG
 - Founders registering a new company in Kolkata, anywhere else in India, or anywhere in the world who need a logo before printing cards or opening a social account.
 - Established businesses whose current logo no longer works on a website or a phone screen.
 - Product brands that need a mark strong enough to sit on packaging next to bigger competitors.
-- Clubs and events that need an identity for a fixed period and want to keep the source files.
+- Clubs and events that need an identity for a fixed period and want to keep the editable files.
 - Agencies that resell this work under their own name: see our [white label design](https://ndcompany.in/white-label/design) page.
 
 ## Frequently asked questions
@@ -326,7 +326,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/logo-design#service",
       "name": "Logo Design",
       "serviceType": "Logo Design",
-      "description": "Logo Design at N&D Co. is a custom service that produces an original logo and the basic identity elements around it. It includes market research, concept sketches, refinement of a chosen direction, a primary logo with horizontal, stacked and icon-only versions, a color palette, and vector source files in AI, EPS, SVG and PDF. It is for startups and small businesses that need a first logo or a redesign. N&D Co. is based in Barrackpore, Kolkata, and works with businesses worldwide.",
+      "description": "Logo Design at N&D Co. is a custom service that produces an original logo and the basic identity elements around it. It includes market research, concept sketches, refinement of a chosen direction, a primary logo with horizontal, stacked and icon-only versions, a color palette, and editable vector files in AI, EPS, SVG and PDF. It is for startups and small businesses that need a first logo or a redesign. N&D Co. is based in Barrackpore, Kolkata, and works with businesses worldwide.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -364,7 +364,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/logo-design#webpage",
       "url": "https://ndcompany.in/services/logo-design",
       "name": "Logo Design Company in Kolkata: Custom Logos | N&D Co.",
-      "description": "Custom logo design by N&D Co., Barrackpore, Kolkata: concept directions, refinement, vector source files and a usage guide for businesses in India and abroad.",
+      "description": "Custom logo design by N&D Co., Barrackpore, Kolkata: concept directions, refinement, editable vector files and a usage guide for businesses in India and abroad.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

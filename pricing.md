@@ -70,9 +70,9 @@ Starting prices in US dollars. Your written quote confirms the final price, its 
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Identity | $319 | 2 to 3 weeks, with 3 months of support | Custom logo and compact mark; Color palette and typography; Short brand guidelines PDF |
-| Launch | $469 | 2 to 3 weeks, with 3 months of support | Everything in IDENTITY; Full brand guidelines document; Stationery set: letterhead, envelope, invoice |
-| Custom | from $599 | 2 to 3 weeks, with 3 months of support | Everything in LAUNCH; Packaging and label design; Signage, banners and event materials |
+| Identity | $319 | 2 to 3 weeks, plus 3 months of SEO | Custom logo and compact mark; Color palette and typography; Short brand guidelines PDF |
+| Launch | $469 | 2 to 3 weeks, plus 3 months of SEO | Everything in IDENTITY; Full brand guidelines document; Stationery set: letterhead, envelope, invoice |
+| Custom | from $599 | 2 to 3 weeks, plus 3 months of SEO | Everything in LAUNCH; Packaging and label design; Signage, banners and event materials |
 
 [Everything in each Full Branding Solutions plan](https://ndcompany.in/services/full-branding-solutions#pricing)
 

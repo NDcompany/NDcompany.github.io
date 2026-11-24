@@ -18,7 +18,7 @@ We are a brand and growth agency in Kolkata, India, working with US businesses a
 
 ## Working with us from the USA
 
-The timezone gap works in your favour. Our working day, Mon to Sat 9:00 AM to 6:00 PM IST, runs while the US is offline, so feedback you send at the end of your day reaches us at the start of ours, in time for your next morning. Early morning on the East Coast overlaps the end of our day, which is when calls happen.
+The timezone gap works in your favour. Our working day, Mon to Sat 9:00 AM to 6:00 PM IST, runs while the US is offline, so feedback you send at the end of your day reaches us at the start of ours, in time for your next morning. For calls, we keep part of our evening free during US morning hours.
 
 ## How the remote work works
 
@@ -26,9 +26,9 @@ The timezone gap works in your favour. Our working day, Mon to Sat 9:00 AM to 6:
 
 Feedback you send at the end of your day reaches us at the start of ours, so revisions land in time for your next morning.
 
-### Morning calls on the East Coast
+### Calls in your morning
 
-Early morning on the US East Coast overlaps the end of our office day, so standing calls are easy to schedule.
+We keep part of our evening in India free for calls during US morning hours, so standing calls are easy to schedule.
 
 ### Priced and billed in US dollars
 
@@ -128,7 +128,7 @@ Ask for the scope in writing: what gets done each month and what the report show
 
 **How do we work across the time difference?**
 
-India is 9.5 to 13.5 hours ahead of the US depending on your coast. In practice that means we do the work while you are offline: briefs and feedback from your afternoon are handled during our next working day and are ready by your morning. Calls are scheduled for early morning on the East Coast, which is the end of our day.
+India is 9.5 to 13.5 hours ahead of the US depending on your coast. In practice that means we do the work while you are offline: briefs and feedback from your afternoon are handled during our next working day and are ready by your morning. For calls, we keep part of our evening free during your morning hours.
 
 **How do we pay from the US?**
 

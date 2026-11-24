@@ -10,7 +10,7 @@ Where we work
 
 # Countries we work with, remotely from Kolkata
 
-N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India, founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We work with businesses across India and worldwide, remotely over calls and email. India, Bangladesh, the United States and the Netherlands each have their own page below, with the time difference, how payment works and answers to common questions.
+N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India, founded by [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha). We work with businesses across India and worldwide, remotely over calls and email. India, Bangladesh, the United States, the Netherlands and the UAE each have their own page below, with the time difference, how payment works and answers to common questions.
 
 [Get a quote](https://ndcompany.in/#contact)
 
@@ -23,7 +23,7 @@ N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India
 Our working day runs while yours is over, so feedback you send at the end of your day is ready by your next morning.
 
 - **Time difference:** India is 9.5 to 13.5 hours ahead, depending on your coast
-- **Calls:** early morning on the East Coast, the end of our office day
+- **Calls:** your morning, in part of our evening we keep free
 - **Payment:** PayPal, Wise or bank transfer, in US dollars
 
 Working with us from the US
@@ -139,7 +139,7 @@ We can still work together. We work with clients worldwide, not only in the coun
 
 **How do you handle the time difference?**
 
-Our office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. That is 9:30 AM to 6:30 PM in Bangladesh, 7:30 AM to 4:30 PM in the UAE, and it covers the morning and early afternoon in the Netherlands. India is 9.5 to 13.5 hours ahead of the US, so we work on your feedback while you are offline, and calls happen early in the morning on the East Coast, at the end of our day.
+Our office hours are Monday to Saturday, 9:00 AM to 6:00 PM IST. That is 9:30 AM to 6:30 PM in Bangladesh, 7:30 AM to 4:30 PM in the UAE, and it covers the morning and early afternoon in the Netherlands. India is 9.5 to 13.5 hours ahead of the US, so we work on your feedback while you are offline, and we keep part of our evening free for calls in US morning hours.
 
 **Which languages do you work in?**
 

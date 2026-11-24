@@ -27,7 +27,7 @@ Before and alongside the agency, Nakshatra's work has been writing and code. Fre
 
 Nakshatra studied electrical engineering at Hooghly Institute of Technology on a diploma course from August 2023 to September 2026, after Santinagar High School, and completed Udemy's SEO Strategy 2025 course in December 2025.
 
-Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [OCEANOFANYTHING](https://github.com/OCEANOFANYTHING). [ShoutingToad](https://ndcompany.in/open-source/shoutingtoad) is the first project on our [open-source page](https://ndcompany.in/open-source).
+Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [OCEANOFANYTHING](https://github.com/OCEANOFANYTHING). His projects on our [open-source page](https://ndcompany.in/open-source) include [MailGrab](https://ndcompany.in/open-source/mailgrab) and [CHERNOBYL](https://ndcompany.in/open-source/chernobyl).
 
 - [LinkedIn profile](https://www.linkedin.com/in/nakshatra-ranjan-saha-93a31b262/)
 - [GitHub profile](https://github.com/OCEANOFANYTHING)

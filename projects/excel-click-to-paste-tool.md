@@ -22,7 +22,7 @@ A Windows tool for a US client who fills long supplier price lists in Excel: cop
 
 ## Overview
 
-Michael L., a client in the United States, works through supplier price lists in Excel. His team adds a blank column to each list and fills it with one value, such as 25%, row after row, on lists that run past 1,000 rows. In August 2024 he posted a job on Freelancer asking for a VBScript that would let a mouse click paste. N&D Co. built a small Windows program instead: copy the value once, press End, and every left click on a cell pastes it and confirms it. He confirmed it worked, paid, and rated the job five stars: "Great job. Did what others couldn't do."
+Michael L., a client in the United States, works through supplier price lists in Excel. His team adds a blank column to each list and fills it with one value, such as 25%, row after row, on lists that run past 1,000 rows. In August 2024 he posted a job on Freelancer asking for a VBScript that would let a mouse click paste. Our founder, [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), took the job and built a small Windows program instead, ten months before he started N&D Co. on 8 June 2025: copy the value once, press End, and every left click on a cell pastes it and confirms it. He confirmed it worked, paid, and rated the job five stars: "Great job. Did what others couldn't do."
 
 The tool runs as one .exe with nothing to install, comes with a manual, and has one key to pause it and another to close it, because a program that changes what a click does needs an easy way out. We sent five builds in three days, each with a manual or a screen recording. In November 2026 we ran the delivered build again on current Excel to make the screenshots on this page, on a made-up price list rather than his.
 
@@ -42,7 +42,7 @@ He had already solved half of it. With Windows' own keyboard settings he had mad
 
 **Filling 1,000 rows by hand and with the tool (our arithmetic, not a timed study)**
 
-|  | By hand | With the tool |
+| Measure | By hand | With the tool |
 | --- | --- | --- |
 | Actions for each row | Two: a click on the cell, then Ctrl+V or a right click and Paste | One left click |
 | Actions for 1,000 rows | About 2,000 | 1,000 |
@@ -87,7 +87,7 @@ One rule makes it reliable: copy the value as text, not as a cell. The section o
 
 ## How we built it, and why
 
-We built it by hand in August 2024, testing each build ourselves on a spreadsheet and recording it before sending it. Most of the work was deciding how a program that takes over the mouse should behave, so that it saves time without ever costing a sheet. These are the choices, and the reason for each.
+It was built by hand in August 2024, before N&D Co. existed. Each build was tested on a spreadsheet and recorded before it was sent. Most of the work was deciding how a program that takes over the mouse should behave, so that it saves time without ever costing a sheet. These are the choices, and the reason for each.
 
 **The choices behind the tool**
 
@@ -173,9 +173,9 @@ Michael L.
 
 ## Frequently asked questions
 
-**What did N&D Co. build for Michael L.?**
+**What was built for Michael L.?**
 
-A small Windows program for filling Excel price lists. He copies a value once and presses End, and from then on every left click on a cell pastes the value and confirms it. End pauses the tool, Esc closes it, and a sound tells him which state it is in. It came as one .exe with a manual.
+A small Windows program for filling Excel price lists, built in August 2024 by our founder, before he started N&D Co. in June 2025. He copies a value once and presses End, and from then on every left click on a cell pastes the value and confirms it. End pauses the tool, Esc closes it, and a sound tells him which state it is in. It came as one .exe with a manual.
 
 **Why Python and not the VBScript the job asked for?**
 
@@ -314,7 +314,7 @@ Tell us about your business in a few lines and we will reply with questions or a
       "name": "A one-click paste tool for Excel price lists, for a client in the US",
       "headline": "A one-click paste tool for Excel price lists, for a client in the US",
       "description": "A Windows tool for a US client who fills long supplier price lists in Excel: copy a value once, then one click pastes it into any cell. Five builds in three days, rated five stars on Freelancer.",
-      "abstract": "Michael L., a client in the United States, works through supplier price lists in Excel. His team adds a blank column to each list and fills it with one value, such as 25%, row after row, on lists that run past 1,000 rows. In August 2024 he posted a job on Freelancer asking for a VBScript that would let a mouse click paste. N&D Co. built a small Windows program instead: copy the value once, press End, and every left click on a cell pastes it and confirms it. He confirmed it worked, paid, and rated the job five stars: \"Great job. Did what others couldn't do.\" The tool runs as one .exe with nothing to install, comes with a manual, and has one key to pause it and another to close it, because a program that changes what a click does needs an easy way out. We sent five builds in three days, each with a manual or a screen recording. In November 2026 we ran the delivered build again on current Excel to make the screenshots on this page, on a made-up price list rather than his. This page covers the problem, how the tool works, how we built it and why, the version history, what Excel allows and what it does not, and how we work with clients in the US from India. The work falls under our software development service.",
+      "abstract": "Michael L., a client in the United States, works through supplier price lists in Excel. His team adds a blank column to each list and fills it with one value, such as 25%, row after row, on lists that run past 1,000 rows. In August 2024 he posted a job on Freelancer asking for a VBScript that would let a mouse click paste. Our founder, Nakshatra Ranjan Saha, took the job and built a small Windows program instead, ten months before he started N&D Co. on 8 June 2025: copy the value once, press End, and every left click on a cell pastes it and confirms it. He confirmed it worked, paid, and rated the job five stars: \"Great job. Did what others couldn't do.\" The tool runs as one .exe with nothing to install, comes with a manual, and has one key to pause it and another to close it, because a program that changes what a click does needs an easy way out. We sent five builds in three days, each with a manual or a screen recording. In November 2026 we ran the delivered build again on current Excel to make the screenshots on this page, on a made-up price list rather than his. This page covers the problem, how the tool works, how we built it and why, the version history, what Excel allows and what it does not, and how we work with clients in the US from India. The work falls under our software development service.",
       "url": "https://ndcompany.in/projects/excel-click-to-paste-tool",
       "image": [
         "https://ndcompany.in/assets/images/projects/excel-click-to-paste-tool-pasting.webp",

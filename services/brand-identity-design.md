@@ -1,6 +1,6 @@
 ---
 title: "Brand Identity & Corporate Identity Design, Kolkata | N&D Co."
-description: "Brand and corporate identity design for startups and established businesses in India and worldwide: logo, colour palette, typography and brand guidelines by N&D Co., Kolkata."
+description: "Brand and corporate identity design for startups and established businesses worldwide: logo, colour palette, typography and brand guidelines by N&D Co."
 url: "https://ndcompany.in/services/brand-identity-design"
 type: "Service"
 image: "https://ndcompany.in/assets/share/brand-identity-design.png"
@@ -10,7 +10,7 @@ Complete visual identity
 
 # Brand identity design for startups and small businesses
 
-We design the visual system your business is recognized by: logo, color palette, typography, and the rules for using them together on everything from a business card to a website. You receive the source files and a guidelines document, so any designer or printer can reproduce the identity correctly.
+We design the visual system your business is recognized by: logo, color palette, typography, and the rules for using them together on everything from a business card to a website. You receive editable vector files and a guidelines document, so any designer or printer can reproduce the identity correctly.
 
 [Start your brand](https://ndcompany.in/?service=brand-identity-design#contact)
 
@@ -66,7 +66,7 @@ A PDF covering logo usage and clear space, color values, typography, rules to fo
 
 Business card, letterhead and email signature designs, and social media profile and post templates in your identity.
 
-### Source files and handover
+### Editable files and handover
 
 Editable vector files (AI, SVG, PDF) and PNGs at common sizes, organized in a folder you own. Ownership transfers to you on full payment.
 
@@ -89,7 +89,7 @@ written quote before work starts · delivered in 1 to 2 weeks
 - Color palette with print and screen values
 - Typography pairing
 - Short brand guidelines PDF
-- Vector and PNG source files
+- Editable vector and PNG files
 
 ---
 
@@ -372,7 +372,7 @@ Send a few lines about your business and we will reply with questions or a quote
       "@id": "https://ndcompany.in/services/brand-identity-design#webpage",
       "url": "https://ndcompany.in/services/brand-identity-design",
       "name": "Brand Identity & Corporate Identity Design, Kolkata | N&D Co.",
-      "description": "Brand and corporate identity design for startups and established businesses in India and worldwide: logo, colour palette, typography and brand guidelines by N&D Co., Kolkata.",
+      "description": "Brand and corporate identity design for startups and established businesses worldwide: logo, colour palette, typography and brand guidelines by N&D Co.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

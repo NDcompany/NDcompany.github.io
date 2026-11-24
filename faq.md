@@ -1570,9 +1570,9 @@ No. Innovation Texture uses the identity, but photos of it in use are covered by
 
 [Innovation Texture](https://ndcompany.in/projects/innovation-texture#work-faq)
 
-**What did N&D Co. build for Michael L.? Michael L. case study**
+**What was built for Michael L.? Michael L. case study**
 
-A small Windows program for filling Excel price lists. He copies a value once and presses End, and from then on every left click on a cell pastes the value and confirms it.
+A small Windows program for filling Excel price lists, built in August 2024 by our founder, before he started N&D Co. in June 2025.
 
 [Read the full answer on the Michael L. case study](https://ndcompany.in/projects/excel-click-to-paste-tool#work-faq)
 

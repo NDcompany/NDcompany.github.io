@@ -1117,7 +1117,7 @@ $319
 
 / per project
 
-written quote before work starts · delivered in 2 to 3 weeks, with 3 months of support
+written quote before work starts · delivered in 2 to 3 weeks, plus 3 months of SEO
 
 - Custom logo and compact mark
 - Color palette and typography
@@ -1143,7 +1143,7 @@ $469
 
 / per project
 
-written quote before work starts · delivered in 2 to 3 weeks, with 3 months of support
+written quote before work starts · delivered in 2 to 3 weeks, plus 3 months of SEO
 
 - Everything in IDENTITY
 - Full brand guidelines document
@@ -1168,7 +1168,7 @@ $599
 
 / per project
 
-written quote before work starts · delivered in 2 to 3 weeks, with 3 months of support
+written quote before work starts · delivered in 2 to 3 weeks, plus 3 months of SEO
 
 - Everything in LAUNCH
 - Packaging and label design
@@ -1981,7 +1981,7 @@ Complete visual identity
 
 Source: https://ndcompany.in/services/brand-identity-design
 
-We design the visual system your business is recognized by: logo, color palette, typography, and the rules for using them together on everything from a business card to a website. You receive the source files and a guidelines document, so any designer or printer can reproduce the identity correctly.
+We design the visual system your business is recognized by: logo, color palette, typography, and the rules for using them together on everything from a business card to a website. You receive editable vector files and a guidelines document, so any designer or printer can reproduce the identity correctly.
 
 [Start your brand](https://ndcompany.in/?service=brand-identity-design#contact)
 
@@ -2037,7 +2037,7 @@ A PDF covering logo usage and clear space, color values, typography, rules to fo
 
 Business card, letterhead and email signature designs, and social media profile and post templates in your identity.
 
-### Source files and handover
+### Editable files and handover
 
 Editable vector files (AI, SVG, PDF) and PNGs at common sizes, organized in a folder you own. Ownership transfers to you on full payment.
 
@@ -2060,7 +2060,7 @@ written quote before work starts · delivered in 1 to 2 weeks
 - Color palette with print and screen values
 - Typography pairing
 - Short brand guidelines PDF
-- Vector and PNG source files
+- Editable vector and PNG files
 
 ---
 
@@ -3737,7 +3737,7 @@ Custom logo design
 
 Source: https://ndcompany.in/services/logo-design
 
-We design logos from scratch for businesses starting out or replacing a mark that no longer fits. You receive a primary logo, alternate lockups, a color palette and vector source files, and the rights to the final design once the project is paid in full.
+We design logos from scratch for businesses starting out or replacing a mark that no longer fits. You receive a primary logo, alternate lockups, a color palette and editable vector files, and the rights to the final design once the project is paid in full.
 
 [Get a quote](https://ndcompany.in/?service=logo-design#contact)
 
@@ -3745,7 +3745,7 @@ We design logos from scratch for businesses starting out or replacing a mark tha
 
 ## What is Logo Design?
 
-Logo Design at N&D Co. is a custom service that produces an original logo and the basic identity elements around it. It includes market research, concept sketches, refinement of a chosen direction, a primary logo with horizontal, stacked and icon-only versions, a color palette, and vector source files in AI, EPS, SVG and PDF. It is for startups and small businesses that need a first logo or a redesign. N&D Co. is based in Barrackpore, Kolkata, and works with businesses worldwide.
+Logo Design at N&D Co. is a custom service that produces an original logo and the basic identity elements around it. It includes market research, concept sketches, refinement of a chosen direction, a primary logo with horizontal, stacked and icon-only versions, a color palette, and editable vector files in AI, EPS, SVG and PDF. It is for startups and small businesses that need a first logo or a redesign. N&D Co. is based in Barrackpore, Kolkata, and works with businesses worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
 
@@ -3785,7 +3785,7 @@ The primary logo plus horizontal, stacked and icon-only versions, each in full c
 
 Primary and secondary colors in CMYK, RGB and HEX, and the typefaces used in the logo with notes on where to license them.
 
-### Vector source files
+### Editable vector files
 
 Editable AI and EPS files, SVG for web, PDF for print, and PNG exports with transparent backgrounds, with fonts outlined so the files open anywhere.
 
@@ -3811,7 +3811,7 @@ written quote before work starts · delivered in 3 to 5 days
 - Two revision rounds
 - Primary logo plus one alternate lockup
 - Full color and black-and-white versions
-- Vector source files (AI, EPS, SVG, PDF) and PNG exports
+- Editable vector files (AI, EPS, SVG, PDF) and PNG exports
 
 ---
 
@@ -3895,7 +3895,7 @@ After the balance is paid, you receive every lockup in AI, EPS, SVG, PDF and PNG
 - Founders registering a new company in Kolkata, anywhere else in India, or anywhere in the world who need a logo before printing cards or opening a social account.
 - Established businesses whose current logo no longer works on a website or a phone screen.
 - Product brands that need a mark strong enough to sit on packaging next to bigger competitors.
-- Clubs and events that need an identity for a fixed period and want to keep the source files.
+- Clubs and events that need an identity for a fixed period and want to keep the editable files.
 - Agencies that resell this work under their own name: see our [white label design](https://ndcompany.in/white-label/design) page.
 
 ## Frequently asked questions
@@ -4342,7 +4342,7 @@ We are a brand and growth agency in Kolkata, India, working with US businesses a
 
 ## Working with us from the USA
 
-The timezone gap works in your favour. Our working day, Mon to Sat 9:00 AM to 6:00 PM IST, runs while the US is offline, so feedback you send at the end of your day reaches us at the start of ours, in time for your next morning. Early morning on the East Coast overlaps the end of our day, which is when calls happen.
+The timezone gap works in your favour. Our working day, Mon to Sat 9:00 AM to 6:00 PM IST, runs while the US is offline, so feedback you send at the end of your day reaches us at the start of ours, in time for your next morning. For calls, we keep part of our evening free during US morning hours.
 
 ## How the remote work works
 
@@ -4350,9 +4350,9 @@ The timezone gap works in your favour. Our working day, Mon to Sat 9:00 AM to 6:
 
 Feedback you send at the end of your day reaches us at the start of ours, so revisions land in time for your next morning.
 
-### Morning calls on the East Coast
+### Calls in your morning
 
-Early morning on the US East Coast overlaps the end of our office day, so standing calls are easy to schedule.
+We keep part of our evening in India free for calls during US morning hours, so standing calls are easy to schedule.
 
 ### Priced and billed in US dollars
 
@@ -4452,7 +4452,7 @@ Ask for the scope in writing: what gets done each month and what the report show
 
 **How do we work across the time difference?**
 
-India is 9.5 to 13.5 hours ahead of the US depending on your coast. In practice that means we do the work while you are offline: briefs and feedback from your afternoon are handled during our next working day and are ready by your morning. Calls are scheduled for early morning on the East Coast, which is the end of our day.
+India is 9.5 to 13.5 hours ahead of the US depending on your coast. In practice that means we do the work while you are offline: briefs and feedback from your afternoon are handled during our next working day and are ready by your morning. For calls, we keep part of our evening free during your morning hours.
 
 **How do we pay from the US?**
 
@@ -5327,7 +5327,7 @@ A brand and growth agency working with businesses worldwide, from Barrackpore, K
 
 ## Who we are
 
-N&D Co. is a brand and growth agency in Barrackpore, Kolkata. We design brand identities and logos, build websites, online stores and custom software, and run SEO, performance marketing, social media and video for businesses of every size in India and abroad. [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha) founded the agency in 2025, after more than five years of work in design and digital.
+N&D Co. is a brand and growth agency in Barrackpore, Kolkata. We design brand identities and logos, build websites, online stores and custom software, and run SEO, performance marketing, social media and video for businesses of every size in India and abroad. [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha) founded the agency on 8 June 2025, after more than five years of work in design and digital.
 
 ## How we work
 
@@ -5464,9 +5464,9 @@ Starting prices in US dollars. Your written quote confirms the final price, its 
 
 | Plan | Price | Delivery | Includes |
 | --- | --- | --- | --- |
-| Identity | $319 | 2 to 3 weeks, with 3 months of support | Custom logo and compact mark; Color palette and typography; Short brand guidelines PDF |
-| Launch | $469 | 2 to 3 weeks, with 3 months of support | Everything in IDENTITY; Full brand guidelines document; Stationery set: letterhead, envelope, invoice |
-| Custom | from $599 | 2 to 3 weeks, with 3 months of support | Everything in LAUNCH; Packaging and label design; Signage, banners and event materials |
+| Identity | $319 | 2 to 3 weeks, plus 3 months of SEO | Custom logo and compact mark; Color palette and typography; Short brand guidelines PDF |
+| Launch | $469 | 2 to 3 weeks, plus 3 months of SEO | Everything in IDENTITY; Full brand guidelines document; Stationery set: letterhead, envelope, invoice |
+| Custom | from $599 | 2 to 3 weeks, plus 3 months of SEO | Everything in LAUNCH; Packaging and label design; Signage, banners and event materials |
 
 [Everything in each Full Branding Solutions plan](https://ndcompany.in/services/full-branding-solutions#pricing)
 
@@ -8269,7 +8269,7 @@ SEO voor Zoetermeer
 
 Source: https://ndcompany.in/nl/seo-bureau-zoetermeer
 
-We hebben geen kantoor in Zoetermeer: we doen SEO volledig op afstand vanuit Kolkata, India, voor bedrijven in heel Nederland. Je krijgt een audit, vaste werkzaamheden per maand, content in het Nederlands en elke maand een rapport over wat er is veranderd.
+Zoetermeer hoort bij de Metropoolregio Rotterdam Den Haag, dus in Google sta je vaak naast bedrijven uit die twee grote steden. Wij doen de SEO voor bedrijven in Zoetermeer zonder kantoor in de stad: we werken op afstand vanuit Kolkata, India. Je krijgt een audit, werk aan je site en je vermeldingen, linkbuilding zonder gekochte links en elke maand een rapport.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -8277,11 +8277,11 @@ We hebben geen kantoor in Zoetermeer: we doen SEO volledig op afstand vanuit Kol
 
 ## Wat kost het?
 
-SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+Voor SEO betaal je bij ons een vast bedrag per maand. Starter kost € 199 en bevat 3 blogartikelen per maand. Growth kost € 349, met 8 artikelen, elke maand zoekwoordonderzoek en doorlopend technisch werk. Voor grote sites, webshops of bedrijven met meerdere vestigingen begint Custom bij € 599 per maand. Linkbuilding zit in elk pakket, ook in Starter. Na de audit leggen we je maandbedrag vast in een schriftelijke offerte.
 
 ## SEO voor bedrijven in Zoetermeer: de cijfers en de concurrentie
 
-Zoetermeer had op 1 januari 2026 130.836 inwoners en 15.755 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de specialistische zakelijke dienstverlening, met 19,0% van alle vestigingen. Daarna volgen handel (13,7%), zorg (12,9%) en bouw (11,6%). Het aandeel van de ict is met 6,9% groter dan in heel Nederland (5,3%). De percentages hebben we zelf uit de CBS-cijfers berekend. De gemeente noemt het Dutch Innovation Park een hotspot voor onder meer e-health, cybersecurity en big data.
+Zoetermeer had op 1 januari 2026 130.836 inwoners en 15.755 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de specialistische zakelijke dienstverlening, met 19,0% van alle vestigingen. Daarna volgen handel (13,7%), zorg (12,9%) en bouw (11,6%). Het aandeel van de ict is met 6,9% groter dan in heel Nederland (5,3%). Die aandelen zijn onze eigen berekening op basis van de CBS-cijfers. De gemeente noemt het Dutch Innovation Park een hotspot voor onder meer e-health, cybersecurity en big data.
 
 ### Concurreren met Den Haag en Rotterdam
 
@@ -8293,7 +8293,7 @@ Links van andere sites helpen Google om te bepalen waar je bedrijf over gaat. He
 
 ### Wat SEO-bureaus voor Zoetermeer vragen
 
-Op 11 november 2026 bekeken we de 13 pagina's die we vonden op de zoekterm "seo bureau zoetermeer". Acht daarvan zijn van bureaus die buiten Zoetermeer gevestigd zijn en alleen een pagina over de stad hebben. Drie pagina's konden we niet openen. Van de andere 10 noemen er 3 een maandprijs: van € 360 tot € 495 per maand, waarvan 2 exclusief btw. De rest vraagt je om contact op te nemen. Onze prijzen beginnen bij € 199 per maand. Opzeggen kan met een opzegtermijn van 30 dagen, tenzij je offerte een andere termijn noemt.
+Op 11 november 2026 zochten we op "seo bureau zoetermeer" en "seo specialist zoetermeer" en vonden we 16 pagina's. Drie daarvan gingen niet open. Van de 13 die we konden lezen, zijn er 8 van bureaus die buiten Zoetermeer zitten en alleen een pagina over de stad hebben. Slechts drie van die 13 noemen een maandprijs: € 360, € 425 en € 495, waarvan 2 met de vermelding exclusief btw. Van de 5 bureaus die echt in Zoetermeer zitten, zet er één een maandprijs op de site. Wij beginnen bij € 199 per maand. Opzeggen kan met een opzegtermijn van 30 dagen, tenzij je offerte een andere termijn noemt.
 
 Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [CBS, gemeenten van de Metropoolregio Rotterdam Den Haag](https://www.cbs.nl/nl-nl/longread/rapportages/2026/odin-2024-metropoolregio-rotterdam-den-haag-correctie-eindrapportage/bijlage-a-gebiedsindeling-mrdh) · [Gemeente Zoetermeer, Dutch Innovation Park](https://en.zoetermeer.nl/dutchinnovationpark) · [Google, lokale resultaten](https://support.google.com/business/answer/7091) · [Google, spambeleid](https://developers.google.com/search/docs/essentials/spam-policies)
 
@@ -8417,7 +8417,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost SEO in Zoetermeer?**
 
-Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
+Starter kost bij ons € 199 per maand, Growth € 349 per maand en Custom begint bij € 599 per maand. Welk pakket past, hangt af van hoeveel content en technisch werk je site nodig heeft. Dat zie je in de audit, en daarna krijg je een schriftelijke offerte met je maandbedrag.
 
 **Kan ik in Google concurreren met bedrijven uit Den Haag?**
 
@@ -8453,7 +8453,7 @@ SEO voor Nijmegen
 
 Source: https://ndcompany.in/nl/seo-bureau-nijmegen
 
-We hebben geen kantoor in Nijmegen: we doen SEO volledig op afstand vanuit Kolkata, India, voor bedrijven in heel Nederland. Je werkt met één vast team, van de audit tot het maandrapport, en betaalt een vast bedrag per maand.
+Ruim een op de zes bedrijfsvestigingen in Nijmegen zit in de zorg, en bij zorgonderwerpen let Google extra op betrouwbaarheid. Wij doen SEO voor bedrijven in Nijmegen zonder kantoor in de stad, op afstand vanuit Kolkata, India. Je werkt met één vast team, van de audit tot het maandrapport, voor een vast bedrag per maand.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -8461,11 +8461,11 @@ We hebben geen kantoor in Nijmegen: we doen SEO volledig op afstand vanuit Kolka
 
 ## Wat kost het?
 
-SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+Bij ons begint SEO voor een bedrijf in Nijmegen bij € 199 per maand. Daarvoor krijg je het Starter-pakket, met onder meer 3 blogartikelen per maand. Wil je meer content, dan is er Growth voor € 349 per maand: 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen. Grote sites, webshops en organisaties met meerdere vestigingen, zoals een praktijk met meer dan één locatie, vallen onder Custom, vanaf € 599 per maand. Wat jij per maand betaalt, staat na de audit in de schriftelijke offerte.
 
 ## SEO voor bedrijven in Nijmegen: de stad in cijfers
 
-Nijmegen had op 1 januari 2026 189.871 inwoners en 25.190 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de zakelijke dienstverlening, met 21,5% van alle vestigingen. Op de tweede plaats staat de zorg, met 18,1%, tegen 10,6% in heel Nederland. Daarna volgen handel (10,9%), onderwijs (7,9%) en cultuur, sport en recreatie (7,7%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+Nijmegen had op 1 januari 2026 189.871 inwoners en 25.190 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de zakelijke dienstverlening, met 21,5% van alle vestigingen. Op de tweede plaats staat de zorg, met 18,1%, tegen 10,6% in heel Nederland. Daarna volgen handel (10,9%), onderwijs (7,9%) en cultuur, sport en recreatie (7,7%). De percentages zijn onze eigen berekening.
 
 Nijmegen is ook een jonge stad. Van de inwoners is 11,5% tussen de 20 en 24 jaar oud, tegen 6,5% in heel Nederland. De Radboud Universiteit telde in oktober 2026 23.306 studenten.
 
@@ -8475,7 +8475,7 @@ Werk je in de zorg en heb je bijvoorbeeld een eigen praktijk, dan let Google ext
 
 ### Wat een SEO-specialist per maand doet
 
-Bij ons werk je met één vast team, voor een vast bedrag per maand. In de eerste maand pakken we aan wat de indexering blokkeert. Daarna gaat het werk elke maand door:
+Het eerste wat we oplossen, is alles wat Google tegenhoudt bij het indexeren van je pagina's. Daarna doen we elke maand dit werk:
 
 - pagina's verbeteren voor de zoekwoorden die we samen kiezen
 - nieuwe blogartikelen in het Nederlands, 3 per maand bij Starter en 8 bij Growth
@@ -8485,7 +8485,7 @@ Bij ons werk je met één vast team, voor een vast bedrag per maand. In de eerst
 
 ### Wat SEO-bureaus voor Nijmegen vragen
 
-Op 11 november 2026 bekeken we de 12 pagina's die we vonden op de zoektermen "seo bureau nijmegen" en "seo specialist nijmegen". Vijf daarvan konden we niet openen. Van de andere 7 noemen er 3 een maandprijs: van € 250 tot € 999 per maand, 2 daarvan exclusief btw. Geen van de bedrijven die echt in Nijmegen gevestigd zijn, noemt een prijs op de site. Onze prijzen beginnen bij € 199 per maand.
+Voor "seo bureau nijmegen" en "seo specialist nijmegen" kwamen we op 11 november 2026 uit op 17 pagina's, waarvan we er 5 niet konden openen. Van de 12 die wel opengingen, staat bij 3 een maandprijs, van € 250 tot € 999 per maand. Twee daarvan vermelden dat het bedrag exclusief btw is. Zes van de 12 bedrijven zeggen dat ze in Nijmegen zitten, en geen van die zes noemt een prijs op de site. Bij ons staat de prijs gewoon op de pagina: vanaf € 199 per maand. Zie de pakketten hieronder.
 
 Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Radboud Universiteit, studentenaantallen](https://www.ru.nl/over-ons/organisatie/feiten-en-cijfers/onderwijs) · [Google, nuttige content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
 
@@ -8563,23 +8563,23 @@ schriftelijke offerte vooraf · maandelijks
 
 ### Audit
 
-We crawlen je site, bekijken je Search Console-gegevens als je die hebt en kijken hoe je concurrenten scoren. Je krijgt een schriftelijke audit en een voorstel voor de maandelijkse werkzaamheden tegen een vast maandbedrag.
+Eerst bekijken we je site zoals Google hem ziet: we crawlen alle pagina's, lezen je Search Console-gegevens als je die hebt en vergelijken je site met die van je concurrenten. Daarna krijg je de audit op schrift, met een voorstel voor het maandelijkse werk tegen een vast bedrag.
 
 ### Plan
 
-We spreken de zoekwoorden af en koppelen ze aan pagina's. Technische problemen pakken we aan in volgorde van impact, dus in de eerste maand pakken we aan wat de indexering blokkeert.
+Samen kiezen we de zoekwoorden en welke pagina bij welk zoekwoord hoort. Wat de indexering blokkeert, lossen we in de eerste maand op; de andere technische punten volgen op volgorde van impact. Heb je zorgpagina's, dan vragen we hier ook wie de teksten controleert.
 
 ### Verbeteren
 
-We lossen technische problemen op, passen pagina's aan en publiceren nieuwe content per maand. Wat je ontwikkelaar moet doen of waarvoor we jouw akkoord nodig hebben, melden we op tijd.
+Elke maand passen we pagina's aan, lossen we technische fouten op en publiceren we nieuwe content. Is er werk voor je ontwikkelaar, of hebben we je akkoord nodig, dan laten we je dat op tijd weten.
 
 ### Autoriteit opbouwen
 
-Daarnaast werken we buiten je site: vermeldingen in bedrijvengidsen, je Google Bedrijfsprofiel en outreach voor relevante links.
+Buiten je eigen site houden we je Google Bedrijfsprofiel bij, regelen we vermeldingen in bedrijvengidsen en benaderen we relevante sites voor een link.
 
 ### Rapport
 
-Elke maand krijg je een overzicht van het uitgevoerde werk, je posities en je verkeer, en de prioriteiten voor de volgende maand. De werkzaamheden stellen we per maand bij.
+Aan het eind van elke maand zie je wat we hebben gedaan, hoe je posities en je verkeer zich ontwikkelen en wat de prioriteiten voor de maand erna zijn. Op basis daarvan stellen we het werk bij.
 
 ## Goed om te weten
 
@@ -8609,7 +8609,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost een SEO-specialist in Nijmegen?**
 
-Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
+Bij ons begint het bij € 199 per maand. Wil je meer content en doorlopend technisch werk, dan kost Growth € 349 per maand. Voor grote sites is er Custom, vanaf € 599 per maand. Na de audit krijg je je maandbedrag zwart op wit, in een offerte.
 
 **Kan ik eerst alleen een SEO-audit laten doen?**
 
@@ -8645,7 +8645,7 @@ SEO voor Roosendaal
 
 Source: https://ndcompany.in/nl/seo-roosendaal
 
-We hebben geen kantoor in Roosendaal: we doen SEO volledig op afstand vanuit Kolkata, India, voor bedrijven in heel Nederland. Je krijgt een audit, vaste werkzaamheden per maand, content in het Nederlands en elke maand een rapport over wat er is veranderd.
+Roosendaal grenst aan België, en wie in Essen of Antwerpen zoekt, krijgt in Google andere resultaten dan iemand in Roosendaal. Wij doen SEO voor bedrijven in Roosendaal zonder kantoor in de stad: we werken op afstand vanuit Kolkata, India, met een audit, vast werk per maand, teksten in het Nederlands en een maandrapport.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -8653,11 +8653,11 @@ We hebben geen kantoor in Roosendaal: we doen SEO volledig op afstand vanuit Kol
 
 ## Wat kost het?
 
-SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+Drie pakketten, drie maandbedragen. Starter kost € 199 per maand, met 3 blogartikelen per maand. Growth kost € 349 per maand, met 8 artikelen, zoekwoordonderzoek elke maand en doorlopend technisch werk. Custom begint bij € 599 per maand en is bedoeld voor grote sites, webshops en bedrijven met meerdere vestigingen of werkgebieden. Hoeveel jij betaalt, leggen we na de audit vast in een schriftelijke offerte.
 
 ## SEO in Roosendaal, met klanten aan twee kanten van de grens
 
-Roosendaal had op 1 januari 2026 78.165 inwoners en 9.950 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groepen zijn de zakelijke dienstverlening (17,9%) en de handel (16,3%, tegen 12,9% in heel Nederland). Daarna volgen bouw (12,2%) en zorg (10,8%). Transport en opslag is met 3,4% iets groter dan landelijk (2,8%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+Roosendaal had op 1 januari 2026 78.165 inwoners en 9.950 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groepen zijn de zakelijke dienstverlening (17,9%) en de handel (16,3%, tegen 12,9% in heel Nederland). Daarna volgen bouw (12,2%) en zorg (10,8%). Transport en opslag is met 3,4% iets groter dan landelijk (2,8%). Die aandelen rekenden we zelf uit met de cijfers van het CBS.
 
 Aan de overkant van de grens ligt Essen, in de Belgische provincie Antwerpen. Hoeveel Belgische klanten dat oplevert, verschilt per bedrijf. Een voorbeeld: van de bezoekers van het Designer Outlet in Roosendaal kwam in 2019 ongeveer 20% uit België, volgens een verkeersonderzoek voor het bestemmingsplan.
 
@@ -8669,7 +8669,7 @@ Heb je aparte pagina's voor klanten in Nederland en in België, bijvoorbeeld met
 
 ### Wat SEO-bureaus voor Roosendaal vragen
 
-Op 11 november 2026 bekeken we de 10 pagina's die we vonden op de zoektermen "seo roosendaal" en "seo specialist roosendaal". Acht daarvan zijn van bureaus die elders gevestigd zijn. Het enige bureau met een kantoor in Roosendaal noemt geen prijs. Eén pagina noemt een maandprijs van € 300, zonder te zeggen of dat met of zonder btw is. Onze prijzen beginnen bij € 199 per maand. Wij rekenen geen btw: bij zakelijke klanten is die verlegd.
+Op 11 november 2026 zochten we naar SEO-bureaus voor Roosendaal en openden we 11 pagina's, waarvan er één ons weigerde. Van de 10 die we konden lezen, zijn er 8 van bureaus die elders zitten. Maar één bureau heeft zelf een kantoor in Roosendaal, en dat noemt geen prijs. Op één pagina staat een maandprijs: € 300, zonder te zeggen of dat met of zonder btw is. Bij ons is Starter € 199 per maand. Wij rekenen geen btw: bij zakelijke klanten is die verlegd.
 
 Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Statbel, Essen in de provincie Antwerpen](https://bestat.statbel.fgov.be/bestat/api/views/ca552835-6319-4825-bf78-7bc12bb09cfe/result/PDF) · [Verkeersonderzoek Designer Outlet Roosendaal](https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1674.2149UITBREIDINGDOR-0601/b_NL.IMRO.1674.2149UITBREIDINGDOR-0601_tb1.pdf) · [Google, sites voor meerdere regio's](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites) · [Google, hreflang](https://developers.google.com/search/docs/specialty/international/localized-versions) · [Google, resultaten per regio](https://support.google.com/websearch/answer/873)
 
@@ -8747,23 +8747,23 @@ schriftelijke offerte vooraf · maandelijks
 
 ### Audit
 
-We crawlen je site, bekijken je Search Console-gegevens als je die hebt en kijken hoe je concurrenten scoren. Je krijgt een schriftelijke audit en een voorstel voor de maandelijkse werkzaamheden tegen een vast maandbedrag.
+We crawlen je website, kijken in Search Console als je dat hebt en zoeken uit hoe je concurrenten ervoor staan. Heb je ook klanten in België, dan kijken we waar zij zoeken. Het resultaat is een schriftelijke audit met een voorstel voor het werk per maand, tegen een vast maandbedrag.
 
 ### Plan
 
-We spreken de zoekwoorden af en koppelen ze aan pagina's. Technische problemen pakken we aan in volgorde van impact, dus in de eerste maand pakken we aan wat de indexering blokkeert.
+We leggen vast op welke zoekwoorden je gevonden wilt worden en welke pagina daarbij hoort, waar nodig apart voor Nederland en België. Technisch werk doen we op volgorde van impact: wat de indexering tegenhoudt, komt in de eerste maand.
 
 ### Verbeteren
 
-We lossen technische problemen op, passen pagina's aan en publiceren nieuwe content per maand. Wat je ontwikkelaar moet doen of waarvoor we jouw akkoord nodig hebben, melden we op tijd.
+Daarna gaan we aan de slag: technische problemen oplossen, pagina's aanpassen en elke maand nieuwe content plaatsen. Moet je ontwikkelaar iets doen, of is jouw akkoord nodig, dan hoor je dat op tijd van ons.
 
 ### Autoriteit opbouwen
 
-Daarnaast werken we buiten je site: vermeldingen in bedrijvengidsen, je Google Bedrijfsprofiel en outreach voor relevante links.
+Ook buiten je site werken we aan je zichtbaarheid, met vermeldingen in bedrijvengidsen, een verzorgd Google Bedrijfsprofiel en outreach naar relevante sites voor een link.
 
 ### Rapport
 
-Elke maand krijg je een overzicht van het uitgevoerde werk, je posities en je verkeer, en de prioriteiten voor de volgende maand. De werkzaamheden stellen we per maand bij.
+Je krijgt elke maand een rapport: welk werk er is gedaan, hoe je posities en je verkeer zijn veranderd en wat de volgende maand voorrang krijgt. Daarna passen we de planning aan.
 
 ## Goed om te weten
 
@@ -8793,7 +8793,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost een SEO-specialist in Roosendaal?**
 
-Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
+Voor Starter betaal je € 199 per maand, voor Growth € 349 en voor Custom vanaf € 599. Het verschil zit in de hoeveelheid content, het technische werk en de grootte van je site. Je maandbedrag staat na de audit in een schriftelijke offerte.
 
 **Ik heb ook klanten in België. Kunnen jullie daar ook rekening mee houden?**
 
@@ -10458,7 +10458,7 @@ Before and alongside the agency, Nakshatra's work has been writing and code. Fre
 
 Nakshatra studied electrical engineering at Hooghly Institute of Technology on a diploma course from August 2023 to September 2026, after Santinagar High School, and completed Udemy's SEO Strategy 2025 course in December 2025.
 
-Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [OCEANOFANYTHING](https://github.com/OCEANOFANYTHING). [ShoutingToad](https://ndcompany.in/open-source/shoutingtoad) is the first project on our [open-source page](https://ndcompany.in/open-source).
+Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [OCEANOFANYTHING](https://github.com/OCEANOFANYTHING). His projects on our [open-source page](https://ndcompany.in/open-source) include [MailGrab](https://ndcompany.in/open-source/mailgrab) and [CHERNOBYL](https://ndcompany.in/open-source/chernobyl).
 
 - [LinkedIn profile](https://www.linkedin.com/in/nakshatra-ranjan-saha-93a31b262/)
 - [GitHub profile](https://github.com/OCEANOFANYTHING)
@@ -12368,7 +12368,7 @@ A Windows tool for a US client who fills long supplier price lists in Excel: cop
 
 ## Overview
 
-Michael L., a client in the United States, works through supplier price lists in Excel. His team adds a blank column to each list and fills it with one value, such as 25%, row after row, on lists that run past 1,000 rows. In August 2024 he posted a job on Freelancer asking for a VBScript that would let a mouse click paste. N&D Co. built a small Windows program instead: copy the value once, press End, and every left click on a cell pastes it and confirms it. He confirmed it worked, paid, and rated the job five stars: "Great job. Did what others couldn't do."
+Michael L., a client in the United States, works through supplier price lists in Excel. His team adds a blank column to each list and fills it with one value, such as 25%, row after row, on lists that run past 1,000 rows. In August 2024 he posted a job on Freelancer asking for a VBScript that would let a mouse click paste. Our founder, [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), took the job and built a small Windows program instead, ten months before he started N&D Co. on 8 June 2025: copy the value once, press End, and every left click on a cell pastes it and confirms it. He confirmed it worked, paid, and rated the job five stars: "Great job. Did what others couldn't do."
 
 The tool runs as one .exe with nothing to install, comes with a manual, and has one key to pause it and another to close it, because a program that changes what a click does needs an easy way out. We sent five builds in three days, each with a manual or a screen recording. In November 2026 we ran the delivered build again on current Excel to make the screenshots on this page, on a made-up price list rather than his.
 
@@ -12388,7 +12388,7 @@ He had already solved half of it. With Windows' own keyboard settings he had mad
 
 **Filling 1,000 rows by hand and with the tool (our arithmetic, not a timed study)**
 
-|  | By hand | With the tool |
+| Measure | By hand | With the tool |
 | --- | --- | --- |
 | Actions for each row | Two: a click on the cell, then Ctrl+V or a right click and Paste | One left click |
 | Actions for 1,000 rows | About 2,000 | 1,000 |
@@ -12433,7 +12433,7 @@ One rule makes it reliable: copy the value as text, not as a cell. The section o
 
 ## How we built it, and why
 
-We built it by hand in August 2024, testing each build ourselves on a spreadsheet and recording it before sending it. Most of the work was deciding how a program that takes over the mouse should behave, so that it saves time without ever costing a sheet. These are the choices, and the reason for each.
+It was built by hand in August 2024, before N&D Co. existed. Each build was tested on a spreadsheet and recorded before it was sent. Most of the work was deciding how a program that takes over the mouse should behave, so that it saves time without ever costing a sheet. These are the choices, and the reason for each.
 
 **The choices behind the tool**
 
@@ -12519,9 +12519,9 @@ Michael L.
 
 ## Frequently asked questions
 
-**What did N&D Co. build for Michael L.?**
+**What was built for Michael L.?**
 
-A small Windows program for filling Excel price lists. He copies a value once and presses End, and from then on every left click on a cell pastes the value and confirms it. End pauses the tool, Esc closes it, and a sound tells him which state it is in. It came as one .exe with a manual.
+A small Windows program for filling Excel price lists, built in August 2024 by our founder, before he started N&D Co. in June 2025. He copies a value once and presses End, and from then on every left click on a cell pastes the value and confirms it. End pauses the tool, Esc closes it, and a sound tells him which state it is in. It came as one .exe with a manual.
 
 **Why Python and not the VBScript the job asked for?**
 
@@ -14792,7 +14792,7 @@ A free, open-source SEO spider for Windows, macOS and Linux. It crawls your site
 
 ## Overview
 
-ShoutingToad SEO Spider is a website crawler that audits your site for over 300 SEO issues, to help improve both SEO and UX. Point it at a website and it visits every page the way a search engine does, then checks each one against 474 built-in checks in 30 categories: broken links, redirects, titles, descriptions, headings, canonicals, hreflang, structured data, security headers, performance, accessibility and AI search readiness. Every finding says what is wrong, why it matters and how to fix it.
+ShoutingToad SEO Spider is a website crawler that finds the SEO and UX problems on a site. Point it at a website and it visits every page the way a search engine does, then checks each one against 474 built-in checks in 30 categories: broken links, redirects, titles, descriptions, headings, canonicals, hreflang, structured data, security headers, performance, accessibility and AI search readiness. Every finding says what is wrong, why it matters and how to fix it.
 
 It is free and open source under the AGPL-3.0 licence, with no account, no licence key and no paid tier. It runs on Windows, macOS and Linux as a desktop app, and the same program works from the command line, so you can run an audit on every deploy in GitHub Actions or any other CI.
 
@@ -14824,7 +14824,7 @@ Every build is on the [ShoutingToad releases page](https://github.com/NDcompany/
 
 1. Windows: run the installer. "Install for me only" needs no admin rights, and it adds Start menu shortcuts, opens .shoutingtoad files and can put the command line on your PATH. The portable zip needs no install: unzip it and run shouting-toad.exe.
 2. macOS: unzip the app, drag ShoutingToad.app to Applications, then right-click it and choose Open the first time.
-3. Linux: extract the tarball and run ./install_linux.sh, or as root to install it for every user.
+3. Linux: extract the tarball and run ./install_linux.sh, or run it as root to install it for every user.
 
 The builds are not code-signed or notarised, so Windows SmartScreen and macOS warn before the first run. Check the file against SHA256SUMS.txt if you want to be sure it is the one we published. ShoutingToad never updates itself: to update, download the new release, and the Windows installer replaces the program in place, keeping your settings and saved crawls.
 
@@ -14877,7 +14877,6 @@ ShoutingToad runs 474 built-in checks in 30 categories: 149 Issues, 223 Warnings
 | Page Titles | 17 | Missing, duplicate, too long or too short, and pixel width |
 | Images | 17 | Alt text, file size, format, dimensions, lazy loading and broken images |
 | Directives | 17 | Meta robots and X-Robots-Tag rules |
-| Headings | 16 | H1 and H2 tags and the order of heading levels |
 | Accessibility | 16 | Labels, accessible names, language, landmarks, captions, contrast and keyboard focus |
 | Meta Description | 14 | Missing, duplicate, too long or too short |
 | Redirects | 13 | Chains, loops, broken targets, meta refresh and JavaScript redirects |
@@ -14890,8 +14889,11 @@ ShoutingToad runs 474 built-in checks in 30 categories: 149 Issues, 223 Warnings
 | Content | 10 | Thin, duplicate and placeholder content, soft 404s and readability |
 | AI Search | 9 | What AI crawlers can reach, read and quote |
 | Rendering | 9 | Content, links and tags that change after JavaScript, plus script errors |
+| H1 | 7 | The main H1 heading of each page |
 | Mobile | 7 | Viewport, zoom, plugins, frames and touch icons |
 | Pagination | 6 | rel next and prev links and the pages they point to |
+| H2 | 5 | H2 subheadings |
+| Headings | 4 | The order of heading levels |
 | Meta Keywords | 3 | Leftover keyword tags |
 | AMP | 3 | AMP pages and their links |
 
@@ -15529,7 +15531,7 @@ An Android app to watch, steer and approve Claude Code, Codex, OpenCode and Anti
 - **Phone:** Android 7.0 or later, plus a separate client for Android 4.4 tablets
 - **Desktop:** Windows companion, one Rust program
 
-[CHERNOBYL on GitHub](https://github.com/NDcompany/Chernobyl)
+[Download CHERNOBYL](https://github.com/NDcompany/Chernobyl/releases/latest)[CHERNOBYL on GitHub](https://github.com/NDcompany/Chernobyl)[CHERNOBYL documentation](https://github.com/NDcompany/Chernobyl/wiki)
 
 ## Overview
 
@@ -15546,10 +15548,22 @@ The phone app is built with React Native and Expo, the same stack we use for [mo
 | Item | Details |
 | --- | --- |
 | Source code | [The CHERNOBYL repository on GitHub](https://github.com/NDcompany/Chernobyl) |
+| Documentation | [The CHERNOBYL documentation](https://github.com/NDcompany/Chernobyl/wiki) |
 | Current version | v0.1.1, released on 22 November 2026: [release notes for v0.1.1](https://github.com/NDcompany/Chernobyl/releases/tag/v0.1.1) |
 | All releases | [Every CHERNOBYL release on GitHub](https://github.com/NDcompany/Chernobyl/releases) |
 | Commit history | [Every CHERNOBYL commit on GitHub](https://github.com/NDcompany/Chernobyl/commits/main), from the first on 21 October 2026 |
 | Licence | [The GPL-3.0 licence](https://github.com/NDcompany/Chernobyl/blob/main/LICENSE) |
+
+## Download CHERNOBYL
+
+Every build is on [the CHERNOBYL releases page](https://github.com/NDcompany/Chernobyl/releases) on GitHub. These buttons download the current release, 0.1.1, straight from there:
+
+- [Android app: chernobyl-0.1.0-android.apk, Android 7.0 or later](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/chernobyl-0.1.0-android.apk)
+- [Android 4.4 tablet client: chernobyl-kitkat-0.2.0-android4.4.apk, about 300 KB](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/chernobyl-kitkat-0.2.0-android4.4.apk)
+- [Windows companion: chernobyl-companion-0.1.1-windows-x64.exe, Windows 64-bit](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/chernobyl-companion-0.1.1-windows-x64.exe)
+- [Checksums: SHA256SUMS.txt, to check a download](https://github.com/NDcompany/Chernobyl/releases/download/v0.1.1/SHA256SUMS.txt)
+
+The Windows companion is not code-signed, so Windows SmartScreen warns before the first run. Check each file against SHA256SUMS.txt if you want to be sure it is the one we published. The steps to set it all up are in How to install CHERNOBYL, further down this page.
 
 ## What problem does CHERNOBYL solve?
 
@@ -15674,14 +15688,14 @@ The release app was checked on an Android 15 emulator against a real companion: 
 
 ## How to install CHERNOBYL
 
-CHERNOBYL is not on Google Play. The signed Android app, the Windows companion and their SHA-256 checksums are published on [the CHERNOBYL releases page](https://github.com/NDcompany/Chernobyl/releases) on GitHub.
+CHERNOBYL is not on Google Play. The signed Android app, the Windows companion and their SHA-256 checksums are the downloads at the top of this page, from the CHERNOBYL releases page on GitHub.
 
 1. Download the APK from the latest release and install it. Android asks you to allow installs from your browser or file manager the first time.
-2. On the PC, download the companion or build it with Cargo, then run the setup script with the folders your agents may work in.
-3. Open the app, choose Pair with a host and scan the QR code the setup script prints.
+2. On the PC, download the companion (or build it with Cargo) and the source code, then run the setup script from the source folder with the folders your agents may work in. For a downloaded companion, add -Exe with its path.
+3. Open the app, choose Pair with a host and scan the QR code the setup script prints. Then enter the access token the script printed, as [the pairing guide](https://github.com/NDcompany/Chernobyl/wiki/Pairing) shows: with app 0.1.0 the token goes in after pairing, not before.
 
 ```plaintext
-powershell -ExecutionPolicy Bypass -File scripts\setup-windows.ps1 -Workspaces 'C:\Projects\my-app'
+powershell -ExecutionPolicy Bypass -File scripts\setup-windows.ps1 -Workspaces 'C:\Projects\my-app' -Exe "$HOME\Downloads\chernobyl-companion-0.1.1-windows-x64.exe"
 ```
 
 The script turns on Claude Code for those folders. Add -Codex, -OpenCode or -Antigravity to connect those agents, and -PhoneApprovals to let terminal and VS Code sessions of Claude Code ask the phone. Sign in to each agent on the PC once first; CHERNOBYL uses its sign-in and never copies it.

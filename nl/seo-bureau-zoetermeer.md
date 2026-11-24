@@ -1,6 +1,6 @@
 ---
 title: "SEO-bureau Zoetermeer: SEO vanaf € 199 per maand | N&D Co."
-description: "SEO voor bedrijven in Zoetermeer: audit, on-page SEO, Nederlandse content, linkbuilding en een maandrapport, op afstand, vanaf € 199 per maand."
+description: "SEO voor bedrijven in Zoetermeer: lokale SEO naast de concurrentie uit Den Haag en Rotterdam, linkbuilding zonder gekochte links, vanaf € 199 per maand."
 url: "https://ndcompany.in/nl/seo-bureau-zoetermeer"
 type: "Service"
 image: "https://ndcompany.in/assets/share/nl-seo-bureau-zoetermeer.png"
@@ -10,7 +10,7 @@ SEO voor Zoetermeer
 
 # SEO-bureau voor bedrijven in Zoetermeer
 
-We hebben geen kantoor in Zoetermeer: we doen SEO volledig op afstand vanuit Kolkata, India, voor bedrijven in heel Nederland. Je krijgt een audit, vaste werkzaamheden per maand, content in het Nederlands en elke maand een rapport over wat er is veranderd.
+Zoetermeer hoort bij de Metropoolregio Rotterdam Den Haag, dus in Google sta je vaak naast bedrijven uit die twee grote steden. Wij doen de SEO voor bedrijven in Zoetermeer zonder kantoor in de stad: we werken op afstand vanuit Kolkata, India. Je krijgt een audit, werk aan je site en je vermeldingen, linkbuilding zonder gekochte links en elke maand een rapport.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -18,11 +18,11 @@ We hebben geen kantoor in Zoetermeer: we doen SEO volledig op afstand vanuit Kol
 
 ## Wat kost het?
 
-SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+Voor SEO betaal je bij ons een vast bedrag per maand. Starter kost € 199 en bevat 3 blogartikelen per maand. Growth kost € 349, met 8 artikelen, elke maand zoekwoordonderzoek en doorlopend technisch werk. Voor grote sites, webshops of bedrijven met meerdere vestigingen begint Custom bij € 599 per maand. Linkbuilding zit in elk pakket, ook in Starter. Na de audit leggen we je maandbedrag vast in een schriftelijke offerte.
 
 ## SEO voor bedrijven in Zoetermeer: de cijfers en de concurrentie
 
-Zoetermeer had op 1 januari 2026 130.836 inwoners en 15.755 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de specialistische zakelijke dienstverlening, met 19,0% van alle vestigingen. Daarna volgen handel (13,7%), zorg (12,9%) en bouw (11,6%). Het aandeel van de ict is met 6,9% groter dan in heel Nederland (5,3%). De percentages hebben we zelf uit de CBS-cijfers berekend. De gemeente noemt het Dutch Innovation Park een hotspot voor onder meer e-health, cybersecurity en big data.
+Zoetermeer had op 1 januari 2026 130.836 inwoners en 15.755 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de specialistische zakelijke dienstverlening, met 19,0% van alle vestigingen. Daarna volgen handel (13,7%), zorg (12,9%) en bouw (11,6%). Het aandeel van de ict is met 6,9% groter dan in heel Nederland (5,3%). Die aandelen zijn onze eigen berekening op basis van de CBS-cijfers. De gemeente noemt het Dutch Innovation Park een hotspot voor onder meer e-health, cybersecurity en big data.
 
 ### Concurreren met Den Haag en Rotterdam
 
@@ -34,7 +34,7 @@ Links van andere sites helpen Google om te bepalen waar je bedrijf over gaat. He
 
 ### Wat SEO-bureaus voor Zoetermeer vragen
 
-Op 11 november 2026 bekeken we de 13 pagina's die we vonden op de zoekterm "seo bureau zoetermeer". Acht daarvan zijn van bureaus die buiten Zoetermeer gevestigd zijn en alleen een pagina over de stad hebben. Drie pagina's konden we niet openen. Van de andere 10 noemen er 3 een maandprijs: van € 360 tot € 495 per maand, waarvan 2 exclusief btw. De rest vraagt je om contact op te nemen. Onze prijzen beginnen bij € 199 per maand. Opzeggen kan met een opzegtermijn van 30 dagen, tenzij je offerte een andere termijn noemt.
+Op 11 november 2026 zochten we op "seo bureau zoetermeer" en "seo specialist zoetermeer" en vonden we 16 pagina's. Drie daarvan gingen niet open. Van de 13 die we konden lezen, zijn er 8 van bureaus die buiten Zoetermeer zitten en alleen een pagina over de stad hebben. Slechts drie van die 13 noemen een maandprijs: € 360, € 425 en € 495, waarvan 2 met de vermelding exclusief btw. Van de 5 bureaus die echt in Zoetermeer zitten, zet er één een maandprijs op de site. Wij beginnen bij € 199 per maand. Opzeggen kan met een opzegtermijn van 30 dagen, tenzij je offerte een andere termijn noemt.
 
 Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [CBS, gemeenten van de Metropoolregio Rotterdam Den Haag](https://www.cbs.nl/nl-nl/longread/rapportages/2026/odin-2024-metropoolregio-rotterdam-den-haag-correctie-eindrapportage/bijlage-a-gebiedsindeling-mrdh) · [Gemeente Zoetermeer, Dutch Innovation Park](https://en.zoetermeer.nl/dutchinnovationpark) · [Google, lokale resultaten](https://support.google.com/business/answer/7091) · [Google, spambeleid](https://developers.google.com/search/docs/essentials/spam-policies)
 
@@ -158,7 +158,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost SEO in Zoetermeer?**
 
-Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
+Starter kost bij ons € 199 per maand, Growth € 349 per maand en Custom begint bij € 599 per maand. Welk pakket past, hangt af van hoeveel content en technisch werk je site nodig heeft. Dat zie je in de audit, en daarna krijg je een schriftelijke offerte met je maandbedrag.
 
 **Kan ik in Google concurreren met bedrijven uit Den Haag?**
 
@@ -197,7 +197,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/seo-bureau-zoetermeer#service",
       "name": "SEO-bureau voor bedrijven in Zoetermeer",
       "serviceType": "SEO-bureau Zoetermeer",
-      "description": "SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.",
+      "description": "Voor SEO betaal je bij ons een vast bedrag per maand. Starter kost € 199 en bevat 3 blogartikelen per maand. Growth kost € 349, met 8 artikelen, elke maand zoekwoordonderzoek en doorlopend technisch werk. Voor grote sites, webshops of bedrijven met meerdere vestigingen begint Custom bij € 599 per maand. Linkbuilding zit in elk pakket, ook in Starter. Na de audit leggen we je maandbedrag vast in een schriftelijke offerte.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -251,7 +251,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/seo-bureau-zoetermeer#webpage",
       "url": "https://ndcompany.in/nl/seo-bureau-zoetermeer",
       "name": "SEO-bureau Zoetermeer: SEO vanaf € 199 per maand | N&D Co.",
-      "description": "SEO voor bedrijven in Zoetermeer: audit, on-page SEO, Nederlandse content, linkbuilding en een maandrapport, op afstand, vanaf € 199 per maand.",
+      "description": "SEO voor bedrijven in Zoetermeer: lokale SEO naast de concurrentie uit Den Haag en Rotterdam, linkbuilding zonder gekochte links, vanaf € 199 per maand.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

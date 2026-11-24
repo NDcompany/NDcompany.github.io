@@ -82,7 +82,7 @@ $319
 
 / per project
 
-written quote before work starts · delivered in 2 to 3 weeks, with 3 months of support
+written quote before work starts · delivered in 2 to 3 weeks, plus 3 months of SEO
 
 - Custom logo and compact mark
 - Color palette and typography
@@ -108,7 +108,7 @@ $469
 
 / per project
 
-written quote before work starts · delivered in 2 to 3 weeks, with 3 months of support
+written quote before work starts · delivered in 2 to 3 weeks, plus 3 months of SEO
 
 - Everything in IDENTITY
 - Full brand guidelines document
@@ -133,7 +133,7 @@ $599
 
 / per project
 
-written quote before work starts · delivered in 2 to 3 weeks, with 3 months of support
+written quote before work starts · delivered in 2 to 3 weeks, plus 3 months of SEO
 
 - Everything in LAUNCH
 - Packaging and label design

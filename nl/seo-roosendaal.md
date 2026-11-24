@@ -10,7 +10,7 @@ SEO voor Roosendaal
 
 # SEO voor bedrijven in Roosendaal
 
-We hebben geen kantoor in Roosendaal: we doen SEO volledig op afstand vanuit Kolkata, India, voor bedrijven in heel Nederland. Je krijgt een audit, vaste werkzaamheden per maand, content in het Nederlands en elke maand een rapport over wat er is veranderd.
+Roosendaal grenst aan België, en wie in Essen of Antwerpen zoekt, krijgt in Google andere resultaten dan iemand in Roosendaal. Wij doen SEO voor bedrijven in Roosendaal zonder kantoor in de stad: we werken op afstand vanuit Kolkata, India, met een audit, vast werk per maand, teksten in het Nederlands en een maandrapport.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -18,11 +18,11 @@ We hebben geen kantoor in Roosendaal: we doen SEO volledig op afstand vanuit Kol
 
 ## Wat kost het?
 
-SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+Drie pakketten, drie maandbedragen. Starter kost € 199 per maand, met 3 blogartikelen per maand. Growth kost € 349 per maand, met 8 artikelen, zoekwoordonderzoek elke maand en doorlopend technisch werk. Custom begint bij € 599 per maand en is bedoeld voor grote sites, webshops en bedrijven met meerdere vestigingen of werkgebieden. Hoeveel jij betaalt, leggen we na de audit vast in een schriftelijke offerte.
 
 ## SEO in Roosendaal, met klanten aan twee kanten van de grens
 
-Roosendaal had op 1 januari 2026 78.165 inwoners en 9.950 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groepen zijn de zakelijke dienstverlening (17,9%) en de handel (16,3%, tegen 12,9% in heel Nederland). Daarna volgen bouw (12,2%) en zorg (10,8%). Transport en opslag is met 3,4% iets groter dan landelijk (2,8%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+Roosendaal had op 1 januari 2026 78.165 inwoners en 9.950 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groepen zijn de zakelijke dienstverlening (17,9%) en de handel (16,3%, tegen 12,9% in heel Nederland). Daarna volgen bouw (12,2%) en zorg (10,8%). Transport en opslag is met 3,4% iets groter dan landelijk (2,8%). Die aandelen rekenden we zelf uit met de cijfers van het CBS.
 
 Aan de overkant van de grens ligt Essen, in de Belgische provincie Antwerpen. Hoeveel Belgische klanten dat oplevert, verschilt per bedrijf. Een voorbeeld: van de bezoekers van het Designer Outlet in Roosendaal kwam in 2019 ongeveer 20% uit België, volgens een verkeersonderzoek voor het bestemmingsplan.
 
@@ -34,7 +34,7 @@ Heb je aparte pagina's voor klanten in Nederland en in België, bijvoorbeeld met
 
 ### Wat SEO-bureaus voor Roosendaal vragen
 
-Op 11 november 2026 bekeken we de 10 pagina's die we vonden op de zoektermen "seo roosendaal" en "seo specialist roosendaal". Acht daarvan zijn van bureaus die elders gevestigd zijn. Het enige bureau met een kantoor in Roosendaal noemt geen prijs. Eén pagina noemt een maandprijs van € 300, zonder te zeggen of dat met of zonder btw is. Onze prijzen beginnen bij € 199 per maand. Wij rekenen geen btw: bij zakelijke klanten is die verlegd.
+Op 11 november 2026 zochten we naar SEO-bureaus voor Roosendaal en openden we 11 pagina's, waarvan er één ons weigerde. Van de 10 die we konden lezen, zijn er 8 van bureaus die elders zitten. Maar één bureau heeft zelf een kantoor in Roosendaal, en dat noemt geen prijs. Op één pagina staat een maandprijs: € 300, zonder te zeggen of dat met of zonder btw is. Bij ons is Starter € 199 per maand. Wij rekenen geen btw: bij zakelijke klanten is die verlegd.
 
 Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Statbel, Essen in de provincie Antwerpen](https://bestat.statbel.fgov.be/bestat/api/views/ca552835-6319-4825-bf78-7bc12bb09cfe/result/PDF) · [Verkeersonderzoek Designer Outlet Roosendaal](https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1674.2149UITBREIDINGDOR-0601/b_NL.IMRO.1674.2149UITBREIDINGDOR-0601_tb1.pdf) · [Google, sites voor meerdere regio's](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites) · [Google, hreflang](https://developers.google.com/search/docs/specialty/international/localized-versions) · [Google, resultaten per regio](https://support.google.com/websearch/answer/873)
 
@@ -112,23 +112,23 @@ schriftelijke offerte vooraf · maandelijks
 
 ### Audit
 
-We crawlen je site, bekijken je Search Console-gegevens als je die hebt en kijken hoe je concurrenten scoren. Je krijgt een schriftelijke audit en een voorstel voor de maandelijkse werkzaamheden tegen een vast maandbedrag.
+We crawlen je website, kijken in Search Console als je dat hebt en zoeken uit hoe je concurrenten ervoor staan. Heb je ook klanten in België, dan kijken we waar zij zoeken. Het resultaat is een schriftelijke audit met een voorstel voor het werk per maand, tegen een vast maandbedrag.
 
 ### Plan
 
-We spreken de zoekwoorden af en koppelen ze aan pagina's. Technische problemen pakken we aan in volgorde van impact, dus in de eerste maand pakken we aan wat de indexering blokkeert.
+We leggen vast op welke zoekwoorden je gevonden wilt worden en welke pagina daarbij hoort, waar nodig apart voor Nederland en België. Technisch werk doen we op volgorde van impact: wat de indexering tegenhoudt, komt in de eerste maand.
 
 ### Verbeteren
 
-We lossen technische problemen op, passen pagina's aan en publiceren nieuwe content per maand. Wat je ontwikkelaar moet doen of waarvoor we jouw akkoord nodig hebben, melden we op tijd.
+Daarna gaan we aan de slag: technische problemen oplossen, pagina's aanpassen en elke maand nieuwe content plaatsen. Moet je ontwikkelaar iets doen, of is jouw akkoord nodig, dan hoor je dat op tijd van ons.
 
 ### Autoriteit opbouwen
 
-Daarnaast werken we buiten je site: vermeldingen in bedrijvengidsen, je Google Bedrijfsprofiel en outreach voor relevante links.
+Ook buiten je site werken we aan je zichtbaarheid, met vermeldingen in bedrijvengidsen, een verzorgd Google Bedrijfsprofiel en outreach naar relevante sites voor een link.
 
 ### Rapport
 
-Elke maand krijg je een overzicht van het uitgevoerde werk, je posities en je verkeer, en de prioriteiten voor de volgende maand. De werkzaamheden stellen we per maand bij.
+Je krijgt elke maand een rapport: welk werk er is gedaan, hoe je posities en je verkeer zijn veranderd en wat de volgende maand voorrang krijgt. Daarna passen we de planning aan.
 
 ## Goed om te weten
 
@@ -158,7 +158,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost een SEO-specialist in Roosendaal?**
 
-Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
+Voor Starter betaal je € 199 per maand, voor Growth € 349 en voor Custom vanaf € 599. Het verschil zit in de hoeveelheid content, het technische werk en de grootte van je site. Je maandbedrag staat na de audit in een schriftelijke offerte.
 
 **Ik heb ook klanten in België. Kunnen jullie daar ook rekening mee houden?**
 
@@ -197,7 +197,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/seo-roosendaal#service",
       "name": "SEO voor bedrijven in Roosendaal",
       "serviceType": "SEO Roosendaal",
-      "description": "SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.",
+      "description": "Drie pakketten, drie maandbedragen. Starter kost € 199 per maand, met 3 blogartikelen per maand. Growth kost € 349 per maand, met 8 artikelen, zoekwoordonderzoek elke maand en doorlopend technisch werk. Custom begint bij € 599 per maand en is bedoeld voor grote sites, webshops en bedrijven met meerdere vestigingen of werkgebieden. Hoeveel jij betaalt, leggen we na de audit vast in een schriftelijke offerte.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },

@@ -12,7 +12,7 @@ A brand and growth agency working with businesses worldwide, from Barrackpore, K
 
 ## Who we are
 
-N&D Co. is a brand and growth agency in Barrackpore, Kolkata. We design brand identities and logos, build websites, online stores and custom software, and run SEO, performance marketing, social media and video for businesses of every size in India and abroad. [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha) founded the agency in 2025, after more than five years of work in design and digital.
+N&D Co. is a brand and growth agency in Barrackpore, Kolkata. We design brand identities and logos, build websites, online stores and custom software, and run SEO, performance marketing, social media and video for businesses of every size in India and abroad. [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha) founded the agency on 8 June 2025, after more than five years of work in design and digital.
 
 ## How we work
 

@@ -1,6 +1,6 @@
 ---
 title: "SEO-bureau Nijmegen: SEO vanaf € 199 per maand | N&D Co."
-description: "SEO-bureau en SEO-specialist voor bedrijven in Nijmegen: audit, on-page SEO, Nederlandse content en een maandrapport, op afstand, vanaf € 199 per maand."
+description: "SEO-bureau en SEO-specialist voor Nijmegen, ook voor de zorg: een audit, vast werk per maand en blogartikelen in het Nederlands, vanaf € 199 per maand."
 url: "https://ndcompany.in/nl/seo-bureau-nijmegen"
 type: "Service"
 image: "https://ndcompany.in/assets/share/nl-seo-bureau-nijmegen.png"
@@ -10,7 +10,7 @@ SEO voor Nijmegen
 
 # SEO-bureau en SEO-specialist voor Nijmegen
 
-We hebben geen kantoor in Nijmegen: we doen SEO volledig op afstand vanuit Kolkata, India, voor bedrijven in heel Nederland. Je werkt met één vast team, van de audit tot het maandrapport, en betaalt een vast bedrag per maand.
+Ruim een op de zes bedrijfsvestigingen in Nijmegen zit in de zorg, en bij zorgonderwerpen let Google extra op betrouwbaarheid. Wij doen SEO voor bedrijven in Nijmegen zonder kantoor in de stad, op afstand vanuit Kolkata, India. Je werkt met één vast team, van de audit tot het maandrapport, voor een vast bedrag per maand.
 
 [Offerte aanvragen](https://ndcompany.in/#contact)
 
@@ -18,11 +18,11 @@ We hebben geen kantoor in Nijmegen: we doen SEO volledig op afstand vanuit Kolka
 
 ## Wat kost het?
 
-SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.
+Bij ons begint SEO voor een bedrijf in Nijmegen bij € 199 per maand. Daarvoor krijg je het Starter-pakket, met onder meer 3 blogartikelen per maand. Wil je meer content, dan is er Growth voor € 349 per maand: 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen. Grote sites, webshops en organisaties met meerdere vestigingen, zoals een praktijk met meer dan één locatie, vallen onder Custom, vanaf € 599 per maand. Wat jij per maand betaalt, staat na de audit in de schriftelijke offerte.
 
 ## SEO voor bedrijven in Nijmegen: de stad in cijfers
 
-Nijmegen had op 1 januari 2026 189.871 inwoners en 25.190 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de zakelijke dienstverlening, met 21,5% van alle vestigingen. Op de tweede plaats staat de zorg, met 18,1%, tegen 10,6% in heel Nederland. Daarna volgen handel (10,9%), onderwijs (7,9%) en cultuur, sport en recreatie (7,7%). De percentages hebben we zelf uit de CBS-cijfers berekend.
+Nijmegen had op 1 januari 2026 189.871 inwoners en 25.190 vestigingen van bedrijven, volgens het CBS (het aantal vestigingen is nog voorlopig). De grootste groep is de zakelijke dienstverlening, met 21,5% van alle vestigingen. Op de tweede plaats staat de zorg, met 18,1%, tegen 10,6% in heel Nederland. Daarna volgen handel (10,9%), onderwijs (7,9%) en cultuur, sport en recreatie (7,7%). De percentages zijn onze eigen berekening.
 
 Nijmegen is ook een jonge stad. Van de inwoners is 11,5% tussen de 20 en 24 jaar oud, tegen 6,5% in heel Nederland. De Radboud Universiteit telde in oktober 2026 23.306 studenten.
 
@@ -32,7 +32,7 @@ Werk je in de zorg en heb je bijvoorbeeld een eigen praktijk, dan let Google ext
 
 ### Wat een SEO-specialist per maand doet
 
-Bij ons werk je met één vast team, voor een vast bedrag per maand. In de eerste maand pakken we aan wat de indexering blokkeert. Daarna gaat het werk elke maand door:
+Het eerste wat we oplossen, is alles wat Google tegenhoudt bij het indexeren van je pagina's. Daarna doen we elke maand dit werk:
 
 - pagina's verbeteren voor de zoekwoorden die we samen kiezen
 - nieuwe blogartikelen in het Nederlands, 3 per maand bij Starter en 8 bij Growth
@@ -42,7 +42,7 @@ Bij ons werk je met één vast team, voor een vast bedrag per maand. In de eerst
 
 ### Wat SEO-bureaus voor Nijmegen vragen
 
-Op 11 november 2026 bekeken we de 12 pagina's die we vonden op de zoektermen "seo bureau nijmegen" en "seo specialist nijmegen". Vijf daarvan konden we niet openen. Van de andere 7 noemen er 3 een maandprijs: van € 250 tot € 999 per maand, 2 daarvan exclusief btw. Geen van de bedrijven die echt in Nijmegen gevestigd zijn, noemt een prijs op de site. Onze prijzen beginnen bij € 199 per maand.
+Voor "seo bureau nijmegen" en "seo specialist nijmegen" kwamen we op 11 november 2026 uit op 17 pagina's, waarvan we er 5 niet konden openen. Van de 12 die wel opengingen, staat bij 3 een maandprijs, van € 250 tot € 999 per maand. Twee daarvan vermelden dat het bedrag exclusief btw is. Zes van de 12 bedrijven zeggen dat ze in Nijmegen zitten, en geen van die zes noemt een prijs op de site. Bij ons staat de prijs gewoon op de pagina: vanaf € 199 per maand. Zie de pakketten hieronder.
 
 Bronnen: [CBS, bevolking per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/85644NED) · [CBS, vestigingen per gemeente](https://www.cbs.nl/nl-nl/cijfers/detail/81575NED) · [Radboud Universiteit, studentenaantallen](https://www.ru.nl/over-ons/organisatie/feiten-en-cijfers/onderwijs) · [Google, nuttige content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
 
@@ -120,23 +120,23 @@ schriftelijke offerte vooraf · maandelijks
 
 ### Audit
 
-We crawlen je site, bekijken je Search Console-gegevens als je die hebt en kijken hoe je concurrenten scoren. Je krijgt een schriftelijke audit en een voorstel voor de maandelijkse werkzaamheden tegen een vast maandbedrag.
+Eerst bekijken we je site zoals Google hem ziet: we crawlen alle pagina's, lezen je Search Console-gegevens als je die hebt en vergelijken je site met die van je concurrenten. Daarna krijg je de audit op schrift, met een voorstel voor het maandelijkse werk tegen een vast bedrag.
 
 ### Plan
 
-We spreken de zoekwoorden af en koppelen ze aan pagina's. Technische problemen pakken we aan in volgorde van impact, dus in de eerste maand pakken we aan wat de indexering blokkeert.
+Samen kiezen we de zoekwoorden en welke pagina bij welk zoekwoord hoort. Wat de indexering blokkeert, lossen we in de eerste maand op; de andere technische punten volgen op volgorde van impact. Heb je zorgpagina's, dan vragen we hier ook wie de teksten controleert.
 
 ### Verbeteren
 
-We lossen technische problemen op, passen pagina's aan en publiceren nieuwe content per maand. Wat je ontwikkelaar moet doen of waarvoor we jouw akkoord nodig hebben, melden we op tijd.
+Elke maand passen we pagina's aan, lossen we technische fouten op en publiceren we nieuwe content. Is er werk voor je ontwikkelaar, of hebben we je akkoord nodig, dan laten we je dat op tijd weten.
 
 ### Autoriteit opbouwen
 
-Daarnaast werken we buiten je site: vermeldingen in bedrijvengidsen, je Google Bedrijfsprofiel en outreach voor relevante links.
+Buiten je eigen site houden we je Google Bedrijfsprofiel bij, regelen we vermeldingen in bedrijvengidsen en benaderen we relevante sites voor een link.
 
 ### Rapport
 
-Elke maand krijg je een overzicht van het uitgevoerde werk, je posities en je verkeer, en de prioriteiten voor de volgende maand. De werkzaamheden stellen we per maand bij.
+Aan het eind van elke maand zie je wat we hebben gedaan, hoe je posities en je verkeer zich ontwikkelen en wat de prioriteiten voor de maand erna zijn. Op basis daarvan stellen we het werk bij.
 
 ## Goed om te weten
 
@@ -166,7 +166,7 @@ Lees ook de [informatie over het herroepingsrecht en het modelformulier](https:/
 
 **Wat kost een SEO-specialist in Nijmegen?**
 
-Bij ons € 199 per maand voor de basis, € 349 per maand met meer content en doorlopend technisch werk, en vanaf € 599 per maand voor grote sites. Het maandbedrag leggen we na de audit schriftelijk vast.
+Bij ons begint het bij € 199 per maand. Wil je meer content en doorlopend technisch werk, dan kost Growth € 349 per maand. Voor grote sites is er Custom, vanaf € 599 per maand. Na de audit krijg je je maandbedrag zwart op wit, in een offerte.
 
 **Kan ik eerst alleen een SEO-audit laten doen?**
 
@@ -205,7 +205,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#service",
       "name": "SEO-bureau en SEO-specialist voor Nijmegen",
       "serviceType": "SEO-bureau Nijmegen",
-      "description": "SEO kost bij ons € 199 per maand voor de basis, met 3 blogartikelen per maand, € 349 per maand met 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen, en vanaf € 599 per maand voor grote sites, webshops of meerdere vestigingen. Je definitieve maandbedrag staat na de audit in een schriftelijke offerte.",
+      "description": "Bij ons begint SEO voor een bedrijf in Nijmegen bij € 199 per maand. Daarvoor krijg je het Starter-pakket, met onder meer 3 blogartikelen per maand. Wil je meer content, dan is er Growth voor € 349 per maand: 8 artikelen, maandelijks zoekwoordonderzoek en doorlopende technische verbeteringen. Grote sites, webshops en organisaties met meerdere vestigingen, zoals een praktijk met meer dan één locatie, vallen onder Custom, vanaf € 599 per maand. Wat jij per maand betaalt, staat na de audit in de schriftelijke offerte.",
       "provider": {
         "@id": "https://ndcompany.in/#ndco-organization"
       },
@@ -259,7 +259,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/seo-bureau-nijmegen#webpage",
       "url": "https://ndcompany.in/nl/seo-bureau-nijmegen",
       "name": "SEO-bureau Nijmegen: SEO vanaf € 199 per maand | N&D Co.",
-      "description": "SEO-bureau en SEO-specialist voor bedrijven in Nijmegen: audit, on-page SEO, Nederlandse content en een maandrapport, op afstand, vanaf € 199 per maand.",
+      "description": "SEO-bureau en SEO-specialist voor Nijmegen, ook voor de zorg: een audit, vast werk per maand en blogartikelen in het Nederlands, vanaf € 199 per maand.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

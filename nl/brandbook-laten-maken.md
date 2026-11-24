@@ -1,6 +1,6 @@
 ---
 title: "Brandbook laten maken vanaf € 299 | N&D Co."
-description: "Brandbook laten maken passend bij je logo, met een heldere prijs: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199."
+description: "Brandbook laten maken bij je logo: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199."
 url: "https://ndcompany.in/nl/brandbook-laten-maken"
 type: "Service"
 image: "https://ndcompany.in/assets/share/nl-brandbook-laten-maken.png"
@@ -213,7 +213,7 @@ Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een sch
       "@id": "https://ndcompany.in/nl/brandbook-laten-maken#webpage",
       "url": "https://ndcompany.in/nl/brandbook-laten-maken",
       "name": "Brandbook laten maken vanaf € 299 | N&D Co.",
-      "description": "Brandbook laten maken passend bij je logo, met een heldere prijs: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199.",
+      "description": "Brandbook laten maken bij je logo: een merkgids vanaf € 299, een brandbook met tone of voice en voorbeelden voor € 599, of maatwerk vanaf € 1.199.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

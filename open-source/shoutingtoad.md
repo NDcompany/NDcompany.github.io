@@ -25,7 +25,7 @@ A free, open-source SEO spider for Windows, macOS and Linux. It crawls your site
 
 ## Overview
 
-ShoutingToad SEO Spider is a website crawler that audits your site for over 300 SEO issues, to help improve both SEO and UX. Point it at a website and it visits every page the way a search engine does, then checks each one against 474 built-in checks in 30 categories: broken links, redirects, titles, descriptions, headings, canonicals, hreflang, structured data, security headers, performance, accessibility and AI search readiness. Every finding says what is wrong, why it matters and how to fix it.
+ShoutingToad SEO Spider is a website crawler that finds the SEO and UX problems on a site. Point it at a website and it visits every page the way a search engine does, then checks each one against 474 built-in checks in 30 categories: broken links, redirects, titles, descriptions, headings, canonicals, hreflang, structured data, security headers, performance, accessibility and AI search readiness. Every finding says what is wrong, why it matters and how to fix it.
 
 It is free and open source under the AGPL-3.0 licence, with no account, no licence key and no paid tier. It runs on Windows, macOS and Linux as a desktop app, and the same program works from the command line, so you can run an audit on every deploy in GitHub Actions or any other CI.
 
@@ -57,7 +57,7 @@ Every build is on the [ShoutingToad releases page](https://github.com/NDcompany/
 
 1. Windows: run the installer. "Install for me only" needs no admin rights, and it adds Start menu shortcuts, opens .shoutingtoad files and can put the command line on your PATH. The portable zip needs no install: unzip it and run shouting-toad.exe.
 2. macOS: unzip the app, drag ShoutingToad.app to Applications, then right-click it and choose Open the first time.
-3. Linux: extract the tarball and run ./install_linux.sh, or as root to install it for every user.
+3. Linux: extract the tarball and run ./install_linux.sh, or run it as root to install it for every user.
 
 The builds are not code-signed or notarised, so Windows SmartScreen and macOS warn before the first run. Check the file against SHA256SUMS.txt if you want to be sure it is the one we published. ShoutingToad never updates itself: to update, download the new release, and the Windows installer replaces the program in place, keeping your settings and saved crawls.
 
@@ -110,7 +110,6 @@ ShoutingToad runs 474 built-in checks in 30 categories: 149 Issues, 223 Warnings
 | Page Titles | 17 | Missing, duplicate, too long or too short, and pixel width |
 | Images | 17 | Alt text, file size, format, dimensions, lazy loading and broken images |
 | Directives | 17 | Meta robots and X-Robots-Tag rules |
-| Headings | 16 | H1 and H2 tags and the order of heading levels |
 | Accessibility | 16 | Labels, accessible names, language, landmarks, captions, contrast and keyboard focus |
 | Meta Description | 14 | Missing, duplicate, too long or too short |
 | Redirects | 13 | Chains, loops, broken targets, meta refresh and JavaScript redirects |
@@ -123,8 +122,11 @@ ShoutingToad runs 474 built-in checks in 30 categories: 149 Issues, 223 Warnings
 | Content | 10 | Thin, duplicate and placeholder content, soft 404s and readability |
 | AI Search | 9 | What AI crawlers can reach, read and quote |
 | Rendering | 9 | Content, links and tags that change after JavaScript, plus script errors |
+| H1 | 7 | The main H1 heading of each page |
 | Mobile | 7 | Viewport, zoom, plugins, frames and touch icons |
 | Pagination | 6 | rel next and prev links and the pages they point to |
+| H2 | 5 | H2 subheadings |
+| Headings | 4 | The order of heading levels |
 | Meta Keywords | 3 | Leftover keyword tags |
 | AMP | 3 | AMP pages and their links |
 
@@ -365,7 +367,7 @@ Our [software development](https://ndcompany.in/services/software-development) s
       "@id": "https://ndcompany.in/open-source/shoutingtoad#code",
       "name": "ShoutingToad",
       "description": "A free, open-source SEO spider for Windows, macOS and Linux. It crawls your site like a search engine and audits every page against 474 checks, with reports you can hand to a client.",
-      "abstract": "ShoutingToad SEO Spider is a website crawler that audits your site for over 300 SEO issues, to help improve both SEO and UX. Point it at a website and it visits every page the way a search engine does, then checks each one against 474 built-in checks in 30 categories: broken links, redirects, titles, descriptions, headings, canonicals, hreflang, structured data, security headers, performance, accessibility and AI search readiness. Every finding says what is wrong, why it matters and how to fix it. It is free and open source under the AGPL-3.0 licence, with no account, no licence key and no paid tier. It runs on Windows, macOS and Linux as a desktop app, and the same program works from the command line, so you can run an audit on every deploy in GitHub Actions or any other CI. We built ShoutingToad at N&D Co., the team behind our SEO services, and released it so anyone can use it, read the code and improve it. It is written in Rust and custom made: the crawler, the audit engine, the reports and the desktop app are our own code, built on the open-source Rust libraries listed further down.",
+      "abstract": "ShoutingToad SEO Spider is a website crawler that finds the SEO and UX problems on a site. Point it at a website and it visits every page the way a search engine does, then checks each one against 474 built-in checks in 30 categories: broken links, redirects, titles, descriptions, headings, canonicals, hreflang, structured data, security headers, performance, accessibility and AI search readiness. Every finding says what is wrong, why it matters and how to fix it. It is free and open source under the AGPL-3.0 licence, with no account, no licence key and no paid tier. It runs on Windows, macOS and Linux as a desktop app, and the same program works from the command line, so you can run an audit on every deploy in GitHub Actions or any other CI. We built ShoutingToad at N&D Co., the team behind our SEO services, and released it so anyone can use it, read the code and improve it. It is written in Rust and custom made: the crawler, the audit engine, the reports and the desktop app are our own code, built on the open-source Rust libraries listed further down.",
       "url": "https://ndcompany.in/open-source/shoutingtoad",
       "codeRepository": "https://github.com/NDcompany/ShoutingToad",
       "programmingLanguage": "Rust",
