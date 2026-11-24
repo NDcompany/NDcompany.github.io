@@ -95,7 +95,7 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 
 Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 
-- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+- [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
   11 Nov 2026
 
 - [Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
@@ -202,7 +202,7 @@ Brand style guides that others can follow without asking you: logo rules, colour
 
 Social media posts, ad creatives and posters for dishes, offers, events and memberships.
 
-- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+- [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
   11 Nov 2026
 
 - [Ads, design, reels and social media for Kebabiyana](https://ndcompany.in/projects/kebabiyana)
@@ -487,7 +487,7 @@ Spreadsheet chores in Excel that a small tool can take over: supplier price list
 
 Google and Meta ads for small businesses: what to advertise, how conversions and ROAS are counted, and how to check an agency's ad report against your own sales.
 
-- [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+- [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
   11 Nov 2026
 
 ## Payment fraud

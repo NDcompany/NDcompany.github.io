@@ -1,5 +1,5 @@
 ---
-title: "Restaurant Ad Ideas: 12 Food Ads From Our Work | N&D Co."
+title: "Restaurant Ad Examples: 12 Food Ads From Our Work | N&D Co."
 description: "One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist."
 url: "https://ndcompany.in/blogs/restaurant-ad-ideas"
 type: "BlogPosting"
@@ -11,7 +11,7 @@ image: "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png"
 
 [Marketing](https://ndcompany.in/blogs/topic/marketing) · Tips
 
-# 12 restaurant ad ideas, with food ads from our own work
+# 12 restaurant ad examples and ideas, with food ads from our own work
 
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
@@ -140,16 +140,16 @@ We design posts and ad creatives, edit reels, run ads and manage social media fo
 
 ## Share this post
 
-- [Share on X](https://twitter.com/intent/tweet?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&via=NDCoofficial)
+- [Share on X](https://twitter.com/intent/tweet?text=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&via=NDCoofficial)
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
 - [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
-- [Share on WhatsApp](https://wa.me/?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
-- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
-- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&title=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
-- [Share on Threads](https://www.threads.net/intent/post?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
-- [Share on Bluesky](https://bsky.app/intent/compose?text=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
-- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Frestaurant-ad-ideas-16x9.png&description=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
-- [Share by email](mailto:?subject=12%20restaurant%20ad%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work&body=One%20dish%2C%20one%20price%2C%20one%20button%3A%2012%20restaurant%20ad%20ideas%20with%20eight%20food%20ads%20our%20team%20designed%2C%20the%20image%20sizes%20Meta%20and%20Google%20recommend%2C%20and%20a%20checklist.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on WhatsApp](https://wa.me/?text=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&text=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&title=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
+- [Share on Threads](https://www.threads.net/intent/post?text=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work%20https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Frestaurant-ad-ideas-16x9.png&description=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work)
+- [Share by email](mailto:?subject=12%20restaurant%20ad%20examples%20and%20ideas%2C%20with%20food%20ads%20from%20our%20own%20work&body=One%20dish%2C%20one%20price%2C%20one%20button%3A%2012%20restaurant%20ad%20ideas%20with%20eight%20food%20ads%20our%20team%20designed%2C%20the%20image%20sizes%20Meta%20and%20Google%20recommend%2C%20and%20a%20checklist.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Frestaurant-ad-ideas)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -226,7 +226,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
     {
       "@type": "BlogPosting",
       "@id": "https://ndcompany.in/blogs/restaurant-ad-ideas#article",
-      "headline": "12 restaurant ad ideas, with food ads from our own work",
+      "headline": "12 restaurant ad examples and ideas, with food ads from our own work",
       "description": "One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.",
       "image": [
         {
@@ -276,7 +276,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "WebPage",
       "@id": "https://ndcompany.in/blogs/restaurant-ad-ideas#webpage",
       "url": "https://ndcompany.in/blogs/restaurant-ad-ideas",
-      "name": "Restaurant Ad Ideas: 12 Food Ads From Our Work | N&D Co.",
+      "name": "Restaurant Ad Examples: 12 Food Ads From Our Work | N&D Co.",
       "description": "One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"

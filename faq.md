@@ -112,7 +112,7 @@ Your logo and any brand files, the text and images for each page, access to your
 
 **Do you build with WordPress or custom code? Website Design & Development**
 
-Both, depending on the project. WordPress or another CMS fits sites where you will edit content often.
+Both, depending on the project. WordPress or another CMS fits sites where you will edit content often. [What 30 Indian agencies publish about WordPress work](https://ndcompany.in/blogs/hire-wordpress-developer-india).
 
 [Read the full answer on the Website Design & Development page](https://ndcompany.in/services/website-design-development#svc-faq)
 

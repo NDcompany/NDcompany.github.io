@@ -125,6 +125,10 @@ A 7-day support window covers minor corrections and technical issues in the deli
 
 We are in Barrackpore, Kolkata, India. We keep part of our evening for calls in US mornings and send written updates between calls.
 
+**How do we compare WordPress developers in India?**
+
+We read the websites of 30 Indian web development agencies and recorded what each publishes about rates, code ownership, NDAs, support after launch and time zone overlap. Most leave ownership unsaid, so put it in the contract. [Read how to hire a WordPress developer in India](https://ndcompany.in/blogs/hire-wordpress-developer-india).
+
 ## Have a project for a client?
 
 Send the brief and your NDA, and we will reply with questions or a written quote.

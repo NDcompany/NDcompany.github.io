@@ -200,7 +200,7 @@ Your logo and any brand files, the text and images for each page, access to your
 
 **Do you build with WordPress or custom code?**
 
-Both, depending on the project. WordPress or another CMS fits sites where you will edit content often. Custom code fits landing pages that need to be fast and web applications with logic that no plugin covers. We recommend one in the scope document and explain why.
+Both, depending on the project. WordPress or another CMS fits sites where you will edit content often. Custom code fits landing pages that need to be fast and web applications with logic that no plugin covers. We recommend one in the scope document and explain why. [What 30 Indian agencies publish about WordPress work](https://ndcompany.in/blogs/hire-wordpress-developer-india).
 
 **Will my website be mobile friendly?**
 

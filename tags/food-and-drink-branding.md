@@ -26,7 +26,7 @@ Marketing
 
 Tips · 11 Nov 2026
 
-### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
 
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
@@ -205,7 +205,7 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "12 restaurant ad ideas, with food ads from our own work",
+            "name": "12 restaurant ad examples and ideas, with food ads from our own work",
             "url": "https://ndcompany.in/blogs/restaurant-ad-ideas"
           },
           {

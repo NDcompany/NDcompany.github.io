@@ -183,7 +183,7 @@ Every price is on our [pricing page](https://ndcompany.in/pricing).
 
 **Are you a restaurant branding agency?**
 
-Yes. We design logos and brand identities for restaurants, cafes, bars and cloud kitchens, with the colours, fonts and files a printer and a delivery app need, then carry the brand into menus, posters, social media posts and the website. The food and drink projects on this page show that work.
+Yes. We design logos and brand identities for restaurants, cafes, bars and cloud kitchens, with the colours, fonts and files a printer and a delivery app need, then carry the brand into menus, posters, social media posts and the website. The food and drink projects on this page show that work. [See what the logos of 50 big restaurant chains have in common](https://ndcompany.in/blogs/food-restaurant-logo-ideas).
 
 **Do you work with restaurants outside Kolkata?**
 

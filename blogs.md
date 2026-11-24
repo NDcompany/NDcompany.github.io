@@ -98,7 +98,7 @@ Marketing
 
 Tips · 11 Nov 2026
 
-### [12 restaurant ad ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
 
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
@@ -559,7 +559,7 @@ Send a few lines about your business and what you want to fix or build. We will 
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/restaurant-ad-ideas#article",
-          "headline": "12 restaurant ad ideas, with food ads from our own work",
+          "headline": "12 restaurant ad examples and ideas, with food ads from our own work",
           "description": "One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.",
           "image": "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png",
           "url": "https://ndcompany.in/blogs/restaurant-ad-ideas",
