@@ -39,7 +39,7 @@ The rules below come from Google's help centre and apply in the US, UK, Netherla
 
 ### Who will own the profile
 
-Create or claim the profile from a Google Account that belongs to the business, not to an employee or an agency. A profile can have several owners but [only one primary owner](https://support.google.com/business/answer/3403100?hl=en). Managers have nearly the same access, with the exception that they cannot add or remove users or remove the profile. New owners and managers must wait 7 days before they can manage some features, including taking over as primary owner. Google can also [revoke ownership](https://support.google.com/business/answer/13763036?hl=en) if you have not signed in to your account recently. Our guide to agency access covers the right role to give on each platform.
+Create or claim the profile from a Google Account that belongs to the business, not to an employee or an agency. A profile can have several owners but [only one primary owner](https://support.google.com/business/answer/3403100?hl=en). Managers have nearly the same access, with the exception that they cannot add or remove users or remove the profile. New owners and managers must wait 7 days before they can manage some features, including taking over as primary owner. Google can also [revoke ownership](https://support.google.com/business/answer/13763036?hl=en) if you have not signed in to your account recently. Our [guide to agency access](https://ndcompany.in/blogs/agency-access-guide) covers the right role to give on each platform.
 
 ### Eligibility: storefront, service area or both
 

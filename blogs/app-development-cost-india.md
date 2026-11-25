@@ -207,31 +207,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-News · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
-
-Read the post
-
-Business
-
-Guide · 11 Nov 2026
-
-### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
-
-Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-Guide · 31 Oct 2026
+Guide · 25 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 

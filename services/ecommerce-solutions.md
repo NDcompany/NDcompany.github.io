@@ -242,6 +242,26 @@ Learn more
 
 Guides on the work behind E-commerce Solutions.
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
 Marketing
 
 Guide · 25 Nov 2026
@@ -249,26 +269,6 @@ Guide · 25 Nov 2026
 ### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
 
 ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
-
-Read the guide
-
-Websites
-
-Guide · 20 Nov 2026
-
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
 

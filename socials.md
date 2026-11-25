@@ -29,8 +29,8 @@ You came from one of our profiles. Here is where to go next.
 ## Latest from the blog
 
 - [White label WordPress development: what 16 providers charge and how a build runs: 25 Nov 2026](https://ndcompany.in/blogs/white-label-wordpress-development)
-- [Your ads report shows a high return but you are losing money: how to check it: 25 Nov 2026](https://ndcompany.in/blogs/check-ads-agency-report)
-- [How much does app development cost in India? A guide for US and UK buyers: 24 Nov 2026](https://ndcompany.in/blogs/app-development-cost-india)
+- [How to take card payments on a UAE online store, with or without a trade licence: 25 Nov 2026](https://ndcompany.in/blogs/uae-online-store-payments)
+- [Got an email from a "Shopify expert"? How to check it before you reply: 25 Nov 2026](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 [All posts](https://ndcompany.in/blogs)
 

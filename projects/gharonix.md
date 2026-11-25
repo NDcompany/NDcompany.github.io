@@ -244,21 +244,21 @@ Read the guide
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
-Websites
+Business
 
-Guide · 20 Nov 2026
+Guide · 25 Nov 2026
 
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
 Read the guide
 

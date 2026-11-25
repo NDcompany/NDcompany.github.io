@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (124 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (127 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -702,25 +702,25 @@ What 16 white label WordPress providers publish about prices, staging, NDAs and 
 
 Read the guide
 
-Websites
+Business
 
-Guide · 20 Nov 2026
+Guide · 25 Nov 2026
 
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
-SEO
+Business
 
-Insight · 14 Nov 2026
+Guide · 25 Nov 2026
 
-### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
-Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
-Read the post
+Read the guide
 
 ## Ready to start?
 
@@ -1001,6 +1001,26 @@ See the project
 
 Guides on the work behind SEO Services.
 
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -1010,26 +1030,6 @@ News · 17 Nov 2026
 Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
 
 Read the post
-
-SEO
-
-Insight · 14 Nov 2026
-
-### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-
-Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
-
-Read the post
-
-SEO
-
-Guide · 11 Nov 2026
-
-### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
-
-We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
-
-Read the guide
 
 ## Ready to start?
 
@@ -2534,6 +2534,26 @@ Learn more
 
 Guides on the work behind E-commerce Solutions.
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
 Marketing
 
 Guide · 25 Nov 2026
@@ -2541,26 +2561,6 @@ Guide · 25 Nov 2026
 ### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
 
 ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
-
-Read the guide
-
-Websites
-
-Guide · 20 Nov 2026
-
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
 
 Read the guide
 
@@ -2853,6 +2853,16 @@ ROAS is revenue divided by ad cost, counted by each platform's own rules. Here i
 
 Read the guide
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -2860,16 +2870,6 @@ News · 17 Nov 2026
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
-
-Marketing
-
-Tips · 11 Nov 2026
-
-### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
-
-Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
 
@@ -10485,6 +10485,26 @@ What 16 white label WordPress providers publish about prices, staging, NDAs and 
 
 Read the guide
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
 Marketing
 
 Guide · 25 Nov 2026
@@ -10492,6 +10512,16 @@ Guide · 25 Nov 2026
 ### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
 
 ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -11134,21 +11164,21 @@ Read the guide
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
-Websites
+Business
 
-Guide · 20 Nov 2026
+Guide · 25 Nov 2026
 
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
 Read the guide
 
@@ -11509,25 +11539,25 @@ What 16 white label WordPress providers publish about prices, staging, NDAs and 
 
 Read the guide
 
-Websites
+Business
 
-Guide · 20 Nov 2026
+Guide · 25 Nov 2026
 
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
-SEO
+Business
 
-News · 17 Nov 2026
+Guide · 25 Nov 2026
 
-### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
-Read the post
+Read the guide
 
 ## More projects
 
@@ -13403,6 +13433,16 @@ ROAS is revenue divided by ad cost, counted by each platform's own rules. Here i
 
 Read the guide
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -13410,16 +13450,6 @@ News · 17 Nov 2026
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
-
-Marketing
-
-Tips · 11 Nov 2026
-
-### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
-
-Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
 
@@ -13550,6 +13580,16 @@ ROAS is revenue divided by ad cost, counted by each platform's own rules. Here i
 
 Read the guide
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -13557,16 +13597,6 @@ News · 17 Nov 2026
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
-
-Marketing
-
-Tips · 11 Nov 2026
-
-### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
-
-Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
 
@@ -15911,7 +15941,7 @@ Pick the builder for your client, not for the partner: one its team can learn to
 
 ## Who should own the hosting, domain and plugin licences?
 
-The safest default is the client, for the domain and hosting at least. Only one provider in our sample says it plainly: hosting, domain and plugin licences "should sit under your agency's control, not the partner's". Our guide to giving an agency access to your accounts covers WordPress user roles, hosting logins and why the domain should be in the client's own registrar account.
+The safest default is the client, for the domain and hosting at least. Only one provider in our sample says it plainly: hosting, domain and plugin licences "should sit under your agency's control, not the partner's". Our guide to [giving an agency access to your accounts](https://ndcompany.in/blogs/agency-access-guide) covers WordPress user roles, hosting logins and why the domain should be in the client's own registrar account.
 
 **Who holds the accounts and licences, and the trade-offs**
 
@@ -16068,6 +16098,436 @@ Send a few lines about your business and what you are trying to fix. We will rep
 
 ---
 
+[Business](https://ndcompany.in/blogs/topic/business) · Guide
+
+# How to take card payments on a UAE online store, with or without a trade licence
+
+Source: https://ndcompany.in/blogs/uae-online-store-payments
+Updated: 2026-11-25
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 November 2026 13 min read
+
+To take card payments on a UAE online store you almost always need a UAE trade licence or freelancer permit first. Shopify Payments now works in the UAE, and it, Stripe, Telr and Amazon Payment Services all ask for one before they pay you. The only route we found that starts without a licence is a Ziina Professional account, which needs an Emirates ID and is capped at AED 50,000 received a month, and its Shopify connection asks for a verified account. Separately from what any gateway accepts, the UAE government portal says online sellers need a licence that includes e-commerce activity. We read the pages of ten payment providers (two refused our requests), Shopify's help centre and the UAE government sites on 16 November 2026.
+
+Key takeaways
+
+- Shopify Payments is on Shopify's list of 41 supported countries, the UAE included, and asks for a trade licence or freelancer permit issued in the UAE.
+- Stripe says it does not support individuals without a UAE trade licence or permit. Its published UAE card fee is 2.9% + AED 1.00, plus 1% for cards issued abroad.
+- Ziina's Professional account needs no trade licence to start, with a limit of AED 50,000 received a month.
+- VAT registration is mandatory once taxable supplies pass AED 375,000 over 12 months, according to the Federal Tax Authority.
+- The new dirham sign was unveiled on 27 March 2025 and is in Unicode 18.0, published on 16 September 2026, as U+20C3, but fonts and phones need time to support it.
+
+We built this guide from the questions UAE store owners ask on Shopify's community forum. It is general information, not legal or tax advice: check anything that affects your business with the licensing authority in your emirate or an adviser.
+
+## Why do payment gateways ask for a trade licence?
+
+A gateway holds your customers' money and then pays it to you, so it has to know who you are and that your business exists. Stripe's UAE help page says it is "required to verify the ultimate beneficial owners" of each business it signs up, and Telr's homepage says Telr is licensed and regulated by the Central Bank of the UAE. A trade licence is the document that proves the business, its legal name and its owner, and the bank account a gateway pays into has to match that name.
+
+That is why the forum threads go in circles: every gateway suggested to people without a company ended at the same request for a licence. One reply summed it up: most established UAE gateways ask for identity checks, a trade licence and a local bank account before live payments.
+
+## Which payment gateways work for a UAE Shopify store?
+
+Shopify keeps a list of payment providers by country. For the UAE on 16 November 2026 it included Shopify Payments, Stripe, PayPal, Checkout.com, N-Genius by Network International, Telr, Tap Payments, Ziina and Amazon Payment Services, plus the buy now, pay later service Tamara. PayTabs did not appear on Shopify's list for any country. Here is what each provider's own pages say.
+
+**Payment providers for UAE stores, from their own pages, read 16 November 2026**
+
+| Provider | On Shopify's UAE list | What it asks for | Wallets named | Published fee |
+| --- | --- | --- | --- | --- |
+| Shopify Payments | Yes | UAE trade licence or freelancer permit, Emirates ID (passport if you live abroad), UAE bank account in AED | Apple Pay, Google Pay, Shop Pay | Depends on your Shopify plan |
+| Stripe | Yes | Trade licence or freelancer permit issued in the UAE; no individuals without one | "Digital wallets", none named | 2.9% + AED 1.00, +1% foreign cards, +1% conversion |
+| Ziina | Yes | Emirates ID to start; trade licence to verify and raise limits | Apple Pay and Google Pay, but no Apple Pay on Shopify | 2.6% + AED 1, +1.5% international cards |
+| Telr | Yes | Trade licence, owner's passport and visa, MOA or similar, bank statement or bank letter | Apple Pay | Monthly plans on its UAE pricing page |
+| Amazon Payment Services | Yes | Trade licence or commercial registration, corporate bank account, a website open for review | Apple Pay | Rates shown only as images |
+| Tap Payments | Yes | Not published; payouts go to a UAE business bank account | Apple Pay, Google Pay, Samsung Pay | Not published |
+| N-Genius (Network International) | Yes | Not checked: its site refused our requests | Not named in its Shopify app | Not checked |
+| Checkout.com | Yes | Not published; its homepage speaks to enterprise merchants | Not named | Not published |
+| PayPal | Yes | Not checked: its UAE pages refused our requests | Not checked | Not checked |
+| PayTabs | No | Not published for the UAE; its small merchant app is for companies registered in Saudi Arabia | Apple Pay, Samsung Pay logos | Not published in text |
+
+Fees change, and a gateway may quote you a different rate, so treat these as a starting point. If you use any provider other than Shopify Payments, Shopify's help centre says third-party transaction fees apply to every order it processes, on top of the gateway's own fee.
+
+### Shopify Payments
+
+Two of the threads we read, from early 2025, say Shopify Payments was not available in the UAE. Shopify's [list of Shopify Payments countries](https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries) now includes it. Its [UAE requirements page](https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries/united-arab-emirates/requirements) says the licence or permit "must be issued in the UAE and display the full legal company name". The bank account must be a UAE account in dirhams with an IBAN that starts with AE: a business account for an LLC or free zone LLC, a personal one in your own name for a sole establishment. If you live outside the UAE you can give your passport number instead of an Emirates ID, which helps founders who run a free zone company from abroad.
+
+Payouts are in dirhams on every plan, with US dollars available through multi-currency payouts, according to Shopify's [UAE payouts page](https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries/united-arab-emirates/payouts). Settlement takes at least 5 business days, new stores may wait longer, and the minimum payout is AED 20. If you are still planning the store itself, our [Shopify page](https://ndcompany.in/shopify-marketing) explains how we set stores up for owners in the UAE and abroad.
+
+### Stripe
+
+Stripe is the gateway most first-time sellers try. Its help page on [business types for a UAE account](https://support.stripe.com/questions/selecting-a-business-type-for-a-uae-account) is direct: "We don't currently support individuals without a trade license/permit." The licence or permit has to be issued in the UAE. Its [UAE pricing page](https://stripe.com/en-ae/pricing) lists 2.9% + AED 1.00 for domestic cards, 1% more for cards issued outside the UAE and 1% more when currency conversion is needed.
+
+### Telr, Amazon Payment Services and Tap
+
+Telr's [documents checklist](https://telr.com/documents-checklist) asks even sole proprietorships for a trade licence, the owner's passport and visa, a share certificate, local service agent contract or MOA, and three months of bank statements or a letter from the bank for a new account. Amazon Payment Services' [before you start page](https://paymentservices.amazon.com/before-you-start) lists a trade licence or commercial registration, an active corporate bank account and a website that "has to be accessible for review". Tap's site says freelancers and solopreneurs use it and that it has a Shopify plugin, but it lists no documents, so ask Tap's sales team what it needs from you before you build around it.
+
+## Can I take payments without a trade licence?
+
+Of the providers we checked, only Ziina says so. Its [help page on account types](https://ziina.com/en/help-center/6847490-what-is-the-difference-between-personal-professional-and-business-accounts) says that with a Professional account "no Trade License is required to get started". The limits are AED 25,000 sent and AED 50,000 received per calendar month. Submitting a trade licence turns it into a verified business account, with up to AED 90,000 per transaction and AED 2,000,000 a month.
+
+There are two catches for a Shopify store. Ziina's [Shopify setup guide](https://docs.ziina.com/business/shopify) lists "Your Ziina account is verified" as a step before you connect, and Ziina's help centre says that "Apple Pay is not currently available on the Shopify integration", though Google Pay is. Ask Ziina whether a Professional account without a licence can connect to Shopify before you plan your launch on it.
+
+The other options people suggest in the threads are weaker. Cash on delivery and bank transfer are manual payment methods in Shopify, and the [manual payments guide](https://help.shopify.com/en/manual/payments/manual-payments) says you "need to manually mark the order as paid", so they work for a few local orders and not for buyers abroad. A personal PayPal account came up too, but a later reply in that thread pointed out that personal accounts cannot take business payments.
+
+The bigger point is that a gateway accepting you does not make the business licensed. The UAE government portal's [e-commerce page](https://u.ae/en/information-and-services/business/Managing-and-growing-your-business/ecommerce) says you need "a commercial licence that includes eCommerce activity" from your emirate. If you plan to sell beyond a few test orders, the licence is the first step, and it opens every gateway in the table.
+
+## Which licence do I need to sell online in the UAE?
+
+It depends on the emirate and on whether you set up on the mainland or in a free zone. The u.ae e-commerce page lists the main routes:
+
+- Dubai: the eTrader licence, issued through Invest in Dubai, the Department of Economy and Tourism. The [Dubai.ae e-commerce page](https://www.dubai.ae/investing/starting-a-business/ecommerce) says it lets freelancers and entrepreneurs trade from their home in Dubai, and is "issued exclusively under the Sole Proprietorship legal form", so the owner carries full liability.
+- Abu Dhabi: a licence through Tajer Abu Dhabi from the Department of Economic Development.
+- Sharjah and Ajman: their departments of economic development. Some emirates issue a separate individual e-commerce licence; others add e-commerce to a regular commercial licence.
+- Free zones: licences from the free zone authority, such as Dubai CommerCity, Masdar City, Sharjah Media City, RAKEZ or Ajman Free Zone. The portal says free zone companies can operate in the zone and internationally, and may need a local distributor or other approvals to sell directly on the mainland.
+
+The same page says every e-commerce licence needs approval, or a no-objection certificate, from the Telecommunications and Digital Government Regulatory Authority (TDRA). Older reports differ on who may hold an eTrader licence, and we could not open the Invest in Dubai page that would settle it, so ask the Department of Economy and Tourism whether you qualify before you apply.
+
+Freelancer permits are a different document. The u.ae [work permits page](https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/work-permits) describes the Ministry of Human Resources and Emiratisation's freelance permit as one "issued to individuals who wish to engage in freelance work independently". Shopify Payments and Stripe both accept a freelancer permit, but a permit for freelance services may not cover running a shop. Ask the issuing authority whether selling goods or digital products online is within your permitted activity.
+
+## Do I need to register for VAT?
+
+Not at first, for most new stores. The Federal Tax Authority's [VAT registration page](https://tax.gov.ae/en/services/vat.registration.aspx) says registration is mandatory when your taxable supplies and imports exceed AED 375,000 over the past 12 months, or are expected to within the next 30 days. You may register voluntarily above AED 187,500. One forum poster believed a PayPal business account needed a tax registration number, which a store below the threshold cannot get. We could not check that, so ask PayPal before you plan around it.
+
+## Can I sell courses and e-books from the UAE?
+
+Yes, but the same licence question applies. The u.ae e-commerce page says Federal Decree by Law No. 14 of 2023 on Modern Technology-Based Trade covers digital products, such as subscriptions and services, as well as physical goods. It asks sellers to sell only permitted products, give accurate information, protect customer data and issue a digital invoice for each transaction.
+
+We found no government page that sets out extra rules for online courses or e-books. Community replies mention media and publishing rules and free zone approval for educational courses, but we could not confirm those from an official source. Before you apply, ask the licensing authority three things: whether your licence activity covers selling digital content or e-learning, whether the courses need approval from an education or media regulator, and whether the TDRA approval covers delivering files and video.
+
+## How do I accept Apple Pay and mada from GCC buyers?
+
+Apple Pay is the easier of the two. Shopify Payments in the UAE offers Apple Pay, Google Pay and Shop Pay, according to its [UAE payment methods page](https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries/united-arab-emirates/payment-methods), and Telr, Tap and Amazon Payment Services all name Apple Pay. If Apple Pay matters to your buyers, avoid Ziina on Shopify for now, for the reason above.
+
+Mada is Saudi Arabia's domestic payment network. Amazon Payment Services lists it only under Saudi Arabia, and Telr's pricing shows it only in its Saudi plans. That does not mean Saudi buyers cannot pay you. Checkout.com's [documentation on mada](https://www.checkout.com/docs/payments/add-payment-methods/mada) says mada cards "are accepted both locally and globally" through partnerships with Visa and Mastercard, and that outside Saudi Arabia a mada card behaves as a debit card. With Apple Pay outside Saudi Arabia, it says the gateway must use the Visa or Mastercard network instead of mada.
+
+So a UAE store can usually take a Saudi buyer's card through its Visa or Mastercard side. If Saudi Arabia is a large market for you, ask each gateway whether it processes co-branded mada cards from a UAE account, whether that works inside Apple Pay, and whether a mada option at checkout needs a Saudi entity.
+
+## How do I show the new dirham symbol?
+
+The Central Bank of the UAE [unveiled the new symbol](https://centralbank.ae/media/ckkp3s3f/cbuae-unveils-new-dirham-symbol-en.pdf) on 27 March 2025. It is the letter D, from the English name of the dirham, with two horizontal lines; the Digital Dirham version puts it inside a circle in the colours of the flag. The Unicode Consortium [published Unicode 18.0](https://blog.unicode.org/2026/09/announcing-unicode-standard-version-180.html) on 16 September 2026 with U+20C3 UAE DIRHAM SIGN, and says vendors "are now able to implement support". That means it is now a standard character, but phones, browsers and your theme's fonts will show it only once they add it, and until then a visitor may see an empty box.
+
+In Shopify you change how prices are written under Settings, General, Change currency formatting, where Shopify's [currency formatting guide](https://help.shopify.com/en/manual/international/pricing/currency-formatting) tells you to "replace {{amount}}" with the format you want. The guide also says these settings apply only to your store's base currency. In practice:
+
+- Keep "AED" or "Dhs" as text for now if your theme's font does not have the new sign. It reads correctly everywhere and screen readers announce it.
+- If you want the sign today, add a small SVG of it to the theme's price snippet with "AED" as its text alternative, rather than an image uploaded per price, and test it at every price size. It is a small theme edit for a [Shopify developer](https://ndcompany.in/services/ecommerce-solutions).
+- Once your font includes U+20C3, switch to the character, then check product pages, cart, checkout and order emails on an iPhone and an Android phone.
+
+If your store also needs Arabic, our guide to [bilingual Arabic and English websites in Dubai](https://ndcompany.in/blogs/bilingual-websites-dubai) covers right-to-left layouts, which is where Shopify themes most often break.
+
+## What to prepare before you apply
+
+1. Get a licence that includes e-commerce activity, or a freelancer permit whose activity covers selling online, in the exact name you will trade under.
+2. Have your Emirates ID ready, or your passport if you live outside the UAE and the provider accepts it.
+3. Open a UAE bank account in dirhams with an IBAN starting AE, in the business name for a company, and keep a recent statement or a bank letter.
+4. For a company, have the MOA or share certificate and the details of everyone named as owner or manager on the licence.
+5. Finish the website before you apply: real products and prices in AED, delivery and refund terms, a privacy policy and contact details, because reviewers open it. If someone else builds it, our [Shopify development guide](https://ndcompany.in/blogs/shopify-development-india) explains how to give a developer access to your store.
+6. Decide where your buyers are. For GCC buyers, ask each shortlisted gateway about mada cards, Apple Pay and payouts in other currencies, in writing.
+7. In Shopify, check Settings, Payments for the providers offered to your store, and compare the gateway fee plus any Shopify third-party fee.
+8. Track your taxable sales against the AED 375,000 VAT threshold from your first order.
+9. Place a real test order with a card and a wallet, refund it, and check that the payout reaches your bank.
+
+## How N&D Co. can help
+
+We do not set up companies or give legal or tax advice, so the licence and VAT steps are yours or your adviser's. We build and set up online stores, including the payment provider, checkout and order emails once your gateway account is approved, and we test the whole path from cart to payout. Our [e-commerce service](https://ndcompany.in/services/ecommerce-solutions) covers Shopify and custom stores, and our [Shopify page](https://ndcompany.in/shopify-marketing) covers SEO and ads for stores once they are live. Our [guide to hiring a Shopify developer in India](https://ndcompany.in/blogs/shopify-development-india) lists what to ask before you hire anyone, us included. Read how quotes, calls and payments work for UAE clients on our [page for Dubai and the UAE](https://ndcompany.in/locations/uae). Every quote is set in writing before work starts.
+
+- [Online payments](https://ndcompany.in/tags#online-payments)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments)
+- [Share on WhatsApp](https://wa.me/?text=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments&text=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments&title=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence)
+- [Share on Threads](https://www.threads.net/intent/post?text=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fuae-online-store-payments-16x9.png&description=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence)
+- [Share by email](mailto:?subject=How%20to%20take%20card%20payments%20on%20a%20UAE%20online%20store%2C%20with%20or%20without%20a%20trade%20licence&body=Which%20payment%20gateways%20accept%20UAE%20online%20stores%2C%20what%20licence%20each%20asks%20for%2C%20Apple%20Pay%20and%20mada%20for%20GCC%20buyers%2C%20VAT%20and%20the%20new%20dirham%20symbol.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fuae-online-store-payments)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+[More on Business](https://ndcompany.in/blogs/topic/business)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
+
+Learn more
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
+[Business](https://ndcompany.in/blogs/topic/business) · Guide
+
+# Got an email from a "Shopify expert"? How to check it before you reply
+
+Source: https://ndcompany.in/blogs/shopify-expert-email-offers
+Updated: 2026-11-25
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 November 2026 12 min read
+
+Treat it as unverified until you have checked it, and never reply with your login. Shopify says it never asks for sensitive information such as passwords by email, and its real emails come from shopify.com addresses, never Gmail. A real Shopify Partner can be found in Shopify's own Partner Directory and will ask for access through a collaborator request that you approve, with only the permissions the job needs. Nobody needs your password, an upfront fee to a stranger or a "code" you must buy before your store can sell. We read Shopify's help centre, the regulators' pages in five countries and nine Shopify Community threads from store owners who got these messages, on 16 November 2026.
+
+Key takeaways
+
+- One new store owner counted more than 10 offers of SEO and website help in under 24 hours after the store went live. Volume like that is common, and it is not a sign your store is broken.
+- Shopify sends email only from addresses such as @shopify.com and @email.shopify.com, and says emails from Gmail or Yahoo "aren't from Shopify". Forward fakes to phishing@shopify.com.
+- The Partner Directory only lists partners in Shopify's Select tier or above (Silver from 1 January 2027), and since 9 November 2026 its profiles are built mostly from Shopify's own records of their work.
+- Give access with the 4-digit collaborator request code and the fewest permissions. Shopify says that if you are not expecting a request, you "shouldn't accept" it.
+- Google's own advice: "Be wary of SEO firms" that "email you out of the blue", and "No one can guarantee a #1 ranking on Google."
+
+## Why does a new Shopify store get so many offers?
+
+In one Shopify Community thread, an owner listed a new store and within a day had more than ten messages from people offering SEO and website help. One said they were a Shopify marketing strategist, asked for a small fee by PayPal, offered to work through the store's collaborator code and avoided a video call with an excuse about a seminar ([Shopify Community: "SEO Strategist or scam?"](https://community.shopify.com/t/seo-strategist-or-scam/408148)). Others in the thread said scripts find new stores and send messages that read as if a tool wrote them.
+
+They land when the store has no sales yet. Another owner with no traffic got an email offering to fix "problems" for a fee ([Shopify Community: "website developer"](https://community.shopify.com/t/website-developer/420079)). One reply said some offers are real; another said the aim is a first payment, then rising fees for "fixes" sold as urgent. Both can be true, so you need a way to check, not a rule to ignore everything.
+
+Google's own page on hiring an SEO says "Be wary of SEO firms and web consultants or agencies that email you out of the blue," and quotes a typical opener: "I visited your website and noticed that you are not listed..." ([Google Search Central: Do you need an SEO?](https://developers.google.com/search/docs/fundamentals/do-i-need-seo)).
+
+## Which messages are the common ones?
+
+The same few approaches came up again and again in the threads we read.
+
+**Common cold offers to Shopify store owners, from Shopify Community threads read on 16 November 2026**
+
+| The message | What it asks for | The check |
+| --- | --- | --- |
+| "Shopify team" or "Shopify support" email | A click, a login, ID or payment details | Look at the sender's domain. Shopify does not send from Gmail and does not ask for passwords by email. |
+| "Your store has errors" audit | A fee to fix problems they name but do not show | Ask which pages and what exactly is wrong, then check it yourself or ask in the Shopify Community. |
+| "Shopify SEO strategist" or "certified expert" | A small fee by PayPal, then your collaborator code | Search the Partner Directory for the business, and ask for a video call before anything else. |
+| Commission-only sales help | A share of your sales, and often access to the store | Written terms that say how a sale is counted, and no store access until you have checked who they are. |
+| "Purchase code" or upfront activation fee | A payment before your checkout will "work" | No such code exists. Ask Shopify Support through the help centre, not the person who emailed you. |
+| "Send me your login" or "add me as staff" | Your email and password, or a staff account | Never share a password. A partner sends a collaborator request with the code you give them. |
+
+In the clearest case, a store owner was told to buy a "code" for 100 to 200 dollars through a freelance marketplace before customers could check out. Everyone who replied said no such code exists, that the Shopify plan already covers checkout, and that anyone who had paid should dispute the charge with the marketplace and their bank ([Shopify Community: "Purchasing Codes"](https://community.shopify.com/t/purchasing-codes/657862)). The owner had paid nothing.
+
+Others were less lucky. One owner says a developer who falsely claimed to be affiliated with Shopify deleted the whole store, and the first advice in the replies was to ask Shopify Support whether it could be recovered ([Shopify Community: "Rebuilding Store"](https://community.shopify.com/t/rebuilding-store/607338)). Another paid for a store with 20 products and found neither had been built ([Shopify Community: "Store was suppose to be put together"](https://community.shopify.com/t/store-was-suppose-to-be-put-together/677298)).
+
+## Is the email really from Shopify?
+
+Shopify's help centre gives the official domains: "@shopify.com", "@email.shopify.com", "@em.shopify.com" and "@shopify-billpay.melio.com". It says emails from public services like Gmail or Yahoo are not from Shopify, and that "Shopify never asks you for sensitive information directly through an email message", with passwords, identification and banking details as examples ([Shopify Help Center: protect your account against phishing](https://help.shopify.com/en/manual/your-account/account-security/phishing)). Its other signs include urgent or threatening language and links to unfamiliar websites.
+
+Anyone can type "Shopify Support" as their name, so look at the address after the @, and do not use the message's links or phone numbers. The US Federal Trade Commission's advice is "Don't use the contact information in the unexpected message"; contact the company through an address you already know is real ([FTC: how to avoid imposter scams](https://consumer.ftc.gov/features/how-avoid-imposter-scams)). For Shopify, that means typing the admin address yourself and opening Support from the help centre.
+
+Fake Shopify emails are a cousin of the fake client briefs that reach agencies. Our case studies of the [Quatgio scam email](https://ndcompany.in/blogs/quatgio-scam-email) and the [Fiverr fake order scam](https://ndcompany.in/blogs/fiverr-fake-order-scam) show where the links in those messages actually lead.
+
+## How do you check that someone is a real Shopify Partner?
+
+Start with Shopify's [Partner Directory](https://www.shopify.com/partners/directory). Shopify says it "lists all established Shopify agency partners" and that merchants can contact them directly ([Shopify Help Center: how the Partner Directory works](https://help.shopify.com/en/partners/directory/how-it-works)). Eligibility depends on tier: "Partners in the Select tier or above are invited" to join, and the same page says that from 1 January 2027 partners are eligible at Silver tier ([Shopify Help Center: eligibility for the Partner Directory](https://help.shopify.com/en/partners/grow-your-business/partner-directory/join)).
+
+A profile shows the partner's location, estimated team size, how many shops they work with now, how long they have been a Shopify Partner and their top services over the last 4 years ([Shopify Help Center: hiring and working with Shopify Partners](https://help.shopify.com/en/manual/partner-directory/hiring-help)). On 9 November 2026 Shopify redesigned the directory: profiles are now built mostly from the partner's collaboration and store transfer history over the past four years, Shopify sets the tier, tenure and top services, and reviews and ratings were removed from profile pages ([Shopify developer changelog, 9 November 2026](https://shopify.dev/changelog/partner-directory-profiles-now-display-verified-collaboration-data)). The partner still writes its own name, description and contact details, and picks its featured clients.
+
+So the check works in one direction. If the business that emailed you has a profile, contact it through that profile, not the email, and confirm it is the same people. No profile is not proof of fraud, since many honest freelancers are too small or too new to be listed, but then they must show you more. Two warnings from the threads: one owner says a developer shown as "certified" turned out to be a scam ([Shopify Community: Shopify and Paddle integration](https://community.shopify.com/t/where-can-i-find-a-developer-for-a-shopify-paddle-3rd-part-gateway-integration/577845)), and another learned that a high place on the community leaderboard "simply means active on the forum board" ([Shopify Community: warning to other merchants](https://community.shopify.com/t/warning-to-other-merchants-my-experience-with-a-leaderboard-member/582622)).
+
+Shopify also says "the Partner will bill you directly", and those charges do not show on your Shopify bill. Shopify does not hold your money in between, so your protection is the written agreement and whatever your card or payment platform offers.
+
+## What can a real partner show you?
+
+Before you pay or grant access, anyone who wants to work on your store should be able to give you:
+
+- A business name and website you can look up yourself, and, if they claim to be a Shopify Partner, their Partner Directory profile.
+- A short video call. In the SEO thread, the "strategist" would not do one.
+- Live stores they have worked on that you can open, and what they did on each. Google suggests asking an SEO to "show me examples of your previous work".
+- What exactly is wrong with your store, page by page, before any fee.
+- A written quote with the scope, the price, the timeline and what you will own at the end.
+- A collaborator request sent with the code you give them, not a request for your password.
+
+For SEO, our study of [how to choose an SEO agency](https://ndcompany.in/blogs/choose-seo-agency-india) covers the questions to ask and the promises to walk away from. For store builds, our look at [what Shopify partners charge](https://ndcompany.in/blogs/shopify-development-india) uses the directory's own profiles.
+
+## Should you accept a commission-only sales offer?
+
+Commission sounds safe, because you only pay when you sell. In one thread, an owner selling art prints had received many emails offering to grow sales for a share, and only one mentioned problems the owner had already noticed ([Shopify Community: "3rd party help or mo"](https://community.shopify.com/t/3rd-party-help-or-mo/707179)). The replies: ask what they would change and why, and for past work; avoid anyone who promises guaranteed sales or rankings; get the commission and how a sale is counted in writing. Someone who can tidy your store pages may not be able to bring you customers, and the other way round.
+
+Watch for the access request inside the offer. "Add me as staff so I can set up tracking" gives a stranger your store before you know who they are. A screenshot or a product link usually shows them enough; real work goes through a collaborator account, as below.
+
+## How do you get help without handing over your store?
+
+Shopify built collaborator accounts for this. You copy a 4-digit collaborator request code from the Security section of your Users page and give it only to the partner you have chosen; "Only the Partners who you share the code with can request access to your store." A new code stops the old ones working, and Shopify's advice on an unexpected request is plain: "If you aren't expecting a request, or if you don't recognize the sender, then you shouldn't accept their request" ([Shopify Help Center: collaborator accounts](https://help.shopify.com/en/manual/your-account/users/security/collaborator-accounts)).
+
+Give the fewest permissions the job needs. Shopify marks some permissions as sensitive, such as managing payment settings, and some things stay with the store owner whatever you grant: managing Shopify Payments, deactivating the store and "Transferring or changing ownership" ([Shopify Help Center: store permissions](https://help.shopify.com/en/manual/your-account/users/roles/permissions/store-permissions); [roles managed by Shopify](https://help.shopify.com/en/manual/your-account/users/roles/roles-managed-by-shopify)). Two small habits help as well:
+
+- Before anyone edits your theme, duplicate it. Shopify calls a copy a backup "so that you can discard your changes" ([Shopify Help Center: duplicating themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/duplicating-themes)).
+- Know which password someone is asking for. The password that lets visitors see a store in private mode is not your admin login, and Shopify says "Don't use the same password" for both ([Shopify Help Center: password page](https://help.shopify.com/en/manual/online-store/themes/password-page)). One lets someone look at the store; the other gives them the business.
+
+Our [guide to giving an agency access safely](https://ndcompany.in/blogs/agency-access-guide) covers Shopify, Google and Meta accounts step by step, including what to remove when the work ends.
+
+## What if you already gave access or paid?
+
+Act today, in this order:
+
+1. Remove them in Settings, then Users. Removing a collaborator is permanent; to return they must send a new request. Remove any other account you do not recognise, here and anywhere else they could reach (our [access guide](https://ndcompany.in/blogs/agency-access-guide) covers Google and Meta).
+2. Secure your own login. Shopify's advice after a phishing click is to change your password, turn on two-step authentication and contact Shopify Support to check for access you did not allow.
+3. Check installed apps, payment and payout settings and the theme. A backup copy of the theme lets you go back.
+4. Call your bank or card provider if you paid. Australia's Scamwatch says to "tell them to stop any transactions", and to act fast ([Scamwatch: report a scam](https://www.scamwatch.gov.au/report-a-scam)). If you paid through a freelance marketplace or PayPal, open a dispute there too.
+5. Save the emails, chats and receipts before you block anyone.
+6. Report the person to Shopify. Forward fake Shopify emails to phishing@shopify.com. If someone who is a Shopify Partner broke the rules, Shopify asks you to use its [Report a Partner violation form](https://www.shopify.com/legal/tools/report-an-issue/report-a-partner-violation) ([Shopify Help Center: working with Shopify Partners](https://help.shopify.com/en/manual/your-account/working_with_Shopify_Partners)).
+7. Report it in your country, as below. If you lost a lot of money or the store, check with a lawyer about getting it back.
+
+## Where do you report it in your country?
+
+In the US, the FTC's Impersonation Rule, effective 1 April 2024, makes it an unfair or deceptive practice to "materially misrepresent" an "affiliation with, including endorsement or sponsorship by," a business ([Federal Register: Trade Regulation Rule on Impersonation of Government and Businesses](https://www.govinfo.gov/content/pkg/FR-2024-03-01/html/2024-04335.htm)). Whether it covers your case is a question for a lawyer; the report itself is free.
+
+**Official reporting routes, from each government's own pages, read on 16 November 2026**
+
+| Country | Suspicious email | If you lost money |
+| --- | --- | --- |
+| United States | Report it to the FTC at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/) | The same report, and call your bank or card provider |
+| United Kingdom | Forward it to report@phishing.gov.uk ([NCSC: report a scam email](https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email)) | England, Wales and Northern Ireland: Report Fraud, online or on 0300 123 2040. Scotland: Police Scotland on 101. |
+| Netherlands | The [Fraudehelpdesk](https://www.fraudehelpdesk.nl/), which has a reporting route for business owners (ondernemers) | The same Fraudehelpdesk report, or call it on 088 7867372, and call your bank |
+| Australia | [Scamwatch report form](https://www.scamwatch.gov.au/report-a-scam) | Your bank first, then a police report through cyber.gov.au; Scamwatch also points to IDCARE for support |
+| United Arab Emirates | The Ministry of Interior's eCrimes platform, Dubai Police's eCrime website or Abu Dhabi Police's Aman service ([UAE government portal: cyber safety](https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/cyber-safety-and-digital-security)) | The same routes, the federal Public Prosecution's My Safe Society app, or the nearest police station; call 999 for help |
+
+## The 2-minute checklist
+
+Before you answer any message offering to fix, grow or "help" your store:
+
+1. Read the sender's address, not the name. Gmail, Yahoo or a look-alike domain is not Shopify.
+2. Do not click its links. Open your Shopify admin by typing the address yourself.
+3. Search the Partner Directory for the business. If it is listed, contact it through that profile.
+4. Ask what exactly is wrong, on which page. A vague "errors" audit is a sales pitch.
+5. Ask for a video call and live examples of their work.
+6. Pay nothing before a written quote, and never pay for a "code" to make checkout work.
+7. Never share your password. Give the collaborator code only to someone you have chosen, with the fewest permissions.
+8. Duplicate your theme before anyone edits it.
+9. If something already went wrong, remove their access, change your password, call your bank and report it.
+
+## How we work with Shopify stores
+
+We are a brand and growth agency in Kolkata, India, and we work with store owners abroad in English. If you contact us, we reply with questions or a written quote set before work starts; ownership of the final deliverables named in your quote passes to you on full payment. We ask you to own the store and every account, and we work through a collaborator account you approve, never your password. Our [ecommerce solutions](https://ndcompany.in/services/ecommerce-solutions) page covers store builds and fixes, and our [Shopify marketing](https://ndcompany.in/shopify-marketing) page covers SEO and ads for a store that is already live. We do not promise sales or rankings, because no one can.
+
+- [Phishing](https://ndcompany.in/tags/phishing)
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Payment fraud](https://ndcompany.in/tags#payment-fraud)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers)
+- [Share on WhatsApp](https://wa.me/?text=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers&text=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers&title=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply)
+- [Share on Threads](https://www.threads.net/intent/post?text=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fshopify-expert-email-offers-16x9.png&description=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply)
+- [Share by email](mailto:?subject=Got%20an%20email%20from%20a%20%22Shopify%20expert%22%3F%20How%20to%20check%20it%20before%20you%20reply&body=Cold%20emails%20offering%20to%20fix%20your%20Shopify%20store%3F%20How%20to%20check%20a%20real%20Shopify%20Partner%2C%20give%20safe%20collaborator%20access%2C%20and%20what%20to%20do%20if%20you%20already%20paid.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fshopify-expert-email-offers)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+[More on Business](https://ndcompany.in/blogs/topic/business)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
+
+Learn more
+
+### [SEO Services](https://ndcompany.in/services/seo-services)
+
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 [Marketing](https://ndcompany.in/blogs/topic/marketing) · Guide
 
 # Your ads report shows a high return but you are losing money: how to check it
@@ -16156,7 +16616,7 @@ A conversion is recorded when the order is placed. If the customer returns it, t
 
 ## What are you entitled to from your ads agency?
 
-Google's advice to advertisers who use an agency is that "The third party agency must set up a separate Ads account for you", that "At a minimum, you have the right to know the number of clicks, impressions, and the total cost of your Google ads", and to get "an official copy of your agreement in writing" ([Google Ads: working with a third party](https://support.google.com/adspolicy/answer/9457109?hl=en)). Ask for admin access to your own account too; our guide to what access to give an agency covers Google Ads, Meta and the rest. Our guide to [contracts and ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers what to put in writing.
+Google's advice to advertisers who use an agency is that "The third party agency must set up a separate Ads account for you", that "At a minimum, you have the right to know the number of clicks, impressions, and the total cost of your Google ads", and to get "an official copy of your agreement in writing" ([Google Ads: working with a third party](https://support.google.com/adspolicy/answer/9457109?hl=en)). Ask for admin access to your own account too; our guide to [what access to give an agency](https://ndcompany.in/blogs/agency-access-guide) covers Google Ads, Meta and the rest. Our guide to [contracts and ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers what to put in writing.
 
 ## How we report on ads
 
@@ -16206,11 +16666,11 @@ Read the guide
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
@@ -16229,6 +16689,193 @@ Learn more
 ### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
 
 Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
+[Business](https://ndcompany.in/blogs/topic/business) · Guide
+
+# How much access should you give a developer, SEO or ads agency?
+
+Source: https://ndcompany.in/blogs/agency-access-guide
+Updated: 2026-11-25
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 November 2026 9 min read
+
+Give a developer, SEO or ads agency its own login with the lowest role that lets it do the job, keep the owner role yourself, and never share your password. Every platform a small business uses works this way: Shopify has collaborator accounts, Google Search Console has full and restricted users, Google Business Profile has managers, and Google Ads lets an agency link its manager account to yours. When the work ends, remove the access, and on some platforms take one extra step, or the person can get back in. This guide covers each platform from its own help pages, read on 15 November 2026.
+
+Key takeaways
+
+- Keep the owner role. On Shopify only the store owner can manage Shopify Payments or transfer the store, and Google tells agencies to "make the business owner the owner of the profile" on Google Business Profile.
+- Never share a password. Every platform here gives each person their own login, and Google's policy for Business Profile agencies says "Do not share passwords with your clients."
+- Start with the least access. Google's advice for hiring an SEO is to "only grant read access to Search Console" at first.
+- Keep two administrators. Google Ads warns that with one admin you "may lose access to your tags if that user becomes unavailable".
+- Removing a user is not always enough. In Search Console you also delete their verification token, or they can verify again.
+- Register your domain in your own name. ICANN says the registrant has "sole responsibility" for the domain.
+
+## What are the rules that apply on every platform?
+
+1. **You own, they use.** The account, store, profile or domain is registered to your business and your email address. The agency gets a role inside it.
+2. **One person, one login.** Add people by their own email address. A shared password cannot be taken back without changing it everywhere, and you cannot see who did what.
+3. **The lowest role that does the job.** An SEO auditing your site needs to read data, not change billing. Raise access when the work needs it.
+4. **A second admin you trust.** If the only admin leaves or loses their phone, you can be locked out of your own account.
+5. **A list of who has access.** Write down who you added where. When the work ends you remove each one, and you can check the list against the platform's own user list.
+
+Google's page on hiring an SEO puts the reason plainly: "you are responsible for the actions of any companies you hire" ([Google's "Do you need an SEO?" page](https://developers.google.com/search/docs/fundamentals/do-i-need-seo)). Our guide to [NDAs and ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers the contract side; this one covers the logins.
+
+## Which role should you give, platform by platform?
+
+**The role to give a developer, SEO or ads agency, and the role to keep, from each platform's help pages, 15 November 2026**
+
+| Platform | Give them | Keep for yourself | When the work ends |
+| --- | --- | --- | --- |
+| Shopify | A collaborator account with only the permissions the job needs | Store owner | Remove the collaborator account |
+| WordPress | Editor for content work; Administrator only for a developer who must install plugins | Administrator | Delete the user and choose who keeps their posts |
+| Domain registrar | Nothing, or a separate login if your registrar offers one | The registrant account | Change the password if it was ever shared |
+| Search Console | Restricted or full user | Verified owner | Remove the user, and delete any verification token they added |
+| Google Analytics 4 | Viewer, Analyst or Marketer; Editor only if they change settings | Administrator | Remove the user |
+| Google Business Profile | Manager | Primary owner | Remove the person |
+| Google Ads | Standard access, or a link to their manager account | Admin | Remove the user or unlink the manager account, after moving billing if they paid it |
+| Meta | Partner access to the assets they manage | Full control of your business portfolio | Remove the partner |
+
+## Shopify: collaborator accounts
+
+Shopify built collaborator accounts for exactly this. A Shopify Partner, freelancer or agency, asks for access using a 4-digit collaborator request code from your store's settings, and you choose the permissions. Collaborators do not count towards your store's user limit, and if a code has been given out too widely, generating a new one makes the old codes stop working ([Shopify help: collaborator accounts](https://help.shopify.com/en/manual/your-account/users/security/collaborator-accounts)).
+
+Some things stay with the owner whatever permissions anyone else has. Shopify lists them: "Managing Shopify Payments", "Creating and managing a Shopify Balance account", "Accessing Shopify Capital settings", "Deactivating a store" and "Transferring or changing ownership" ([Shopify help: roles managed by Shopify](https://help.shopify.com/en/manual/your-account/users/roles/roles-managed-by-shopify)). Shopify also says you "can't transfer store or organization ownership to a collaborator", which protects you.
+
+To remove a collaborator, go to Settings, then Users, open the account and remove it. The removal is permanent: to come back, they must send a new request. Shopify also removes access on its own after 90 days without a login. If a developer builds a new store for you on their Partner account, it should be a store built to be handed over, and you should become its owner before it goes live; Shopify's hand-off guide says that "After the transfer, the merchant owns the store" ([Shopify help: transferring a store to a client](https://help.shopify.com/en/partners/manage-clients-stores/client-transfer-stores/hand-off-stores)). Our study of [what Shopify partners charge](https://ndcompany.in/blogs/shopify-development-india) has more on hiring one.
+
+## WordPress, hosting and your domain
+
+WordPress has five roles on a single site. An Administrator "has access to all the administration features", including installing plugins and adding or deleting users. An Editor "can publish and manage posts including the posts of other users". An Author manages their own posts, a Contributor writes posts but cannot publish them, and a Subscriber can only manage their profile ([WordPress documentation: roles and capabilities](https://wordpress.org/documentation/article/roles-and-capabilities/)). A content writer needs Editor or Author. A developer who installs plugins needs Administrator, so give it for the project and change it afterwards.
+
+When you delete a user, WordPress asks what to do with their posts: delete them or "Attribute all posts and links to" another user. Choose another user, or you lose the content ([WordPress documentation: the Users screen](https://wordpress.org/documentation/article/users-screen/)). Our guide to [hiring a WordPress developer](https://ndcompany.in/blogs/hire-wordpress-developer-india) covers the rest of a WordPress project.
+
+The domain matters most of all, because your website and email depend on it. ICANN, which oversees domain names, tells registrants: "You will assume sole responsibility for the registration and use of your domain name" ([ICANN: registrant benefits and responsibilities](https://www.icann.org/resources/pages/benefits-2013-09-16-en/)). Register it in your business's name, in your own registrar account. If a developer registered it for you, ask for it to be moved to your account. To move a domain between registrars you need its transfer code, which ICANN says the registrar must give you "within five (5) calendar days of your request", and a change to the registrant's name, organisation or email usually locks transfers to another registrar for 60 days ([ICANN registrant FAQ](https://www.icann.org/resources/pages/name-holder-faqs-2017-10-10-en)).
+
+## Google Search Console
+
+Search Console has owners, full users and restricted users. A full user sees all the data and can take some actions but cannot add users; a restricted user has view rights on most data ([Search Console help: permissions](https://support.google.com/webmasters/answer/7687615)). Google's advice for a new SEO is to "only grant read access to Search Console (at this stage, don't grant them write access)."
+
+Removing an owner takes two steps. Remove them as a user, then delete every verification token they placed on your site, such as an HTML file or a DNS record. If a token stays, they can verify themselves as an owner again. An owner you do not recognise can be a sign that the site was hacked.
+
+## Google Analytics 4
+
+GA4 roles, from most access to least, are Administrator ("Full control of Analytics"), Editor ("Full control of settings at the property level"), Marketer, Analyst and Viewer. Each includes the permissions of the role below it, and you can hide cost or revenue figures from a user ([Analytics help: roles and data restrictions](https://support.google.com/analytics/answer/9305587)). An agency reporting on traffic needs Viewer or Analyst; one setting up events or audiences needs Marketer or Editor. Roles given at the account level carry down to every property, so give access at the property level when you can. GA4 will not let the last Administrator delete themselves, which is one more reason to keep a second admin ([Analytics help: add, edit and delete users](https://support.google.com/analytics/answer/9305788)).
+
+## Google Business Profile
+
+A profile has one primary owner, other owners and managers. Owners have full control; managers can do almost everything except add or remove users or remove the profile ([Business Profile help: owners and managers](https://support.google.com/business/answer/3403100)). Give an agency manager access.
+
+Google's rules for agencies back you up here. They must "make the business owner the owner of the profile", must not claim a profile without the owner's express consent ("Verbal consent isn't sufficient"), and when you give notice they have 7 business days to let you remove their account from your profile ([Google's policies for third parties managing Business Profiles](https://support.google.com/business/answer/7353941)). If an agency holds primary ownership of your profile, ask for it back; Google's ownership guidelines say representatives must "always transfer Business Profile ownership to the business owner immediately upon request." Our [Google Business Profile guide](https://ndcompany.in/blogs/google-business-profile-guide) covers setting the profile up.
+
+## Google Ads
+
+Google Ads has five access levels: Email-only, Billing, Read-only, Standard and Admin. Standard can edit campaigns and billing but cannot manage users or links; Admin can do everything, including unlinking manager accounts ([Google Ads help: access levels](https://support.google.com/google-ads/answer/9978556)). Most agencies ask to link their manager account to yours instead. That is normal, and Google says "The client account still owns its data and has the ability to remove ownership access by unlinking" ([Google Ads help: manager account ownership](https://support.google.com/google-ads/answer/7456532)).
+
+Two things to watch. The account should be yours: Google's advice to advertisers using an agency is that "The third party agency must set up a separate Ads account for you" ([Google Ads: working with a third party](https://support.google.com/adspolicy/answer/9457109)). And if the agency's manager account pays your invoices, move billing to your own payment method before you unlink it, or your ads can stop.
+
+## Meta: Facebook and Instagram ads
+
+In Meta's business portfolio (Business Suite), an agency should be added as a partner from its own business portfolio, not given your personal login. You choose which assets it can work on, such as your Page or ad account, and whether it gets full control or partial access to each. Removing the partner under Settings, Partners takes back the assets you shared. Meta's help pages load as an app and change often, so check the current steps in the [Meta Business Help Centre's page on partners](https://www.facebook.com/business/help/1717412048538897) before you start.
+
+## How do you take access back when the work ends?
+
+1. Get the deliverables first: files, logins they created for you, reports and anything your quote names.
+2. Remove them from each platform on your list: Shopify, WordPress, Search Console, Analytics, Business Profile, Google Ads and Meta.
+3. On Search Console, delete their verification tokens. On Google Ads, move billing before you unlink a manager account that paid it.
+4. If you ever shared a password, change it, and turn on two-step verification.
+5. Check that your domain, hosting and email accounts are in your name.
+
+Unwanted access requests are worth a second look too. Shopify asks store owners to confirm unexpected collaborator requests, and our case studies of a [Fiverr fake order scam](https://ndcompany.in/blogs/fiverr-fake-order-scam) and the [Quatgio scam email](https://ndcompany.in/blogs/quatgio-scam-email) show how fake clients and fake suppliers approach small agencies and businesses.
+
+## How we work with your accounts
+
+We ask clients to own every account, store, profile and domain, and we work through the roles above: a collaborator account on Shopify, a user role in WordPress and Google's tools, and partner access on Meta. When a project ends we hand over what your quote names and you remove our access. If you are choosing an agency abroad, our guide to [outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india) and our study of [37 Indian SEO agencies](https://ndcompany.in/blogs/choose-seo-agency-india), which found only 1 that says plainly the client stays the super admin of its Google properties, are good next reads.
+
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Website security](https://ndcompany.in/tags#website-security)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide)
+- [Share on WhatsApp](https://wa.me/?text=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide&text=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide&title=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F)
+- [Share on Threads](https://www.threads.net/intent/post?text=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fagency-access-guide-16x9.png&description=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F)
+- [Share by email](mailto:?subject=How%20much%20access%20should%20you%20give%20a%20developer%2C%20SEO%20or%20ads%20agency%3F&body=Which%20role%20to%20give%20an%20agency%20on%20Shopify%2C%20WordPress%2C%20Search%20Console%2C%20GA4%2C%20Business%20Profile%2C%20Google%20Ads%20and%20Meta%2C%20what%20to%20keep%2C%20and%20how%20to%20take%20it%20back.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fagency-access-guide)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+[More on Business](https://ndcompany.in/blogs/topic/business)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
+
+Learn more
+
+### [SEO Services](https://ndcompany.in/services/seo-services)
+
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
+
+Learn more
+
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
 
 Learn more
 
@@ -16441,31 +17088,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-News · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
-
-Read the post
-
-Business
-
-Guide · 11 Nov 2026
-
-### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
-
-Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-Guide · 31 Oct 2026
+Guide · 25 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -17885,7 +18532,7 @@ It is the same idea in a different place. On 5 November a "vendor sourcing" firm
 
 We still answer every real enquiry on Fiverr, through Fiverr, and most buyers are exactly who they say they are. We never open an attachment from an account that has no order with us, and an order is only real when it appears on the Orders page. The same rule applies to client briefs that arrive by email. If you are building a site, an app or an internal tool and want this kind of care on your side, see our [website design and development](https://ndcompany.in/services/website-design-development) and [software development](https://ndcompany.in/services/software-development) services and our [security policy](https://ndcompany.in/security-policy), or [book a 15-minute call](https://ndcompany.in/book-a-call).
 
-- [Phishing](https://ndcompany.in/tags#phishing)
+- [Phishing](https://ndcompany.in/tags/phishing)
 - [Payment fraud](https://ndcompany.in/tags#payment-fraud)
 
 ## Share this post
@@ -17909,31 +18556,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
-
-Read the guide
-
-Business
-
-Guide · 11 Nov 2026
-
-### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
-
-Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-Guide · 31 Oct 2026
+Guide · 25 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -18572,7 +19219,7 @@ An NDA (non-disclosure agreement) is a contract that says what information is co
 - Return or deletion of your files and logins at the end, confirmed in writing.
 - Which country's law governs it and where a dispute would be heard.
 
-Logins are easier to take back if you never shared them. Our guide to what access to give a developer, SEO or ads agency shows the right role on each platform and how to remove it.
+Logins are easier to take back if you never shared them. Our guide to [what access to give a developer, SEO or ads agency](https://ndcompany.in/blogs/agency-access-guide) shows the right role on each platform and how to remove it.
 
 ### If the agency will handle personal data
 
@@ -18644,31 +19291,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-News · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
-Read the post
+Read the guide
 
 Business
 
-Guide · 31 Oct 2026
+Guide · 25 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -18877,11 +19524,11 @@ Read the guide
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
@@ -19912,7 +20559,7 @@ Six days later the same trick turned up inside Fiverr's inbox, as fake orders wi
 If an email from quatgio.com, or one like it, has reached you, compare it with the steps above before you click anything. And if you are not sure about a link, paste it into [urlscan.io](https://urlscan.io/) as an unlisted scan: it loads the page on its own servers and shows you where it leads, so your computer never opens it.
 
 - [Website security](https://ndcompany.in/tags#website-security)
-- [Phishing](https://ndcompany.in/tags#phishing)
+- [Phishing](https://ndcompany.in/tags/phishing)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
 ## Share this post
@@ -20613,31 +21260,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-News · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
-Read the post
+Read the guide
 
 Business
 
-Guide · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
-Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -21736,31 +22383,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-News · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
-Read the post
+Read the guide
 
 Business
 
-Guide · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
-Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -22007,31 +22654,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-News · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
-Read the post
+Read the guide
 
 Business
 
-Guide · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [NDAs, IP and ownership when you outsource to an agency](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership)
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
-Paying an agency does not make the code yours. What US, UK and Indian law say about ownership, the five-year default in India, what an NDA covers and a checklist to sign before work starts.
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -23434,7 +24081,7 @@ Then settle who owns each account:
 | Google Analytics 4 | The business, as Administrator | Editor: controls property settings but cannot manage users ([Google Analytics Help on access roles](https://support.google.com/analytics/answer/9305587?hl=en)) |
 | Payment gateway | The business, so money settles to its bank | Test access during the build |
 
-In Search Console only property owners can add or remove users and change permissions, and a property needs at least one verified owner ([Search Console Help](https://support.google.com/webmasters/answer/7687615?hl=en)), so verify the business as an owner yourself. Our guide to access for developers and agencies lists the right role in each tool and how to take access back.
+In Search Console only property owners can add or remove users and change permissions, and a property needs at least one verified owner ([Search Console Help](https://support.google.com/webmasters/answer/7687615?hl=en)), so verify the business as an owner yourself. Our [guide to access for developers and agencies](https://ndcompany.in/blogs/agency-access-guide) lists the right role in each tool and how to take access back.
 
 ## Which website platform should a small business choose?
 
@@ -24369,7 +25016,7 @@ The rules below come from Google's help centre and apply in the US, UK, Netherla
 
 ### Who will own the profile
 
-Create or claim the profile from a Google Account that belongs to the business, not to an employee or an agency. A profile can have several owners but [only one primary owner](https://support.google.com/business/answer/3403100?hl=en). Managers have nearly the same access, with the exception that they cannot add or remove users or remove the profile. New owners and managers must wait 7 days before they can manage some features, including taking over as primary owner. Google can also [revoke ownership](https://support.google.com/business/answer/13763036?hl=en) if you have not signed in to your account recently. Our guide to agency access covers the right role to give on each platform.
+Create or claim the profile from a Google Account that belongs to the business, not to an employee or an agency. A profile can have several owners but [only one primary owner](https://support.google.com/business/answer/3403100?hl=en). Managers have nearly the same access, with the exception that they cannot add or remove users or remove the profile. New owners and managers must wait 7 days before they can manage some features, including taking over as primary owner. Google can also [revoke ownership](https://support.google.com/business/answer/13763036?hl=en) if you have not signed in to your account recently. Our [guide to agency access](https://ndcompany.in/blogs/agency-access-guide) covers the right role to give on each platform.
 
 ### Eligibility: storefront, service area or both
 
@@ -26100,8 +26747,8 @@ You came from one of our profiles. Here is where to go next.
 ## Latest from the blog
 
 - [White label WordPress development: what 16 providers charge and how a build runs: 25 Nov 2026](https://ndcompany.in/blogs/white-label-wordpress-development)
-- [Your ads report shows a high return but you are losing money: how to check it: 25 Nov 2026](https://ndcompany.in/blogs/check-ads-agency-report)
-- [How much does app development cost in India? A guide for US and UK buyers: 24 Nov 2026](https://ndcompany.in/blogs/app-development-cost-india)
+- [How to take card payments on a UAE online store, with or without a trade licence: 25 Nov 2026](https://ndcompany.in/blogs/uae-online-store-payments)
+- [Got an email from a "Shopify expert"? How to check it before you reply: 25 Nov 2026](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 [All posts](https://ndcompany.in/blogs)
 

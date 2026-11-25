@@ -16,6 +16,36 @@ Notes on running and growing a business: working with agencies and freelancers, 
 
 Business
 
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
+Business
+
 Guide · 24 Nov 2026
 
 ### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
@@ -78,21 +108,21 @@ Read the guide
 
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
   25 Nov 2026
+- [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+  25 Nov 2026
+- [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+  25 Nov 2026
 - [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
-- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
-  24 Nov 2026
-- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-  24 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  24 Nov 2026
+- [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+  25 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
-- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website costs](https://ndcompany.in/tags/website-costs)
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
@@ -155,36 +185,54 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How to take card payments on a UAE online store, with or without a trade licence",
+            "url": "https://ndcompany.in/blogs/uae-online-store-payments"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Got an email from a \"Shopify expert\"? How to check it before you reply",
+            "url": "https://ndcompany.in/blogs/shopify-expert-email-offers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How much access should you give a developer, SEO or ads agency?",
+            "url": "https://ndcompany.in/blogs/agency-access-guide"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
             "name": "How much does app development cost in India? A guide for US and UK buyers",
             "url": "https://ndcompany.in/blogs/app-development-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 5,
             "name": "The Fiverr fake order scam: a case study of the files, pages and card form",
             "url": "https://ndcompany.in/blogs/fiverr-fake-order-scam"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 6,
             "name": "NDAs, IP and ownership when you outsource to an agency",
             "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 7,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 8,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 9,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           }

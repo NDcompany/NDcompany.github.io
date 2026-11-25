@@ -124,7 +124,7 @@ Then settle who owns each account:
 | Google Analytics 4 | The business, as Administrator | Editor: controls property settings but cannot manage users ([Google Analytics Help on access roles](https://support.google.com/analytics/answer/9305587?hl=en)) |
 | Payment gateway | The business, so money settles to its bank | Test access during the build |
 
-In Search Console only property owners can add or remove users and change permissions, and a property needs at least one verified owner ([Search Console Help](https://support.google.com/webmasters/answer/7687615?hl=en)), so verify the business as an owner yourself. Our guide to access for developers and agencies lists the right role in each tool and how to take access back.
+In Search Console only property owners can add or remove users and change permissions, and a property needs at least one verified owner ([Search Console Help](https://support.google.com/webmasters/answer/7687615?hl=en)), so verify the business as an owner yourself. Our [guide to access for developers and agencies](https://ndcompany.in/blogs/agency-access-guide) lists the right role in each tool and how to take access back.
 
 ## Which website platform should a small business choose?
 

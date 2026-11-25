@@ -58,21 +58,21 @@ Read the guide
 
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
   25 Nov 2026
+- [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+  25 Nov 2026
+- [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+  25 Nov 2026
 - [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
-- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
-  24 Nov 2026
-- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-  24 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  24 Nov 2026
+- [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+  25 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
-- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website costs](https://ndcompany.in/tags/website-costs)
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)

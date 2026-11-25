@@ -319,25 +319,25 @@ What 16 white label WordPress providers publish about prices, staging, NDAs and 
 
 Read the guide
 
-Websites
+Business
 
-Guide · 20 Nov 2026
+Guide · 25 Nov 2026
 
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
-SEO
+Business
 
-News · 17 Nov 2026
+Guide · 25 Nov 2026
 
-### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
-Read the post
+Read the guide
 
 ## More projects
 

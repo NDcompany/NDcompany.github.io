@@ -14,13 +14,17 @@ Every subject our posts and projects cover, most used first, with the posts and 
 
 ## Working with an agency
 
-18 posts
+20 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
   25 Nov 2026
+- [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+  25 Nov 2026
 - [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+  25 Nov 2026
+- [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
   25 Nov 2026
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
@@ -93,6 +97,38 @@ The logo versions, file formats and sizes a business needs, from a square icon t
 
 [Everything tagged Logos](https://ndcompany.in/tags/logos)
 
+## Website costs
+
+10 posts, 1 project
+
+What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
+
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
+- [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+  25 Nov 2026
+- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+  20 Nov 2026
+- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+  7 Nov 2026
+- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+  7 Nov 2026
+- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
+  5 Nov 2026
+- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
+  14 Nov 2026
+- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
+  7 Nov 2026
+- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
+  24 Nov 2026
+- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
+  25 Oct 2026
+
+- [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
+  Websites
+
+[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
+
 ## Food and drink branding
 
 1 post, 9 projects
@@ -122,36 +158,6 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
   Branding
 
 [Everything tagged Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
-
-## Website costs
-
-9 posts, 1 project
-
-What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
-
-- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
-  25 Nov 2026
-- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-  20 Nov 2026
-- [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-  7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-  7 Nov 2026
-- [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
-  5 Nov 2026
-- [What Indian agencies charge in 2026: prices from 108 agency websites](https://ndcompany.in/blogs/agency-prices-india)
-  14 Nov 2026
-- [How to outsource web development to India: costs, contracts and time zones](https://ndcompany.in/blogs/outsource-web-development-india)
-  7 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  24 Nov 2026
-- [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
-  25 Oct 2026
-
-- [Brand identity and free WhatsApp store for Sokher Alankar](https://ndcompany.in/projects/sokher-alankar)
-  Websites
-
-[Everything tagged Website costs](https://ndcompany.in/tags/website-costs)
 
 ## Website planning
 
@@ -354,6 +360,21 @@ Claiming, verifying and keeping your free Google listing accurate on Search and 
 
 [Everything tagged Google Business Profile](https://ndcompany.in/tags/google-business-profile)
 
+## Phishing
+
+3 posts
+
+Fake sign-in pages, fake orders and fake client briefs built to take passwords or card details, how to spot them and where to report them.
+
+- [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+  25 Nov 2026
+- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+  11 Nov 2026
+- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+  5 Nov 2026
+
+[Everything tagged Phishing](https://ndcompany.in/tags/phishing)
+
 ## AI search
 
 2 posts
@@ -432,14 +453,25 @@ Asking customers for reviews, replying to them and reporting the ones that break
 - [Google Business Profile: a setup and upkeep guide for local businesses](https://ndcompany.in/blogs/google-business-profile-guide)
   17 Nov 2026
 
-## Phishing
+## Payment fraud
 
 2 posts
 
-Fake sign-in pages, fake orders and fake client briefs built to take passwords or card details, how to spot them and where to report them.
+Fake payout, verification and checkout pages that collect card numbers and one-time codes, and what to do with your bank when a card has been typed into one.
 
+- [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+  25 Nov 2026
 - [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
   11 Nov 2026
+
+## Website security
+
+2 posts
+
+Hacked sites, phishing pages planted on real domains, scam emails aimed at businesses, and what to check and change when something looks wrong.
+
+- [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+  25 Nov 2026
 - [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
   5 Nov 2026
 
@@ -500,14 +532,14 @@ Spreadsheet chores in Excel that a small tool can take over: supplier price list
 - [Click-to-paste tool for Excel price lists](https://ndcompany.in/projects/excel-click-to-paste-tool)
   Software
 
-## Payment fraud
+## Online payments
 
 1 post
 
-Fake payout, verification and checkout pages that collect card numbers and one-time codes, and what to do with your bank when a card has been typed into one.
+Payment gateways, checkout methods and payouts for an online store: what each provider asks of a business before it can take cards.
 
-- [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-  11 Nov 2026
+- [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+  25 Nov 2026
 
 ## Property portals
 
@@ -526,15 +558,6 @@ Protecting a business name or logo as a trade mark: classes and fees, searching 
 
 - [Logo vs brand identity: what you are paying for](https://ndcompany.in/blogs/logo-vs-brand-identity)
   17 Nov 2026
-
-## Website security
-
-1 post
-
-Hacked sites, phishing pages planted on real domains, scam emails aimed at businesses, and what to check and change when something looks wrong.
-
-- [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
-  5 Nov 2026
 
 ## YouTube thumbnails
 
@@ -588,14 +611,14 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "Food and drink branding",
-            "url": "https://ndcompany.in/tags/food-and-drink-branding"
+            "name": "Website costs",
+            "url": "https://ndcompany.in/tags/website-costs"
           },
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Website costs",
-            "url": "https://ndcompany.in/tags/website-costs"
+            "name": "Food and drink branding",
+            "url": "https://ndcompany.in/tags/food-and-drink-branding"
           },
           {
             "@type": "ListItem",
@@ -660,114 +683,120 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 15,
+            "name": "Phishing",
+            "url": "https://ndcompany.in/tags/phishing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
             "name": "AI search",
             "url": "https://ndcompany.in/tags#ai-search"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 17,
             "name": "App stores",
             "url": "https://ndcompany.in/tags#app-stores"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 18,
             "name": "Blogger",
             "url": "https://ndcompany.in/tags#blogger"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
             "name": "Community platforms",
             "url": "https://ndcompany.in/tags#community-platforms"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 20,
             "name": "Document generation",
             "url": "https://ndcompany.in/tags#document-generation"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 21,
             "name": "Online advertising",
             "url": "https://ndcompany.in/tags#online-advertising"
           },
           {
             "@type": "ListItem",
-            "position": 21,
+            "position": 22,
             "name": "Online reviews",
             "url": "https://ndcompany.in/tags#online-reviews"
           },
           {
             "@type": "ListItem",
-            "position": 22,
-            "name": "Phishing",
-            "url": "https://ndcompany.in/tags#phishing"
-          },
-          {
-            "@type": "ListItem",
             "position": 23,
-            "name": "WhatsApp orders",
-            "url": "https://ndcompany.in/tags#whatsapp-orders"
-          },
-          {
-            "@type": "ListItem",
-            "position": 24,
-            "name": "Case management",
-            "url": "https://ndcompany.in/tags#case-management"
-          },
-          {
-            "@type": "ListItem",
-            "position": 25,
-            "name": "Data management",
-            "url": "https://ndcompany.in/tags#data-management"
-          },
-          {
-            "@type": "ListItem",
-            "position": 26,
-            "name": "Desktop automation",
-            "url": "https://ndcompany.in/tags#desktop-automation"
-          },
-          {
-            "@type": "ListItem",
-            "position": 27,
-            "name": "Fonts",
-            "url": "https://ndcompany.in/tags#fonts"
-          },
-          {
-            "@type": "ListItem",
-            "position": 28,
-            "name": "Microsoft Excel",
-            "url": "https://ndcompany.in/tags#microsoft-excel"
-          },
-          {
-            "@type": "ListItem",
-            "position": 29,
             "name": "Payment fraud",
             "url": "https://ndcompany.in/tags#payment-fraud"
           },
           {
             "@type": "ListItem",
-            "position": 30,
-            "name": "Property portals",
-            "url": "https://ndcompany.in/tags#property-portals"
-          },
-          {
-            "@type": "ListItem",
-            "position": 31,
-            "name": "Trade marks",
-            "url": "https://ndcompany.in/tags#trade-marks"
-          },
-          {
-            "@type": "ListItem",
-            "position": 32,
+            "position": 24,
             "name": "Website security",
             "url": "https://ndcompany.in/tags#website-security"
           },
           {
             "@type": "ListItem",
+            "position": 25,
+            "name": "WhatsApp orders",
+            "url": "https://ndcompany.in/tags#whatsapp-orders"
+          },
+          {
+            "@type": "ListItem",
+            "position": 26,
+            "name": "Case management",
+            "url": "https://ndcompany.in/tags#case-management"
+          },
+          {
+            "@type": "ListItem",
+            "position": 27,
+            "name": "Data management",
+            "url": "https://ndcompany.in/tags#data-management"
+          },
+          {
+            "@type": "ListItem",
+            "position": 28,
+            "name": "Desktop automation",
+            "url": "https://ndcompany.in/tags#desktop-automation"
+          },
+          {
+            "@type": "ListItem",
+            "position": 29,
+            "name": "Fonts",
+            "url": "https://ndcompany.in/tags#fonts"
+          },
+          {
+            "@type": "ListItem",
+            "position": 30,
+            "name": "Microsoft Excel",
+            "url": "https://ndcompany.in/tags#microsoft-excel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 31,
+            "name": "Online payments",
+            "url": "https://ndcompany.in/tags#online-payments"
+          },
+          {
+            "@type": "ListItem",
+            "position": 32,
+            "name": "Property portals",
+            "url": "https://ndcompany.in/tags#property-portals"
+          },
+          {
+            "@type": "ListItem",
             "position": 33,
+            "name": "Trade marks",
+            "url": "https://ndcompany.in/tags#trade-marks"
+          },
+          {
+            "@type": "ListItem",
+            "position": 34,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

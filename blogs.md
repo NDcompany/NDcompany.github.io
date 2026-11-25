@@ -24,6 +24,26 @@ What 16 white label WordPress providers publish about prices, staging, NDAs and 
 
 Read the guide
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
 Marketing
 
 Guide · 25 Nov 2026
@@ -31,6 +51,16 @@ Guide · 25 Nov 2026
 ### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
 
 ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -368,21 +398,21 @@ Read the guide
 
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
   25 Nov 2026
+- [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+  25 Nov 2026
+- [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+  25 Nov 2026
 - [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
-- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
-  24 Nov 2026
-- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-  24 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  24 Nov 2026
+- [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+  25 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
-- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website costs](https://ndcompany.in/tags/website-costs)
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
@@ -487,11 +517,50 @@ Send a few lines about your business and what you want to fix or build. We will 
         },
         {
           "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/uae-online-store-payments#article",
+          "headline": "How to take card payments on a UAE online store, with or without a trade licence",
+          "description": "Which payment gateways accept UAE online stores, what licence each asks for, Apple Pay and mada for GCC buyers, VAT and the new dirham symbol.",
+          "image": "https://ndcompany.in/assets/blog/uae-online-store-payments-16x9.png",
+          "url": "https://ndcompany.in/blogs/uae-online-store-payments",
+          "datePublished": "2026-11-25T00:00:00+05:30",
+          "dateModified": "2026-11-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/shopify-expert-email-offers#article",
+          "headline": "Got an email from a \"Shopify expert\"? How to check it before you reply",
+          "description": "Cold emails offering to fix your Shopify store? How to check a real Shopify Partner, give safe collaborator access, and what to do if you already paid.",
+          "image": "https://ndcompany.in/assets/blog/shopify-expert-email-offers-16x9.png",
+          "url": "https://ndcompany.in/blogs/shopify-expert-email-offers",
+          "datePublished": "2026-11-25T00:00:00+05:30",
+          "dateModified": "2026-11-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/check-ads-agency-report#article",
           "headline": "Your ads report shows a high return but you are losing money: how to check it",
           "description": "Why Google Ads and Meta can report a high ROAS while you lose money: revenue not profit, attribution windows, double counting, brand searches. How to check.",
           "image": "https://ndcompany.in/assets/blog/check-ads-agency-report-16x9.png",
           "url": "https://ndcompany.in/blogs/check-ads-agency-report",
+          "datePublished": "2026-11-25T00:00:00+05:30",
+          "dateModified": "2026-11-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/agency-access-guide#article",
+          "headline": "How much access should you give a developer, SEO or ads agency?",
+          "description": "Which role to give an agency on Shopify, WordPress, Search Console, GA4, Business Profile, Google Ads and Meta, what to keep, and how to take it back.",
+          "image": "https://ndcompany.in/assets/blog/agency-access-guide-16x9.png",
+          "url": "https://ndcompany.in/blogs/agency-access-guide",
           "datePublished": "2026-11-25T00:00:00+05:30",
           "dateModified": "2026-11-25T00:00:00+05:30",
           "author": {

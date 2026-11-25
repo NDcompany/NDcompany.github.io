@@ -32,6 +32,16 @@ What 16 white label WordPress providers publish about prices, staging, NDAs and 
 
 Read the guide
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
 Websites
 
 Guide · 20 Nov 2026
@@ -130,21 +140,21 @@ See the project
 
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
   25 Nov 2026
+- [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+  25 Nov 2026
+- [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+  25 Nov 2026
 - [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
-- [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
-  24 Nov 2026
-- [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-  24 Nov 2026
-- [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
-  24 Nov 2026
+- [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+  25 Nov 2026
 
 ## Trending tags
 
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 - [Logos](https://ndcompany.in/tags/logos)
-- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website costs](https://ndcompany.in/tags/website-costs)
+- [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
 - [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
@@ -213,54 +223,60 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 2,
+            "name": "How to take card payments on a UAE online store, with or without a trade licence",
+            "url": "https://ndcompany.in/blogs/uae-online-store-payments"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
             "name": "How to run a free online store that takes orders on WhatsApp",
             "url": "https://ndcompany.in/blogs/free-online-store-whatsapp-orders"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Shopify development in India: what partners charge, from Shopify's own directory",
             "url": "https://ndcompany.in/blogs/shopify-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How do you hire a WordPress developer in India? What 30 agency websites show",
             "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Brand identity and free WhatsApp store for Sokher Alankar",
             "url": "https://ndcompany.in/projects/sokher-alankar"
           }

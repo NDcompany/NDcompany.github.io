@@ -105,7 +105,7 @@ Six days later the same trick turned up inside Fiverr's inbox, as fake orders wi
 If an email from quatgio.com, or one like it, has reached you, compare it with the steps above before you click anything. And if you are not sure about a link, paste it into [urlscan.io](https://urlscan.io/) as an unlisted scan: it loads the page on its own servers and shows you where it leads, so your computer never opens it.
 
 - [Website security](https://ndcompany.in/tags#website-security)
-- [Phishing](https://ndcompany.in/tags#phishing)
+- [Phishing](https://ndcompany.in/tags/phishing)
 - [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
 
 ## Share this post

@@ -89,6 +89,16 @@ ROAS is revenue divided by ad cost, counted by each platform's own rules. Here i
 
 Read the guide
 
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -96,16 +106,6 @@ News · 17 Nov 2026
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
-
-Marketing
-
-Tips · 11 Nov 2026
-
-### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
-
-Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
 

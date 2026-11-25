@@ -94,7 +94,7 @@ A conversion is recorded when the order is placed. If the customer returns it, t
 
 ## What are you entitled to from your ads agency?
 
-Google's advice to advertisers who use an agency is that "The third party agency must set up a separate Ads account for you", that "At a minimum, you have the right to know the number of clicks, impressions, and the total cost of your Google ads", and to get "an official copy of your agreement in writing" ([Google Ads: working with a third party](https://support.google.com/adspolicy/answer/9457109?hl=en)). Ask for admin access to your own account too; our guide to what access to give an agency covers Google Ads, Meta and the rest. Our guide to [contracts and ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers what to put in writing.
+Google's advice to advertisers who use an agency is that "The third party agency must set up a separate Ads account for you", that "At a minimum, you have the right to know the number of clicks, impressions, and the total cost of your Google ads", and to get "an official copy of your agreement in writing" ([Google Ads: working with a third party](https://support.google.com/adspolicy/answer/9457109?hl=en)). Ask for admin access to your own account too; our guide to [what access to give an agency](https://ndcompany.in/blogs/agency-access-guide) covers Google Ads, Meta and the rest. Our guide to [contracts and ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers what to put in writing.
 
 ## How we report on ads
 
@@ -144,11 +144,11 @@ Read the guide
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 

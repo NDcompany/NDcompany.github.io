@@ -127,7 +127,7 @@ Pick the builder for your client, not for the partner: one its team can learn to
 
 ## Who should own the hosting, domain and plugin licences?
 
-The safest default is the client, for the domain and hosting at least. Only one provider in our sample says it plainly: hosting, domain and plugin licences "should sit under your agency's control, not the partner's". Our guide to giving an agency access to your accounts covers WordPress user roles, hosting logins and why the domain should be in the client's own registrar account.
+The safest default is the client, for the domain and hosting at least. Only one provider in our sample says it plainly: hosting, domain and plugin licences "should sit under your agency's control, not the partner's". Our guide to [giving an agency access to your accounts](https://ndcompany.in/blogs/agency-access-guide) covers WordPress user roles, hosting logins and why the domain should be in the client's own registrar account.
 
 **Who holds the accounts and licences, and the trade-offs**
 

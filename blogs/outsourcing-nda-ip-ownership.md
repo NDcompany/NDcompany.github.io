@@ -142,7 +142,7 @@ An NDA (non-disclosure agreement) is a contract that says what information is co
 - Return or deletion of your files and logins at the end, confirmed in writing.
 - Which country's law governs it and where a dispute would be heard.
 
-Logins are easier to take back if you never shared them. Our guide to what access to give a developer, SEO or ads agency shows the right role on each platform and how to remove it.
+Logins are easier to take back if you never shared them. Our guide to [what access to give a developer, SEO or ads agency](https://ndcompany.in/blogs/agency-access-guide) shows the right role on each platform and how to remove it.
 
 ### If the agency will handle personal data
 
@@ -214,31 +214,31 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
-Guide · 24 Nov 2026
+Guide · 25 Nov 2026
 
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
 Business
 
-News · 11 Nov 2026
+Guide · 25 Nov 2026
 
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
-Read the post
+Read the guide
 
 Business
 
-Guide · 31 Oct 2026
+Guide · 25 Nov 2026
 
-### [What do Google Play and the App Store require from a business app in 2026?](https://ndcompany.in/blogs/play-store-app-store-requirements)
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
-Developer accounts and fees, the D-U-N-S wait, the 12-tester closed test, API 36 and Xcode 26, privacy forms, account deletion and the Apple guidelines that reject business apps, with a timeline to launch.
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 

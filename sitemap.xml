@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: every page (155 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: every page (159 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
@@ -274,7 +274,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/business</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
@@ -289,12 +289,12 @@
     <lastmod>2026-11-24</lastmod>
   </url>
   <url>
-    <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
-    <lastmod>2026-11-24</lastmod>
-  </url>
-  <url>
     <loc>https://ndcompany.in/tags/website-costs</loc>
     <lastmod>2026-11-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/food-and-drink-branding</loc>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/website-planning</loc>
@@ -335,6 +335,10 @@
   <url>
     <loc>https://ndcompany.in/tags/google-business-profile</loc>
     <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/tags/phishing</loc>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/team</loc>
@@ -1007,7 +1011,19 @@
     <lastmod>2026-11-25</lastmod>
   </url>
   <url>
+    <loc>https://ndcompany.in/blogs/uae-online-store-payments</loc>
+    <lastmod>2026-11-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/shopify-expert-email-offers</loc>
+    <lastmod>2026-11-25</lastmod>
+  </url>
+  <url>
     <loc>https://ndcompany.in/blogs/check-ads-agency-report</loc>
+    <lastmod>2026-11-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/agency-access-guide</loc>
     <lastmod>2026-11-25</lastmod>
   </url>
   <url>
