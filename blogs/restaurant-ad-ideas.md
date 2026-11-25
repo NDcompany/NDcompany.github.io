@@ -157,6 +157,26 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 ## Keep reading
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
 Business
 
 Guide · 24 Nov 2026
@@ -166,26 +186,6 @@ Guide · 24 Nov 2026
 Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
 
 Read the guide
-
-Websites
-
-Guide · 20 Nov 2026
-
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
-
-Read the guide
-
-SEO
-
-News · 17 Nov 2026
-
-### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-
-Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
 
 [More on Marketing](https://ndcompany.in/blogs/topic/marketing)
 

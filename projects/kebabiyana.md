@@ -96,6 +96,16 @@ Kebabiyana
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -115,16 +125,6 @@ Tips · 11 Nov 2026
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
 
 ## More projects
 

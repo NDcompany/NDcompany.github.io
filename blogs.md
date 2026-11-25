@@ -14,6 +14,26 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 Business
 
 Guide · 24 Nov 2026
@@ -346,16 +366,16 @@ Read the guide
 
 ## Recently updated
 
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
+- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+  25 Nov 2026
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   24 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   24 Nov 2026
-- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-  20 Nov 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  17 Nov 2026
 
 ## Trending tags
 
@@ -452,6 +472,32 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/white-label-wordpress-development#article",
+          "headline": "White label WordPress development: what 16 providers charge and how a build runs",
+          "description": "We read the sites of 16 white label WordPress providers: what they charge, how staging works, who holds plugin licences, and what to check before you resell.",
+          "image": "https://ndcompany.in/assets/blog/white-label-wordpress-development-16x9.png",
+          "url": "https://ndcompany.in/blogs/white-label-wordpress-development",
+          "datePublished": "2026-11-25T00:00:00+05:30",
+          "dateModified": "2026-11-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/check-ads-agency-report#article",
+          "headline": "Your ads report shows a high return but you are losing money: how to check it",
+          "description": "Why Google Ads and Meta can report a high ROAS while you lose money: revenue not profit, attribution windows, double counting, brand searches. How to check.",
+          "image": "https://ndcompany.in/assets/blog/check-ads-agency-report-16x9.png",
+          "url": "https://ndcompany.in/blogs/check-ads-agency-report",
+          "datePublished": "2026-11-25T00:00:00+05:30",
+          "dateModified": "2026-11-25T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/app-development-cost-india#article",

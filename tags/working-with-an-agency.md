@@ -22,6 +22,26 @@ Not every enquiry is real. On 5 November 2026 an email offering us a web and SEO
 
 ## Latest posts
 
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 Business
 
 Guide · 24 Nov 2026
@@ -184,16 +204,16 @@ Read the guide
 
 ## Recently updated
 
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
+- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+  25 Nov 2026
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   24 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   24 Nov 2026
-- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-  20 Nov 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  17 Nov 2026
 
 ## Trending tags
 
@@ -214,21 +234,21 @@ Read the guide
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [Mobile App Development](https://ndcompany.in/services/mobile-app-development)
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
 
-Android and iOS apps for restaurants, shops and other businesses, built once and published on both stores.
-
-Learn more
-
-### [Software Development](https://ndcompany.in/services/software-development)
-
-Custom web applications, CRMs and internal tools for the way your business runs.
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
-### [SEO Services](https://ndcompany.in/services/seo-services)
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
 
-A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
+
+Learn more
+
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
 
 Learn more
 
@@ -263,96 +283,108 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "White label WordPress development: what 16 providers charge and how a build runs",
+            "url": "https://ndcompany.in/blogs/white-label-wordpress-development"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Your ads report shows a high return but you are losing money: how to check it",
+            "url": "https://ndcompany.in/blogs/check-ads-agency-report"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
             "name": "How much does app development cost in India? A guide for US and UK buyers",
             "url": "https://ndcompany.in/blogs/app-development-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 4,
             "name": "White label SEO explained: how agencies resell SEO safely",
             "url": "https://ndcompany.in/blogs/white-label-seo-explained"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 5,
             "name": "NDAs, IP and ownership when you outsource to an agency",
             "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 6,
             "name": "Shopify development in India: what partners charge, from Shopify's own directory",
             "url": "https://ndcompany.in/blogs/shopify-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 7,
             "name": "How do you hire a WordPress developer in India? What 30 agency websites show",
             "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 8,
             "name": "How to choose an SEO agency in India: what 37 agency websites show",
             "url": "https://ndcompany.in/blogs/choose-seo-agency-india"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 9,
             "name": "The Quatgio email: a fake client brief that ends at a fake Google sign-in",
             "url": "https://ndcompany.in/blogs/quatgio-scam-email"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 10,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 11,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 12,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 13,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 14,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 15,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 16,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 17,
             "name": "Logo vs brand identity: what you are paying for",
             "url": "https://ndcompany.in/blogs/logo-vs-brand-identity"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 18,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }

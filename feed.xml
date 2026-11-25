@@ -6,8 +6,35 @@
 <atom:link href="https://ndcompany.in/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Insights, quick tips and plain guides from N&amp;D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.</description>
 <language>en-in</language>
-<lastBuildDate>Mon, 23 Nov 2026 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 18:30:00 GMT</lastBuildDate>
 <image><url>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</url><title>N&amp;D Co. Blogs</title><link>https://ndcompany.in/blogs</link></image>
+<item>
+<title>White label WordPress development: what 16 providers charge and how a build runs</title>
+<link>https://ndcompany.in/blogs/white-label-wordpress-development</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/white-label-wordpress-development</guid>
+<pubDate>Tue, 24 Nov 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Websites</category>
+<category>Working with an agency</category>
+<category>Website costs</category>
+<category>Web accessibility</category>
+<description>We read the sites of 16 white label WordPress providers: what they charge, how staging works, who holds plugin licences, and what to check before you resell.</description>
+<enclosure url="https://ndcompany.in/assets/pins/white-label-wordpress-development.jpg" length="90722" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/white-label-wordpress-development.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
+<item>
+<title>Your ads report shows a high return but you are losing money: how to check it</title>
+<link>https://ndcompany.in/blogs/check-ads-agency-report</link>
+<guid isPermaLink="true">https://ndcompany.in/blogs/check-ads-agency-report</guid>
+<pubDate>Tue, 24 Nov 2026 18:30:00 GMT</pubDate>
+<dc:creator>Nakshatra Ranjan Saha</dc:creator>
+<category>Marketing</category>
+<category>Online advertising</category>
+<category>Working with an agency</category>
+<description>Why Google Ads and Meta can report a high ROAS while you lose money: revenue not profit, attribution windows, double counting, brand searches. How to check.</description>
+<enclosure url="https://ndcompany.in/assets/pins/check-ads-agency-report.jpg" length="85310" type="image/jpeg"/>
+<media:content url="https://ndcompany.in/assets/pins/check-ads-agency-report.jpg" medium="image" type="image/jpeg" width="1000" height="1500"/>
+</item>
 <item>
 <title>How much does app development cost in India? A guide for US and UK buyers</title>
 <link>https://ndcompany.in/blogs/app-development-cost-india</link>

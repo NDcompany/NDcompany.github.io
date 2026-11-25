@@ -265,7 +265,7 @@ Google review
 
 Adrija Rivu
 
-4 days ago
+5 days ago
 
 ## Frequently asked questions
 
@@ -311,6 +311,16 @@ Guides from our blogs on the same kind of work.
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -326,16 +336,6 @@ News · 17 Nov 2026
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
-
-SEO
-
-Insight · 14 Nov 2026
-
-### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-
-Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
 
 Read the post
 

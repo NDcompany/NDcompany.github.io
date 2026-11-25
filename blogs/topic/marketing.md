@@ -16,6 +16,16 @@ Digital marketing, social media and content for small and growing businesses: wh
 
 Marketing
 
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
+Marketing
+
 Tips · 11 Nov 2026
 
 ### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
@@ -26,16 +36,16 @@ Read the post
 
 ## Recently updated
 
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
+- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+  25 Nov 2026
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   24 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   24 Nov 2026
-- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-  20 Nov 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  17 Nov 2026
 
 ## Trending tags
 
@@ -105,6 +115,12 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Your ads report shows a high return but you are losing money: how to check it",
+            "url": "https://ndcompany.in/blogs/check-ads-agency-report"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "12 restaurant ad examples and ideas, with food ads from our own work",
             "url": "https://ndcompany.in/blogs/restaurant-ad-ideas"
           }

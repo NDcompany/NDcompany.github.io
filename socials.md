@@ -28,9 +28,9 @@ You came from one of our profiles. Here is where to go next.
 
 ## Latest from the blog
 
+- [White label WordPress development: what 16 providers charge and how a build runs: 25 Nov 2026](https://ndcompany.in/blogs/white-label-wordpress-development)
+- [Your ads report shows a high return but you are losing money: how to check it: 25 Nov 2026](https://ndcompany.in/blogs/check-ads-agency-report)
 - [How much does app development cost in India? A guide for US and UK buyers: 24 Nov 2026](https://ndcompany.in/blogs/app-development-cost-india)
-- [How to run a free online store that takes orders on WhatsApp: 20 Nov 2026](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-- [Google's November 2026 core update: what is happening and what to do: 17 Nov 2026](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 [All posts](https://ndcompany.in/blogs)
 

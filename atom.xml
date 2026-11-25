@@ -5,9 +5,36 @@
 <link href="https://ndcompany.in/blogs" rel="alternate" type="text/html"/>
 <link href="https://ndcompany.in/atom.xml" rel="self" type="application/atom+xml"/>
 <id>https://ndcompany.in/blogs</id>
-<updated>2026-11-24T00:00:00+05:30</updated>
+<updated>2026-11-25T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
+<entry>
+<title>White label WordPress development: what 16 providers charge and how a build runs</title>
+<link href="https://ndcompany.in/blogs/white-label-wordpress-development" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/white-label-wordpress-development-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/white-label-wordpress-development</id>
+<published>2026-11-25T00:00:00+05:30</published>
+<updated>2026-11-25T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="websites" label="Websites" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
+<category term="website-costs" label="Website costs" scheme="https://ndcompany.in/tags/"/>
+<category term="web-accessibility" label="Web accessibility" scheme="https://ndcompany.in/tags/"/>
+<summary>We read the sites of 16 white label WordPress providers: what they charge, how staging works, who holds plugin licences, and what to check before you resell.</summary>
+</entry>
+<entry>
+<title>Your ads report shows a high return but you are losing money: how to check it</title>
+<link href="https://ndcompany.in/blogs/check-ads-agency-report" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/check-ads-agency-report-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/check-ads-agency-report</id>
+<published>2026-11-25T00:00:00+05:30</published>
+<updated>2026-11-25T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="marketing" label="Marketing" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="online-advertising" label="Online advertising" scheme="https://ndcompany.in/tags/"/>
+<category term="working-with-an-agency" label="Working with an agency" scheme="https://ndcompany.in/tags/"/>
+<summary>Why Google Ads and Meta can report a high ROAS while you lose money: revenue not profit, attribution windows, double counting, brand searches. How to check.</summary>
+</entry>
 <entry>
 <title>How much does app development cost in India? A guide for US and UK buyers</title>
 <link href="https://ndcompany.in/blogs/app-development-cost-india" rel="alternate" type="text/html"/>

@@ -33,6 +33,8 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development): We read the sites of 16 white label WordPress providers: what they charge, how staging works, who holds plugin licences, and what to check before you resell.
+- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report): Why Google Ads and Meta can report a high ROAS while you lose money: revenue not profit, attribution windows, double counting, brand searches. How to check.
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india): What app development costs in India in 2026: our US dollar prices, 22 Indian agencies, US and UK developer pay, store fees and running costs buyers forget.
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders): No domain, no hosting, no monthly fee: how we built a free Blogger store where every WhatsApp order arrives with a product code, and how to copy it.
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026): Google's November 2026 core update ran 10 to 24 November. What Google says, what 51 pages claim, how to check a drop and what recovery offers cost.

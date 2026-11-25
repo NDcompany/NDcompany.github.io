@@ -176,6 +176,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -193,16 +203,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-
-We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 

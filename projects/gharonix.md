@@ -192,7 +192,7 @@ Google review
 
 Mumtaj Ahmad
 
-4 days ago
+5 days ago
 
 ## Frequently asked questions
 
@@ -232,6 +232,16 @@ Often at the start, because a script for a 99acres or MagicBricks style site is 
 
 Guides from our blogs on the same kind of work.
 
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
 Business
 
 Guide · 24 Nov 2026
@@ -251,16 +261,6 @@ Guide · 20 Nov 2026
 A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
 
 Read the guide
-
-SEO
-
-News · 17 Nov 2026
-
-### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-
-Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
 
 ## More projects
 

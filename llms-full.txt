@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (122 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (124 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -290,7 +290,7 @@ Google review
 
 Mumtaj Ahmad
 
-4 days ago
+5 days ago
 
 Google review
 
@@ -322,7 +322,7 @@ Google review
 
 Adrija Rivu
 
-4 days ago
+5 days ago
 
 Google review
 
@@ -678,7 +678,7 @@ Google review
 
 Mumtaj Ahmad
 
-4 days ago
+5 days ago
 
 Google review
 
@@ -686,11 +686,21 @@ Google review
 
 Adrija Rivu
 
-4 days ago
+5 days ago
 
 ## From our blogs
 
 Guides on the work behind Website Design & Development.
+
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
 
 Websites
 
@@ -709,16 +719,6 @@ Insight · 14 Nov 2026
 ### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
 
 Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
-
-Read the post
-
-Business
-
-News · 11 Nov 2026
-
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
 
 Read the post
 
@@ -1587,7 +1587,7 @@ Google review
 
 Mumtaj Ahmad
 
-4 days ago
+5 days ago
 
 Google review
 
@@ -2252,7 +2252,7 @@ Google review
 
 Adrija Rivu
 
-4 days ago
+5 days ago
 
 ## From our blogs
 
@@ -2534,6 +2534,16 @@ Learn more
 
 Guides on the work behind E-commerce Solutions.
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 Websites
 
 Guide · 20 Nov 2026
@@ -2551,16 +2561,6 @@ Guide · 7 Nov 2026
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
 
 What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-
-We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
 
@@ -2843,6 +2843,16 @@ Wafflery's
 
 Guides on the work behind Digital Marketing & Performance Marketing.
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -2862,16 +2872,6 @@ Tips · 11 Nov 2026
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
 
 ## Ready to start?
 
@@ -4000,7 +4000,7 @@ Google review
 
 Adrija Rivu
 
-4 days ago
+5 days ago
 
 ## From our blogs
 
@@ -10444,7 +10444,7 @@ Team
 # Nakshatra Ranjan Saha
 
 Source: https://ndcompany.in/team/nakshatra-ranjan-saha
-Updated: 2026-11-24
+Updated: 2026-11-25
 
 - CEO
 - Founder
@@ -10474,6 +10474,26 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
 
 Business
 
@@ -11062,7 +11082,7 @@ Google review
 
 Mumtaj Ahmad
 
-4 days ago
+5 days ago
 
 ## Frequently asked questions
 
@@ -11102,6 +11122,16 @@ Often at the start, because a script for a 99acres or MagicBricks style site is 
 
 Guides from our blogs on the same kind of work.
 
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
 Business
 
 Guide · 24 Nov 2026
@@ -11121,16 +11151,6 @@ Guide · 20 Nov 2026
 A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
 
 Read the guide
-
-SEO
-
-News · 17 Nov 2026
-
-### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-
-Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
 
 ## More projects
 
@@ -11435,7 +11455,7 @@ Google review
 
 Adrija Rivu
 
-4 days ago
+5 days ago
 
 ## Frequently asked questions
 
@@ -11481,6 +11501,16 @@ Guides from our blogs on the same kind of work.
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -11496,16 +11526,6 @@ News · 17 Nov 2026
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
-
-SEO
-
-Insight · 14 Nov 2026
-
-### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
-
-Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
 
 Read the post
 
@@ -13373,6 +13393,16 @@ Kebabiyana
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -13392,16 +13422,6 @@ Tips · 11 Nov 2026
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
 
 ## More projects
 
@@ -13520,6 +13540,16 @@ Wafflery's
 
 Guides from our blogs on the same kind of work.
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 SEO
 
 News · 17 Nov 2026
@@ -13539,16 +13569,6 @@ Tips · 11 Nov 2026
 Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
 
 Read the post
-
-SEO
-
-Guide · 31 Oct 2026
-
-### [How much does SEO cost in India in 2026?](https://ndcompany.in/blogs/seo-cost-india)
-
-Fifteen agencies published monthly SEO prices: a median of ₹15,000 for the cheapest tier and ₹25,000 across 37 packages. What the fee buys, which quotes to doubt, GST, and what you can do for free.
-
-Read the guide
 
 ## More projects
 
@@ -15770,6 +15790,456 @@ Our [software development](https://ndcompany.in/services/software-development) s
 
 ---
 
+[Websites](https://ndcompany.in/blogs/topic/websites) · Guide
+
+# White label WordPress development: what 16 providers charge and how a build runs
+
+Source: https://ndcompany.in/blogs/white-label-wordpress-development
+Updated: 2026-11-25
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 November 2026 14 min read
+
+White label WordPress development is when a developer builds WordPress sites that your agency sells to its clients under your agency's name. You keep the client and set the price. The partner builds on a staging site, you review it, and the site goes live on your client's hosting with no credit to the partner. It works when you agree the brief, the staging setup, who holds the hosting, domain and plugin licences, and the checks the site must pass before you put your name on it. On 16 November 2026 we read the websites of 16 providers that sell white label WordPress work to agencies. 11 publish a price, 11 mention an NDA and 10 mention a staging site, but only 2 say anything about who holds the premium plugin licences, and only 2 name WCAG, the accessibility standard.
+
+Key takeaways
+
+- 11 of the 16 providers publish at least one price in US dollars. None prices an ordinary page on its own: they charge by the hour ($20 to $79), by the site (starting prices of $400 to $2,500) or by the month ($600 to $9,999).
+- 14 of 16 offer maintenance after launch, and 5 publish a care plan price, with starting prices of $25 to $99 a site.
+- 10 of 16 mention a staging site. WordPress has a built-in setting for it: a site can declare itself local, development, staging or production.
+- Only 2 of 16 say who holds premium plugin licences. When a licence for Elementor Pro, ACF PRO or Gravity Forms lapses, updates stop and some features are limited, and for Gravity Forms the lost updates include security updates.
+- 7 of 16 mention accessibility and 2 name WCAG. WordPress itself commits to WCAG 2.2 level AA for core code, so check the build against it yourself before you resell it.
+
+This post is the website companion to our guide to [white label SEO](https://ndcompany.in/blogs/white-label-seo-explained). That post covers who talks to the client and the NDA and non-solicitation clauses, and our guide to [NDAs and IP ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers who owns the code. Here we stay with the build itself.
+
+## How we did the study
+
+On 16 November 2026 we searched for white label WordPress development and related phrases and took the 21 providers whose own websites came up. Five refused automated reading or returned an empty page, so the study covers 16. For each one we read its white label WordPress page and, where the site linked them, its pricing, maintenance and agency pages, up to three pages each. We recorded what each site says on the topics below and copied quotes word for word into our notes. It records what providers say about themselves, not the quality of their work, and a provider silent on a topic may still handle it well. We do not name them here.
+
+## What is white label WordPress development?
+
+It is outsourced WordPress work that your agency resells as its own. The client signs with you and pays you. You pay the partner a price agreed between the two of you and charge your client whatever you choose. The partner never appears on the site, in the admin panel, on invoices or in emails to the client.
+
+The providers in our sample sell full builds from a brief, builds from a finished Figma design, page builder work, WooCommerce stores, migrations and monthly maintenance. Some sell blocks of hours or a dedicated developer instead of projects, so decide which you need before you compare prices.
+
+## How does a white label WordPress build run?
+
+Most builds follow six steps.
+
+1. The brief. You agree the scope, pages, functions, deadline and price with your client, then send the partner the same brief with the client's brand files and content. List the pages by name.
+2. The design handover. If you design in-house, send the approved Figma file with mobile and desktop layouts and how menus and buttons behave. If the partner designs, approve the design before development starts. Name the page builder too: one provider says Elementor builds cost more.
+3. Staging. The partner builds on a copy of the site that the public cannot see, at an address you choose, such as a subdomain of your agency's domain, so the partner's name never appears in a link.
+4. Review. You check the staging site first, send fixes back, and only then show it to your client.
+5. Launch. The site moves to the client's hosting and domain, forms are tested on the live server, and the staging copy is locked or deleted.
+6. Handover. Your client gets an admin login for its own team, and you get the logins, licence keys and files named in your quote. Then someone named maintains it.
+
+### Setting up staging properly
+
+WordPress can tell a staging site from a live one. Since version 5.5, the function [wp_get_environment_type in the WordPress developer reference](https://developer.wordpress.org/reference/functions/wp_get_environment_type/) returns one of four values: `local`, `development`, `staging` or `production`. It is set with a constant or server variable called `WP_ENVIRONMENT_TYPE`, and if nothing sets it, WordPress assumes production. Ask the partner to set it on staging.
+
+Keep staging out of search results. Google's page on [controlling what you share with Google](https://developers.google.com/search/docs/crawling-indexing/control-what-you-share) says private content needs to be password protected, which "will also prevent that content from appearing in Google Search".
+
+The address matters for licences too: ACF PRO's page on [licence activations](https://www.advancedcustomfields.com/resources/license-activations/) allows unlimited activations on development and staging sites, and treats an address as staging when it contains a subdomain such as `staging.` or `stage.`. Any address it does not recognise counts as a production site against your licence limit.
+
+## What do white label WordPress providers publish?
+
+Most say they will sign an NDA and work on staging. Far fewer say how long a build takes, what happens to plugin licences, or which accessibility standard they build to.
+
+What 16 white label WordPress provider websites say, number of providers
+
+**What 16 white label WordPress provider websites say, number of providers**
+
+| Category | Value |
+| --- | --- |
+| Offer maintenance or support after launch | 14 |
+| Mention an NDA | 11 |
+| Publish at least one price | 11 |
+| Mention a staging site | 10 |
+| Mention accessibility | 7 |
+| Name Slack for day-to-day contact | 7 |
+| State how long a build takes | 6 |
+| Address time zones or working hours | 5 |
+| Name WCAG | 2 |
+| Say who holds premium plugin licences | 2 |
+
+*16 providers that came up in searches for white label WordPress development, each described by its own website. A provider can appear in several rows. Five more refused automated reading and are left out. Source: N&D Co. survey of 16 white label WordPress provider websites, 16 November 2026.*
+
+The six that state a build time give figures from 5 days for a 5-page site to 2 to 3 weeks for a smaller site and 4 to 8 weeks for a complex build or store. Builds from a finished Figma design are quicker: one provider quotes 3 to 7 working days. Whatever the provider says, ask for the dates in the written quote.
+
+## How much does white label WordPress development cost?
+
+Where providers publish prices, white label WordPress work costs $20 to $79 an hour, from $400 to $2,500 as a starting price for a site, or $600 to $9,999 a month for a block of hours or a dedicated team. These are the providers' own published figures in US dollars, and 5 of the 16 publish no price at all.
+
+**White label WordPress prices published on 11 of 16 provider websites, 16 November 2026, in US dollars**
+
+| How it is priced | Providers | Published figures |
+| --- | --- | --- |
+| Hourly rate | 5 | From $20 an hour at the lowest to $79 an hour at the highest |
+| Price per site or project | 5 | Starting prices of $400, $599, $990 (up to 5 pages), $1,500 and $2,500 |
+| Monthly hours, retainer or dedicated developer | 5 | $600 a month for 15 hours up to $9,999 a month for a three-person team |
+| Care or maintenance plan | 5 | Starting prices of $25 to $99 a site, one plan up to $119 a month |
+| No price published | 5 | Quote only |
+
+No provider prices an ordinary page on its own. The closest are one that prices a landing page from $600, and one that prices a custom theme from $990 for up to 5 pages and from $1,750 for up to 10. The two monthly hour plans that list hours work out at about $33 to $43 an hour at one provider and $30 to $40 at the other, before any overage.
+
+A published price is where a provider starts, not what your project costs. Compare what each price buys: design or build only, templates, revision rounds, the builder, testing and days of fixes after launch. For what WordPress work costs when a business hires a developer in India directly, see [how to hire a WordPress developer in India](https://ndcompany.in/blogs/hire-wordpress-developer-india).
+
+## Which page builders do providers work with?
+
+Elementor is the builder named most often, by 10 of the 16, followed by the block editor (Gutenberg) at 9 and Divi at 7. Three name no builder at all.
+
+Page builders and site-building tools named by 16 white label WordPress providers
+
+**Page builders and site-building tools named by 16 white label WordPress providers**
+
+| Category | Value |
+| --- | --- |
+| Elementor | 10 |
+| Block editor (Gutenberg) | 9 |
+| Divi | 7 |
+| Bricks | 4 |
+| WPBakery | 4 |
+| Beaver Builder | 3 |
+| Advanced Custom Fields (ACF) | 3 |
+| Oxygen | 2 |
+| No builder named | 3 |
+
+*A provider can name several builders. Counted only where the provider's own pages name the tool. Source: N&D Co. survey of 16 white label WordPress provider websites, 16 November 2026.*
+
+Pick the builder for your client, not for the partner: one its team can learn to edit, and one your next partner can take over if you change. One provider recommends the block editor for most new projects, for its performance and its alignment with WordPress core.
+
+## Who should own the hosting, domain and plugin licences?
+
+The safest default is the client, for the domain and hosting at least. Only one provider in our sample says it plainly: hosting, domain and plugin licences "should sit under your agency's control, not the partner's". Our guide to giving an agency access to your accounts covers WordPress user roles, hosting logins and why the domain should be in the client's own registrar account.
+
+**Who holds the accounts and licences, and the trade-offs**
+
+| Holder | What works | What to watch |
+| --- | --- | --- |
+| The client | The client can leave or change agencies without losing the site, and pays renewals directly | You need the client's help to set up and renew, and a lapsed card can lapse a licence |
+| Your agency | One account for many clients, renewals under your control, a care plan you can bill | You must hand everything over cleanly if the client leaves, and site limits on your licence apply |
+| The partner | Least setup for you | Your client's site depends on a third party it has no contract with; avoid it |
+
+### What the GPL means for themes and plugins
+
+WordPress is released under the GPLv2 or later, and [WordPress's licence page](https://wordpress.org/about/license/) says "plugins and themes are derivative work and thus inherit the GPL license". In practice, the three plugin publishers we read sell updates, support, extra features and activation on a set number of sites, and those are what a lapsed licence affects.
+
+### What happens when a plugin licence lapses?
+
+We read the terms and help pages of three premium plugins agencies often use. Each one limits something different when a licence lapses.
+
+- Elementor Pro. [Elementor's terms](https://elementor.com/terms/) say updates are available to the websites the plan was bought for, and tell buyers not to "use it on more websites than you paid for". They also say software received under the GPLv3 stays with you under that licence. Its [help page on not renewing](https://elementor.com/help/what-happens-to-my-site-if-i-cancel-elementor-pro/) says you can no longer "update Elementor Pro or add Pro features to your site", that you may have only limited access to existing Pro features, and that anything in the free version keeps working.
+- ACF PRO. With an expired licence, its [licence activation page](https://www.advancedcustomfields.com/resources/license-activations/) says you can edit existing PRO fields but not create new ones. With no licence at all, you cannot edit them either. The display of field data on the site is not affected in either case.
+- Gravity Forms. Its [documentation on licence expiry](https://docs.gravityforms.com/license-expiry/) says forms keep working, but you stop getting updates, "including bug fixes and security updates", lose support and cannot register the key on a new site. It adds that it cannot guarantee installations will keep working indefinitely. Its [FAQ](https://www.gravityforms.com/frequently-asked-questions/) says the Basic licence covers a single site and Elite covers unlimited sites.
+
+A site whose plugins stop updating is a security risk, whoever owns the licence. WordPress's own [hardening guide](https://developer.wordpress.org/advanced-administration/security/hardening/) says older versions of WordPress are not maintained with security updates and tells site owners to make sure plugins are always updated. So list every paid plugin, theme and builder in the quote, with whose name its licence is in, who pays the renewal and when it renews. One provider in our sample includes premium plugins such as Elementor Pro in its hosting plans, which works until the plan ends. These are the publishers' terms as we read them, not legal advice, and terms change.
+
+## What should you check before you resell a site?
+
+Your client will judge the site as your work, so check it on staging the same way each time.
+
+### Speed
+
+Google's guide to [Core Web Vitals on web.dev](https://web.dev/articles/vitals) sets the targets: the largest content on the page should load within 2.5 seconds, interactions should respond in 200 milliseconds or less, and the layout shift score should be 0.1 or less, measured at the 75th percentile of page loads on mobile and desktop. Test staging on a phone profile; real visitor data only arrives after launch.
+
+### Accessibility
+
+WCAG 2.2 is the W3C's standard for accessible web content, and the [WCAG 2.2 Recommendation](https://www.w3.org/TR/WCAG22/) defines three levels of conformance, A, AA and AAA. WordPress's own [accessibility coding standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/accessibility/) state that "The WordPress commitment is to conform to all WCAG 2.2 Level A and Level AA guidelines". That covers WordPress core, WordPress.org websites and official plugins. It does not cover the theme or page builder your partner chooses, so building on WordPress does not by itself make a site accessible.
+
+Only 7 of our 16 providers mention accessibility at all, and 2 name WCAG. Ask the partner which level it builds to, then check a few things yourself: every page can be used with the keyboard alone, the focused item stays visible (WCAG 2.2 has a criterion that a focused component is not entirely hidden by content the site itself adds), images have alt text, form fields have labels, and text has enough contrast with its background. Whether a law requires a given level for your client depends on its country and sector, so check with a lawyer before you promise one.
+
+### Code and branding
+
+Look for the partner's name where clients find it. WordPress shows the theme's author, taken from the header of its `style.css` file, in the Appearance, Themes screen, according to the [WordPress theme handbook](https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/). Check that field, the footer, the login page, the code comments, admin user names and email addresses, and any plugin built for the project. Then remove unused plugins and demo content.
+
+### Security updates
+
+Agree who updates WordPress, the theme and the plugins after launch, how often, and whether updates are tested on staging first. 14 of the 16 providers offer maintenance, so this can stay white label, but the duty has to sit with someone by name.
+
+## How do you test a partner with a first small job?
+
+Give a new partner one small, real job before a full site: a landing page, a single template from an existing design, or a fix list on a site you already run. One provider in our sample sells a paid $199 pilot, and another says most agencies start small to test its quality. Judge the process as well as the result.
+
+- Did the quote list the deliverables, the dates and the builder?
+- Did the staging site carry your agency's address and a password, with no trace of the partner?
+- Did the build match the design at phone and desktop widths?
+- How many review rounds did it take, and did fixes break anything else?
+- Does the page pass the speed and accessibility checks above?
+
+If you are new to working with a team abroad, our guide to [outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india) covers time zones, payments and pilot projects in more detail.
+
+## A checklist before your first white label WordPress build
+
+1. Have the NDA signed before you send the client's name, files or logins.
+2. Write the brief: pages by name, functions, the builder, the deadline and what "done" means.
+3. Send the design as an approved Figma file with mobile and desktop layouts, or approve the partner's design before development.
+4. Set up staging under your own domain, with a password and `WP_ENVIRONMENT_TYPE` set to staging.
+5. Keep the domain and hosting in your client's name, or in your agency's with a written handover plan. Never in the partner's.
+6. List every paid plugin, theme and builder in the quote: whose licence, who pays, when it renews, what happens if the client leaves.
+7. Check speed against the Core Web Vitals targets on a phone profile.
+8. Check keyboard use, visible focus, alt text, form labels and contrast, and ask which WCAG level the partner builds to.
+9. Search the theme header, footer, login page, code and user accounts for the partner's name.
+10. Agree who handles updates and backups after launch, and how many days of fixes the quote includes.
+11. Start with one small paid job before you sell a full site built by a new partner.
+
+We read every source linked in this post on 16 November 2026.
+
+## The data
+
+The rows for all 16 providers are in [a CSV file (white-label-wordpress-2026-11.csv)](https://ndcompany.in/assets/data/white-label-wordpress-2026-11.csv): the prices each publishes and how they are charged, whether it states a build time, mentions an NDA, staging, plugin licences, accessibility or WCAG, which builders it names, whether it offers and prices maintenance, and whether it addresses time zones. Providers are numbered, not named. If you use the figures, please link to this page as the source.
+
+## How our white label WordPress work runs
+
+We are a brand and growth agency in Kolkata, India, and every service on our site is also available [white label for agencies](https://ndcompany.in/white-label). For WordPress, you send the brief and your client's brand files, we design to your brief or build from your design, and you review every draft before your client sees it. We sign your NDA before you share client details, leave no credit in the footer, the theme, the code comments or the admin panel, and never contact your client. If you want us on a call with them, we join as part of your team.
+
+Hosting and the domain go in an account your agency or your client controls, and your quote says whether a package includes them. Each project is quoted in writing before work starts, including the deliverables, with a 7-day support window after delivery for minor corrections, and maintenance available as a separate white label package. On full payment, ownership of the final deliverables named in your quote passes to your agency. The work is the same as our own [website design and development](https://ndcompany.in/services/website-design-development), and our [white label WordPress page](https://ndcompany.in/white-label/wordpress) lists what you can resell.
+
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+- [Website costs](https://ndcompany.in/tags/website-costs)
+- [Web accessibility](https://ndcompany.in/tags/web-accessibility)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development)
+- [Share on WhatsApp](https://wa.me/?text=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development&text=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development&title=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs)
+- [Share on Threads](https://www.threads.net/intent/post?text=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fwhite-label-wordpress-development-16x9.png&description=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs)
+- [Share by email](mailto:?subject=White%20label%20WordPress%20development%3A%20what%2016%20providers%20charge%20and%20how%20a%20build%20runs&body=We%20read%20the%20sites%20of%2016%20white%20label%20WordPress%20providers%3A%20what%20they%20charge%2C%20how%20staging%20works%2C%20who%20holds%20plugin%20licences%2C%20and%20what%20to%20check%20before%20you%20resell.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fwhite-label-wordpress-development)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Websites
+
+Guide · 20 Nov 2026
+
+### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
+
+A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
+
+Read the guide
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+Websites
+
+Guide · 7 Nov 2026
+
+### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
+
+What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
+
+Read the guide
+
+[More on Websites](https://ndcompany.in/blogs/topic/websites)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
+[Marketing](https://ndcompany.in/blogs/topic/marketing) · Guide
+
+# Your ads report shows a high return but you are losing money: how to check it
+
+Source: https://ndcompany.in/blogs/check-ads-agency-report
+Updated: 2026-11-25
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 25 November 2026 8 min read
+
+An ads report can show a high return while your business loses money, because the ROAS in Google Ads and Meta Ads Manager is revenue divided by ad cost, counted by each platform's own rules. It leaves out your product costs, it credits sales up to 30 days after a click, it can include modelled and view-through sales, and two platforms can both claim the same order. To check a report, compare the platform's sales with your own orders for the same dates, work out the return you need to break even on your margin, and look at how the conversions are counted. This guide shows how, from Google's and Meta's own documentation, read on 15 November 2026.
+
+Key takeaways
+
+- Google defines its return as "Conv. value / cost" and Meta as "purchase conversion value divided by amount spent". Both are revenue, not profit.
+- The return you need to break even is 1 divided by your margin. At a 25% margin after product, shipping and fees, a ROAS of 4 only covers the ad spend.
+- Google Ads counts a sale up to 30 days after a click by default. Meta's default is 7 days after a click, 1 day after a view and 1 day after an engagement such as a 5-second video view.
+- Each platform claims sales by its own rules. Shopify says that when a customer saw both an email and a Google ad, "each platform can count the same sale."
+- Google says differences between Google Ads and Analytics of "often up to 20%" are expected. Much larger gaps point to a counting problem.
+
+## What does ROAS in an ads report actually measure?
+
+Google Ads calls it conversion value per cost: "Conversion value per cost = Conv. value / cost" ([Google Ads help: conversion value per cost](https://support.google.com/google-ads/answer/13405059?hl=en)). Meta calls it purchase ROAS: "The metric is calculated as purchase conversion value divided by amount spent" ([Meta Business Help Centre: purchase ROAS](https://www.facebook.com/business/help/274294333328345)). Conversion value is usually the order total. So a report showing a 600% return, or a ROAS of 6, says that for every 1 spent on ads the platform credited 6 in sales. It says nothing about what those sales cost you to fulfil.
+
+That is why the return you need depends on your margin. If you keep 25 of every 100 in sales after the cost of the product, shipping, payment fees and returns, you need 4 in sales for every 1 spent just to cover the ads. The table shows the same sum at other margins.
+
+**The ROAS you need to break even on ad spend, by margin (1 divided by the margin)**
+
+| Margin after product, shipping and fees | Break-even ROAS | Result of a reported ROAS of 4, per 1,000 spent |
+| --- | --- | --- |
+| 50% | 2 | 4,000 in sales, 2,000 margin: 1,000 left after the ads |
+| 35% | 2.9 | 4,000 in sales, 1,400 margin: 400 left |
+| 25% | 4 | 4,000 in sales, 1,000 margin: nothing left |
+| 15% | 6.7 | 4,000 in sales, 600 margin: 400 lost |
+
+Those figures also assume every reported sale is real and caused by the ads. The next sections cover why that is often not quite true.
+
+Google does offer a profit view. With cart data and the cost of goods sold from your Merchant Center feed, Google Ads can report "revenue and gross profit" ([Google Ads help: conversions with cart data](https://support.google.com/google-ads/answer/9028254?hl=en)), and conversion value rules let you adjust values for things such as margin, which Smart Bidding then uses ([Google Ads help: conversion value rules](https://support.google.com/google-ads/answer/10518330?hl=en)). If your agency bids on revenue alone, ask whether either is set up.
+
+## Why do the ad platforms show more sales than your shop?
+
+### They credit sales long after the click
+
+Google Ads counts a conversion within a window after the ad interaction. For clicks "the default window is 30 days", for views of a display or video ad 1 day, and the window can be set anywhere from 1 to 90 days ([Google Ads help: conversion windows](https://support.google.com/google-ads/answer/3123169?hl=en)). Meta's default is "7-day click, 1-day view and 1-day engagement conversion", where an engagement includes a video played for 5 seconds ([Meta: about attribution settings](https://www.facebook.com/business/help/611432918970668)). A customer who saw your Instagram ad, ignored it and bought from a Google search the next day can be counted by both.
+
+### Each platform counts the same sale
+
+Shopify puts it simply: "Each platform credits sales by using its own rules", and in its example of a customer who clicked an email and a Google ad, "each platform can count the same sale" ([Shopify help: marketing performance](https://help.shopify.com/en/manual/promoting-marketing/analyze-marketing/marketing-performance)). Add up the sales Google, Meta and your email tool each claim, and the total can be larger than your shop's real sales.
+
+### Some sales are estimated
+
+Both platforms model sales they cannot observe. Google says modelled conversions "estimate conversions that Google is unable to observe directly", and "Many cross-device conversions are also modeled" ([Google Ads help: modeled conversions](https://support.google.com/google-ads/answer/10081327?hl=en)). Meta says "statistical modelling may be used to account for some events, as well as for the values assigned to those events." Modelling is not wrong, but it means the report is partly an estimate.
+
+### The dates do not line up
+
+Google's main conversion columns are "calculated based on the time of the click, not the time of the conversion" ([Google Ads help: comparing Google Ads and Analytics data](https://support.google.com/google-ads/answer/6270625?hl=en)). A sale on 3 March from a click on 25 February shows in February in Google Ads and in March in your shop. The same page says differences, "often up to 20%, are expected due to different attribution models", and suggests the "All conv. (by conv. time)" column for a closer comparison with Analytics.
+
+## Is the account counting some sales twice?
+
+This is the most common real error, and the easiest to check.
+
+- **Every or One.** Google says to select "'Every' for sales to track each purchase and 'One' for leads to prevent duplicate counts from page refreshes." A lead form counted as Every can count one enquiry several times ([Google Ads help: count settings](https://support.google.com/google-ads/answer/3438531?hl=en)).
+- **Two actions for one purchase.** A Google Ads purchase tag and a purchase imported from Google Analytics, both counted, record each order twice. Google only removes duplicates "within a single conversion action", so "a single transaction may be counted twice" ([Google Ads help: duplicate conversions](https://support.google.com/google-ads/answer/16542291)). Imported Analytics events are set as secondary by default for this reason.
+- **No transaction ID.** Without an order ID on the tag, a customer who reloads the thank-you page can be counted again. With one, "Google Ads will know the second conversion is a duplicate" ([Google Ads help: transaction IDs](https://support.google.com/google-ads/answer/6386790?hl=en)).
+- **The wrong column.** "All conversions" includes actions you chose not to count in the main column, and view-through conversions are not in "Conversions" at all ([Google Ads help: conversion columns](https://support.google.com/google-ads/answer/3419678?hl=en)). Ask which column the report uses.
+
+Google Ads also has a diagnostic that can warn "Your conversions may be overcounted". If it shows, ask your agency what it found.
+
+## Are the ads taking credit for people who searched your name?
+
+Someone who types your shop's name into Google was probably going to buy from you anyway. Ads on those searches look very profitable in a report, because the buyer already decided. Performance Max campaigns can serve on your brand name unless the account excludes it; Google says "Campaign-level brand exclusions are a better option for blocking brand traffic" ([Google Ads help: Performance Max and brand searches](https://support.google.com/google-ads/answer/14587068?hl=en)). Google does not say that brand searches inflate results; that is our reading. But a report that splits brand from non-brand searches shows you what the ads add, and a report that does not, does not.
+
+## Are returns and cancellations taken out?
+
+A conversion is recorded when the order is placed. If the customer returns it, the ad report still counts the sale unless someone corrects it. Google lets advertisers "Retract conversions that should no longer be counted" and "Reduce (restate) the value of conversions when you receive partial returns" ([Google Ads help: conversion adjustments](https://support.google.com/google-ads/answer/7686447?hl=en)). If you have many returns, ask whether this is done, or take your return rate off the reported sales yourself.
+
+## How do you check a report in 30 minutes?
+
+1. **Pick one whole month.** Note the ad spend and the sales each platform claims.
+2. **Pull your own orders** for the same month from your shop, after returns and cancellations.
+3. **Compare.** If Google and Meta together claim more sales than your shop took, the platforms are double counting between them. If one platform alone is far above your orders, check its conversion actions for duplicates.
+4. **Work out your break-even ROAS** from your real margin, as in the table above, and compare it with the reported ROAS.
+5. **Check the settings:** the conversion window, Every or One, the column the report uses, and whether brand searches are separated.
+6. **Test without the ads.** If you can, pause a campaign on non-brand searches for two weeks and see what happens to your own orders. That tells you more than any attribution model.
+
+## What are you entitled to from your ads agency?
+
+Google's advice to advertisers who use an agency is that "The third party agency must set up a separate Ads account for you", that "At a minimum, you have the right to know the number of clicks, impressions, and the total cost of your Google ads", and to get "an official copy of your agreement in writing" ([Google Ads: working with a third party](https://support.google.com/adspolicy/answer/9457109?hl=en)). Ask for admin access to your own account too; our guide to what access to give an agency covers Google Ads, Meta and the rest. Our guide to [contracts and ownership when you outsource](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership) covers what to put in writing.
+
+## How we report on ads
+
+Our [digital marketing service](https://ndcompany.in/services/digital-marketing) runs Google Ads and Meta ads in accounts you own, sets up conversion tracking first, and sends a monthly report on spend, clicks, cost per lead and what we change next. You pay the ad spend to Google or Meta directly, so the platform's invoice shows exactly what was spent. We do not promise a return on ad spend. If you sell online, our [Shopify marketing](https://ndcompany.in/shopify-marketing) page shows how ads fit with SEO, and our [restaurant ad ideas](https://ndcompany.in/blogs/restaurant-ad-ideas) show what we make for food businesses.
+
+- [Online advertising](https://ndcompany.in/tags#online-advertising)
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report)
+- [Share on WhatsApp](https://wa.me/?text=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report&text=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report&title=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it)
+- [Share on Threads](https://www.threads.net/intent/post?text=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fcheck-ads-agency-report-16x9.png&description=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it)
+- [Share by email](mailto:?subject=Your%20ads%20report%20shows%20a%20high%20return%20but%20you%20are%20losing%20money%3A%20how%20to%20check%20it&body=Why%20Google%20Ads%20and%20Meta%20can%20report%20a%20high%20ROAS%20while%20you%20lose%20money%3A%20revenue%20not%20profit%2C%20attribution%20windows%2C%20double%20counting%2C%20brand%20searches.%20How%20to%20check.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fcheck-ads-agency-report)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Marketing
+
+Tips · 11 Nov 2026
+
+### [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+
+Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish price post to a free Google offer, shown with our own food creatives and each platform's sizes.
+
+Read the post
+
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Business
+
+Guide · 24 Nov 2026
+
+### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
+
+Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
+
+Read the guide
+
+[More on Marketing](https://ndcompany.in/blogs/topic/marketing)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing)
+
+Google Ads and Meta ads run in your own accounts, with conversion tracking and a monthly report on spend and results.
+
+Learn more
+
+### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
+
+Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 [Business](https://ndcompany.in/blogs/topic/business) · Guide
 
 # How much does app development cost in India? A guide for US and UK buyers
@@ -16236,6 +16706,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Insight · 11 Nov 2026
 
 ### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
@@ -16251,16 +16731,6 @@ Guide · 7 Nov 2026
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
 
 What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-
-We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
 
@@ -17679,6 +18149,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -17694,16 +18174,6 @@ Guide · 7 Nov 2026
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
 
 What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-
-We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
 
@@ -18385,6 +18855,26 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 ## Keep reading
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
 Business
 
 Guide · 24 Nov 2026
@@ -18394,26 +18884,6 @@ Guide · 24 Nov 2026
 Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
 
 Read the guide
-
-Websites
-
-Guide · 20 Nov 2026
-
-### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-
-A free Blogger store with an Order on WhatsApp button and a product code on every piece: the setup we built for a solo jewellery maker, step by step.
-
-Read the guide
-
-SEO
-
-News · 17 Nov 2026
-
-### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-
-Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
 
 [More on Marketing](https://ndcompany.in/blogs/topic/marketing)
 
@@ -18617,6 +19087,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -18634,16 +19114,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-
-We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -18824,6 +19294,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -18841,16 +19321,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -19466,6 +19936,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -19483,16 +19963,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -19670,6 +20140,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -19687,16 +20167,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -21042,6 +21512,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -21059,16 +21539,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -21970,6 +22440,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -21987,16 +22467,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -22178,6 +22648,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -22195,16 +22675,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -23177,6 +23647,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -23194,16 +23674,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -23812,6 +24282,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Guide · 20 Nov 2026
 
 ### [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
@@ -23829,16 +24309,6 @@ Insight · 11 Nov 2026
 87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
 
 Read the post
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
-
-What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
 
 [More on Websites](https://ndcompany.in/blogs/topic/websites)
 
@@ -25629,9 +26099,9 @@ You came from one of our profiles. Here is where to go next.
 
 ## Latest from the blog
 
+- [White label WordPress development: what 16 providers charge and how a build runs: 25 Nov 2026](https://ndcompany.in/blogs/white-label-wordpress-development)
+- [Your ads report shows a high return but you are losing money: how to check it: 25 Nov 2026](https://ndcompany.in/blogs/check-ads-agency-report)
 - [How much does app development cost in India? A guide for US and UK buyers: 24 Nov 2026](https://ndcompany.in/blogs/app-development-cost-india)
-- [How to run a free online store that takes orders on WhatsApp: 20 Nov 2026](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-- [Google's November 2026 core update: what is happening and what to do: 17 Nov 2026](https://ndcompany.in/blogs/google-core-update-november-2026)
 
 [All posts](https://ndcompany.in/blogs)
 

@@ -24,6 +24,16 @@ The legal side depends on the market. In the US, the Department of Justice says 
 
 Websites
 
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Websites
+
 Insight · 11 Nov 2026
 
 ### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
@@ -64,16 +74,16 @@ Read the guide
 
 ## Recently updated
 
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
+- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+  25 Nov 2026
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
 - [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
   24 Nov 2026
 - [How much does a website cost in India in 2026?](https://ndcompany.in/blogs/website-cost-india)
   24 Nov 2026
-- [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
-  20 Nov 2026
-- [Technical SEO checklist for small business websites](https://ndcompany.in/blogs/technical-seo-checklist)
-  17 Nov 2026
 
 ## Trending tags
 
@@ -143,24 +153,30 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "White label WordPress development: what 16 providers charge and how a build runs",
+            "url": "https://ndcompany.in/blogs/white-label-wordpress-development"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How accessible are US small business websites? A study of 385 sites",
             "url": "https://ndcompany.in/blogs/small-business-website-accessibility-study"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "What does a small business website cost in 2026?",
             "url": "https://ndcompany.in/blogs/small-business-website-cost"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "What goes into a brand style guide, and how to use one",
             "url": "https://ndcompany.in/blogs/brand-style-guide"
           }

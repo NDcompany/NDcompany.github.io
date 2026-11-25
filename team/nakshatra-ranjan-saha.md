@@ -3,7 +3,7 @@ title: "Nakshatra Ranjan Saha, CEO & Founder | N&D Co."
 description: "Nakshatra Ranjan Saha is the CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata: profile and articles on SEO, websites and branding."
 url: "https://ndcompany.in/team/nakshatra-ranjan-saha"
 type: "ProfilePage"
-modified: "2026-11-24T00:00:00+05:30"
+modified: "2026-11-25T00:00:00+05:30"
 image: "https://ndcompany.in/assets/share/team.png"
 ---
 
@@ -39,6 +39,26 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
+
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
 
 Business
 
@@ -397,7 +417,7 @@ Send a few lines about your business and what you need. We will reply with quest
         "@id": "https://ndcompany.in/team/nakshatra-ranjan-saha#breadcrumb"
       },
       "inLanguage": "en-IN",
-      "dateModified": "2026-11-24T00:00:00+05:30",
+      "dateModified": "2026-11-25T00:00:00+05:30",
       "mainEntity": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

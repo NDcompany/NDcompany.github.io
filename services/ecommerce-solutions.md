@@ -242,6 +242,16 @@ Learn more
 
 Guides on the work behind E-commerce Solutions.
 
+Marketing
+
+Guide · 25 Nov 2026
+
+### [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+
+ROAS is revenue divided by ad cost, counted by each platform's own rules. Here is how to work out the return you need to break even, and how to check an agency's report against your own orders in 30 minutes.
+
+Read the guide
+
 Websites
 
 Guide · 20 Nov 2026
@@ -259,16 +269,6 @@ Guide · 7 Nov 2026
 ### [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
 
 What do Shopify partners in India charge? We read 160 profiles in Shopify's Partner Directory and compared starting prices, tiers, reviews and experience for India-based and US-based partners.
-
-Read the guide
-
-Websites
-
-Guide · 7 Nov 2026
-
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
-
-We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
 Read the guide
 

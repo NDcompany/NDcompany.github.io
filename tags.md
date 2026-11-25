@@ -14,10 +14,14 @@ Every subject our posts and projects cover, most used first, with the posts and 
 
 ## Working with an agency
 
-16 posts
+18 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
+- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+  25 Nov 2026
 - [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
   24 Nov 2026
 - [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
@@ -121,10 +125,12 @@ Logos, posters and promotions for restaurants, cafes, cloud kitchens and bars.
 
 ## Website costs
 
-8 posts, 1 project
+9 posts, 1 project
 
 What a website costs to build and run: design and development, domains, hosting, store platforms, payment fees and tax, with the published prices behind each figure.
 
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
 - [How to run a free online store that takes orders on WhatsApp](https://ndcompany.in/blogs/free-online-store-whatsapp-orders)
   20 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
@@ -316,10 +322,12 @@ Crawling, indexing, sitemaps, canonical URLs, HTTPS and the other site settings 
 
 ## Web accessibility
 
-4 posts
+5 posts
 
 WCAG in plain words: contrast ratios for text, alt text, labelled form fields and tap targets, and how to write them into a website brief or a style guide.
 
+- [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+  25 Nov 2026
 - [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
   11 Nov 2026
 - [What does a small business website cost in 2026?](https://ndcompany.in/blogs/small-business-website-cost)
@@ -402,6 +410,17 @@ Software that fills standard documents, such as affidavits and declarations, fro
 - [Affidavit generator desktop app for an advocate's office](https://ndcompany.in/projects/affidavit-generator-software)
   Software
 
+## Online advertising
+
+2 posts
+
+Google and Meta ads for small businesses: what to advertise, how conversions and ROAS are counted, and how to check an agency's ad report against your own sales.
+
+- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
+  25 Nov 2026
+- [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
+  11 Nov 2026
+
 ## Online reviews
 
 2 posts
@@ -480,15 +499,6 @@ Spreadsheet chores in Excel that a small tool can take over: supplier price list
 
 - [Click-to-paste tool for Excel price lists](https://ndcompany.in/projects/excel-click-to-paste-tool)
   Software
-
-## Online advertising
-
-1 post
-
-Google and Meta ads for small businesses: what to advertise, how conversions and ROAS are counted, and how to check an agency's ad report against your own sales.
-
-- [12 restaurant ad examples and ideas, with food ads from our own work](https://ndcompany.in/blogs/restaurant-ad-ideas)
-  11 Nov 2026
 
 ## Payment fraud
 
@@ -680,56 +690,56 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 20,
+            "name": "Online advertising",
+            "url": "https://ndcompany.in/tags#online-advertising"
+          },
+          {
+            "@type": "ListItem",
+            "position": 21,
             "name": "Online reviews",
             "url": "https://ndcompany.in/tags#online-reviews"
           },
           {
             "@type": "ListItem",
-            "position": 21,
+            "position": 22,
             "name": "Phishing",
             "url": "https://ndcompany.in/tags#phishing"
           },
           {
             "@type": "ListItem",
-            "position": 22,
+            "position": 23,
             "name": "WhatsApp orders",
             "url": "https://ndcompany.in/tags#whatsapp-orders"
           },
           {
             "@type": "ListItem",
-            "position": 23,
+            "position": 24,
             "name": "Case management",
             "url": "https://ndcompany.in/tags#case-management"
           },
           {
             "@type": "ListItem",
-            "position": 24,
+            "position": 25,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 25,
+            "position": 26,
             "name": "Desktop automation",
             "url": "https://ndcompany.in/tags#desktop-automation"
           },
           {
             "@type": "ListItem",
-            "position": 26,
+            "position": 27,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
-            "position": 27,
+            "position": 28,
             "name": "Microsoft Excel",
             "url": "https://ndcompany.in/tags#microsoft-excel"
-          },
-          {
-            "@type": "ListItem",
-            "position": 28,
-            "name": "Online advertising",
-            "url": "https://ndcompany.in/tags#online-advertising"
           },
           {
             "@type": "ListItem",

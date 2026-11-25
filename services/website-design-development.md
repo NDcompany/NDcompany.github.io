@@ -276,7 +276,7 @@ Google review
 
 Mumtaj Ahmad
 
-4 days ago
+5 days ago
 
 Google review
 
@@ -284,11 +284,21 @@ Google review
 
 Adrija Rivu
 
-4 days ago
+5 days ago
 
 ## From our blogs
 
 Guides on the work behind Website Design & Development.
+
+Websites
+
+Guide · 25 Nov 2026
+
+### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
+
+What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
+
+Read the guide
 
 Websites
 
@@ -307,16 +317,6 @@ Insight · 14 Nov 2026
 ### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
 
 Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
-
-Read the post
-
-Business
-
-News · 11 Nov 2026
-
-### [The Fiverr fake order scam: a case study of the files, pages and card form](https://ndcompany.in/blogs/fiverr-fake-order-scam)
-
-The morning our new gig went live, seven brand-new buyers messaged us within an hour, most claiming an order and sending a "project file". We opened every file and page safely. Here is the code, the pages and where they lead.
 
 Read the post
 
