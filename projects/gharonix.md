@@ -192,7 +192,7 @@ Google review
 
 Mumtaj Ahmad
 
-5 days ago
+6 days ago
 
 ## Frequently asked questions
 
@@ -232,6 +232,16 @@ Often at the start, because a script for a 99acres or MagicBricks style site is 
 
 Guides from our blogs on the same kind of work.
 
+SEO
+
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
 Websites
 
 Guide · 25 Nov 2026
@@ -249,16 +259,6 @@ Guide · 25 Nov 2026
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
 
 Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
-
-New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
 
 Read the guide
 

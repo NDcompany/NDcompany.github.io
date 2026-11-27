@@ -24,6 +24,16 @@ AI search adds crawlers, not new rules. Google says a page must be indexed and e
 
 SEO
 
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
+SEO
+
 Insight · 14 Nov 2026
 
 ### [How many small business websites block AI crawlers? A study of 4,564 sites](https://ndcompany.in/blogs/ai-crawler-blocking-study)
@@ -74,6 +84,8 @@ Read the guide
 
 ## Recently updated
 
+- [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+  26 Nov 2026
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
   25 Nov 2026
 - [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -81,8 +93,6 @@ Read the guide
 - [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
   25 Nov 2026
 - [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
-  25 Nov 2026
-- [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
   25 Nov 2026
 
 ## Trending tags
@@ -93,10 +103,10 @@ Read the guide
 - [Food and drink branding](https://ndcompany.in/tags/food-and-drink-branding)
 - [Website planning](https://ndcompany.in/tags/website-planning)
 - [Brand guidelines](https://ndcompany.in/tags/brand-guidelines)
-- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
-- [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 - [Google Search Console](https://ndcompany.in/tags/google-search-console)
-- [Local SEO](https://ndcompany.in/tags/local-seo)
+- [Social media creatives](https://ndcompany.in/tags/social-media-creatives)
+- [Technical SEO](https://ndcompany.in/tags/technical-seo)
+- [Core Web Vitals](https://ndcompany.in/tags/core-web-vitals)
 
 [All tags](https://ndcompany.in/tags)
 
@@ -153,30 +163,36 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "How long does SEO take? What Google says, and our own first weeks",
+            "url": "https://ndcompany.in/blogs/how-long-does-seo-take"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How many small business websites block AI crawlers? A study of 4,564 sites",
             "url": "https://ndcompany.in/blogs/ai-crawler-blocking-study"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "How do you optimize content for LLMs?",
             "url": "https://ndcompany.in/blogs/optimize-content-for-llms"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How healthy are Kolkata small-business websites? We checked 901 businesses",
             "url": "https://ndcompany.in/blogs/kolkata-small-business-websites"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How our free SEO audit works, from request to report",
             "url": "https://ndcompany.in/blogs/free-seo-audit-how-it-works"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "Technical SEO checklist for small business websites",
             "url": "https://ndcompany.in/blogs/technical-seo-checklist"
           }

@@ -42,7 +42,7 @@ There are four models. Our survey found one of them in real use.
 | One-off audit | A written review of what is wrong and what to fix | No paid audit price. Several agencies offer a free audit before you commit. |
 | Hourly | Time, billed as used | No SEO price was hourly. The only hourly rates we saw were for other work, such as ₹1,200 an hour for extra social media time. |
 
-Retainers dominate because SEO work pays off slowly. Google's SEO starter guide says "some changes might take effect in a few hours, others could take several months" ([Google's SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)). Our guide to how long SEO takes sets out Google's own timings and our new site's first weeks. Work that never ends is sold by the month. If you want a price for a single audit or a few hours of advice, you will have to ask for a quote, because you will not find a benchmark on most agency sites. At N&D Co. the audit is the first step of every monthly package, and our [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) gives you a first look before you decide.
+Retainers dominate because SEO work pays off slowly. Google's SEO starter guide says "some changes might take effect in a few hours, others could take several months" ([Google's SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)). Our guide to [how long SEO takes](https://ndcompany.in/blogs/how-long-does-seo-take) sets out Google's own timings and our new site's first weeks. Work that never ends is sold by the month. If you want a price for a single audit or a few hours of advice, you will have to ask for a quote, because you will not find a benchmark on most agency sites. At N&D Co. the audit is the first step of every monthly package, and our [free SEO audit](https://ndcompany.in/blogs/free-seo-audit-how-it-works) gives you a first look before you decide.
 
 ## What are SEO charges per month in India?
 
@@ -190,6 +190,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
+SEO
+
 News · 17 Nov 2026
 
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
@@ -207,16 +217,6 @@ Insight · 14 Nov 2026
 Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
 
 Read the post
-
-SEO
-
-Guide · 11 Nov 2026
-
-### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
-
-We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
-
-Read the guide
 
 [More on SEO](https://ndcompany.in/blogs/topic/seo)
 

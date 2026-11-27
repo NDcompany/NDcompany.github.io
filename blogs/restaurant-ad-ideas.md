@@ -167,6 +167,16 @@ ROAS is revenue divided by ad cost, counted by each platform's own rules. Here i
 
 Read the guide
 
+SEO
+
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
 Websites
 
 Guide · 25 Nov 2026
@@ -174,16 +184,6 @@ Guide · 25 Nov 2026
 ### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
 
 What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
-
-Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 

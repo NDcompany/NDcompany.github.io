@@ -3,7 +3,7 @@ title: "Nakshatra Ranjan Saha, CEO & Founder | N&D Co."
 description: "Nakshatra Ranjan Saha is the CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata: profile and articles on SEO, websites and branding."
 url: "https://ndcompany.in/team/nakshatra-ranjan-saha"
 type: "ProfilePage"
-modified: "2026-11-25T00:00:00+05:30"
+modified: "2026-11-26T00:00:00+05:30"
 image: "https://ndcompany.in/assets/share/team.png"
 ---
 
@@ -39,6 +39,16 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+SEO
+
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
 
 Websites
 
@@ -447,7 +457,7 @@ Send a few lines about your business and what you need. We will reply with quest
         "@id": "https://ndcompany.in/team/nakshatra-ranjan-saha#breadcrumb"
       },
       "inLanguage": "en-IN",
-      "dateModified": "2026-11-25T00:00:00+05:30",
+      "dateModified": "2026-11-26T00:00:00+05:30",
       "mainEntity": {
         "@type": "Person",
         "@id": "https://ndcompany.in/#founder",

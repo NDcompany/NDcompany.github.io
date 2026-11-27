@@ -5,9 +5,22 @@
 <link href="https://ndcompany.in/blogs" rel="alternate" type="text/html"/>
 <link href="https://ndcompany.in/atom.xml" rel="self" type="application/atom+xml"/>
 <id>https://ndcompany.in/blogs</id>
-<updated>2026-11-25T00:00:00+05:30</updated>
+<updated>2026-11-26T00:00:00+05:30</updated>
 <author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
 <icon>https://ndcompany.in/assets/logo/LOGO-LIGHT.png</icon>
+<entry>
+<title>How long does SEO take? What Google says, and our own first weeks</title>
+<link href="https://ndcompany.in/blogs/how-long-does-seo-take" rel="alternate" type="text/html"/>
+<media:content url="https://ndcompany.in/assets/blog/how-long-does-seo-take-16x9.png" medium="image" type="image/png" width="1200" height="675"/>
+<id>https://ndcompany.in/blogs/how-long-does-seo-take</id>
+<published>2026-11-26T00:00:00+05:30</published>
+<updated>2026-11-26T00:00:00+05:30</updated>
+<author><name>Nakshatra Ranjan Saha</name><uri>https://ndcompany.in/team/nakshatra-ranjan-saha</uri></author>
+<category term="seo" label="SEO" scheme="https://ndcompany.in/blogs/topic/"/>
+<category term="google-search-console" label="Google Search Console" scheme="https://ndcompany.in/tags/"/>
+<category term="technical-seo" label="Technical SEO" scheme="https://ndcompany.in/tags/"/>
+<summary>How long SEO takes, from Google's own documentation, an Ahrefs study of a million new pages and our relaunched site's first weeks in Search Console.</summary>
+</entry>
 <entry>
 <title>White label WordPress development: what 16 providers charge and how a build runs</title>
 <link href="https://ndcompany.in/blogs/white-label-wordpress-development" rel="alternate" type="text/html"/>
@@ -233,7 +246,7 @@
 <category term="branding" label="Branding" scheme="https://ndcompany.in/blogs/topic/"/>
 <category term="logos" label="Logos" scheme="https://ndcompany.in/tags/"/>
 <category term="brand-guidelines" label="Brand guidelines" scheme="https://ndcompany.in/tags/"/>
-<summary>We studied the logos of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Restaurant, cafe and eatery logo ideas, with our own examples.</summary>
+<summary>The logos and names of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Logo ideas for a restaurant, cafe or eatery, with our own work.</summary>
 </entry>
 <entry>
 <title>How to choose an SEO agency in India: what 37 agency websites show</title>

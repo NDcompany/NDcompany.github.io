@@ -284,7 +284,7 @@ Google's [guide to hiring an SEO](https://developers.google.com/search/docs/fund
 
 ## Where to start
 
-This week, make the business a verified owner in Search Console, run your home page through URL Inspection to confirm it is indexed and the live test finds no noindex, and submit your sitemap. Then give it time. Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) suggests waiting a few weeks to assess the effect of changes, [Page indexing validation](https://support.google.com/webmasters/answer/7440203) typically takes up to about two weeks, and the [Core Web Vitals report](https://support.google.com/webmasters/answer/9205520) tracks a fix for 28 days. Our guide to how long SEO takes sets out a realistic timeline, and if your business serves a local area, run the [local SEO audit](https://ndcompany.in/blogs/local-seo-audit) next.
+This week, make the business a verified owner in Search Console, run your home page through URL Inspection to confirm it is indexed and the live test finds no noindex, and submit your sitemap. Then give it time. Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) suggests waiting a few weeks to assess the effect of changes, [Page indexing validation](https://support.google.com/webmasters/answer/7440203) typically takes up to about two weeks, and the [Core Web Vitals report](https://support.google.com/webmasters/answer/9205520) tracks a fix for 28 days. Our guide to [how long SEO takes](https://ndcompany.in/blogs/how-long-does-seo-take) sets out a realistic timeline, and if your business serves a local area, run the [local SEO audit](https://ndcompany.in/blogs/local-seo-audit) next.
 
 ## How we work
 
@@ -315,6 +315,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
+SEO
+
 News · 17 Nov 2026
 
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
@@ -332,16 +342,6 @@ Insight · 14 Nov 2026
 Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
 
 Read the post
-
-SEO
-
-Guide · 11 Nov 2026
-
-### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
-
-We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
-
-Read the guide
 
 [More on SEO](https://ndcompany.in/blogs/topic/seo)
 

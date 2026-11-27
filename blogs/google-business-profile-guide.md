@@ -210,7 +210,7 @@ If you hire help, Google's [third-party policies](https://support.google.com/bus
 3. Will you ask before replying to reviews? Google requires explicit approval.
 4. Can I leave easily? Within 7 business days of your notice, the provider must let you disassociate its Google Account from your profile.
 
-Walk away from anyone who guarantees top placement on Google, pretends to be Google through robocalls, threatens that you will lose your profile if you do not sign up, or keeps a profile hostage for money. Google's policies prohibit all four. Our [free SEO audit](https://ndcompany.in/free-seo-audit) is one way to see how a provider works before you hand over any access, and how long SEO takes explains why nobody can promise a date.
+Walk away from anyone who guarantees top placement on Google, pretends to be Google through robocalls, threatens that you will lose your profile if you do not sign up, or keeps a profile hostage for money. Google's policies prohibit all four. Our [free SEO audit](https://ndcompany.in/free-seo-audit) is one way to see how a provider works before you hand over any access, and [how long SEO takes](https://ndcompany.in/blogs/how-long-does-seo-take) explains why nobody can promise a date.
 
 ### Calls that claim to be from Google
 
@@ -268,6 +268,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
+SEO
+
 News · 17 Nov 2026
 
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
@@ -285,16 +295,6 @@ Insight · 14 Nov 2026
 Only 3 in 100 small business websites that let Google in block an AI crawler, and two thirds of those blocks come from one Cloudflare setting. ChatGPT search is blocked by 3 in 1,000.
 
 Read the post
-
-SEO
-
-Guide · 11 Nov 2026
-
-### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
-
-We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
-
-Read the guide
 
 [More on SEO](https://ndcompany.in/blogs/topic/seo)
 

@@ -1,6 +1,6 @@
 ---
-title: "Food Logo Ideas From 50 Restaurant Chains | N&D Co."
-description: "We studied the logos of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Restaurant, cafe and eatery logo ideas, with our own examples."
+title: "Restaurant Chain Logos and Names: 50 Brands | N&D Co."
+description: "The logos and names of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Logo ideas for a restaurant, cafe or eatery, with our own work."
 url: "https://ndcompany.in/blogs/food-restaurant-logo-ideas"
 type: "BlogPosting"
 author: "Nakshatra Ranjan Saha"
@@ -194,7 +194,7 @@ The table behind this post is [a CSV file (restaurant-chain-logos-2026.csv)](htt
 - [Share on Threads](https://www.threads.net/intent/post?text=Food%20logo%20ideas%3A%20what%20the%20logos%20of%2050%20big%20restaurant%20chains%20tell%20a%20small%20food%20business%20https%3A%2F%2Fndcompany.in%2Fblogs%2Ffood-restaurant-logo-ideas)
 - [Share on Bluesky](https://bsky.app/intent/compose?text=Food%20logo%20ideas%3A%20what%20the%20logos%20of%2050%20big%20restaurant%20chains%20tell%20a%20small%20food%20business%20https%3A%2F%2Fndcompany.in%2Fblogs%2Ffood-restaurant-logo-ideas)
 - [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Ffood-restaurant-logo-ideas&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Ffood-restaurant-logo-ideas-16x9.png&description=Food%20logo%20ideas%3A%20what%20the%20logos%20of%2050%20big%20restaurant%20chains%20tell%20a%20small%20food%20business)
-- [Share by email](mailto:?subject=Food%20logo%20ideas%3A%20what%20the%20logos%20of%2050%20big%20restaurant%20chains%20tell%20a%20small%20food%20business&body=We%20studied%20the%20logos%20of%20the%2050%20largest%20restaurant%20chains%3A%2062%25%20use%20red%2C%2034%20are%20lettering%20only.%20Restaurant%2C%20cafe%20and%20eatery%20logo%20ideas%2C%20with%20our%20own%20examples.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Ffood-restaurant-logo-ideas)
+- [Share by email](mailto:?subject=Food%20logo%20ideas%3A%20what%20the%20logos%20of%2050%20big%20restaurant%20chains%20tell%20a%20small%20food%20business&body=The%20logos%20and%20names%20of%20the%2050%20largest%20restaurant%20chains%3A%2062%25%20use%20red%2C%2034%20are%20lettering%20only.%20Logo%20ideas%20for%20a%20restaurant%2C%20cafe%20or%20eatery%2C%20with%20our%20own%20work.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Ffood-restaurant-logo-ideas)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -266,7 +266,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "BlogPosting",
       "@id": "https://ndcompany.in/blogs/food-restaurant-logo-ideas#article",
       "headline": "Food logo ideas: what the logos of 50 big restaurant chains tell a small food business",
-      "description": "We studied the logos of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Restaurant, cafe and eatery logo ideas, with our own examples.",
+      "description": "The logos and names of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Logo ideas for a restaurant, cafe or eatery, with our own work.",
       "image": [
         {
           "@type": "ImageObject",
@@ -315,8 +315,8 @@ Send a few lines about your business and what you are trying to fix. We will rep
       "@type": "WebPage",
       "@id": "https://ndcompany.in/blogs/food-restaurant-logo-ideas#webpage",
       "url": "https://ndcompany.in/blogs/food-restaurant-logo-ideas",
-      "name": "Food Logo Ideas From 50 Restaurant Chains | N&D Co.",
-      "description": "We studied the logos of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Restaurant, cafe and eatery logo ideas, with our own examples.",
+      "name": "Restaurant Chain Logos and Names: 50 Brands | N&D Co.",
+      "description": "The logos and names of the 50 largest restaurant chains: 62% use red, 34 are lettering only. Logo ideas for a restaurant, cafe or eatery, with our own work.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },

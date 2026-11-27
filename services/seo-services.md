@@ -275,6 +275,16 @@ See the project
 
 Guides on the work behind SEO Services.
 
+SEO
+
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
 Business
 
 Guide · 25 Nov 2026
@@ -294,16 +304,6 @@ Guide · 25 Nov 2026
 Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
-
-SEO
-
-News · 17 Nov 2026
-
-### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
-
-Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
-
-Read the post
 
 ## Ready to start?
 

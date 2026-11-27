@@ -212,6 +212,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 SEO
 
+Guide · 26 Nov 2026
+
+### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
+
+SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
+
+Read the guide
+
+SEO
+
 News · 17 Nov 2026
 
 ### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
@@ -227,16 +237,6 @@ Guide · 11 Nov 2026
 ### [White label SEO explained: how agencies resell SEO safely](https://ndcompany.in/blogs/white-label-seo-explained)
 
 We read 16 white label SEO provider websites. 15 offer reports under your brand, 3 publish a monthly price and none says who keeps the client's Google accounts. How the model works and what to put in writing.
-
-Read the guide
-
-SEO
-
-Guide · 6 Nov 2026
-
-### [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
-
-Dollar prices, ranking promises, links sold by count, lock-in contracts and account ownership on 37 Indian SEO agency websites, with a checklist for your first call.
 
 Read the guide
 
