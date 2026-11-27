@@ -1074,6 +1074,38 @@ Blog posts and web copy come as editable Google Docs or Word files with headings
 
 [Content Creation](https://ndcompany.in/services/content-creation#svc-faq)
 
+**Do you write in US or UK English? Content Creation**
+
+Either, or Indian English. Tell us your readers and we follow their spelling and conventions in every piece, and note the choice in your style sheet.
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Content Creation](https://ndcompany.in/services/content-creation#svc-faq)
+
+**Do you use AI to write? Content Creation**
+
+We follow your rule. Some clients want no AI at all; others allow it for research or outlines.
+
+[Read the full answer on the Content Creation page](https://ndcompany.in/services/content-creation#svc-faq)
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Content Creation](https://ndcompany.in/services/content-creation#svc-faq)
+
+**Can I see writing samples? Content Creation**
+
+Yes. Our blog is written the way we write for clients, and the posts under "Read our writing first" on this page are a good start: an original study, a guide and a first-hand story.
+
+[Home](https://ndcompany.in/)
+
+[Services](https://ndcompany.in/services)
+
+[Content Creation](https://ndcompany.in/services/content-creation#svc-faq)
+
 **Will the blog posts rank on Google? Content Creation**
 
 We write each post to a target query, with the headings and meta tags search engines read, and study the pages already ranking so the post covers what readers expect.

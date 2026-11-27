@@ -28,9 +28,9 @@ You came from one of our profiles. Here is where to go next.
 
 ## Latest from the blog
 
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer: 27 Nov 2026](https://ndcompany.in/blogs/outsource-content-writing-india)
 - [How long does SEO take? What Google says, and our own first weeks: 26 Nov 2026](https://ndcompany.in/blogs/how-long-does-seo-take)
 - [White label WordPress development: what 16 providers charge and how a build runs: 25 Nov 2026](https://ndcompany.in/blogs/white-label-wordpress-development)
-- [How to take card payments on a UAE online store, with or without a trade licence: 25 Nov 2026](https://ndcompany.in/blogs/uae-online-store-payments)
 
 [All posts](https://ndcompany.in/blogs)
 

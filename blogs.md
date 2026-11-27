@@ -14,6 +14,16 @@ What we learn building brands, websites and campaigns for businesses across Indi
 
 ## Latest posts
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -406,6 +416,8 @@ Read the guide
 
 ## Recently updated
 
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+  27 Nov 2026
 - [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
   26 Nov 2026
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
@@ -413,8 +425,6 @@ Read the guide
 - [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
   25 Nov 2026
 - [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
-  25 Nov 2026
-- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
 
 ## Trending tags
@@ -512,6 +522,19 @@ Send a few lines about your business and what you want to fix or build. We will 
       },
       "inLanguage": "en-IN",
       "blogPost": [
+        {
+          "@type": "BlogPosting",
+          "@id": "https://ndcompany.in/blogs/outsource-content-writing-india#article",
+          "headline": "Outsourcing content writing to India: what 21 agency websites tell a buyer",
+          "description": "We read Indian content agency websites: 4 of 21 publish a price, 2 name their English, none offers a sample. What to ask and put in writing first.",
+          "image": "https://ndcompany.in/assets/blog/outsource-content-writing-india-16x9.png",
+          "url": "https://ndcompany.in/blogs/outsource-content-writing-india",
+          "datePublished": "2026-11-27T00:00:00+05:30",
+          "dateModified": "2026-11-27T00:00:00+05:30",
+          "author": {
+            "@id": "https://ndcompany.in/#founder"
+          }
+        },
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/how-long-does-seo-take#article",

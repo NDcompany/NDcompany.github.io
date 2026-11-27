@@ -561,6 +561,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -576,16 +586,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 

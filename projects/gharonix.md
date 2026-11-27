@@ -232,6 +232,16 @@ Often at the start, because a script for a 99acres or MagicBricks style site is 
 
 Guides from our blogs on the same kind of work.
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -249,16 +259,6 @@ Guide · 25 Nov 2026
 ### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
 
 What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
-
-Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 

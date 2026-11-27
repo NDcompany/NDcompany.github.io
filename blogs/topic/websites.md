@@ -136,6 +136,8 @@ Read the guide
 
 ## Recently updated
 
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+  27 Nov 2026
 - [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
   26 Nov 2026
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
@@ -143,8 +145,6 @@ Read the guide
 - [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
   25 Nov 2026
 - [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
-  25 Nov 2026
-- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
 
 ## Trending tags

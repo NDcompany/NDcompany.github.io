@@ -16,6 +16,16 @@ Notes on running and growing a business: working with agencies and freelancers, 
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -106,6 +116,8 @@ Read the guide
 
 ## Recently updated
 
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+  27 Nov 2026
 - [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
   26 Nov 2026
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
@@ -113,8 +125,6 @@ Read the guide
 - [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
   25 Nov 2026
 - [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
-  25 Nov 2026
-- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
 
 ## Trending tags
@@ -185,54 +195,60 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Outsourcing content writing to India: what 21 agency websites tell a buyer",
+            "url": "https://ndcompany.in/blogs/outsource-content-writing-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "How to take card payments on a UAE online store, with or without a trade licence",
             "url": "https://ndcompany.in/blogs/uae-online-store-payments"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Got an email from a \"Shopify expert\"? How to check it before you reply",
             "url": "https://ndcompany.in/blogs/shopify-expert-email-offers"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "How much access should you give a developer, SEO or ads agency?",
             "url": "https://ndcompany.in/blogs/agency-access-guide"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How much does app development cost in India? A guide for US and UK buyers",
             "url": "https://ndcompany.in/blogs/app-development-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "The Fiverr fake order scam: a case study of the files, pages and card form",
             "url": "https://ndcompany.in/blogs/fiverr-fake-order-scam"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "NDAs, IP and ownership when you outsource to an agency",
             "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           }

@@ -132,6 +132,16 @@ Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish p
 
 Read the post
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -139,16 +149,6 @@ Guide · 26 Nov 2026
 ### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
 
 SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
-
-Read the guide
-
-Websites
-
-Guide · 25 Nov 2026
-
-### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
-
-What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
 
 Read the guide
 

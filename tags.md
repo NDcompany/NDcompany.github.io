@@ -14,10 +14,12 @@ Every subject our posts and projects cover, most used first, with the posts and 
 
 ## Working with an agency
 
-20 posts
+21 posts
 
 Hiring a designer, developer or agency: what to ask before you pay, what to put in writing and how to keep ownership of your domain, accounts and files.
 
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+  27 Nov 2026
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
   25 Nov 2026
 - [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
@@ -500,6 +502,15 @@ Software that keeps everything about a case in one record, from intake and docum
 - [Case management platform for Bangali Oikya Manch](https://ndcompany.in/projects/bangali-oikya-manch)
   Software
 
+## Content writing
+
+1 post
+
+Buying and judging written content: blog posts and web copy, prices per post, AI use, sources, revisions and who owns the words after payment.
+
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+  27 Nov 2026
+
 ## Data management
 
 1 project
@@ -759,48 +770,54 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 27,
+            "name": "Content writing",
+            "url": "https://ndcompany.in/tags#content-writing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 28,
             "name": "Data management",
             "url": "https://ndcompany.in/tags#data-management"
           },
           {
             "@type": "ListItem",
-            "position": 28,
+            "position": 29,
             "name": "Desktop automation",
             "url": "https://ndcompany.in/tags#desktop-automation"
           },
           {
             "@type": "ListItem",
-            "position": 29,
+            "position": 30,
             "name": "Fonts",
             "url": "https://ndcompany.in/tags#fonts"
           },
           {
             "@type": "ListItem",
-            "position": 30,
+            "position": 31,
             "name": "Microsoft Excel",
             "url": "https://ndcompany.in/tags#microsoft-excel"
           },
           {
             "@type": "ListItem",
-            "position": 31,
+            "position": 32,
             "name": "Online payments",
             "url": "https://ndcompany.in/tags#online-payments"
           },
           {
             "@type": "ListItem",
-            "position": 32,
+            "position": 33,
             "name": "Property portals",
             "url": "https://ndcompany.in/tags#property-portals"
           },
           {
             "@type": "ListItem",
-            "position": 33,
+            "position": 34,
             "name": "Trade marks",
             "url": "https://ndcompany.in/tags#trade-marks"
           },
           {
             "@type": "ListItem",
-            "position": 34,
+            "position": 35,
             "name": "YouTube thumbnails",
             "url": "https://ndcompany.in/tags#youtube-thumbnails"
           }

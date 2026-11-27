@@ -190,9 +190,9 @@ Starting prices in US dollars. Your written quote confirms the final price, its 
 
 | Plan | Per month | Paid yearly | Includes |
 | --- | --- | --- | --- |
-| Starter | $49 | $499 | Content calendar for the month; 4 SEO blog posts a month (1,500 to 1,700 words each); Meta title and description for each piece |
-| Growth | $115 | $1,149 | Everything in STARTER, with 8 SEO blog posts a month (1,500 to 1,700 words each); Website or landing page copy; Social media captions for the month |
-| Custom | from $209 | $2,099 | Volume and mix set to your plan; Product descriptions in bulk; Multi-page website copy |
+| Starter | $199 | $1,999 | Content calendar for the month; 4 SEO blog posts a month (1,500 to 1,700 words each); Meta title and description for each piece |
+| Growth | $449 | $4,499 | Everything in STARTER, with 8 SEO blog posts a month (1,500 to 1,700 words each); Website or landing page copy; Social media captions for the month |
+| Custom | from $799 | $7,999 | Volume and mix set to your plan; Product descriptions in bulk; Multi-page website copy |
 
 [Everything in each Content Creation plan](https://ndcompany.in/services/content-creation#pricing)
 
@@ -463,7 +463,7 @@ Tell us what you need, and we will reply with questions or a written quote.
           },
           "priceSpecification": {
             "@type": "PriceSpecification",
-            "minPrice": 49,
+            "minPrice": 199,
             "priceCurrency": "USD"
           }
         }

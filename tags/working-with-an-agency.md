@@ -22,6 +22,16 @@ Not every enquiry is real. On 5 November 2026 an email offering us a web and SEO
 
 ## Latest posts
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 Websites
 
 Guide · 25 Nov 2026
@@ -224,6 +234,8 @@ Read the guide
 
 ## Recently updated
 
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+  27 Nov 2026
 - [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
   26 Nov 2026
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
@@ -231,8 +243,6 @@ Read the guide
 - [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
   25 Nov 2026
 - [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
-  25 Nov 2026
-- [Your ads report shows a high return but you are losing money: how to check it](https://ndcompany.in/blogs/check-ads-agency-report)
   25 Nov 2026
 
 ## Trending tags
@@ -254,21 +264,21 @@ Read the guide
 
 If you would rather have the work done for you, these are the services that cover it.
 
-### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+### [Content Creation](https://ndcompany.in/services/content-creation)
 
-Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
-
-Learn more
-
-### [E-commerce Solutions](https://ndcompany.in/services/ecommerce-solutions)
-
-Shopify, WooCommerce or custom stores with the catalog, payments, shipping and tax set up and tested before launch.
+SEO blog posts, website copy, product descriptions and social captions, planned in a content calendar.
 
 Learn more
 
 ### [SEO Services](https://ndcompany.in/services/seo-services)
 
 A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
+
+Learn more
+
+### [Website Design & Development](https://ndcompany.in/services/website-design-development)
+
+Business websites, WordPress builds and landing pages, designed for phones first and set up for search before launch.
 
 Learn more
 
@@ -303,120 +313,126 @@ Send a few lines about your business and what you want to fix or build. We will 
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "Outsourcing content writing to India: what 21 agency websites tell a buyer",
+            "url": "https://ndcompany.in/blogs/outsource-content-writing-india"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "White label WordPress development: what 16 providers charge and how a build runs",
             "url": "https://ndcompany.in/blogs/white-label-wordpress-development"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "Got an email from a \"Shopify expert\"? How to check it before you reply",
             "url": "https://ndcompany.in/blogs/shopify-expert-email-offers"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "Your ads report shows a high return but you are losing money: how to check it",
             "url": "https://ndcompany.in/blogs/check-ads-agency-report"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "How much access should you give a developer, SEO or ads agency?",
             "url": "https://ndcompany.in/blogs/agency-access-guide"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "How much does app development cost in India? A guide for US and UK buyers",
             "url": "https://ndcompany.in/blogs/app-development-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "White label SEO explained: how agencies resell SEO safely",
             "url": "https://ndcompany.in/blogs/white-label-seo-explained"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "NDAs, IP and ownership when you outsource to an agency",
             "url": "https://ndcompany.in/blogs/outsourcing-nda-ip-ownership"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Shopify development in India: what partners charge, from Shopify's own directory",
             "url": "https://ndcompany.in/blogs/shopify-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "How do you hire a WordPress developer in India? What 30 agency websites show",
             "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "How to choose an SEO agency in India: what 37 agency websites show",
             "url": "https://ndcompany.in/blogs/choose-seo-agency-india"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "name": "The Quatgio email: a fake client brief that ends at a fake Google sign-in",
             "url": "https://ndcompany.in/blogs/quatgio-scam-email"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 13,
             "name": "Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs",
             "url": "https://ndcompany.in/blogs/bilingual-websites-dubai"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 14,
             "name": "What do Google Play and the App Store require from a business app in 2026?",
             "url": "https://ndcompany.in/blogs/play-store-app-store-requirements"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 15,
             "name": "How much does SEO cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/seo-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 16,
             "name": "What Indian agencies charge in 2026: prices from 108 agency websites",
             "url": "https://ndcompany.in/blogs/agency-prices-india"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 17,
             "name": "How to outsource web development to India: costs, contracts and time zones",
             "url": "https://ndcompany.in/blogs/outsource-web-development-india"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 18,
             "name": "How much does a website cost in India in 2026?",
             "url": "https://ndcompany.in/blogs/website-cost-india"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
             "name": "How to plan a business website before you hire anyone",
             "url": "https://ndcompany.in/blogs/plan-a-business-website"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 20,
             "name": "Logo vs brand identity: what you are paying for",
             "url": "https://ndcompany.in/blogs/logo-vs-brand-identity"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 21,
             "name": "Google Business Profile: a setup and upkeep guide for local businesses",
             "url": "https://ndcompany.in/blogs/google-business-profile-guide"
           }

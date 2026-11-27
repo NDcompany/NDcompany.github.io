@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (64 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the blogs hub, topics, tags, posts and the team (65 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/blogs</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/seo</loc>
@@ -23,15 +23,15 @@
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/topic/business</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/working-with-an-agency</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tags/logos</loc>
@@ -95,7 +95,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/team/nakshatra-ranjan-saha</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/nakshatra-ranjan-saha.webp</image:loc>
     </image:image>
@@ -106,6 +106,10 @@
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/team/ayaz-ahmad.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/blogs/outsource-content-writing-india</loc>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/blogs/how-long-does-seo-take</loc>

@@ -1,6 +1,6 @@
 # N&D Co.
 
-> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (128 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
+> Brand and growth agency in Barrackpore, Kolkata, India. This file is the full text of the site's main pages, generated from the same build as the site (131 pages). /llms.txt is the short index of every page; each page is also available alone as Markdown at its address plus .md (/index.md for the homepage).
 
 # We build brands that convert
 
@@ -1001,6 +1001,16 @@ See the project
 
 Guides on the work behind SEO Services.
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -1018,16 +1028,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -4046,11 +4046,11 @@ Send a few lines about your business and we will reply with questions or a quote
 
 SEO and social content
 
-# Content marketing and SEO copywriting in Kolkata, for websites and social media
+# SEO copywriting and content writing services for websites and social media
 
 Source: https://ndcompany.in/services/content-creation
 
-We are a content marketing agency in Kolkata. We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
+We are a content marketing agency in Kolkata, India, writing for businesses in India and abroad. We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal in US, UK or Indian English, edited and delivered ready to publish.
 
 [Get a quote](https://ndcompany.in/?service=content-creation#contact)
 
@@ -4061,6 +4061,40 @@ We are a content marketing agency in Kolkata. We write the blog posts, web pages
 Content Creation at N&D Co. is a content marketing and writing service for the text a business publishes online. It includes SEO blog posts, website copy and landing pages, product descriptions, and captions for social media. Each piece is planned on a content calendar, written for a defined reader and search intent, and delivered as an editable document with headings, meta title and meta description. It is for businesses that need regular content without an in-house writer. N&D Co. is based in Barrackpore, Kolkata, and works with clients worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
+
+## Read our writing first
+
+Every post on our blog is written the way we write for clients: researched from primary sources, every claim linked to where it came from, and edited before it goes out. Three to read before you hire us: an original study, a guide and a first-hand story.
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+SEO
+
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
+
+Websites
+
+News · 5 Nov 2026
+
+### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+
+A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+
+Read the post
 
 ## What changes for your business
 
@@ -4102,6 +4136,14 @@ E-commerce descriptions written from your product data, with a short and a long 
 
 Captions and hashtag sets for the posts in your calendar, written to fit the platform and your graphics.
 
+### US, UK or Indian English
+
+We write in the English your readers use and keep its spelling, dates and units the same in every piece, from color or colour to the date format.
+
+### Sources for every claim
+
+Every figure, quote and fact links to the page it came from, preferably the primary source, such as official documentation or the original study, and we check each one before delivery.
+
 ### Editing and revisions
 
 Every piece is proofread before it reaches you. Typical projects include two to three revision rounds per piece, tracked in the shared document.
@@ -4116,7 +4158,7 @@ Annual billing (2 months free)
 
 STARTER
 
-$49
+$199
 
 / per month
 
@@ -4138,7 +4180,7 @@ Popular
 
 GROWTH
 
-$115
+$449
 
 / per month
 
@@ -4162,7 +4204,7 @@ CUSTOM
 
 From
 
-$209
+$799
 
 / per month
 
@@ -4208,11 +4250,12 @@ You send notes in the document and we revise within the agreed rounds. Final fil
 ## Who this is for
 
 - Businesses in Kolkata, across India and worldwide with a website but nobody with time to write for it.
+- Businesses in the US, UK, Europe and the UAE that want researched English content on a fixed calendar, quoted in writing before work starts.
 - E-commerce stores with hundreds of products that need descriptions written to one consistent format.
 - Service businesses running Google Ads or social campaigns that need landing pages and captions written to the campaign.
 - Businesses comparing content marketing companies that want research, writing and editing from one team on a fixed calendar.
 - Marketing managers who want blog output on a fixed schedule from a writer who follows their brand guidelines.
-- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
+- Agencies that resell this work under their own name: see our [white label content writing](https://ndcompany.in/white-label/content-writing) page.
 
 ## Frequently asked questions
 
@@ -4231,6 +4274,18 @@ A list of your website pages, any brand guidelines or past content you like, pro
 **What format is the content delivered in, and who owns it?**
 
 Blog posts and web copy come as editable Google Docs or Word files with headings, meta title and meta description in place. Product descriptions come as a spreadsheet for bulk upload. Ownership of the final content transfers to you once the invoice is paid in full.
+
+**Do you write in US or UK English?**
+
+Either, or Indian English. Tell us your readers and we follow their spelling and conventions in every piece, and note the choice in your style sheet.
+
+**Do you use AI to write?**
+
+We follow your rule. Some clients want no AI at all; others allow it for research or outlines. Either way, every fact is checked against its source and every piece is edited before it reaches you, and we never deliver unedited AI text.
+
+**Can I see writing samples?**
+
+Yes. Our blog is written the way we write for clients, and the posts under "Read our writing first" on this page are a good start: an original study, a guide and a first-hand story.
 
 **Will the blog posts rank on Google?**
 
@@ -4299,6 +4354,16 @@ See the project
 ## From our blogs
 
 Guides on the work behind Content Creation.
+
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
 
 SEO
 
@@ -5584,9 +5649,9 @@ Starting prices in US dollars. Your written quote confirms the final price, its 
 
 | Plan | Per month | Paid yearly | Includes |
 | --- | --- | --- | --- |
-| Starter | $49 | $499 | Content calendar for the month; 4 SEO blog posts a month (1,500 to 1,700 words each); Meta title and description for each piece |
-| Growth | $115 | $1,149 | Everything in STARTER, with 8 SEO blog posts a month (1,500 to 1,700 words each); Website or landing page copy; Social media captions for the month |
-| Custom | from $209 | $2,099 | Volume and mix set to your plan; Product descriptions in bulk; Multi-page website copy |
+| Starter | $199 | $1,999 | Content calendar for the month; 4 SEO blog posts a month (1,500 to 1,700 words each); Meta title and description for each piece |
+| Growth | $449 | $4,499 | Everything in STARTER, with 8 SEO blog posts a month (1,500 to 1,700 words each); Website or landing page copy; Social media captions for the month |
+| Custom | from $799 | $7,999 | Volume and mix set to your plan; Product descriptions in bulk; Multi-page website copy |
 
 [Everything in each Content Creation plan](https://ndcompany.in/services/content-creation#pricing)
 
@@ -6122,7 +6187,7 @@ Bij het Business-pakket zitten hosting en domeinnaam het eerste jaar bij de prij
 
 ## Ook in het Nederlands
 
-[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6278,7 +6343,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6431,7 +6496,7 @@ Een logo is het herkenningsteken van je bedrijf. Een huisstijl is het systeem er
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6584,7 +6649,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6746,7 +6811,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -6912,7 +6977,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -7103,7 +7168,7 @@ Je ziet het ontwerp voordat we bouwen, en je hebt twee tot drie correctierondes 
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -7250,7 +7315,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -7399,7 +7464,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -7548,7 +7613,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -7695,7 +7760,7 @@ Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindpr
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -7893,7 +7958,7 @@ Met een ingevuld Google Bedrijfsprofiel, reviews van klanten en een pagina per d
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -8073,7 +8138,7 @@ Ja. Een boekings- of reserveringssysteem, eventueel met een online betaalmogelij
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -8253,7 +8318,7 @@ Ja. Bij elk websitepakket zit drie maanden SEO van ons. Daarna kun je SEO afneme
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -8437,7 +8502,7 @@ De content voor je site schrijven we in het Nederlands. We zijn geen moedertaals
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -8629,7 +8694,7 @@ Technische verbeteringen pikt Google meestal binnen een paar weken op. Hogere po
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -8813,7 +8878,170 @@ Nee. Google kijkt naar je website, je Google Bedrijfsprofiel en je reviews, niet
 
 ## Ook in het Nederlands
 
-[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen)
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven)
+
+## Benieuwd wat het voor jou kost?
+
+Vertel ons wat je nodig hebt, dan sturen we je een paar vragen of meteen een schriftelijke offerte.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+---
+
+Engelse teksten laten schrijven
+
+# Engelse teksten laten schrijven voor je website en blog
+
+Source: https://ndcompany.in/nl/engelse-teksten-laten-schrijven
+
+Verkoop je ook buiten Nederland? Wij schrijven Engelse teksten voor Nederlandse bedrijven: blogartikelen, websiteteksten, landingspagina's en productbeschrijvingen, in Brits of Amerikaans Engels. We werken op afstand vanuit Kolkata, India, en al ons werk is in het Engels.
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+[Bekijk de prijzen](https://ndcompany.in/nl/engelse-teksten-laten-schrijven#pricing)
+
+## Wat kost het?
+
+Engelse teksten laten schrijven kost bij ons € 189 per maand voor een contentkalender en 4 Engelse SEO-blogartikelen van 1.500 tot 1.700 woorden, € 429 per maand voor 8 artikelen plus website- of landingspaginateksten en teksten voor sociale media, en vanaf € 749 per maand voor maatwerk, zoals productbeschrijvingen in bulk. We schrijven alleen in het Engels, niet in het Nederlands.
+
+## Pakketten en prijzen
+
+Startprijzen in euro. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+Starter
+
+€ 189
+
+per maand
+
+schriftelijke offerte vooraf · maandelijks
+
+- Contentkalender voor de maand
+- 4 Engelse SEO-blogartikelen per maand (1.500 tot 1.700 woorden per stuk)
+- Metatitel en metabeschrijving per stuk
+- Twee correctierondes per stuk
+- Bewerkbare Google Docs- of Word-bestanden
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Growth
+
+€ 429
+
+per maand
+
+schriftelijke offerte vooraf · maandelijks
+
+- Alles uit Starter, met 8 SEO-blogartikelen per maand (1.500 tot 1.700 woorden per stuk)
+- Tekst voor je website of een landingspagina
+- Teksten voor sociale media per maand
+- Een stijlgids voor je merk, door ons bijgehouden
+- Suggesties voor interne links per artikel
+- Twee tot drie correctierondes per stuk
+- Maandoverzicht met onderwerpsuggesties
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+Custom
+
+Vanaf
+
+€ 749
+
+per maand
+
+schriftelijke offerte vooraf · maandelijks
+
+- Omvang en samenstelling volgens jouw plan
+- Productbeschrijvingen in bulk
+- Teksten voor een hele website
+- Landingspagina's per campagne
+- Afstemming met onze SEO- en socialemediadiensten
+- Vooraf afgesproken correctierondes per soort tekst
+
+---
+
+[Offerte aanvragen](https://ndcompany.in/#contact)
+
+## Zo werken we
+
+### Briefing
+
+Je vertelt ons wie je klanten in het buitenland zijn, wat je verkoopt, welke pagina's of onderwerpen het belangrijkst zijn en welke toon je wilt. Stuur je huisstijl, bestaande teksten en eventueel zoekwoordonderzoek mee.
+
+### Plan en offerte
+
+We stellen een maandelijks aantal teksten, een kalender en een vast maandbedrag voor, en leggen de omvang en de correctierondes vast in een schriftelijke offerte.
+
+### Onderzoek
+
+Per tekst bekijken we de zoekresultaten voor het zoekwoord en wat je concurrenten publiceren. Voor langere artikelen krijg je eerst een opzet ter goedkeuring.
+
+### Schrijven en redigeren
+
+We schrijven volgens de goedgekeurde opzet, redigeren de tekst, controleren elk feit bij de bron en leveren op de afgesproken data.
+
+### Correcties en oplevering
+
+Je plaatst opmerkingen in het document en wij passen de tekst aan binnen de afgesproken rondes. Je krijgt bewerkbare bestanden.
+
+## Goed om te weten
+
+### Prijzen en btw
+
+Alle prijzen zijn startprijzen in euro. Wij zijn gevestigd in India en rekenen geen btw. Bij zakelijke klanten is de btw verlegd: zij geven die zelf aan. Voor particulieren is de getoonde prijs de totaalprijs. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+### Betalen
+
+Je betaalt in euro via PayPal, Wise of een bankoverschrijving. We beginnen na een aanbetaling van 50%; de rest betaal je voor de oplevering.
+
+### Taal en voorwaarden
+
+We werken in het Engels: offertes, gesprekken en oplevering. Onze algemene voorwaarden zijn ook in het Engels.
+
+### Bedenktijd voor particulieren
+
+Sluit je als particulier een overeenkomst met ons, dan heb je 14 dagen bedenktijd. Hoe je de overeenkomst herroept, staat op onze pagina over het herroepingsrecht, met het modelformulier.
+
+### Eigendom
+
+Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+Lees ook de [informatie over het herroepingsrecht en het modelformulier](https://ndcompany.in/nl/herroepingsrecht), onze [algemene voorwaarden](https://ndcompany.in/terms) (Engels) en meer over deze dienst [in het Engels](https://ndcompany.in/services/content-creation).
+
+## Veelgestelde vragen
+
+**Wat kost het om Engelse teksten te laten schrijven?**
+
+Dat kost bij ons € 189 per maand voor 4 Engelse SEO-blogartikelen met een contentkalender, € 429 per maand voor 8 artikelen plus website- en socialemediateksten, en vanaf € 749 per maand voor maatwerk. Je definitieve prijs staat in een schriftelijke offerte voordat we beginnen.
+
+**Schrijven jullie Brits of Amerikaans Engels?**
+
+Allebei. We volgen de spelling van je lezers, bijvoorbeeld colour of color, en leggen die keuze vast in je stijlgids.
+
+**Vertalen jullie mijn Nederlandse teksten?**
+
+Nee, we schrijven nieuwe teksten direct in het Engels, op basis van je briefing en een gesprek met jou. Je bestaande teksten kunnen als achtergrondinformatie dienen.
+
+**Gebruiken jullie AI?**
+
+We houden ons aan jouw wensen. Sommige klanten willen helemaal geen AI, andere klanten staan het toe voor onderzoek of een opzet. In alle gevallen controleren we elk feit bij de bron en redigeren we elke tekst voordat je hem ontvangt.
+
+**Kan ik eerst iets van jullie lezen?**
+
+Ja. Onze eigen Engelse artikelen schrijven we met dezelfde zorg als de teksten voor klanten. Op onze Engelse pagina over contentcreatie staan drie artikelen om mee te beginnen.
+
+**Van wie zijn de teksten?**
+
+Van jou. Zodra je volledig hebt betaald, worden de in je offerte genoemde eindproducten jouw eigendom.
+
+## Ook in het Nederlands
+
+[Website laten maken](https://ndcompany.in/nl/website-laten-maken) · [Webshop laten maken](https://ndcompany.in/nl/webshop-laten-maken) · [Logo laten ontwerpen](https://ndcompany.in/nl/logo-laten-ontwerpen) · [Huisstijl laten maken](https://ndcompany.in/nl/huisstijl-laten-maken) · [Website vernieuwen](https://ndcompany.in/nl/website-vernieuwen) · [WordPress-website laten maken](https://ndcompany.in/nl/wordpress-website-laten-maken) · [Maatwerkwebsite laten maken](https://ndcompany.in/nl/maatwerk-website-laten-maken) · [Dashboard laten maken](https://ndcompany.in/nl/dashboard-laten-maken) · [Brandbook laten maken](https://ndcompany.in/nl/brandbook-laten-maken) · [Software op maat laten maken](https://ndcompany.in/nl/software-op-maat-laten-maken) · [Social media video laten maken](https://ndcompany.in/nl/social-media-video-laten-maken) · [Website voor aannemers](https://ndcompany.in/nl/aannemer-website-laten-maken) · [Website laten maken in Friesland](https://ndcompany.in/nl/website-laten-maken-friesland) · [Website laten maken in Zoetermeer](https://ndcompany.in/nl/website-laten-maken-zoetermeer) · [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer) · [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen) · [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal)
 
 ## Benieuwd wat het voor jou kost?
 
@@ -8883,7 +9111,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Mobile apps are custom apps only, built for your client and published in your client's own Google Play and App Store accounts. Every quote is set in writing before work starts.
 
-These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## How it works
 
@@ -8930,7 +9158,7 @@ Starting prices for agencies, including the NDA, unbranded files and reports, an
 | [SEO Services](https://ndcompany.in/services/seo-services) | per month | Starter: $199 | Growth: $359 | Custom: $599 |
 | [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing) | per month | Starter: $149 | Growth: $289 | Custom: $599 |
 | [Social Media Management](https://ndcompany.in/services/social-media-management) | per month | Starter: $119 | Growth: $289 | Custom: $599 |
-| [Content Creation](https://ndcompany.in/services/content-creation) | per month | Starter: $79 | Growth: $179 | Custom: $319 |
+| [Content Creation](https://ndcompany.in/services/content-creation) | per month | Starter: $299 | Growth: $679 | Custom: $1,199 |
 | [Software Development](https://ndcompany.in/services/software-development) | per project | Starter: $449 | Business: $1,199 | Custom: $2,399 |
 | [Mobile App Development](https://ndcompany.in/services/mobile-app-development) | per project | Starter: $1,429 | Business: $3,599 | Custom: $8,399 |
 | [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions) | per project | Identity: $479 | Launch: $709 | Custom: $899 |
@@ -9023,7 +9251,7 @@ We run SEO for your clients under your agency's name: the audit, on-page fixes, 
 
 White label SEO from us costs from $199 a month per client, or from $149 for a one-off audit. It is the same work as our own SEO packages, with your agency's name on the deliverables instead of ours. Each client starts with an audit, then runs month to month on a scope set in writing, and you can end it with 30 days' notice. You can also buy audits on their own, from $149 each.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## What you can resell
 
@@ -9218,7 +9446,7 @@ We run Google Ads and Meta ads campaigns for your clients under your agency's na
 
 Our white-label PPC is the same work as our own digital marketing packages, with your agency's name on the reports instead of ours. Campaigns run in ad accounts that belong to your client, and ads go live only after you approve the copy and creative. Each client runs month to month on a scope set in writing, and you can end it with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## What you can resell
 
@@ -9358,7 +9586,7 @@ We design and build websites and online stores for your clients under your agenc
 
 Our white-label web development is the same work as our own website and e-commerce projects. You send the brief and your client's brand files, we design and build to them, and you hand the site over as your own. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## What you can resell
 
@@ -9491,7 +9719,7 @@ We design and build Android and iOS apps for your clients under your agency's na
 
 Our white-label app development is the same work as our own mobile app projects, from $1,429 for agencies. You send the brief, we design the screens and review them with you, build in stages and share a working build at each one, and you show your client every step as your own. Apps are custom builds only, never a template app, and each project is quoted in writing before work starts.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## What you can resell
 
@@ -9631,7 +9859,7 @@ We design logos, brand identities and marketing graphics for your clients under 
 
 Our white-label design is the same work as our own logo, brand identity, graphic design and full branding projects, with your agency's name on the presentation instead of ours. You send the brief, we present the concepts to you, and you show them to your client as your own. Each project is quoted in writing before work starts, including the number of revision rounds.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## What you can resell
 
@@ -9766,7 +9994,7 @@ We build WordPress sites and WooCommerce stores for your clients under your agen
 
 Our white-label WordPress work is the same as our own WordPress builds. You send the brief and your client's brand files, we design and build to them, and your client gets an admin login to change pages, posts and media without a developer. Each project is quoted in writing before work starts, with a 7-day support window after delivery.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## What you can resell
 
@@ -9899,7 +10127,7 @@ We build Shopify stores for your clients under your agency's name, then run thei
 
 Our white-label Shopify work is the same as our own e-commerce, SEO and digital marketing work, with your agency's name on everything instead of ours. You send the brief and your client's brand files, we build and test the store, and you hand it over as your own. Store builds are quoted per project with a 7-day support window after delivery; SEO and ads run month to month on a scope set in writing, and you can end them with 30 days' notice.
 
-Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design) and [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress).
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## What you can resell
 
@@ -10012,6 +10240,146 @@ Yes, under your agency's name. Both run month to month on a scope set in writing
 **What happens after launch?**
 
 A 7-day support window covers minor corrections and technical issues in the delivered store. Ongoing maintenance is available as a separate package, also white label.
+
+**Where is the team, and how do we work across time zones?**
+
+We are in Barrackpore, Kolkata, India. We keep part of our evening for calls in US mornings and send written updates between calls.
+
+## Have a project for a client?
+
+Send the brief and your NDA, and we will reply with questions or a written quote.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+---
+
+White label content writing
+
+# White label content writing services for agencies
+
+Source: https://ndcompany.in/white-label/content-writing
+
+We write blog posts, website copy, landing pages and product descriptions for your clients under your agency's name. Nothing we deliver names N&D Co., and we never contact your client.
+
+[Send a brief](https://ndcompany.in/#contact)
+
+[See agency prices](https://ndcompany.in/white-label/content-writing#wl-prices)
+
+## White label content writing, the way we run it
+
+White label content writing from us costs from $299 a month per client, for a content calendar and 4 SEO blog posts of 1,500 to 1,700 words. It is the same work as our own content service, with your agency's name on the deliverables instead of ours: you approve the topics, we research each piece from primary sources and link every claim to where it came from, and we edit it in the US, UK or Indian English your client's readers use. Each client's volume and fee are set in writing before work starts.
+
+Every other service is available white label too: see [white label for agencies](https://ndcompany.in/white-label), [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+
+## What you can resell
+
+### Content calendar
+
+A monthly plan listing every piece, its target keyword or campaign goal, publish date and status, shared as a spreadsheet or in your project tool, with your agency's name or none.
+
+### SEO blog posts
+
+Long-form articles researched against the search results for the target query, with heading structure, internal link suggestions, meta title and meta description: 4 a month on Starter, 8 on Growth, or as your brief sets.
+
+### Website and landing page copy
+
+Home, about, service and campaign pages written from your brief, structured section by section for your client's developer.
+
+### Product descriptions
+
+A short and a long version per product from your client's product data, in one consistent format, as a spreadsheet for bulk import.
+
+### Social media captions
+
+Captions and hashtag sets for the posts in the calendar, written to fit the platform and the graphics.
+
+### A style sheet per client
+
+We read what your client has published, write a one-page style sheet for its voice and check every piece against it.
+
+### Sources and editing
+
+Every figure, quote and fact links to the page it came from, and every piece is proofread before it reaches you, with two revision rounds per piece on Starter.
+
+## How it works
+
+### You send the brief
+
+Tell us what your client needs: the service, the scope, the deadline and anything already agreed with them. Send your NDA first if you want it signed before you share details.
+
+### We quote in writing
+
+You get a written quote in US dollars from the agency prices below, with the scope and the delivery time, before any work starts.
+
+### We do the work, you stay the face
+
+We work only with you. Files, drafts and reports carry your agency's name or none, and we never contact your client or appear in their tools under our own name.
+
+### You review, then hand over
+
+You see every draft and decide what goes to your client. Ownership of the final deliverables named in your quote passes to you once it is paid in full.
+
+## Your client never sees us
+
+### Your NDA, signed
+
+We sign your non-disclosure agreement before you share anything about your client.
+
+### No N&D Co. name anywhere
+
+No credit in the code, the site footer, the files or the reports, which can carry your agency's branding. We never show the work in our portfolio unless you agree in writing.
+
+### No contact with your client
+
+We talk to you, not to them. If you want us on a client call, we join as part of your team.
+
+## White label content writing pricing
+
+Starting prices for agencies, including the NDA, unbranded files and reports, and calls in US hours. Your final price is set in a written quote before work starts.
+
+**Agency starting prices per service, in US dollars**
+
+| Service | Billed | First tier | Second tier | Top tier |
+| --- | --- | --- | --- | --- |
+| [Content Creation](https://ndcompany.in/services/content-creation) | per month | Starter: $299 | Growth: $679 | Custom: $1,199 |
+
+What each tier includes is listed on the service page: [Content Creation pricing](https://ndcompany.in/services/content-creation#pricing).
+
+## Working with a US agency
+
+### Calls in your morning
+
+We keep part of our evening in India free for calls during US morning hours.
+
+### Written updates
+
+Between calls you get written progress updates, so nothing waits on a meeting.
+
+### Paid in US dollars
+
+Invoices are in US dollars, paid by PayPal, through Wise or by bank transfer.
+
+## Frequently asked questions
+
+**Will our client see your name anywhere?**
+
+No. Drafts come as Google Docs or Word files with no name of ours in the text, the file or its details, and we can work under an email address you choose. If you publish through your client's site, we use the access you arrange for us.
+
+**Do you use AI to write?**
+
+We follow your rule, or your client's. Some agencies want no AI at all; others allow it for research or outlines. Either way, every fact is checked against its source and every piece is edited before it reaches you, and we never deliver unedited AI text.
+
+**Do you write in US or UK English?**
+
+Either, or Indian English. We follow your client's readers in spelling, dates and units, and note the choice in the client's style sheet.
+
+**Can we read your writing before we buy?**
+
+Yes. Our own blog is written the way we write for clients, and our content service page picks three posts to start with: an original study, a guide and a first-hand story. [See our writing samples](https://ndcompany.in/services/content-creation).
+
+**Do you guarantee rankings?**
+
+No. We write each post to a target query and study the pages already ranking, but rankings also depend on the site's authority, technical setup and competition, so we do not promise positions.
 
 **Where is the team, and how do we work across time zones?**
 
@@ -10444,7 +10812,7 @@ Team
 # Nakshatra Ranjan Saha
 
 Source: https://ndcompany.in/team/nakshatra-ranjan-saha
-Updated: 2026-11-26
+Updated: 2026-11-27
 
 - CEO
 - Founder
@@ -10474,6 +10842,16 @@ Nakshatra Ranjan Saha also writes open-source software, published on GitHub as [
 The blogs are where N&D Co. shares what it learns: quick tips, longer guides and insights for business owners. Technical claims link to the documentation they come from, most often Google's own. Guides by topic: [SEO](https://ndcompany.in/blogs/topic/seo), [websites](https://ndcompany.in/blogs/topic/websites) and [branding](https://ndcompany.in/blogs/topic/branding). Questions about an article: [hello@ndcompany.in](mailto:hello@ndcompany.in).
 
 ## Articles by Nakshatra Ranjan Saha
+
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
 
 SEO
 
@@ -11162,6 +11540,16 @@ Often at the start, because a script for a 99acres or MagicBricks style site is 
 
 Guides from our blogs on the same kind of work.
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -11179,16 +11567,6 @@ Guide · 25 Nov 2026
 ### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
 
 What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
-
-Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
@@ -11539,6 +11917,16 @@ Yes, if their buyers use WhatsApp. The click-to-chat link takes any number in in
 
 Guides from our blogs on the same kind of work.
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -11556,16 +11944,6 @@ Guide · 25 Nov 2026
 ### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
 
 What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
-
-Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
 
 Read the guide
 
@@ -15830,6 +16208,204 @@ Our [software development](https://ndcompany.in/services/software-development) s
 
 ---
 
+[Business](https://ndcompany.in/blogs/topic/business) · Guide
+
+# Outsourcing content writing to India: what 21 agency websites tell a buyer
+
+Source: https://ndcompany.in/blogs/outsource-content-writing-india
+Updated: 2026-11-27
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+By [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha), CEO & Founder Published 27 November 2026 9 min read
+
+To outsource content writing to India, you need answers that most agency websites do not give: the price per post, the English they write in, how they use AI and who owns the words once you have paid. On 27 November 2026 we read the websites of 27 agencies on Semrush's directory for content marketing in India. 21 sell content writing. Only 4 of those 21 publish any price, 2 say which English they write, 3 say anything about who owns the content, and none offers a sample piece.
+
+Key takeaways
+
+- 4 of the 21 agencies that sell writing publish a price: $0.02 to $0.06 a word at one, monthly packages from $150 at another, "from $299" a month at a third, and $4,500 to $24,000+ a month at an enterprise firm. None prices a single blog post.
+- 8 say something about AI, and they disagree: "100% human written" at one end, AI drafts delivered "with or without humanization" at the other. Ask which you are buying.
+- 2 say they write in native or British English. The other 19 leave it to you to ask.
+- 3 mention ownership. Two say the client owns the content, and one keeps it and gives the client a licence. 18 say nothing, so put the transfer in writing.
+- None offers a free sample or trial piece, and one says outright that it does not. Ask for published work you can check.
+
+This is the writing version of a question we have already looked at for code. If you are weighing India for a website or software as well, start with our guide to [outsourcing web development to India](https://ndcompany.in/blogs/outsource-web-development-india).
+
+## How we did the study
+
+We used [Semrush's Agency Partners list for content marketing in India](https://agencies.semrush.com/list/content-marketing/india/) as it showed on 27 November 2026. It has one page of 26 profiles. We left out one profile that belongs to a single consultant, not an agency, which leaves 25. Semrush's [content production list for India](https://agencies.semrush.com/list/content-production/india/) has 17 profiles, and 15 of them were already on the first list, so it added 2. That makes 27 agencies. Two of them show an address outside India on Semrush, but describe themselves as Indian or give an Indian address on their own sites, so we kept them.
+
+For each agency we read its own website only: the content writing, copywriting and blog pages, pricing, FAQs, about pages and terms. We copied each claim word for word with the page it came from, and checked every quote in this post against the live page on the same day. Of the 27, 21 sell content writing, though at two of them it is a single line on a broader marketing page. The other 6 sell branding, software or marketing strategy without writing. The figures below are out of those 21.
+
+The study records what agencies say about themselves. It does not measure how well they write, and an agency that says nothing about ownership may still hand it over without trouble. It covers one directory, not every agency in India. We do not name any agency, and the rows in our data file are numbered, not named.
+
+## What do Indian content agencies publish about themselves?
+
+Mostly the SEO extras. 19 of the 21 say their writing comes with keyword research, meta titles or internal links. The things a buyer abroad needs to compare two agencies are far rarer.
+
+What 21 Indian agencies that sell content writing say on their own websites, number of agencies
+
+**What 21 Indian agencies that sell content writing say on their own websites, number of agencies**
+
+| Category | Value |
+| --- | --- |
+| Include SEO work with the writing | 19 |
+| Say how they use AI, or that they do not | 8 |
+| Mention revisions | 7 |
+| Mention sources or expert review | 6 |
+| Mention a plagiarism check | 5 |
+| Publish a price for writing | 4 |
+| State a delivery time | 3 |
+| Say who owns the content | 3 |
+| Say which English they write | 2 |
+| Offer a sample or trial piece | 0 |
+
+*21 agencies that sell content writing, from Semrush's content marketing and content production lists for India. Each is described by its own website. Source: N&D Co. survey of 27 agency websites, 27 November 2026.*
+
+Read the bottom of the chart first. A price, a delivery time, the English variant, ownership and a sample are what you need to compare two offers, and each is published by 4 agencies or fewer. You will get them only by asking, so the second half of this post is a list of what to ask.
+
+## How much does content writing from India cost?
+
+The published prices are too few to give a typical rate. Here is all of them:
+
+**Every content writing price published by the 21 agencies, as shown on 27 November 2026**
+
+| Agency | Price as published | What it covers |
+| --- | --- | --- |
+| A | $0.02 to $0.06 a word | Priced by word count, not by package |
+| B | $150, $320 and $450 a month | 4, 8 or 16 blog posts of 500 words a month, the same number of 700-word articles, plus guest posts, press releases and short keyword descriptions |
+| C | From $299 a month | A custom package; no volumes given |
+| D | $4,500 to $8,000, $9,500 to $16,000 and $17,500 to $24,000+ a month | Enterprise B2B content, from 6 to 8 long pieces a month up to 25+ |
+
+At a word rate of $0.02 to $0.06, a 1,500-word blog post would cost $30 to $90 before any extras. That is our arithmetic, not a quote from the agency. The monthly packages are harder to compare, because they bundle different lengths and extras: agency B's plans count 500-word blog posts and 700-word articles together with guest posts and press releases.
+
+When you ask for quotes, ask each agency for the same thing: the price of one post of a stated length, with the research, the editing and the number of revisions spelled out. Then you are comparing like with like.
+
+## Do Indian content agencies use AI?
+
+Some do, some say they do not, and most do not say. 8 of the 21 address it, and their positions run the full range. One says its content is "100% human written" and uses AI only as a reference. Another says it does not use AI to write at all. Another sells two products side by side, an AI-assisted draft edited by a writer and a fully human one. One says AI drafts are used for speed, but you will never receive "raw, unreviewed AI output". And one says AI-generated content "can be delivered with or without humanization".
+
+Google does not object to AI as such. Its [guidance on AI-generated content](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content) says it focuses on the quality of content, not how it is produced, and that using AI mainly to manipulate rankings breaks its spam policies. So the real question is not "AI or no AI". It is who checks the facts, who adds what only your business knows, and whether you are told which process you are paying for. Agree your rule in writing, whatever it is. If your pages also need to be quoted by AI assistants, our guide to [writing content AI search can cite](https://ndcompany.in/blogs/optimize-content-for-llms) covers what helps.
+
+## Will they write US or UK English?
+
+Only 2 of the 21 say. One promises native English-speaking writers, and one has a desk for British English and another for Canadian English. The rest are silent, which does not mean they cannot do it, only that you have to ask.
+
+The difference is more than color or colour. Dates, units, currency, legal terms and even common words differ between US, UK and Australian readers. Name your market in the brief, ask for a style sheet that records the choice, and check the first piece for the small things: date formats, spelling of the same word across pages and whether prices carry the right symbol.
+
+## Who owns the content after you pay?
+
+18 of the 21 agencies do not say. Of the 3 that do, two say the client owns the content (one of them only once every fee is paid), and the third says in its terms that its content stays its own intellectual property "unless otherwise agreed", with a limited licence for the client. One of the two that promise ownership says so on its blog writing page, but its terms of use speak only of web design and code. Read the terms, not only the sales page.
+
+Indian law makes this matter. Under the [Copyright Act, 1957](https://copyright.gov.in/Documents/Copyright_Act_1957.pdf), the agency is normally the first owner of what its employed writers produce (section 17), and a transfer to you has to be in writing (section 19). If the assignment states no period, the Act reads it as five years; if it names no territory, it presumes India. A line such as "all rights pass to the client on payment" can leave a business in London or New York with less than it thinks. We explain the clauses to ask for, and the US and UK rules, in [outsourcing, NDAs and who owns the work](https://ndcompany.in/blogs/outsourcing-nda-ip-ownership). It is not legal advice, so have a lawyer in your own country read the contract.
+
+## Can you see a sample first?
+
+Not from the websites. None of the 21 offers a sample or a trial piece, and one says it will share past work but does "not offer free demos/sample content writing". That is a fair position: a custom sample is real work. But it means you should judge an agency on writing you can check.
+
+Ask for three published pieces in a field close to yours, with the live links. Read one closely: does it answer the question in its title early, are its numbers linked to a source, and would someone in your trade find a mistake? Then commission one paid piece before a monthly plan. One post costs little next to six months of the wrong writer.
+
+## What should you put in writing before you hire?
+
+1. Price per piece and length. The price of one post of a stated word count, and what a month includes.
+2. Research and sources. Whether every figure and claim links to where it came from, and who checks them.
+3. AI. Whether it may be used, for what, and who edits and checks the result.
+4. English variant and style. US, UK or another market, recorded in a style sheet the writers follow.
+5. Revisions. How many rounds per piece, and what counts as a revision rather than a rewrite.
+6. Delivery dates. When drafts arrive, and what happens when one is late.
+7. Originality. A plagiarism check before delivery, and the tool used.
+8. Ownership. Which content you own on full payment, for how long and where, signed before work starts.
+9. Confidentiality. An NDA if the brief includes anything private.
+10. Access. If the agency publishes for you, its own named login on your site, never yours.
+
+If you use an agency for SEO as well as writing, the same questions apply to the rest of the work. We ran similar checks on SEO firms in [how to choose an SEO agency in India](https://ndcompany.in/blogs/choose-seo-agency-india).
+
+## The data
+
+The rows for all 27 agencies are in [a CSV file (content-writing-india-2026.csv)](https://ndcompany.in/assets/data/content-writing-india-2026.csv): whether each sells content writing, what kind of price it publishes and whether it states its English variant, its use of AI, a plagiarism check, sources or expert review, revisions, ownership, a delivery time, samples and SEO work. Agencies are numbered, not named. If you use the figures, please link to this page as the source.
+
+## How we write for clients abroad
+
+We are a brand and growth agency in Kolkata, and writing is one of our [content and SEO copywriting services](https://ndcompany.in/services/content-creation). We publish our starting prices, write in US, UK or Indian English as your readers need, link every claim to its source and follow your rule on AI. The service page picks three of our own posts as writing samples, so you can judge the writing before you write to us. Agencies that want content for their clients, delivered under their own name, can read our [white label content writing](https://ndcompany.in/white-label/content-writing) page. We make no promise about rankings, and a call costs you nothing.
+
+- [Content writing](https://ndcompany.in/tags#content-writing)
+- [Working with an agency](https://ndcompany.in/tags/working-with-an-agency)
+
+## Share this post
+
+- [Share on X](https://twitter.com/intent/tweet?text=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india&via=NDCoofficial)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india)
+- [Share on WhatsApp](https://wa.me/?text=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india&text=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india&title=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer)
+- [Share on Threads](https://www.threads.net/intent/post?text=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer%20https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Foutsource-content-writing-india-16x9.png&description=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer)
+- [Share by email](mailto:?subject=Outsourcing%20content%20writing%20to%20India%3A%20what%2021%20agency%20websites%20tell%20a%20buyer&body=We%20read%20Indian%20content%20agency%20websites%3A%204%20of%2021%20publish%20a%20price%2C%202%20name%20their%20English%2C%20none%20offers%20a%20sample.%20What%20to%20ask%20and%20put%20in%20writing%20first.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Foutsource-content-writing-india)
+
+[Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
+
+CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nakshatra has worked in SEO since July 2025 and writes our guides on SEO, websites and branding.
+
+## Keep reading
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
+
+Shopify Payments, Stripe and most UAE gateways ask for a trade licence. We compare ten providers, the licence routes, mada, Apple Pay and the new dirham sign.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
+
+New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
+
+Read the guide
+
+Business
+
+Guide · 25 Nov 2026
+
+### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
+
+Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
+
+Read the guide
+
+[More on Business](https://ndcompany.in/blogs/topic/business)
+
+## How we can help
+
+If you would rather have this handled for you, these are the services that cover it.
+
+### [Content Creation](https://ndcompany.in/services/content-creation)
+
+SEO blog posts, website copy, product descriptions and social captions, planned in a content calendar.
+
+Learn more
+
+### [SEO Services](https://ndcompany.in/services/seo-services)
+
+A technical audit, keyword research, on-page fixes, content and link building, with a report on what changed each month.
+
+Learn more
+
+## Have a question about your own business?
+
+Send a few lines about your business and what you are trying to fix. We will reply with questions or a quote.
+
+[Get in touch](https://ndcompany.in/#contact)
+
+---
+
 [SEO](https://ndcompany.in/blogs/topic/seo) · Guide
 
 # How long does SEO take? What Google says, and our own first weeks
@@ -16457,6 +17033,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
@@ -16472,16 +17058,6 @@ Guide · 25 Nov 2026
 ### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
 Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
-
-Read the guide
-
-Business
-
-Guide · 24 Nov 2026
-
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
-
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
 
 Read the guide
 
@@ -16676,6 +17252,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -16691,16 +17277,6 @@ Guide · 25 Nov 2026
 ### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
 
 Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
-
-Read the guide
-
-Business
-
-Guide · 24 Nov 2026
-
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
-
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
 
 Read the guide
 
@@ -16856,6 +17432,16 @@ Twelve restaurant ad ideas for Instagram, Facebook and Google, from a one-dish p
 
 Read the post
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -16863,16 +17449,6 @@ Guide · 26 Nov 2026
 ### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
 
 SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
-
-Read the guide
-
-Websites
-
-Guide · 25 Nov 2026
-
-### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
-
-What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
 
 Read the guide
 
@@ -17029,6 +17605,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -17044,16 +17630,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 24 Nov 2026
-
-### [How much does app development cost in India? A guide for US and UK buyers](https://ndcompany.in/blogs/app-development-cost-india)
-
-Our starting prices, what 22 Indian agencies publish, official US and UK developer pay, and the costs after launch: store fees, backend, SMS, maps, commissions and yearly updates.
 
 Read the guide
 
@@ -17290,6 +17866,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -17305,16 +17891,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -18758,6 +19334,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -18773,16 +19359,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -19493,6 +20069,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -19508,16 +20094,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -19714,6 +20290,16 @@ ROAS is revenue divided by ad cost, counted by each platform's own rules. Here i
 
 Read the guide
 
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
 SEO
 
 Guide · 26 Nov 2026
@@ -19721,16 +20307,6 @@ Guide · 26 Nov 2026
 ### [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take)
 
 SEO takes months, not weeks. Here is what Google itself says about crawling, indexing and core updates, what a study of a million new pages found, and what our own new site saw in its first three weeks.
-
-Read the guide
-
-Websites
-
-Guide · 25 Nov 2026
-
-### [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development)
-
-What 16 white label WordPress providers publish about prices, staging, NDAs and plugin licences, plus the checks to run before you resell a site as your own.
 
 Read the guide
 
@@ -21462,6 +22038,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -21477,16 +22063,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -22585,6 +23161,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -22600,16 +23186,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -22856,6 +23432,16 @@ CEO & Founder of N&D Co., a brand and growth agency in Barrackpore, Kolkata. Nak
 
 Business
 
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
+
+Business
+
 Guide · 25 Nov 2026
 
 ### [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments)
@@ -22871,16 +23457,6 @@ Guide · 25 Nov 2026
 ### [Got an email from a "Shopify expert"? How to check it before you reply](https://ndcompany.in/blogs/shopify-expert-email-offers)
 
 New Shopify stores get cold offers within a day. How to tell a real partner from a scam, share access safely, and where to report one.
-
-Read the guide
-
-Business
-
-Guide · 25 Nov 2026
-
-### [How much access should you give a developer, SEO or ads agency?](https://ndcompany.in/blogs/agency-access-guide)
-
-Give each person their own login with the lowest role that does the job, keep the owner role yourself and never share a password. Here is the right role on each platform, from its own help pages, and how to remove it when the work ends.
 
 Read the guide
 
@@ -26948,9 +27524,9 @@ You came from one of our profiles. Here is where to go next.
 
 ## Latest from the blog
 
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer: 27 Nov 2026](https://ndcompany.in/blogs/outsource-content-writing-india)
 - [How long does SEO take? What Google says, and our own first weeks: 26 Nov 2026](https://ndcompany.in/blogs/how-long-does-seo-take)
 - [White label WordPress development: what 16 providers charge and how a build runs: 25 Nov 2026](https://ndcompany.in/blogs/white-label-wordpress-development)
-- [How to take card payments on a UAE online store, with or without a trade licence: 25 Nov 2026](https://ndcompany.in/blogs/uae-online-store-payments)
 
 [All posts](https://ndcompany.in/blogs)
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- N&D Co. sitemap: the homepage, the FAQ, the tools we use and the legal pages (44 URLs). Built by scripts/prerender.mjs. -->
+<!-- N&D Co. sitemap: the homepage, the FAQ, the tools we use and the legal pages (46 URLs). Built by scripts/prerender.mjs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ndcompany.in/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <image:image>
       <image:loc>https://ndcompany.in/assets/images/growth-trust.svg</image:loc>
     </image:image>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://ndcompany.in/faq</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/tools-we-use</loc>
@@ -34,123 +34,131 @@
   </url>
   <url>
     <loc>https://ndcompany.in/about</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/pricing</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/restaurant-marketing</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/shopify-marketing</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/webshop-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/logo-laten-ontwerpen</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/huisstijl-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-vernieuwen</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/wordpress-website-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/maatwerk-website-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/dashboard-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/brandbook-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/software-op-maat-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/social-media-video-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/aannemer-website-laten-maken</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken-friesland</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/website-laten-maken-zoetermeer</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/seo-bureau-zoetermeer</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/seo-bureau-nijmegen</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/seo-roosendaal</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/nl/engelse-teksten-laten-schrijven</loc>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/nl/herroepingsrecht</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/seo</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/google-ads</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/web-development</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/app-development</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/design</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/wordpress</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/white-label/shopify</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://ndcompany.in/white-label/content-writing</loc>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://ndcompany.in/terms</loc>

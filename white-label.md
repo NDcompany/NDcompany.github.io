@@ -20,7 +20,7 @@ We do the work and you sell it under your agency's name: websites, SEO, branding
 
 N&D Co. is a brand and growth agency in Barrackpore, Kolkata, West Bengal, India. Every service on this site is also available white label: you agree the brief and the price with your client, we build or run the work to your brief, and you hand it over as your own. Mobile apps are custom apps only, built for your client and published in your client's own Google Play and App Store accounts. Every quote is set in writing before work starts.
 
-These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress) and [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify).
+These services have pages of their own: [white label SEO services](https://ndcompany.in/white-label/seo), [PPC outsourcing: white label Google Ads and Meta ads management](https://ndcompany.in/white-label/google-ads), [white label web development and design](https://ndcompany.in/white-label/web-development), [white label mobile app development](https://ndcompany.in/white-label/app-development), [white label logo, branding and graphic design](https://ndcompany.in/white-label/design), [white label WordPress development, from India](https://ndcompany.in/white-label/wordpress), [white label Shopify development and marketing, from India](https://ndcompany.in/white-label/shopify) and [white label content writing services](https://ndcompany.in/white-label/content-writing).
 
 ## How it works
 
@@ -67,7 +67,7 @@ Starting prices for agencies, including the NDA, unbranded files and reports, an
 | [SEO Services](https://ndcompany.in/services/seo-services) | per month | Starter: $199 | Growth: $359 | Custom: $599 |
 | [Digital Marketing & Performance Marketing](https://ndcompany.in/services/digital-marketing) | per month | Starter: $149 | Growth: $289 | Custom: $599 |
 | [Social Media Management](https://ndcompany.in/services/social-media-management) | per month | Starter: $119 | Growth: $289 | Custom: $599 |
-| [Content Creation](https://ndcompany.in/services/content-creation) | per month | Starter: $79 | Growth: $179 | Custom: $319 |
+| [Content Creation](https://ndcompany.in/services/content-creation) | per month | Starter: $299 | Growth: $679 | Custom: $1,199 |
 | [Software Development](https://ndcompany.in/services/software-development) | per project | Starter: $449 | Business: $1,199 | Custom: $2,399 |
 | [Mobile App Development](https://ndcompany.in/services/mobile-app-development) | per project | Starter: $1,429 | Business: $3,599 | Custom: $8,399 |
 | [Full Branding Solutions](https://ndcompany.in/services/full-branding-solutions) | per project | Identity: $479 | Launch: $709 | Custom: $899 |
@@ -243,7 +243,7 @@ Send the brief and your NDA, and we will reply with questions or a written quote
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "minPrice": 79,
+              "minPrice": 299,
               "priceCurrency": "USD"
             }
           },

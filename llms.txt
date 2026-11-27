@@ -33,6 +33,7 @@ Every page below is also available as Markdown: add .md to its address (https://
 ## Blogs
 
 - [Blogs](https://ndcompany.in/blogs): Insights, quick tips and plain guides from N&D Co., a brand and growth agency in Kolkata, on branding, websites, SEO and marketing for growing businesses.
+- [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india): We read Indian content agency websites: 4 of 21 publish a price, 2 name their English, none offers a sample. What to ask and put in writing first.
 - [How long does SEO take? What Google says, and our own first weeks](https://ndcompany.in/blogs/how-long-does-seo-take): How long SEO takes, from Google's own documentation, an Ahrefs study of a million new pages and our relaunched site's first weeks in Search Console.
 - [White label WordPress development: what 16 providers charge and how a build runs](https://ndcompany.in/blogs/white-label-wordpress-development): We read the sites of 16 white label WordPress providers: what they charge, how staging works, who holds plugin licences, and what to check before you resell.
 - [How to take card payments on a UAE online store, with or without a trade licence](https://ndcompany.in/blogs/uae-online-store-payments): Which payment gateways accept UAE online stores, what licence each asks for, Apple Pay and mada for GCC buyers, VAT and the new dirham symbol.
@@ -161,6 +162,7 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [White label Shopify development for agencies](https://ndcompany.in/white-label/shopify): Shopify stores built to an agency's brief, plus Shopify SEO and ads, unbranded, with agency prices.
 - [White label design for agencies](https://ndcompany.in/white-label/design): logos, brand identities, guidelines, print and social graphics designed for an agency's clients, unbranded with editable source files, under the agency's NDA, with agency prices in US dollars.
 - [White label app development for agencies](https://ndcompany.in/white-label/app-development): custom Android and iOS apps built to an agency's brief and published in its client's own store accounts, unbranded, with agency prices in US dollars.
+- [White label content writing for agencies](https://ndcompany.in/white-label/content-writing): SEO blog posts, website copy and product descriptions written for an agency's clients under its brand, every claim sourced, with agency prices in US dollars.
 - [Tools we use](https://ndcompany.in/tools-we-use): the design, video, development, SEO and AI tools behind the work, and how each is used.
 - [Terms of service](https://ndcompany.in/terms): how we quote, bill, revise and hand over work, and what you own after full payment.
 - [Privacy policy](https://ndcompany.in/privacy): what personal data the site and our work collect, why, who else handles it and your rights.
@@ -194,4 +196,5 @@ Subjects shared by the blogs and the projects; each tag page lists both.
 - [SEO-bureau Zoetermeer](https://ndcompany.in/nl/seo-bureau-zoetermeer): SEO voor bedrijven in Zoetermeer: lokale SEO naast de concurrentie uit Den Haag en Rotterdam, linkbuilding zonder gekochte links, vanaf € 199 per maand.
 - [SEO-bureau Nijmegen](https://ndcompany.in/nl/seo-bureau-nijmegen): SEO-bureau en SEO-specialist voor Nijmegen, ook voor de zorg: een audit, vast werk per maand en blogartikelen in het Nederlands, vanaf € 199 per maand.
 - [SEO Roosendaal](https://ndcompany.in/nl/seo-roosendaal): SEO voor bedrijven in Roosendaal met klanten aan beide kanten van de grens: audit, on-page SEO, Nederlandse content en een maandrapport, vanaf € 199 per maand.
+- [Engelse teksten laten schrijven](https://ndcompany.in/nl/engelse-teksten-laten-schrijven): Engelse teksten laten schrijven voor je website en blog: 4 Engelse SEO-artikelen per maand vanaf € 189, in Brits of Amerikaans Engels, met bronnen.
 - [Herroepingsrecht](https://ndcompany.in/nl/herroepingsrecht): bedenktijd van 14 dagen voor particulieren en het modelformulier voor herroeping.

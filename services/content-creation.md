@@ -1,6 +1,6 @@
 ---
-title: "Content Marketing & SEO Copywriting Agency Kolkata | N&D Co."
-description: "Content marketing and SEO copywriting by N&D Co., Kolkata: blog posts, website copy, landing pages, product descriptions and captions on a monthly calendar."
+title: "SEO Copywriting Agency & Content Writing Services | N&D Co."
+description: "SEO copywriting and content writing: blog posts, website copy, landing pages and product descriptions in US or UK English, every claim sourced."
 url: "https://ndcompany.in/services/content-creation"
 type: "Service"
 image: "https://ndcompany.in/assets/share/content-creation.png"
@@ -8,9 +8,9 @@ image: "https://ndcompany.in/assets/share/content-creation.png"
 
 SEO and social content
 
-# Content marketing and SEO copywriting in Kolkata, for websites and social media
+# SEO copywriting and content writing services for websites and social media
 
-We are a content marketing agency in Kolkata. We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal, edited and delivered ready to publish.
+We are a content marketing agency in Kolkata, India, writing for businesses in India and abroad. We write the blog posts, web pages, product descriptions and social captions your business needs each month, on a schedule agreed in advance. Every piece is researched, written to a keyword or campaign goal in US, UK or Indian English, edited and delivered ready to publish.
 
 [Get a quote](https://ndcompany.in/?service=content-creation#contact)
 
@@ -21,6 +21,40 @@ We are a content marketing agency in Kolkata. We write the blog posts, web pages
 Content Creation at N&D Co. is a content marketing and writing service for the text a business publishes online. It includes SEO blog posts, website copy and landing pages, product descriptions, and captions for social media. Each piece is planned on a content calendar, written for a defined reader and search intent, and delivered as an editable document with headings, meta title and meta description. It is for businesses that need regular content without an in-house writer. N&D Co. is based in Barrackpore, Kolkata, and works with clients worldwide.
 
 A short video with music and no speech. Its on-screen text repeats the copy on this page.
+
+## Read our writing first
+
+Every post on our blog is written the way we write for clients: researched from primary sources, every claim linked to where it came from, and edited before it goes out. Three to read before you hire us: an original study, a guide and a first-hand story.
+
+Websites
+
+Insight · 11 Nov 2026
+
+### [How accessible are US small business websites? A study of 385 sites](https://ndcompany.in/blogs/small-business-website-accessibility-study)
+
+87% of 385 US small business homepages we tested had a serious or critical accessibility failure. The most common errors by industry, what each means, how to fix it and what the ADA says.
+
+Read the post
+
+SEO
+
+News · 17 Nov 2026
+
+### [Google's November 2026 core update: what is happening and what to do](https://ndcompany.in/blogs/google-core-update-november-2026)
+
+Google's November 2026 core update finished on 24 November. What Google says, what 51 pages claim, how to check a drop, and what recovery offers cost.
+
+Read the post
+
+Websites
+
+News · 5 Nov 2026
+
+### [The Quatgio email: a fake client brief that ends at a fake Google sign-in](https://ndcompany.in/blogs/quatgio-scam-email)
+
+A "vendor sourcing" firm offered us a US client, answered our reply in 2 minutes 34 seconds, and sent a booking link that ends at a page made to look like Google sign-in.
+
+Read the post
 
 ## What changes for your business
 
@@ -62,6 +96,14 @@ E-commerce descriptions written from your product data, with a short and a long 
 
 Captions and hashtag sets for the posts in your calendar, written to fit the platform and your graphics.
 
+### US, UK or Indian English
+
+We write in the English your readers use and keep its spelling, dates and units the same in every piece, from color or colour to the date format.
+
+### Sources for every claim
+
+Every figure, quote and fact links to the page it came from, preferably the primary source, such as official documentation or the original study, and we check each one before delivery.
+
 ### Editing and revisions
 
 Every piece is proofread before it reaches you. Typical projects include two to three revision rounds per piece, tracked in the shared document.
@@ -76,7 +118,7 @@ Annual billing (2 months free)
 
 STARTER
 
-$49
+$199
 
 / per month
 
@@ -98,7 +140,7 @@ Popular
 
 GROWTH
 
-$115
+$449
 
 / per month
 
@@ -122,7 +164,7 @@ CUSTOM
 
 From
 
-$209
+$799
 
 / per month
 
@@ -168,11 +210,12 @@ You send notes in the document and we revise within the agreed rounds. Final fil
 ## Who this is for
 
 - Businesses in Kolkata, across India and worldwide with a website but nobody with time to write for it.
+- Businesses in the US, UK, Europe and the UAE that want researched English content on a fixed calendar, quoted in writing before work starts.
 - E-commerce stores with hundreds of products that need descriptions written to one consistent format.
 - Service businesses running Google Ads or social campaigns that need landing pages and captions written to the campaign.
 - Businesses comparing content marketing companies that want research, writing and editing from one team on a fixed calendar.
 - Marketing managers who want blog output on a fixed schedule from a writer who follows their brand guidelines.
-- Agencies that resell this work under their own name: see our [white label](https://ndcompany.in/white-label) page.
+- Agencies that resell this work under their own name: see our [white label content writing](https://ndcompany.in/white-label/content-writing) page.
 
 ## Frequently asked questions
 
@@ -191,6 +234,18 @@ A list of your website pages, any brand guidelines or past content you like, pro
 **What format is the content delivered in, and who owns it?**
 
 Blog posts and web copy come as editable Google Docs or Word files with headings, meta title and meta description in place. Product descriptions come as a spreadsheet for bulk upload. Ownership of the final content transfers to you once the invoice is paid in full.
+
+**Do you write in US or UK English?**
+
+Either, or Indian English. Tell us your readers and we follow their spelling and conventions in every piece, and note the choice in your style sheet.
+
+**Do you use AI to write?**
+
+We follow your rule. Some clients want no AI at all; others allow it for research or outlines. Either way, every fact is checked against its source and every piece is edited before it reaches you, and we never deliver unedited AI text.
+
+**Can I see writing samples?**
+
+Yes. Our blog is written the way we write for clients, and the posts under "Read our writing first" on this page are a good start: an original study, a guide and a first-hand story.
 
 **Will the blog posts rank on Google?**
 
@@ -259,6 +314,16 @@ See the project
 ## From our blogs
 
 Guides on the work behind Content Creation.
+
+Business
+
+Guide · 27 Nov 2026
+
+### [Outsourcing content writing to India: what 21 agency websites tell a buyer](https://ndcompany.in/blogs/outsource-content-writing-india)
+
+We read the websites of 27 agencies on Semrush's India content lists. Of the 21 that sell writing, 4 publish a price, 3 mention ownership and none offers a sample, so here is what to ask.
+
+Read the guide
 
 SEO
 
@@ -334,8 +399,8 @@ Send a few lines about your business and we will reply with questions or a quote
       "@type": "WebPage",
       "@id": "https://ndcompany.in/services/content-creation#webpage",
       "url": "https://ndcompany.in/services/content-creation",
-      "name": "Content Marketing & SEO Copywriting Agency Kolkata | N&D Co.",
-      "description": "Content marketing and SEO copywriting by N&D Co., Kolkata: blog posts, website copy, landing pages, product descriptions and captions on a monthly calendar.",
+      "name": "SEO Copywriting Agency & Content Writing Services | N&D Co.",
+      "description": "SEO copywriting and content writing: blog posts, website copy, landing pages and product descriptions in US or UK English, every claim sourced.",
       "isPartOf": {
         "@id": "https://ndcompany.in/#website"
       },
