@@ -11,7 +11,7 @@ image: "https://ndcompany.in/assets/blog/hire-wordpress-developer-india-16x9.png
 
 [Websites](https://ndcompany.in/blogs/topic/websites) · Guide
 
-# How do you hire a WordPress developer in India? What 30 agency websites show
+# Hire a WordPress developer in India: what 30 agency websites show
 
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
@@ -140,16 +140,16 @@ We are a brand and growth agency in Kolkata. Our [website design and development
 
 ## Share this post
 
-- [Share on X](https://twitter.com/intent/tweet?text=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&via=NDCoofficial)
+- [Share on X](https://twitter.com/intent/tweet?text=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show&url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&via=NDCoofficial)
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
 - [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
-- [Share on WhatsApp](https://wa.me/?text=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
-- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&text=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show)
-- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&title=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show)
-- [Share on Threads](https://www.threads.net/intent/post?text=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
-- [Share on Bluesky](https://bsky.app/intent/compose?text=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
-- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fhire-wordpress-developer-india-16x9.png&description=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show)
-- [Share by email](mailto:?subject=How%20do%20you%20hire%20a%20WordPress%20developer%20in%20India%3F%20What%2030%20agency%20websites%20show&body=We%20read%2030%20Indian%20agency%20websites%3A%2022%20offer%20WordPress%2C%204%20publish%20an%20hourly%20rate%2C%208%20say%20you%20own%20the%20code.%20What%20to%20ask%20and%20put%20in%20writing%20before%20you%20hire.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
+- [Share on WhatsApp](https://wa.me/?text=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&text=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&title=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show)
+- [Share on Threads](https://www.threads.net/intent/post?text=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
+- [Share on Bluesky](https://bsky.app/intent/compose?text=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show%20https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
+- [Share on Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india&media=https%3A%2F%2Fndcompany.in%2Fassets%2Fblog%2Fhire-wordpress-developer-india-16x9.png&description=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show)
+- [Share by email](mailto:?subject=Hire%20a%20WordPress%20developer%20in%20India%3A%20what%2030%20agency%20websites%20show&body=We%20read%2030%20Indian%20agency%20websites%3A%2022%20offer%20WordPress%2C%204%20publish%20an%20hourly%20rate%2C%208%20say%20you%20own%20the%20code.%20What%20to%20ask%20and%20put%20in%20writing%20before%20you%20hire.%0A%0Ahttps%3A%2F%2Fndcompany.in%2Fblogs%2Fhire-wordpress-developer-india)
 
 [Nakshatra Ranjan Saha](https://ndcompany.in/team/nakshatra-ranjan-saha)
 
@@ -220,7 +220,7 @@ Send a few lines about your business and what you are trying to fix. We will rep
     {
       "@type": "BlogPosting",
       "@id": "https://ndcompany.in/blogs/hire-wordpress-developer-india#article",
-      "headline": "How do you hire a WordPress developer in India? What 30 agency websites show",
+      "headline": "Hire a WordPress developer in India: what 30 agency websites show",
       "description": "We read 30 Indian agency websites: 22 offer WordPress, 4 publish an hourly rate, 8 say you own the code. What to ask and put in writing before you hire.",
       "image": [
         {

@@ -273,7 +273,7 @@ Google review
 
 Adrija Rivu
 
-6 days ago
+a week ago
 
 ## From our blogs
 

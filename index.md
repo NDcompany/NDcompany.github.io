@@ -292,7 +292,7 @@ Google review
 
 Mumtaj Ahmad
 
-6 days ago
+a week ago
 
 Google review
 
@@ -324,7 +324,7 @@ Google review
 
 Adrija Rivu
 
-6 days ago
+a week ago
 
 Google review
 

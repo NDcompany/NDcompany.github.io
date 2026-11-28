@@ -286,7 +286,7 @@ Google review
 
 Mumtaj Ahmad
 
-6 days ago
+a week ago
 
 Google review
 

@@ -36,7 +36,7 @@ Hiring a designer, developer or agency: what to ask before you pay, what to put 
   11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+- [Hire a WordPress developer in India: what 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
   7 Nov 2026
 - [How to choose an SEO agency in India: what 37 agency websites show](https://ndcompany.in/blogs/choose-seo-agency-india)
   6 Nov 2026
@@ -113,7 +113,7 @@ What a website costs to build and run: design and development, domains, hosting,
   20 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+- [Hire a WordPress developer in India: what 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
   7 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026
@@ -173,7 +173,7 @@ Decisions to settle before anyone designs or builds your site: its one job, its 
   11 Nov 2026
 - [Shopify development in India: what partners charge, from Shopify's own directory](https://ndcompany.in/blogs/shopify-development-india)
   7 Nov 2026
-- [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+- [Hire a WordPress developer in India: what 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
   7 Nov 2026
 - [Arabic websites in Dubai: what 40 agencies offer, and what bilingual costs](https://ndcompany.in/blogs/bilingual-websites-dubai)
   5 Nov 2026

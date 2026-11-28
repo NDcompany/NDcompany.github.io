@@ -265,7 +265,7 @@ Google review
 
 Adrija Rivu
 
-6 days ago
+a week ago
 
 ## Frequently asked questions
 

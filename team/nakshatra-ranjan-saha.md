@@ -214,7 +214,7 @@ Websites
 
 Guide · 7 Nov 2026
 
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+### [Hire a WordPress developer in India: what 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
 
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 

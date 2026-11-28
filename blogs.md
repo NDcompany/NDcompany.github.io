@@ -188,7 +188,7 @@ Websites
 
 Guide · 7 Nov 2026
 
-### [How do you hire a WordPress developer in India? What 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
+### [Hire a WordPress developer in India: what 30 agency websites show](https://ndcompany.in/blogs/hire-wordpress-developer-india)
 
 We read the websites of 30 Indian web development agencies. Only 4 publish an hourly rate and only 8 say you own the code, so here is what to ask and put in writing.
 
@@ -721,7 +721,7 @@ Send a few lines about your business and what you want to fix or build. We will 
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/restaurant-ad-ideas#article",
           "headline": "12 restaurant ad examples and ideas, with food ads from our own work",
-          "description": "One dish, one price, one button: 12 restaurant ad ideas with eight food ads our team designed, the image sizes Meta and Google recommend, and a checklist.",
+          "description": "Restaurant advertisement examples: eight food ads our team designed, 12 ideas for Instagram, Facebook and Google, image sizes and a checklist.",
           "image": "https://ndcompany.in/assets/blog/restaurant-ad-ideas-16x9.png",
           "url": "https://ndcompany.in/blogs/restaurant-ad-ideas",
           "datePublished": "2026-11-11T00:00:00+05:30",
@@ -746,7 +746,7 @@ Send a few lines about your business and what you want to fix or build. We will 
         {
           "@type": "BlogPosting",
           "@id": "https://ndcompany.in/blogs/hire-wordpress-developer-india#article",
-          "headline": "How do you hire a WordPress developer in India? What 30 agency websites show",
+          "headline": "Hire a WordPress developer in India: what 30 agency websites show",
           "description": "We read 30 Indian agency websites: 22 offer WordPress, 4 publish an hourly rate, 8 say you own the code. What to ask and put in writing before you hire.",
           "image": "https://ndcompany.in/assets/blog/hire-wordpress-developer-india-16x9.png",
           "url": "https://ndcompany.in/blogs/hire-wordpress-developer-india",
